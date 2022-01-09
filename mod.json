@@ -11,13 +11,18 @@
             "AddToDB": true
         },
         {
+            "Type": "ChassisDef",
+            "Path": "chassis",
+            "AddToDB": true
+        },
+        {
             "Type": "UpgradeDef",
             "Path": "upgrades",
             "AddToDB": true
         },
         {
-            "Type": "ChassisDef",
-            "Path": "chassis",
+            "Type": "WeaponDef",
+            "Path": "weapons",
             "AddToDB": true
         }
     ]

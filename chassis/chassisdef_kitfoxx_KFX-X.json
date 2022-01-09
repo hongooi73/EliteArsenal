@@ -5,10 +5,10 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Kitfox X",
+        "UIName": "Kit Fox X",
         "Id": "chassisdef_kitfoxx_KFX-X",
-        "Name": "Kitfox X",
-        "Details": "The Kit Fox X is built for speed.",
+        "Name": "Kit Fox X",
+        "Details": "The Kit Fox X is a light, fast mech destroyer. With MASC to increase its walking and running speeds, and a massive COIL-L weapon system that can wreck even the most well-protected target, this is a mech to be respected.",
         "Icon": "uixTxrIcon_kitfox"
     },
     "FixedEquipment": [],
@@ -219,5 +219,5 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout",
-    "YangsThoughts": "People joke about that COIL, but it will hurt you if it hits. Your best bet is to close the range as fast as you can."
+    "YangsThoughts": "People make jokes about that COIL, but it will hurt you if it hits. Your best bet is to close the range as fast as you can."
 }

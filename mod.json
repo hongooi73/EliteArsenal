@@ -4,6 +4,16 @@
     "Version": "0.0.1",
     "Description": "Adds elite versions of Expanded Arsenal mechs",
     "Author": "Hong Ooi",
+    "DependsOn": [
+        "Expanded Arsenal"
+    ],
+    "OptionallyDependsOn": [
+        "AdvancedWeapons",
+        "More Guns",
+        "More Lazerz",
+        "More Rokkits",
+        "Extreme Weapons"
+    ],
     "Manifest": [
         {
             "Type": "MechDef",

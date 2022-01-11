@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Nova",
+        "UIName": "Nova X",
         "Id": "chassisdef_novax_NVA-X2",
-        "Name": "Nova",
+        "Name": "Nova X",
         "Details": "The Nova X2 is an improved version of the regular Nova laserboat. Clan technicians have managed to extract even more damage from its multiple medium lasers, while reducing its heat generation.",
         "Icon": "uixTxrIcon_nova"
     },

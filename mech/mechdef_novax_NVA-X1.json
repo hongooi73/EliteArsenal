@@ -74,9 +74,9 @@
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
-        "UIName": "Nova",
+        "UIName": "Nova X",
         "Id": "mechdef_novax_NVA-X1",
-        "Name": "Nova",
+        "Name": "Nova X",
         "Details": "The Nova X1 is a dedicated mech disabler.",
         "Icon": "uixTxrIcon_nova"
     },

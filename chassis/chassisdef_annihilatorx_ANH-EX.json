@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Annihilator",
+        "UIName": "Annihilator X",
         "Id": "chassisdef_annihilatorx_ANH-EX",
-        "Name": "Annihilator",
+        "Name": "Annihilator X",
         "Details": "Where the original Annihilator 1A carries four powerful autocannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.",
         "Icon": "uixTxrIcon_annihilator"
     },

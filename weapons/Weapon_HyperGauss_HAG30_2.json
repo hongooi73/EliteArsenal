@@ -35,9 +35,9 @@
         "Purchasable": true,
         "Manufacturer": "Clan Tech",
         "Model": "Rotary Magnetic Cannon",
-        "UIName": "HAG/30",
+        "UIName": "HAG/30 + +",
         "Id": "Weapon_HyperGauss_HAG30_2",
-        "Name": "Hyper-Assault Gauss Rifle",
+        "Name": "Hyper-Assault Gauss Rifle + +",
         "Details": "The Hyper-Assault Gauss Rifle is a variation on the Gauss Rifle developed by Clan Hell's Horses in 3068. Hoping to stay ahead of the increasing technological curve, they apparently used similar design principles to the Lyran Alliance's Heavy Gauss Rifle. To compensate for its drawbacks, however, Horse scientists used a series of capacitors and launching tubes to fire a multitude of smaller-caliber Gauss slugs. The resulting high rate of fire, akin almost to Rotary Autocannons, made these weapons very effective against battle armor and Combat Vehicles.",
         "Icon": "uixSvgIcon_weapon_Ballistic"
     },

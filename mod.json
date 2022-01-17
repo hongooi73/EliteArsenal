@@ -27,6 +27,11 @@
             "AddToDB": true
         },
         {
+            "Type": "LanceDef",
+            "Path": "lance",
+            "AddToDB": true
+        },
+        {
             "Type": "UpgradeDef",
             "Path": "upgrades",
             "AddToDB": true

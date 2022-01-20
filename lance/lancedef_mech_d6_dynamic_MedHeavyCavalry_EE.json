@@ -44,7 +44,7 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d6_elite",
+                "items": "pilot_npc_d6",
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -71,7 +71,8 @@
                     "unit_lance_vanguard",
                     "unit_lance_support",
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "expanded_elites"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

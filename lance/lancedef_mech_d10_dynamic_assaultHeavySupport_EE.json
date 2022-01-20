@@ -43,7 +43,7 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d10_elite",
+                "items": "pilot_npc_d10",
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -68,7 +68,8 @@
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "expanded_elites"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

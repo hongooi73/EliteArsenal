@@ -9,7 +9,12 @@
             "unit_role_sniper",
             "unit_release",
             "unit_speed_high",
-            "expanded_elites"
+            "expanded_elites",
+            "unit_role_scout",
+            "unit_role_flanker",
+            "unit_lance_vanguard",
+            "unit_lance_support",
+            "unit_lance_assassin"
         ],
         "tagSetSourceFile": ""
     },
@@ -249,3 +254,4 @@
         }
     ]
 }
+

@@ -36,11 +36,7 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_assault",
-                    "unit_light",
-                    "unit_lance_vanguard",
-                    "unit_noncombatant",
-                    "unit_urbie"
+
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -49,9 +45,7 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": {
-
-                },
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -83,9 +77,7 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": {
-
-                },
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -113,9 +105,7 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": {
-
-                },
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

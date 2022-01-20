@@ -37,10 +37,7 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_lance_tank",
-                    "unit_lance_support",
-                    "unit_noncombatant",
-                    "unit_urbie"
+
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -49,9 +46,7 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": {
-
-                },
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -80,9 +75,7 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": {
-
-                },
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -112,9 +105,7 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": {
-
-                },
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -142,9 +133,7 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": {
-
-                },
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

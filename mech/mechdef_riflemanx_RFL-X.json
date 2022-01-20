@@ -9,7 +9,10 @@
             "unit_lance_assassin",
             "unit_role_sniper",
             "unit_role_brawler",
-            "expanded_elites"
+            "expanded_elites",
+            "unit_role_scout",
+            "unit_role_flanker",
+            "unit_lance_vanguard"
         ],
         "tagSetSourceFile": ""
     },
@@ -249,3 +252,4 @@
         }
     ]
 }
+

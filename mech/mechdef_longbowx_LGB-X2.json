@@ -9,7 +9,12 @@
             "unit_speed_low",
             "unit_ready",
             "unit_release",
-            "expanded_elites"
+            "expanded_elites",
+            "unit_role_scout",
+            "unit_role_sniper",
+            "unit_lance_vanguard",
+            "unit_lance_support",
+            "unit_lance_tank"
         ],
         "tagSetSourceFile": ""
     },
@@ -315,3 +320,4 @@
         }
     ]
 }
+

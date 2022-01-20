@@ -13,8 +13,8 @@
     },
     "FixedEquipment": [
         {
-            "MountedLocation": "Head",
-            "ComponentDefID": "Gear_386Comp",
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Gear_General_Intercept_System",
             "SimGameUID": "",
             "ComponentDefType": "Upgrade",
             "HardpointSlot": -1,

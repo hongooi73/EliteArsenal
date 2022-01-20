@@ -116,7 +116,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_ATM_IATM12_0-STOCK",
+            "ComponentDefID": "Weapon_MRM_20-3",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -143,7 +143,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_ATM_IATM12_0-STOCK",
+            "ComponentDefID": "Weapon_MRM_20-3",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -199,29 +199,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Gear_HeatSink_CorrosiveDouble",
-            "SimGameUID": null,
-            "ComponentDefType": "HeatSink",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightTorso",
-            "ComponentDefID": "Gear_HeatSink_CorrosiveDouble",
-            "SimGameUID": null,
-            "ComponentDefType": "HeatSink",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Double",
             "SimGameUID": "",
             "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,
@@ -230,11 +208,22 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Double",
             "SimGameUID": "",
             "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,
             "DamageLevel": "Functional",
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Gear_TargetingTrackingSystem_Hartford_F3000",
+            "SimGameUID": null,
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
             "hasPrefabName": false
         },
         {

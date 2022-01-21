@@ -29,14 +29,14 @@
             "unitTagSet": {
                 "items": [
                     "unit_mech",
-                    "unit_lance_support",
                     "expanded_elites"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-
+                    "unit_light",
+                    "unit_medium"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

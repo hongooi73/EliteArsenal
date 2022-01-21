@@ -35,7 +35,8 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-
+                    "unit_assault",
+                    "unit_light"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

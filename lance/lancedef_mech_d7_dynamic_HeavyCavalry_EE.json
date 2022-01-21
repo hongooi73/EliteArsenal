@@ -28,8 +28,6 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_indirectFire",
-                    "unit_jumpOK",
                     "unit_mech",
                     "unit_heavy",
                     "expanded_elites"
@@ -38,7 +36,8 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-
+                    "unit_assault",
+                    "unit_light"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

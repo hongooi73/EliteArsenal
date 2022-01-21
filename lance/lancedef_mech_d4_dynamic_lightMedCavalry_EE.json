@@ -28,7 +28,6 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_jumpOK",
                     "unit_light",
                     "unit_mech",
                     "expanded_elites"

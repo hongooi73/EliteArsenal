@@ -31,7 +31,6 @@
                 "items": [
                     "unit_light",
                     "unit_mech",
-                    "unit_lance_vanguard",
                     "expanded_elites"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"

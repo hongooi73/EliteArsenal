@@ -29,7 +29,6 @@
             "unitTagSet": {
                 "items": [
                     "unit_assault",
-                    "unit_jumpOK",
                     "unit_mech",
                     "expanded_elites"
                 ],

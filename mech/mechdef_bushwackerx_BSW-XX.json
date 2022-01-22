@@ -123,7 +123,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_LRM_LRM5_3-Zeus",
+            "ComponentDefID": "Weapon_MRM_10-3",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -134,7 +134,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_LRM_LRM5_3-Zeus",
+            "ComponentDefID": "Weapon_MRM_10-3",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -145,7 +145,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Gauss_Gauss_HEAVY-2-UMP2",
+            "ComponentDefID": "Weapon_RotaryAutocannon_RAC5_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -155,8 +155,8 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "RightArm",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_AC5_Double",
             "SimGameUID": null,
             "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,
@@ -166,8 +166,30 @@
             "hasPrefabName": false
         },
         {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_AC5_Double",
+            "SimGameUID": null,
+            "ComponentDefType": "AmmunitionBox",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_HeatSink_CorrosiveDouble",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
             "MountedLocation": "RightLeg",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG_Half",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG",
             "SimGameUID": null,
             "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,
@@ -178,7 +200,7 @@
         },
         {
             "MountedLocation": "LeftLeg",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Half",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Double",
             "SimGameUID": null,
             "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,

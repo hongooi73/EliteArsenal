@@ -11,32 +11,7 @@
         "Details": "The Nova X2 is an improved version of the regular Nova laserboat. Clan technicians have managed to extract even more damage from its multiple medium lasers, while reducing its heat generation.",
         "Icon": "uixTxrIcon_nova"
     },
-    "FixedEquipment": [
-        {
-            "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Gear_JumpJet_Vectored_Thrust_Kit",
-            "SimGameUID": "",
-            "ComponentDefType": "JumpJet",
-            "HardpointSlot": -1,
-            "IsFixed": true,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightTorso",
-            "ComponentDefID": "Gear_JumpJet_Vectored_Thrust_Kit",
-            "SimGameUID": "",
-            "ComponentDefType": "JumpJet",
-            "HardpointSlot": -1,
-            "IsFixed": true,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        }
-    ],
+    "FixedEquipment": [],
     "MovementCapDefID": "movedef_nova",
     "PathingCapDefID": "pathingdef_medium",
     "HardpointDataDefID": "hardpointdatadef_nova",

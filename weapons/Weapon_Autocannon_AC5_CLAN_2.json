@@ -11,7 +11,7 @@
     ],
     "AmmoCategory": "AC5",
     "StartingAmmoCapacity": 0,
-    "HeatGenerated": 8,
+    "HeatGenerated": 16,
     "Damage": 55,
     "OverheatedDamageMultiplier": 0,
     "EvasiveDamageMultiplier": 0,

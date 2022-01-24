@@ -6,7 +6,7 @@
         "Manufacturer": "",
         "Model": "",
         "UIName": "Marauder X",
-        "Id": "chassisdef_marauderx_MAD-X",
+        "Id": "chassisdef_marauderx_MAD-X2",
         "Name": "Marauder X",
         "Details": "The MAD-2R is the Marauder variant that was given to the SLDF's Royal Divisions before the fall of the Star League. Like most Royal units, it is exceedingly rare, and comes equipped with advanced weaponry and components.",
         "Icon": "uixTxrIcon_marauder"
@@ -197,7 +197,7 @@
             "z": -2.5
         }
     ],
-    "VariantName": "MAD-X",
+    "VariantName": "MAD-X2",
     "ChassisTags": {
         "items": [],
         "tagSetSourceFile": ""

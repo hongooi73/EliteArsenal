@@ -273,8 +273,17 @@
             "Marik",
             "Steiner",
             "MagistracyOfCanopus",
-            "TaurianConcordat"
+            "TaurianConcordat",
+            "unit_role_scout",
+            "unit_role_brawler",
+            "unit_role_flanker",
+            "unit_lance_vanguard",
+            "unit_lance_support",
+            "unit_lance_tank",
+            "unit_lance_assassin",
+            "expanded_elites"
         ],
         "tagSetSourceFile": ""
     }
 }
+

@@ -58,15 +58,13 @@
                 "items": [
                     "unit_mech",
                     "unit_medium",
-                    "unit_lance_tank"
+                    "expanded_elites"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant",
-                    "unit_urbie",
-                    "expanded_elites"
+
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -96,7 +94,8 @@
                     "unit_lance_assassin",
                     "unit_lance_vanguard",
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "expanded_elites"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

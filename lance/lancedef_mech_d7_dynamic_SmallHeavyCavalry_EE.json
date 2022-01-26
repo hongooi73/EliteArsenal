@@ -57,21 +57,16 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_jumpOK",
                     "unit_mech",
-                    "unit_heavy"
+                    "unit_heavy",
+                    "expanded_elites"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
                     "unit_assault",
-                    "unit_light",
-                    "unit_lance_vanguard",
-                    "unit_lance_support",
-                    "unit_noncombatant",
-                    "unit_urbie",
-                    "expanded_elites"
+                    "unit_light"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -98,7 +93,8 @@
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "expanded_elites"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

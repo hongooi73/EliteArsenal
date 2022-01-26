@@ -155,7 +155,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_LRM_ATM6_CLAN",
+            "ComponentDefID": "Weapon_LRM_ATM6_CLAN_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

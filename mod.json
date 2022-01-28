@@ -38,6 +38,11 @@
         },
         {
             "Type": "WeaponDef",
+            "Path": "base_weapons",
+            "AddToDB": true
+        },
+        {
+            "Type": "WeaponDef",
             "Path": "weapons",
             "AddToDB": true
         }

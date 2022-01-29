@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Hatchetman",
+        "UIName": "Hatchetman X",
         "Id": "chassisdef_hatchetmanx_HCT-X",
-        "Name": "Hatchetman",
+        "Name": "Hatchetman X",
         "Details": "Fresh out of NAIS, the experimental HCT-3G (jestingly called the Grounded) variant from Team Banzai downgrades the engine and JumpJet capability while increasing the overall heat dissipation capacity.  While this more lumbersome version was difficult to use in open ground, it was a force to be reckoned with in the close quarters of urban warfare.",
         "Icon": "uixTxrIcon_hatchetman"
     },

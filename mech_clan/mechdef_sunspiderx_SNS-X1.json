@@ -24,9 +24,9 @@
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
-        "UIName": "Sun Spider",
-        "Id": "mechdef_sunspiderx_SNS-X",
-        "Name": "Sun Spider",
+        "UIName": "Sun Spider X",
+        "Id": "mechdef_sunspiderx_SNS-X1",
+        "Name": "Sun Spider X",
         "Details": "The Sun Spider Prime is built for short-range combat and carries a pair of Streak SRM-6 launchers in each arm, supported at range by Ultra AC/10 and an ER Large Laser in the right and left torsos, respectively. Two tons of Ultra Autocannon reloads and three tons of Streak SRM missiles are more than adequate for Clan Trials.",
         "Icon": "uixTxrIcon_sunspider"
     },

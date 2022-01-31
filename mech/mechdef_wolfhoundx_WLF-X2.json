@@ -18,7 +18,7 @@
         ],
         "tagSetSourceFile": ""
     },
-    "ChassisID": "chassisdef_wolfhoundx_WLF-X",
+    "ChassisID": "chassisdef_wolfhoundx_WLF-X2",
     "HeraldryID": null,
     "Description": {
         "Cost": 4000000,
@@ -27,7 +27,7 @@
         "Manufacturer": null,
         "Model": null,
         "UIName": "Wolfhound X",
-        "Id": "mechdef_wolfhoundx_WLF-X",
+        "Id": "mechdef_wolfhoundx_WLF-X2",
         "Name": "Wolfhound X",
         "Details": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to double strength and the Large laser is upgraded also to ER version.",
         "Icon": "uixTxrIcon_wolfhound"
@@ -147,7 +147,18 @@
             "ComponentDefID": "Weapon_Laser_MediumLaser_3-Diverse_Optics",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
-            "HardpointSlot": 0,
+            "HardpointSlot": 1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Weapon_SRM_SRM2_STREAK_2",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 2,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,
@@ -167,6 +178,28 @@
         {
             "MountedLocation": "RightTorso",
             "ComponentDefID": "Weapon_Laser_MediumLaser_3-Diverse_Optics",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Weapon_SRM_SRM2_STREAK_2",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 2,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightArm",
+            "ComponentDefID": "Weapon_MRM_10-3",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -177,10 +210,21 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_PPC_PPCSnub_2-Donal",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Half",
             "SimGameUID": null,
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": 0,
+            "ComponentDefType": "AmmunitionBox",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM_Half",
+            "SimGameUID": null,
+            "ComponentDefType": "AmmunitionBox",
+            "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,

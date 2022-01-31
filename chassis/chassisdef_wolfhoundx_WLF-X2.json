@@ -6,7 +6,7 @@
         "Manufacturer": "",
         "Model": "",
         "UIName": "Wolfhound X",
-        "Id": "chassisdef_wolfhoundx_WLF-X",
+        "Id": "chassisdef_wolfhoundx_WLF-X2",
         "Name": "Wolfhound X",
         "Details": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to doubles and the Large laser is upgraded also to an ER version.",
         "Icon": "uixTxrIcon_wolfhound"
@@ -70,7 +70,7 @@
             "Location": "LeftTorso",
             "Hardpoints": [
                 {
-                    "WeaponMount": "Energy",
+                    "WeaponMount": "Missile",
                     "Omni": false
                 },
                 {
@@ -110,7 +110,7 @@
             "Location": "RightTorso",
             "Hardpoints": [
                 {
-                    "WeaponMount": "Energy",
+                    "WeaponMount": "Missile",
                     "Omni": false
                 },
                 {
@@ -132,7 +132,7 @@
             "Location": "RightArm",
             "Hardpoints": [
                 {
-                    "WeaponMount": "Energy",
+                    "WeaponMount": "Missile",
                     "Omni": false
                 },
                 {
@@ -213,7 +213,7 @@
             "z": 0.5
         }
     ],
-    "VariantName": "WLF-X",
+    "VariantName": "WLF-X2",
     "ChassisTags": {
         "items": [],
         "tagSetSourceFile": ""

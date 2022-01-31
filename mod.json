@@ -5,7 +5,8 @@
     "Description": "Adds elite versions of Expanded Arsenal mechs",
     "Author": "Hong Ooi",
     "DependsOn": [
-        "Expanded Arsenal"
+        "Expanded Arsenal",
+        "Elite Forces -Stand Alone-"
     ],
     "OptionallyDependsOn": [
         "AdvancedWeapons",

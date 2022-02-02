@@ -139,7 +139,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Gauss_Gauss_HEAVY-2-UMP2",
+            "ComponentDefID": "Weapon_Gauss_HeavyGaussV3",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

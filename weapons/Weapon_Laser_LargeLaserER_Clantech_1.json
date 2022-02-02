@@ -35,7 +35,7 @@
         "Manufacturer": "Clan Tech",
         "Model": "Extended Range Large Laser",
         "UIName": "ER Large Laser (C) +",
-        "Id": "Weapon_Laser_LargeLaserER_Clantech",
+        "Id": "Weapon_Laser_LargeLaserER_Clantech_1",
         "Name": "ER L Laser (C) +",
         "Details": "An improvement upon standard Large Lasers, Extended-Range Large Lasers extend their effective range at the cost of massive heat generation. Like all Lasers, ER Large Lasers enjoy a baseline accuracy bonus over other weapons.",
         "Icon": "uixSvgIcon_weapon_Energy"

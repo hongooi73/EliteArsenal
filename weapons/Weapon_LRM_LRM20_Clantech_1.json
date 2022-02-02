@@ -35,7 +35,7 @@
         "Manufacturer": "CLAN",
         "Model": "Long-Range Missile Launcher",
         "UIName": "LRM20 (C) +",
-        "Id": "Weapon_LRM_LRM20_Clantech",
+        "Id": "Weapon_LRM_LRM20_Clantech_1",
         "Name": "LRM20 (C) +",
         "Details": "Often found as the secondary weapon on heavier units, LRM20 racks of Long-Range Missiles can deal decent damage while a unit closes range, but they chew through ammunition. Like all LRMs, LRM20s are capable of indirect fire over obstacles and terrain with the benefit of a spotter unit.",
         "Icon": "uixSvgIcon_weapon_Missile"

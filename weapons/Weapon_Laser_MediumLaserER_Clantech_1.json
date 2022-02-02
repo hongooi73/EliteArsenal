@@ -35,7 +35,7 @@
         "Manufacturer": "Clan Tech",
         "Model": "Extended-Range Medium Laser",
         "UIName": "ER M Laser (C) +",
-        "Id": "Weapon_Laser_MediumLaserER_Clantech",
+        "Id": "Weapon_Laser_MediumLaserER_Clantech_1",
         "Name": "ER M Laser (C) +",
         "Details": "An improvement upon standard Medium Lasers, Extended-Range Medium Lasers extend their effective range at the cost of considerable heat generation. Like all Lasers, ER Medium Lasers enjoy a baseline accuracy bonus over other weapons.",
         "Icon": "uixSvgIcon_weapon_Energy"

@@ -2,19 +2,11 @@
     "Name": "Expanded Elites",
     "Enabled": true,
     "Version": "0.0.1",
-    "Description": "Adds elite versions of Expanded Arsenal mechs",
+    "Description": "Adds elite mechs and upgraded gear to Expanded Arsenal",
     "Author": "Hong Ooi",
     "DependsOn": [
         "Expanded Arsenal",
         "Elite Forces -Stand Alone-"
-    ],
-    "OptionallyDependsOn": [
-        "AdvancedWeapons",
-        "More Guns",
-        "More Lazerz",
-        "More Rokkits",
-        "Extreme Weapons",
-        "Haakon's Hangar"
     ],
     "Manifest": [
         {

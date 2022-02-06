@@ -24,7 +24,7 @@
     "Tonnage": 2,
     "MinTonnage": 85,
     "MaxTonnage": 100,
-    "AllowedLocations": "LeftTorso,RightTorso",
+    "AllowedLocations": "Torso",
     "DisallowedLocations": "All",
     "CriticalComponent": false,
     "statusEffects": [

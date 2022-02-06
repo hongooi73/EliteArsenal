@@ -52,7 +52,9 @@
     "AllowedLocations": "All",
     "DisallowedLocations": "Arms",
     "CriticalComponent": false,
-    "statusEffects": [],
+    "statusEffects": [
+
+    ],
     "ComponentTags": {
         "items": [
             "component_type_stock",
@@ -61,3 +63,4 @@
         "tagSetSourceFile": ""
     }
 }
+

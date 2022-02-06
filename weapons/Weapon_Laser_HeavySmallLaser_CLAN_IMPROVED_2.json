@@ -1,9 +1,9 @@
 {
-	"Custom": {
-		"ComponentExplosion": {
-			"ExplosionDamagePerAmmo": 40
-		}
-	},
+    "Custom": {
+        "ComponentExplosion": {
+            "ExplosionDamagePerAmmo": 40
+        }
+    },
     "Category": "AntiPersonnel",
     "Type": "Laser",
     "WeaponSubType": "SmallLaserER",
@@ -14,7 +14,7 @@
         60,
         120
     ],
-    "ammoCategoryID" : "NotSet",
+    "ammoCategoryID": "NotSet",
     "StartingAmmoCapacity": 0,
     "HeatGenerated": 12,
     "Damage": 40,
@@ -56,7 +56,9 @@
     "AllowedLocations": "All",
     "DisallowedLocations": "All",
     "CriticalComponent": false,
-    "statusEffects": [],
+    "statusEffects": [
+
+    ],
     "ComponentTags": {
         "items": [
             "component_type_stock",
@@ -65,3 +67,4 @@
         "tagSetSourceFile": ""
     }
 }
+

@@ -2,9 +2,9 @@
     "Category": "Energy",
     "Type": "PPC",
     "WeaponSubType": "PPC",
-    "MinRange" : 90,
-    "MaxRange" : 540,
-    "RangeSplit" : [
+    "MinRange": 90,
+    "MaxRange": 540,
+    "RangeSplit": [
         360,
         360,
         540
@@ -114,3 +114,4 @@
         "tagSetSourceFile": ""
     }
 }
+

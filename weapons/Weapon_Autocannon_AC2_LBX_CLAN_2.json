@@ -52,7 +52,9 @@
     "DisallowedLocations": "All",
     "CriticalComponent": false,
     "VolleyDivisor": 12,
-    "statusEffects": [],
+    "statusEffects": [
+
+    ],
     "ComponentTags": {
         "items": [
             "component_type_stock",
@@ -61,3 +63,4 @@
         "tagSetSourceFile": ""
     }
 }
+

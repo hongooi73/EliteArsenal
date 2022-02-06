@@ -232,18 +232,6 @@
     "YangsThoughts": "I thought the Awesome was scary, but the 1E's four PPCs even makes the Awesome look a little less... awesome.",
     "FixedEquipment": [
         {
-            "MountedLocation": "Head",
-            "ComponentDefID": "Gear_386Comp",
-            "SimGameUID": "",
-            "ComponentDefType": "Upgrade",
-            "HardpointSlot": -1,
-            "IsFixed": true,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
             "MountedLocation" : "CenterTorso",
             "ComponentDefID" : "Gear_General_Optimized_Capacitors",
             "SimGameUID" : "",

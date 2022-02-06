@@ -87,21 +87,21 @@
             "unitTagSet": {
                 "items": [
                     "unit_heavy",
-                    "unit_mech"
+                    "unit_mech",
+                    "BlackWidowCompany"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_lance_tank",
-                    "unit_lance_vanguard",
-                    "unit_noncombatant",
-                    "unit_urbie"
+
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d7",
+                "items": [
+                    "pilot_npc_d7_elite"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -117,19 +117,20 @@
                 "items": [
                     "unit_heavy",
                     "unit_mech",
-                    "unit_lance_support"
+                    "BlackWidowCompany"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant",
-                    "unit_urbie"
+
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d7",
+                "items": [
+                    "pilot_npc_d7_elite"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {

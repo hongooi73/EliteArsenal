@@ -87,19 +87,21 @@
             "unitTagSet": {
                 "items": [
                     "unit_light",
-                    "unit_mech"
+                    "unit_mech",
+                    "BlackWidowCompany"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant",
-                    "unit_urbie"
+
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d3",
+                "items": [
+                    "pilot_npc_d3_elite"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -114,19 +116,21 @@
             "unitTagSet": {
                 "items": [
                     "unit_light",
-                    "unit_mech"
+                    "unit_mech",
+                    "BlackWidowCompany"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant",
-                    "unit_urbie"
+
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d3",
+                "items": [
+                    "pilot_npc_d3_elite"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {

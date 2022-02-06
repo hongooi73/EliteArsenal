@@ -51,12 +51,17 @@
     "AllowedLocations": "All",
     "DisallowedLocations": "All",
     "CriticalComponent": false,
-    "statusEffects": [],
+    "statusEffects": [
+
+    ],
     "ComponentTags": {
         "items": [
             "component_type_stock",
-            "range_long"
+            "range_long",
+            "component_type_variant",
+            "component_type_variant2"
         ],
         "tagSetSourceFile": ""
     }
 }
+

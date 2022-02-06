@@ -244,7 +244,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_ATM_IATM6_0-STOCK",
+            "ComponentDefID": "Weapon_ATM_IATM6_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -288,7 +288,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_ATM_IATM6_0-STOCK",
+            "ComponentDefID": "Weapon_ATM_IATM6_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

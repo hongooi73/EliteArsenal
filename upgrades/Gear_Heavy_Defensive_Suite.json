@@ -11,7 +11,7 @@
         "UIName": "Heavy Defensive Suite",
         "Id": "Gear_Heavy_Defensive_Suite",
         "Name": "Heavy Defensive Suite",
-        "Details": "A combination of ultradense alloy armour and an active protection suite of full-spectrum jammers and hit-to-kill point-defense systems. Due to the weight of the armour, it can only be mounted on mechs of 85 tons or more.",
+        "Details": "A combination of ultradense alloy armour and an active protection suite of full-spectrum jammers and hit-to-kill point-defense systems.",
         "Icon": "UixSvgIcon_specialEquip_System"
     },
     "BonusValueA": "- 20% Dmg.",
@@ -22,8 +22,6 @@
     "BattleValue": 0,
     "InventorySize": 1,
     "Tonnage": 2,
-    "MinTonnage": 85,
-    "MaxTonnage": 100,
     "AllowedLocations": "Torso",
     "DisallowedLocations": "All",
     "CriticalComponent": false,

@@ -11,7 +11,7 @@
         "UIName": "Passive Defensive Matrix",
         "Id": "Gear_Passive_Defensive_Matrix",
         "Name": "Passive Defensive Matrix",
-        "Details": "A protective retrofit of spaced armour constructed of lightweight, advanced metamaterials that serves to deflect incoming attacks and reduce damage. Due to the bulk of the package, it can only be mounted on mechs of 60 tons or less.",
+        "Details": "A protective retrofit of spaced armour constructed of lightweight, advanced metamaterials that serves to deflect incoming attacks and reduce damage.",
         "Icon": "UixSvgIcon_specialEquip_System"
     },
     "BonusValueA": "- 20% Dmg.",
@@ -22,8 +22,6 @@
     "BattleValue": 0,
     "InventorySize": 4,
     "Tonnage": 0,
-    "MinTonnage": 0,
-    "MaxTonnage": 60,
     "AllowedLocations": "LeftTorso,RightTorso",
     "DisallowedLocations": "All",
     "CriticalComponent": false,

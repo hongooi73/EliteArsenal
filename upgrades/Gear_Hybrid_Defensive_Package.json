@@ -3,9 +3,9 @@
     "RelativeModifier": 0,
     "AbsoluteModifier": 0,
     "Description": {
-        "Cost": 2000000,
-        "Rarity": 99,
-        "Purchasable": false,
+        "Cost": 12000000,
+        "Rarity": 9,
+        "Purchasable": true,
         "Manufacturer": "Expanded Arsenal",
         "Model": "",
         "UIName": "Hybrid Defensive Package",
@@ -42,7 +42,7 @@
             "effectType": "StatisticEffect",
             "Description": {
                 "Id": "StatusEffect-EE-DamageReduction",
-                "Name": "DEFENSIVE MATRIX",
+                "Name": "DAMAGE REDUCTION",
                 "Details": "This unit takes [AMT] less damage.",
                 "Icon": "uixSvgIcon_special_Equipment"
             },

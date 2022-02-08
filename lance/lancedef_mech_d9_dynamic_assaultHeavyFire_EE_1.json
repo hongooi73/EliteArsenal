@@ -88,7 +88,7 @@
                 "items": [
                     "unit_assault",
                     "unit_mech",
-                    "BlackWidowCompany"
+                    "expanded_elites"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

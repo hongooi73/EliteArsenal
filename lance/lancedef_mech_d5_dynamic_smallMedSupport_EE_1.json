@@ -88,20 +88,21 @@
             "unitTagSet": {
                 "items": [
                     "unit_mech",
-                    "unit_medium"
+                    "unit_medium",
+                    "expanded_elites"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_lance_support",
-                    "unit_noncombatant",
-                    "unit_urbie"
+
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d5",
+                "items": [
+                    "pilot_npc_d5_elite"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {

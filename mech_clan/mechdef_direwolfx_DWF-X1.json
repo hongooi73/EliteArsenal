@@ -133,6 +133,17 @@
         },
         {
             "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_TargetingTrackingSystem_CLAN_3",
+            "SimGameUID": null,
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftTorso",
             "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
             "SimGameUID": "",
             "ComponentDefType": "AmmunitionBox",
@@ -177,10 +188,10 @@
         },
         {
             "MountedLocation": "CenterTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
-            "SimGameUID": "",
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": 0,
+            "ComponentDefID": "Gear_Heavy_Defensive_Suite",
+            "SimGameUID": null,
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,

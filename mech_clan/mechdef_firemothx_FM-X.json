@@ -132,7 +132,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_2-VMI",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -143,7 +143,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_2-VMI",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -187,7 +187,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_2-VMI",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -198,7 +198,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_2-VMI",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,

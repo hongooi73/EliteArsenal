@@ -8,7 +8,6 @@
             "unit_role_brawler",
             "unit_release",
             "unit_range_short",
-            "unit_indirectFire",
             "unit_speed_low",
             "unit_armor_high",
             "Davion",
@@ -17,7 +16,14 @@
             "Marik",
             "Steiner",
             "MagistracyOfCanopus",
-            "TaurianConcordat"
+            "TaurianConcordat",
+            "unit_role_scout",
+            "unit_role_sniper",
+            "unit_role_flanker",
+            "unit_lance_vanguard",
+            "unit_lance_support",
+            "unit_lance_assassin",
+            "expanded_elites"
         ],
         "tagSetSourceFile": ""
     },
@@ -25,7 +31,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 12720000,
-        "Rarity": 8,
+        "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
@@ -277,7 +283,7 @@
             "prefabName": null,
             "hasPrefabName": false
         },
-       {
+        {
             "MountedLocation": "RightArm",
             "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
             "SimGameUID": null,
@@ -323,3 +329,4 @@
         }
     ]
 }
+

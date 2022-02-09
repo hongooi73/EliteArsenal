@@ -232,17 +232,6 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Gear_Passive_Defensive_Matrix",
-            "SimGameUID": null,
-            "ComponentDefType": "Upgrade",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightTorso",
             "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",

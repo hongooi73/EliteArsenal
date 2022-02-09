@@ -17,7 +17,7 @@
         ],
         "tagSetSourceFile": ""
     },
-    "ChassisID": "chassisdef_kitfoxx_KFX-X",
+    "ChassisID": "chassisdef_kitfoxx_KFX-X1",
     "HeraldryID": null,
     "Description": {
         "Cost": 15000000,
@@ -26,7 +26,7 @@
         "Manufacturer": null,
         "Model": null,
         "UIName": "Kit Fox X",
-        "Id": "mechdef_kitfoxx_KFX-X",
+        "Id": "mechdef_kitfoxx_KFX-X1",
         "Name": "Kit Fox X",
         "Details": "The Kit Fox X is a light, fast mech destroyer. With MASC to increase its walking and running speeds, and a massive COIL-L weapon system that can wreck even the most well-protected target, this is a mech to be respected.",
         "Icon": "uixTxrIcon_kitfox"
@@ -176,7 +176,7 @@
             "ComponentDefID": "Weapon_SRM_SRM4_STREAK_CLAN_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
-            "HardpointSlot": 2,
+            "HardpointSlot": 1,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,

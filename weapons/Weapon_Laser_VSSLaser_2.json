@@ -34,9 +34,9 @@
         "Purchasable": true,
         "Manufacturer": "Sekkaris",
         "Model": "Small Variable Speed Pulse Laser",
-        "UIName": "VSS Pulse",
-        "Id": "Weapon_Laser_VSSLaser_0-STOCK",
-        "Name": "VSS Pulse",
+        "UIName": "VSS Pulse + +",
+        "Id": "Weapon_Laser_VSSLaser_2",
+        "Name": "VSS Pulse + +",
         "Details": "The Small Variable Speed Pulse Laser is, as its name suggests, the smallest of the Variable Speed Lasers in use. Commonly fitted in place of a small pulse laser, this weapon is mostly seen on light 'Mechs.",
         "Icon": "uixSvgIcon_weapon_Support"
     },

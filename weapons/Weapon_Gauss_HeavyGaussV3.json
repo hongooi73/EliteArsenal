@@ -11,7 +11,7 @@
     ],
     "ammoCategoryID": "GAUSS",
     "StartingAmmoCapacity": 0,
-    "HeatGenerated": 4,
+    "HeatGenerated": 10,
     "Damage": 180,
     "StructureDamage": 25,
     "OverheatedDamageMultiplier": 0,
@@ -41,7 +41,7 @@
         "Details": "The Heavy Gauss Rifle is a new, deadly innovation by Lyran Alliance scientists introduced in 3061 in conjunction with a manufacturing cooperation between Defiance Industries and TharHes. Applying their 'bigger is better' philosophy to Gauss technology, the Heavy Gauss Rifle is one of the heaviest battlefield weapons in existence, and has a correspondingly high damage potential.",
         "Icon": "uixSvgIcon_weapon_Ballistic"
     },
-    "BonusValueA": "+ 20 Stb.Dmg., - 6 Heat",
+    "BonusValueA": "+ 40 Dmg., + 20 Stb.Dmg.",
     "BonusValueB": "- 3 Tons, - 3 Slots",
     "ComponentType": "Weapon",
     "ComponentSubType": "Weapon",

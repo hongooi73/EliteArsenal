@@ -1,0 +1,85 @@
+{
+    "Description": {
+        "Id": "lancedef_mech_d6_dynamic_SmallMedHeavyBattle_1_EA_Elite",
+        "Name": "Dynamic Dif 6 Small Medium Battle Elite 1",
+        "Details": "",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Difficulty": 6,
+    "LanceTags": {
+        "items": [
+            "lance_bracket_med",
+            "lance_type_battle",
+            "lance_type_medium",
+            "lance_type_dynamic",
+            "lance_type_mech",
+            "lance_type_notallvehicles",
+            "elite_arsenal"
+        ],
+        "tagSetSourceFile": "Tags/LanceTags"
+    },
+    "LanceUnits": [
+        {
+            "unitType": "Mech",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_mech",
+                    "unit_heavy",
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d6_elite"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Mech",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_heavy",
+                    "unit_mech",
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d6_elite"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        }
+    ]
+}
+

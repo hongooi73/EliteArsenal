@@ -65,7 +65,7 @@
             "unit_lance_vanguard",
             "unit_lance_support",
             "unit_lance_tank",
-            "expanded_elites"
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },

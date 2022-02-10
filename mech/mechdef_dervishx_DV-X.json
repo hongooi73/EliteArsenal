@@ -14,7 +14,7 @@
             "unit_role_flanker",
             "unit_lance_support",
             "unit_lance_tank",
-            "expanded_elites"
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },

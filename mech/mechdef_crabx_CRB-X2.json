@@ -226,17 +226,6 @@
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Gear_Passive_Defensive_Matrix",
-            "SimGameUID": null,
-            "ComponentDefType": "Upgrade",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
         }
     ]
 }

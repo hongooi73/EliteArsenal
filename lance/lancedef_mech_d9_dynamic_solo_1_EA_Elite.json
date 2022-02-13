@@ -33,13 +33,13 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d9_elite"
+                    "pilot_npc_d9_elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -62,13 +62,13 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d9_elite"
+                    "pilot_npc_d9_elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

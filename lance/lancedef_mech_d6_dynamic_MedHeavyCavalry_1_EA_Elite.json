@@ -36,13 +36,13 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d6_elite"
+                    "pilot_npc_d6_elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -65,13 +65,13 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d6_elite"
+                    "pilot_npc_d6_elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -95,13 +95,14 @@
             "excludedUnitTagSet": {
                 "items": [
                     "unit_assault",
-                    "unit_light"
+                    "unit_light",
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d6_elite"
+                    "pilot_npc_d6_elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -124,7 +125,7 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

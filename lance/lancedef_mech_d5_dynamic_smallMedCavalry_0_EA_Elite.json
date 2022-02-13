@@ -37,13 +37,13 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d5_elite"
+                    "pilot_npc_d5_elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -66,17 +66,18 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant",
-                    "unit_urbie"
+                    "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/UnitTags"
+                "tagSetSourceFile": "Tags/PilotTags"
             },
             "pilotTagSet": {
                 "items": "pilot_npc_d5",
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_arsenal"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -94,19 +95,18 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_lance_assassin",
-                    "unit_lance_vanguard",
-                    "unit_noncombatant",
-                    "unit_urbie"
+                    "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/UnitTags"
+                "tagSetSourceFile": "Tags/PilotTags"
             },
             "pilotTagSet": {
                 "items": "pilot_npc_d5",
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_arsenal"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

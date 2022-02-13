@@ -110,7 +110,7 @@
     "inventory": [
         {
             "MountedLocation": "Head",
-            "ComponentDefID": "Gear_Cockpit_Ceres_Metals_Hardened",
+            "ComponentDefID": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
             "HardpointSlot": -1,
@@ -143,7 +143,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_MRM_30-3",
+            "ComponentDefID": "Weapon_LRM_LRM15_3-Zeus",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -198,7 +198,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_MRM_30-3",
+            "ComponentDefID": "Weapon_LRM_LRM15_3-Zeus",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

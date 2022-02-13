@@ -1,0 +1,47 @@
+{
+    "Description": {
+        "Id": "AbilityDefEADR",
+        "Name": "Elite Arsenal Damage Reduction",
+        "Details": "PASSIVE: Elite Arsenal units have 25% damage reduction.",
+        "Icon": "UixSvgIcon_specialAbility_BWCL"
+    },
+    "Type": "Command",
+    "ShortDesc": "+ 20% Damage Reduction",
+    "DisplayParams": "NeverShow",
+    "ActivationTime": "Passive",
+    "EffectData": [
+        {
+            "Description": {
+                "Id": "StatusEffect-EA-DamageReduction",
+                "Name": "DAMAGE MITIGATION",
+                "Details": "This unit takes [AMT] less damage.",
+                "Icon": "UixSvgIcon_specialAbility_BWCL"
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "Creator",
+                "showInTargetPreview": true,
+                "showInStatusPanel": true,
+                "hideApplicationFloatie": true
+            },
+            "statisticData": {
+                "statName": "DamageReductionMultiplierAll",
+                "operation": "Float_Multiply",
+                "modValue": "0.75",
+                "modType": "System.Single",
+                "additionalRules": "NotSet",
+                "targetCollection": "NotSet",
+                "targetWeaponCategory": "NotSet",
+                "targetWeaponType": "NotSet",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            }
+        }
+    ]
+}

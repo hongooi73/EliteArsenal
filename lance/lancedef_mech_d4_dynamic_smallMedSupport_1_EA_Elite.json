@@ -37,13 +37,13 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d4_elite"
+                    "pilot_npc_d4_elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -66,13 +66,13 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d4_elite"
+                    "pilot_npc_d4_elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -95,13 +95,14 @@
             "excludedUnitTagSet": {
                 "items": [
                     "unit_assault",
-                    "unit_heavy"
+                    "unit_heavy",
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d4_elite"
+                    "pilot_npc_d4_elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

@@ -6,7 +6,7 @@
         "Manufacturer": "",
         "Model": "",
         "UIName": "Shadow Hawk X",
-        "Id": "chassisdef_shadowhawkx_SHD-X",
+        "Id": "chassisdef_shadowhawkx_SHD-X2",
         "Name": "Shadow Hawk X",
         "Details": "The 5M Shadow Hawk is the first complete overhaul and upgrade of the design, unveiled in 3048 by Earthwerks for the Free Worlds League.",
         "Icon": "uixTxrIcon_shadowhawk"
@@ -209,7 +209,7 @@
             "z": 2.5
         }
     ],
-    "VariantName": "SHD-X",
+    "VariantName": "SHD-X2",
     "ChassisTags": {
         "items": [],
         "tagSetSourceFile": ""

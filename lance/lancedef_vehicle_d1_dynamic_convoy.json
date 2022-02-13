@@ -10,7 +10,10 @@
     },
     "Difficulty": 1,
     "LanceTags": {
-        "items": "lance_type_convoy",
+        "items": [
+            "lance_type_convoy",
+            "lance_stock"
+        ],
         "tagSetSourceFile": "Tags/LanceTags"
     },
     "LanceUnits": [

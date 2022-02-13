@@ -21,7 +21,8 @@
             "AuriganRestoration",
             "MercenaryReviewBoard",
             "AuriganPirates",
-            "AuriganMercenaries"
+            "AuriganMercenaries",
+            "lance_stock"
         ],
         "tagSetSourceFile": "Tags/LanceTags"
     },

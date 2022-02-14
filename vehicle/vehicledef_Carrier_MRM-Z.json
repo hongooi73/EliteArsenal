@@ -6,7 +6,7 @@
         "Details": "",
         "Icon": "",
         "Cost": 993,
-        "Rarity": 0,
+        "Rarity": 9,
         "Purchasable": false
     },
     "ChassisID": "vehiclechassisdef_Carrier_MRM-Z",
@@ -68,7 +68,8 @@
             "VandenbergMechanizedIndustries",
             "Warboys",
             "unit_release",
-            "unit_vehicle_carrier"
+            "unit_vehicle_carrier",
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },
@@ -154,3 +155,4 @@
         }
     ]
 }
+

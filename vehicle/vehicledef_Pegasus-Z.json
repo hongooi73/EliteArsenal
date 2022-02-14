@@ -6,7 +6,7 @@
         "Details": "",
         "Icon": "",
         "Cost": 993,
-        "Rarity": 0,
+        "Rarity": 9,
         "Purchasable": false
     },
     "ChassisID": "vehiclechassisdef_Pegasus-Z",
@@ -17,7 +17,8 @@
             "unit_release",
             "unit_lance_tank",
             "unit_lance_assassin",
-            "unit_generic"
+            "unit_generic",
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },

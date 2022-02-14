@@ -6,7 +6,7 @@
         "Details": "",
         "Icon": "",
         "Cost": 993,
-        "Rarity": 4,
+        "Rarity": 9,
         "Purchasable": false
     },
     "ChassisID": "vehiclechassisdef_Challenger-X",
@@ -14,7 +14,8 @@
         "items": [
             "unit_vehicle",
             "unit_assault",
-            "unit_tracks"
+            "unit_tracks",
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },
@@ -107,3 +108,4 @@
         }
     ]
 }
+

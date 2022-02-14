@@ -6,7 +6,7 @@
         "Details": "",
         "Icon": "",
         "Cost": 993,
-        "Rarity": 3,
+        "Rarity": 9,
         "Purchasable": false
     },
     "ChassisID": "vehiclechassisdef_JEdgar-X",
@@ -15,7 +15,8 @@
             "unit_vehicle",
             "unit_light",
             "unit_wheels",
-            "unit_release"
+            "unit_release",
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },

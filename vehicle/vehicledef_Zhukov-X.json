@@ -6,7 +6,7 @@
         "Details": "",
         "Icon": "",
         "Cost": 973,
-        "Rarity": 1,
+        "Rarity": 9,
         "Purchasable": false
     },
     "ChassisID": "vehiclechassisdef_Zhukov-X",
@@ -14,7 +14,8 @@
         "items": [
             "unit_vehicle",
             "unit_heavy",
-            "unit_tracks"
+            "unit_tracks",
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },

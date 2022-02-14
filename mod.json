@@ -53,6 +53,16 @@
             "Type": "PilotDef",
             "Path": "pilots",
             "AddToDB": true
+        },
+        {
+            "Type": "VehicleDef",
+            "Path": "vehicle",
+            "AddToDB": true
+        },
+        {
+            "Type": "VehicleChassisDef",
+            "Path": "chassis_vehicle",
+            "AddToDB": true
         }
     ]
 }

@@ -6,7 +6,7 @@
         "Details": "",
         "Icon": "",
         "Cost": 564,
-        "Rarity": 0,
+        "Rarity": 9,
         "Purchasable": false
     },
     "ChassisID": "vehiclechassisdef_Ares-X",
@@ -17,7 +17,8 @@
             "unit_tracks",
             "unit_release",
             "unit_range_long",
-            "unit_role_sniper"
+            "unit_role_sniper",
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },
@@ -89,3 +90,4 @@
         }
     ]
 }
+

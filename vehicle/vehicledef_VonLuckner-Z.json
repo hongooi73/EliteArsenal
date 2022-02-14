@@ -6,7 +6,7 @@
         "Details": "",
         "Icon": "",
         "Cost": 564,
-        "Rarity": 0,
+        "Rarity": 9,
         "Purchasable": false
     },
     "ChassisID": "vehiclechassisdef_VonLuckner-Z",
@@ -15,7 +15,8 @@
             "unit_vehicle",
             "unit_heavy",
             "unit_tracks",
-            "unit_release"
+            "unit_release",
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },

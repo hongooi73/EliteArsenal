@@ -6,7 +6,7 @@
         "Details": "",
         "Icon": "",
         "Cost": 564,
-        "Rarity": 5,
+        "Rarity": 9,
         "Purchasable": false
     },
     "ChassisID": "vehiclechassisdef_Hetzer-X",
@@ -15,7 +15,8 @@
             "unit_vehicle",
             "unit_medium",
             "unit_wheels",
-            "unit_release"
+            "unit_release",
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },
@@ -87,3 +88,4 @@
         }
     ]
 }
+

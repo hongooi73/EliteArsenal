@@ -29,19 +29,20 @@
             "unitTagSet": {
                 "items": [
                     "unit_medium",
-                    "unit_vehicle"
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant",
                     "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d1",
+                "items": [
+                    "pilot_npc_d1_elite_arsenal"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -56,19 +57,20 @@
             "unitTagSet": {
                 "items": [
                     "unit_light",
-                    "unit_vehicle"
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant",
                     "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d1",
+                "items": [
+                    "pilot_npc_d1_elite_arsenal"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -83,19 +85,20 @@
             "unitTagSet": {
                 "items": [
                     "unit_light",
-                    "unit_vehicle"
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant",
                     "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d1",
+                "items": [
+                    "pilot_npc_d1_elite_arsenal"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {

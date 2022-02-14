@@ -1,20 +1,20 @@
 {
     "Version": 1,
     "Description": {
-        "Id": "vehicledef_Hetzer-Z",
-        "Name": "Hetzer Z",
+        "Id": "vehicledef_Lightning-X",
+        "Name": "Lightning X",
         "Details": "",
         "Icon": "",
         "Cost": 564,
-        "Rarity": 5,
+        "Rarity": 0,
         "Purchasable": false
     },
-    "ChassisID": "vehiclechassisdef_Hetzer-Z",
+    "ChassisID": "vehiclechassisdef_Lightning-X",
     "VehicleTags": {
         "items": [
             "unit_vehicle",
-            "unit_medium",
-            "unit_wheels",
+            "unit_light",
+            "unit_tracks",
             "unit_release"
         ],
         "tagSetSourceFile": ""
@@ -22,65 +22,58 @@
     "Locations": [
         {
             "Location": "Front",
-            "CurrentArmor": 150,
-            "CurrentInternalStructure": 20,
-            "AssignedArmor": 150,
+            "CurrentArmor": 100,
+            "CurrentInternalStructure": 10,
+            "AssignedArmor": 100,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Left",
-            "CurrentArmor": 110,
-            "CurrentInternalStructure": 20,
-            "AssignedArmor": 110,
+            "CurrentArmor": 80,
+            "CurrentInternalStructure": 10,
+            "AssignedArmor": 80,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Right",
-            "CurrentArmor": 110,
-            "CurrentInternalStructure": 20,
-            "AssignedArmor": 110,
+            "CurrentArmor": 80,
+            "CurrentInternalStructure": 10,
+            "AssignedArmor": 80,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Rear",
-            "CurrentArmor": 110,
-            "CurrentInternalStructure": 20,
-            "AssignedArmor": 110,
+            "CurrentArmor": 50,
+            "CurrentInternalStructure": 10,
+            "AssignedArmor": 50,
             "DamageLevel": "Functional"
         }
     ],
     "inventory": [
         {
-            "ComponentDefID": "Weapon_Gauss_Gauss_3-EA",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
             "ComponentDefType": "Weapon",
             "MountedLocation": "Front",
             "HardpointSlot": 0,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Weapon_SRM_SRM4_STREAK_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
             "ComponentDefType": "Weapon",
             "MountedLocation": "Front",
             "HardpointSlot": 0,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
-            "ComponentDefType": "AmmunitionBox",
+            "ComponentDefID": "Weapon_SRM_SRM2_3-Valiant",
+            "ComponentDefType": "Weapon",
             "MountedLocation": "Front",
-            "HardpointSlot": -1,
+            "HardpointSlot": 0,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM_Half",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM",
             "ComponentDefType": "AmmunitionBox",
-            "MountedLocation": "Front",
-            "HardpointSlot": -1,
-            "DamageLevel": "Functional"
-        },
-        {
-            "ComponentDefID": "Gear_Passive_Defensive_Matrix",
-            "ComponentDefType": "Upgrade",
             "MountedLocation": "Front",
             "HardpointSlot": -1,
             "DamageLevel": "Functional"

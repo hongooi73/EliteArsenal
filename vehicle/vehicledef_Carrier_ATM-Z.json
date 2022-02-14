@@ -1,0 +1,156 @@
+{
+    "Version": 1,
+    "Description": {
+        "Id": "vehicledef_Carrier_ATM-Z",
+        "Name": "ATM Carrier Z",
+        "Details": "",
+        "Icon": "",
+        "Cost": 993,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "ChassisID": "vehiclechassisdef_Carrier_ATM-Z",
+    "VehicleTags": {
+        "items": [
+            "unit_vehicle",
+            "unit_heavy",
+            "unit_tracks",
+            "AlphardTradingCompany",
+            "AntithesisCreed",
+            "AuriganPirates",
+            "AutocracyOfLeh",
+            "BaumannGroup",
+            "BlackAngels",
+            "BlackCalderaDefense",
+            "BlackWidowCompany",
+            "BountyHunterAssociates",
+            "BrotherhoodOfRandis",
+            "CanopianPirates",
+            "CeresMetalsIndustries",
+            "ClusterPirates",
+            "ComStar",
+            "DeathsConsorts",
+            "DevilsDisciples",
+            "DuchyOfAndurien",
+            "EmeraldDawn",
+            "EvilEye",
+            "ExpansesPirates",
+            "FlakJackals",
+            "GhostRiders",
+            "GrimReapers",
+            "HarbingersOfDoom",
+            "HostileMercenaries",
+            "HouseKhulan",
+            "HouseNakano",
+            "Kurita",
+            "Liao",
+            "LocalsBrockwayRefugees",
+            "LothianPirates",
+            "MagnaMetals",
+            "MajestyMetals",
+            "Marik",
+            "MasonsMarauders",
+            "NiopsAssociation",
+            "PaladinProtectionLLC",
+            "PinardProtectorateLimited",
+            "RazorbackMercs",
+            "RedHareRegiment",
+            "RimPirates",
+            "SecuritySolutionsInc",
+            "ShervanisCaliphate",
+            "SianTriumphant",
+            "SteelBeast",
+            "Steiner",
+            "SteropeDefenseIndustries",
+            "TaurusMajorisMining",
+            "TaurusTerritorialIndustries",
+            "TortugaPirates",
+            "VandenbergMechanizedIndustries",
+            "Warboys",
+            "unit_release",
+            "unit_vehicle_carrier"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "Locations": [
+        {
+            "Location": "Front",
+            "CurrentArmor": 60,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 60,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Left",
+            "CurrentArmor": 60,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 60,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Right",
+            "CurrentArmor": 60,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 60,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Rear",
+            "CurrentArmor": 60,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 60,
+            "DamageLevel": "Functional"
+        }
+    ],
+    "inventory": [
+        {
+            "ComponentDefID": "Weapon_LRM_ATM12_CLAN_2",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Front",
+            "HardpointSlot": 0,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Weapon_LRM_ATM12_CLAN_2",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Front",
+            "HardpointSlot": 1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Weapon_LRM_ATM12_CLAN_2",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Front",
+            "HardpointSlot": 2,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Double",
+            "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Double",
+            "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Double",
+            "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+            "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        }
+    ]
+}

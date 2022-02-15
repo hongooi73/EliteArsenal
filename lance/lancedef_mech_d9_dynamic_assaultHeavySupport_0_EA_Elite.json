@@ -37,6 +37,7 @@
                 "items": [
                     "unit_light",
                     "unit_medium",
+                    "unit_noncombatant",
                     "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"

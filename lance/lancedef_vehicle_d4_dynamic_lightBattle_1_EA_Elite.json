@@ -30,12 +30,14 @@
             "unitTagSet": {
                 "items": [
                     "unit_heavy",
+                    "unit_vehicle",
                     "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
                     "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
@@ -60,12 +62,14 @@
             "unitTagSet": {
                 "items": [
                     "unit_heavy",
+                    "unit_vehicle",
                     "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
                     "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
@@ -90,12 +94,14 @@
             "unitTagSet": {
                 "items": [
                     "unit_medium",
+                    "unit_vehicle",
                     "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
                     "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
@@ -120,12 +126,14 @@
             "unitTagSet": {
                 "items": [
                     "unit_medium",
+                    "unit_vehicle",
                     "BlackWidowCompany"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
                     "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"

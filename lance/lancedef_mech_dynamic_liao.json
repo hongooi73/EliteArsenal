@@ -33,9 +33,10 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
@@ -61,9 +62,11 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
+                    "NotLiao",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
@@ -89,9 +92,11 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
+                    "NotLiao",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
@@ -117,9 +122,11 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
+                    "NotLiao",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [

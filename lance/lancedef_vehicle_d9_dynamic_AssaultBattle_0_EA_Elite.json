@@ -27,6 +27,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
+                    "unit_vehicle",
                     "unit_assault",
                     "elite_arsenal"
                 ],
@@ -35,7 +36,8 @@
             "excludedUnitTagSet": {
                 "items": [
                     "unit_light",
-                    "unit_medium"
+                    "unit_medium",
+                    "unit_noncombatant"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

@@ -34,7 +34,7 @@
                 "items": [
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": "pilot_turret_d7",
@@ -62,7 +62,7 @@
                 "items": [
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": "pilot_turret_d7",
@@ -90,7 +90,7 @@
                 "items": [
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": "pilot_turret_d7",
@@ -118,7 +118,7 @@
                 "items": [
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": "pilot_turret_d7",

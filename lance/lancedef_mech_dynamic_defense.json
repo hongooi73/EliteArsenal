@@ -38,9 +38,11 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
+                    "unit_speed_high",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
@@ -69,9 +71,11 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
+                    "unit_speed_high",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
@@ -97,9 +101,11 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
+                    "unit_armor_low",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
@@ -125,9 +131,11 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
+                    "unit_armor_low",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [

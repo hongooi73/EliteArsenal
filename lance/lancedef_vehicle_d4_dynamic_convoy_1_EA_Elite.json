@@ -23,6 +23,8 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
+                    "unit_vehicle",
+                    "unit_noncombatant",
                     "unit_medium",
                     "elite_arsenal"
                 ],
@@ -51,6 +53,9 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
+                    "unit_vehicle",
+                    "unit_vehicle_apc",
+                    "unit_noncombatant",
                     "unit_medium",
                     "elite_arsenal"
                 ],
@@ -79,6 +84,9 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
+                    "unit_vehicle",
+                    "unit_vehicle_apc",
+                    "unit_noncombatant",
                     "unit_medium",
                     "elite_arsenal"
                 ],
@@ -107,6 +115,9 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
+                    "unit_vehicle",
+                    "unit_vehicle_apc",
+                    "unit_noncombatant",
                     "unit_medium",
                     "BlackWidowCompany"
                 ],

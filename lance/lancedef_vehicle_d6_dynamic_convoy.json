@@ -31,9 +31,10 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_urbie",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": "pilot_sensor",
@@ -61,9 +62,10 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_urbie",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": "pilot_sensor",
@@ -91,9 +93,10 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_urbie",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": "pilot_sensor",
@@ -121,9 +124,10 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_urbie",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": "pilot_sensor",

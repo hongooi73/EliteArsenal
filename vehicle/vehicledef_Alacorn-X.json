@@ -1,15 +1,15 @@
 {
     "Version": 1,
     "Description": {
-        "Id": "vehicledef_Challenger-Z",
-        "Name": "Challenger Z",
+        "Id": "vehicledef_Alacorn-X",
+        "Name": "Partisan",
         "Details": "",
         "Icon": "",
         "Cost": 993,
         "Rarity": 9,
         "Purchasable": false
     },
-    "ChassisID": "vehiclechassisdef_Challenger-Z",
+    "ChassisID": "vehiclechassisdef_Alacorn-X",
     "VehicleTags": {
         "items": [
             "unit_vehicle",
@@ -22,60 +22,60 @@
     "Locations": [
         {
             "Location": "Front",
-            "CurrentArmor": 285,
+            "CurrentArmor": 250,
             "CurrentInternalStructure": 50,
-            "AssignedArmor": 285,
+            "AssignedArmor": 250,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Left",
-            "CurrentArmor": 250,
+            "CurrentArmor": 200,
             "CurrentInternalStructure": 50,
-            "AssignedArmor": 250,
+            "AssignedArmor": 200,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Right",
-            "CurrentArmor": 250,
+            "CurrentArmor": 200,
             "CurrentInternalStructure": 50,
-            "AssignedArmor": 250,
+            "AssignedArmor": 200,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Rear",
-            "CurrentArmor": 180,
+            "CurrentArmor": 140,
             "CurrentInternalStructure": 50,
-            "AssignedArmor": 180,
+            "AssignedArmor": 140,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Turret",
-            "CurrentArmor": 285,
+            "CurrentArmor": 250,
             "CurrentInternalStructure": 50,
-            "AssignedArmor": 285,
+            "AssignedArmor": 250,
             "DamageLevel": "Functional"
         }
     ],
     "inventory": [
         {
-            "ComponentDefID": "Weapon_HyperGauss_HAG30_2",
+            "ComponentDefID": "Weapon_Gauss_Gauss_3-EA",
             "ComponentDefType": "Weapon",
             "MountedLocation": "Turret",
             "HardpointSlot": 0,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Weapon_HyperGauss_HAG30_2",
+            "ComponentDefID": "Weapon_Gauss_Gauss_3-EA",
             "ComponentDefType": "Weapon",
             "MountedLocation": "Turret",
             "HardpointSlot": 1,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
-            "ComponentDefType": "AmmunitionBox",
-            "MountedLocation": "Front",
-            "HardpointSlot": -1,
+            "ComponentDefID": "Weapon_Gauss_Gauss_3-EA",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Turret",
+            "HardpointSlot": 2,
             "DamageLevel": "Functional"
         },
         {
@@ -95,13 +95,6 @@
         {
             "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
             "ComponentDefType": "AmmunitionBox",
-            "MountedLocation": "Front",
-            "HardpointSlot": -1,
-            "DamageLevel": "Functional"
-        },
-        {
-            "ComponentDefID": "Gear_Heavy_Defensive_Suite",
-            "ComponentDefType": "Upgrade",
             "MountedLocation": "Front",
             "HardpointSlot": -1,
             "DamageLevel": "Functional"

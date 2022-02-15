@@ -1,0 +1,135 @@
+{
+    "Version": 1,
+    "Description": {
+        "Id": "vehicledef_Schrek_Heavy-Z",
+        "Name": "Heavy PPC Carrier",
+        "Details": "",
+        "Icon": "",
+        "Cost": 993,
+        "Rarity": 9,
+        "Purchasable": false
+    },
+    "ChassisID": "vehiclechassisdef_Schrek_Heavy-Z",
+    "VehicleTags": {
+        "items": [
+            "unit_vehicle",
+            "unit_assault",
+            "AlphardTradingCompany",
+            "AntithesisCreed",
+            "AuriganPirates",
+            "AutocracyOfLeh",
+            "BaumannGroup",
+            "BlackAngels",
+            "BlackCalderaDefense",
+            "BlackWidowCompany",
+            "BountyHunterAssociates",
+            "BrotherhoodOfRandis",
+            "CanopianPirates",
+            "CeresMetalsIndustries",
+            "ClusterPirates",
+            "ComStar",
+            "DeathsConsorts",
+            "DevilsDisciples",
+            "DuchyOfAndurien",
+            "EmeraldDawn",
+            "EvilEye",
+            "ExpansesPirates",
+            "FlakJackals",
+            "GhostRiders",
+            "GrimReapers",
+            "HarbingersOfDoom",
+            "HostileMercenaries",
+            "HouseKhulan",
+            "HouseNakano",
+            "Kurita",
+            "Liao",
+            "LocalsBrockwayRefugees",
+            "LothianPirates",
+            "MagnaMetals",
+            "MajestyMetals",
+            "Marik",
+            "MasonsMarauders",
+            "NiopsAssociation",
+            "PaladinProtectionLLC",
+            "PinardProtectorateLimited",
+            "RazorbackMercs",
+            "RedHareRegiment",
+            "RimPirates",
+            "SecuritySolutionsInc",
+            "ShervanisCaliphate",
+            "SianTriumphant",
+            "SteelBeast",
+            "Steiner",
+            "SteropeDefenseIndustries",
+            "TaurusMajorisMining",
+            "TaurusTerritorialIndustries",
+            "TortugaPirates",
+            "VandenbergMechanizedIndustries",
+            "Warboys",
+            "unit_tracks",
+            "elite_arsenal"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "Locations": [
+        {
+            "Location": "Front",
+            "CurrentArmor": 120,
+            "CurrentInternalStructure": 40,
+            "AssignedArmor": 120,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Left",
+            "CurrentArmor": 100,
+            "CurrentInternalStructure": 40,
+            "AssignedArmor": 100,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Right",
+            "CurrentArmor": 100,
+            "CurrentInternalStructure": 40,
+            "AssignedArmor": 100,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Rear",
+            "CurrentArmor": 100,
+            "CurrentInternalStructure": 40,
+            "AssignedArmor": 100,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Turret",
+            "CurrentArmor": 140,
+            "CurrentInternalStructure": 40,
+            "AssignedArmor": 140,
+            "DamageLevel": "Functional"
+        }
+    ],
+    "inventory": [
+        {
+            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_2",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Turret",
+            "HardpointSlot": 0,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_2",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Turret",
+            "HardpointSlot": 1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_2",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Turret",
+            "HardpointSlot": 2,
+            "DamageLevel": "Functional"
+        }
+    ]
+}
+

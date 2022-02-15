@@ -65,9 +65,13 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_lance_vanguard",
+                    "unit_lance_support",
+                    "unit_noncombatant",
+                    "unit_urbie",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": "pilot_npc_d10",
@@ -93,9 +97,11 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
+                    "unit_urbie",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": "pilot_npc_d10",
@@ -121,9 +127,12 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_lance_vanguard",
+                    "unit_noncombatant",
+                    "unit_urbie",
                     "elite_arsenal"
                 ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": "pilot_npc_d10",

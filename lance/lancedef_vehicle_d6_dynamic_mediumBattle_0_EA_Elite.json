@@ -1,0 +1,138 @@
+{
+    "Description": {
+        "Id": "lancedef_vehicle_d6_dynamic_mediumBattle_0_EA_Elite",
+        "Name": "Dynamic Dif 6 Medium Vehicle Battle Elite 0",
+        "Details": "",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Difficulty": 6,
+    "LanceTags": {
+        "items": [
+            "lance_bracket_med",
+            "lance_type_battle",
+            "lance_type_medium",
+            "lance_type_dynamic",
+            "lance_type_vehicle",
+            "elite_arsenal"
+        ],
+        "tagSetSourceFile": "Tags/LanceTags"
+    },
+    "LanceUnits": [
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_assault",
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d6_elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_heavy",
+                    "unit_vehicle"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "pilotTagSet": {
+                "items": "pilot_npc_d6",
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": [
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_heavy",
+                    "unit_vehicle"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "pilotTagSet": {
+                "items": "pilot_npc_d6",
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": [
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_heavy",
+                    "unit_vehicle"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "pilotTagSet": {
+                "items": "pilot_npc_d6",
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": [
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        }
+    ]
+}
+

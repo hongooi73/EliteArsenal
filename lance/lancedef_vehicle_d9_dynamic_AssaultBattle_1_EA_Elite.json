@@ -1,0 +1,139 @@
+{
+    "Description": {
+        "Id": "lancedef_vehicle_d9_dynamic_AssaultBattle_1_EA_Elite",
+        "Name": "Dynamic Dif 9 Assault Vehicle Battle Elite 1",
+        "Details": "",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Difficulty": 9,
+    "LanceTags": {
+        "items": [
+            "lance_bracket_high",
+            "lance_type_battle",
+            "lance_type_assault",
+            "lance_type_dynamic",
+            "lance_type_vehicle",
+            "elite_arsenal"
+        ],
+        "tagSetSourceFile": "Tags/LanceTags"
+    },
+    "LanceUnits": [
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_assault",
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_light",
+                    "unit_medium"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d9_elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_heavy",
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d9_elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_assault",
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d9_elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_assault",
+                    "BlackWidowCompany"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d9_elite"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        }
+    ]
+}
+

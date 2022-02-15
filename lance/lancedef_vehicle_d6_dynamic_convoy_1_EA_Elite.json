@@ -1,0 +1,134 @@
+{
+    "Description": {
+        "Id": "lancedef_vehicle_d6_dynamic_convoy_1_EA_Elite",
+        "Name": "Dynamic Dif 6 noncombatant vehicle convoy Elite 1",
+        "Details": "",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Difficulty": 6,
+    "LanceTags": {
+        "items": [
+            "lance_type_convoy",
+            "elite_arsenal"
+        ],
+        "tagSetSourceFile": "Tags/LanceTags"
+    },
+    "LanceUnits": [
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_medium",
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_sensor_elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_medium",
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_sensor_elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_medium",
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_sensor_elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_heavy",
+                    "BlackWidowCompany"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_sensor_elite"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        }
+    ]
+}
+

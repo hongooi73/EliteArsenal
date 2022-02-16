@@ -69,7 +69,9 @@
             "pilot_npc_dynamic",
             "pilot_npc_d3_elite_arsenal",
             "pilot_npc_d3",
-            "elite_arsenal"
+            "elite_arsenal",
+            "pilot_npc_d2_elite_arsenal",
+            "pilot_npc_d1_elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },

@@ -63,6 +63,14 @@
             "Type": "VehicleChassisDef",
             "Path": "chassis_vehicle",
             "AddToDB": true
+        },
+        {
+            "Type": "ItemCollectionDef",
+            "Path": "itemcol"
+        },
+        {
+            "Type": "AdvancedJSONMerge",
+            "Path": "starsystems"
         }
     ]
 }

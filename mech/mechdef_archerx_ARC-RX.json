@@ -73,19 +73,19 @@
         {
             "DamageLevel": "Functional",
             "Location": "LeftLeg",
-            "CurrentArmor": 130,
+            "CurrentArmor": 110,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 75,
-            "AssignedArmor": 130,
+            "AssignedArmor": 110,
             "AssignedRearArmor": -1
         },
         {
             "DamageLevel": "Functional",
             "Location": "RightLeg",
-            "CurrentArmor": 130,
+            "CurrentArmor": 110,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 75,
-            "AssignedArmor": 130,
+            "AssignedArmor": 110,
             "AssignedRearArmor": -1
         }
     ],
@@ -234,7 +234,7 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftTorso",
+            "MountedLocation": "RightTorso",
             "ComponentDefId": "Gear_Hybrid_Defensive_Package",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",

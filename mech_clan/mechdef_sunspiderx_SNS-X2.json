@@ -45,19 +45,19 @@
         {
             "DamageLevel": "Functional",
             "Location": "LeftArm",
-            "CurrentArmor": 100,
+            "CurrentArmor": 95,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 55,
-            "AssignedArmor": 100,
+            "AssignedArmor": 95,
             "AssignedRearArmor": -1
         },
         {
             "DamageLevel": "Functional",
             "Location": "LeftTorso",
-            "CurrentArmor": 120,
+            "CurrentArmor": 110,
             "CurrentRearArmor": 35,
             "CurrentInternalStructure": 75,
-            "AssignedArmor": 120,
+            "AssignedArmor": 110,
             "AssignedRearArmor": 35
         },
         {
@@ -72,37 +72,37 @@
         {
             "DamageLevel": "Functional",
             "Location": "RightTorso",
-            "CurrentArmor": 120,
+            "CurrentArmor": 110,
             "CurrentRearArmor": 35,
             "CurrentInternalStructure": 75,
-            "AssignedArmor": 120,
+            "AssignedArmor": 110,
             "AssignedRearArmor": 35
         },
         {
             "DamageLevel": "Functional",
             "Location": "RightArm",
-            "CurrentArmor": 100,
+            "CurrentArmor": 95,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 55,
-            "AssignedArmor": 100,
+            "AssignedArmor": 95,
             "AssignedRearArmor": -1
         },
         {
             "DamageLevel": "Functional",
             "Location": "LeftLeg",
-            "CurrentArmor": 110,
+            "CurrentArmor": 105,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 75,
-            "AssignedArmor": 110,
+            "AssignedArmor": 105,
             "AssignedRearArmor": -1
         },
         {
             "DamageLevel": "Functional",
             "Location": "RightLeg",
-            "CurrentArmor": 110,
+            "CurrentArmor": 105,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 75,
-            "AssignedArmor": 110,
+            "AssignedArmor": 105,
             "AssignedRearArmor": -1
         }
     ],
@@ -284,7 +284,7 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftTorso",
+            "MountedLocation": "RightTorso",
             "ComponentDefId": "Gear_Hybrid_Defensive_Package",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",

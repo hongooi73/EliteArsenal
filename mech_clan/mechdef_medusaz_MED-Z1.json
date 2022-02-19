@@ -118,7 +118,7 @@
     "inventory": [
         {
             "MountedLocation": "Head",
-            "ComponentDefID": "Gear_Cockpit_Ceres_Metals_Reinforced",
+            "ComponentDefID": "Gear_Cockpit_Ceres_Metals_Hardened",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
             "HardpointSlot": -1,
@@ -140,7 +140,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_HeavyMediumLaser_CLAN_IMPROVED_1",
+            "ComponentDefID": "Weapon_Laser_HeavyMediumLaser_CLAN_IMPROVED_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -151,7 +151,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_HeavyMediumLaser_CLAN_IMPROVED_1",
+            "ComponentDefID": "Weapon_Laser_HeavyMediumLaser_CLAN_IMPROVED_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -162,7 +162,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_HeavyLargeLaser_CLAN_IMPROVED_1",
+            "ComponentDefID": "Weapon_PPC_PPCER_CLAN_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -239,7 +239,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_SRM_SRM6_Clantech_1",
+            "ComponentDefID": "Weapon_SRM_SRM6_Clantech_2",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -250,7 +250,7 @@
         },
         {
             "MountedLocation": "CenterTorso",
-            "ComponentDefID": "Weapon_SRM_SRM6_Clantech_1",
+            "ComponentDefID": "Weapon_SRM_SRM6_Clantech_2",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -261,7 +261,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_SRM_SRM6_Clantech_1",
+            "ComponentDefID": "Weapon_SRM_SRM6_Clantech_2",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -294,28 +294,6 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Gear_HeatSink_CorrosiveDouble",
-            "SimGameUID": "",
-            "ComponentDefType": "HeatSink",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "LeftArm",
-            "ComponentDefID": "Gear_HeatSink_CorrosiveDouble",
-            "SimGameUID": "",
-            "ComponentDefType": "HeatSink",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightTorso",
             "ComponentDefID": "Gear_HeatSink_CorrosiveDouble",
             "SimGameUID": "",
             "ComponentDefType": "HeatSink",
@@ -348,7 +326,7 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftTorso",
+            "MountedLocation": "RightTorso",
             "ComponentDefID": "Gear_AP_CLAN",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",

@@ -118,7 +118,7 @@
     "inventory": [
         {
             "MountedLocation": "Head",
-            "ComponentDefID": "Gear_Cockpit_Majesty_M_M_180KL",
+            "ComponentDefID": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
             "HardpointSlot": -1,
@@ -140,7 +140,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_1",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -151,7 +151,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_1",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -162,7 +162,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_PPC_PPCER_CLAN_1",
+            "ComponentDefID": "Weapon_PPC_PPCER_CLAN_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -173,7 +173,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_1",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -250,7 +250,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_ATM_IATM3_1",
+            "ComponentDefID": "Weapon_ATM_IATM3_2",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -261,7 +261,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_ATM_IATM3_1",
+            "ComponentDefID": "Weapon_ATM_IATM3_2",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

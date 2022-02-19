@@ -3,7 +3,7 @@
     "RelativeModifier": 0,
     "AbsoluteModifier": 0,
     "Description": {
-        "Cost": 20000000,
+        "Cost": 5000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": "Expanded Arsenal",
@@ -14,7 +14,7 @@
         "Details": "A protective retrofit of spaced armour constructed of lightweight, advanced metamaterials that serves to deflect incoming attacks and reduce damage.",
         "Icon": "UixSvgIcon_specialEquip_System"
     },
-    "BonusValueA": "- 20% Dmg.",
+    "BonusValueA": "- 15% Dmg.",
     "BonusValueB": "",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
@@ -49,7 +49,7 @@
                 "effectsPersistAfterDestruction": false,
                 "statName": "DamageReductionMultiplierAll",
                 "operation": "Float_Multiply",
-                "modValue": "0.8",
+                "modValue": "0.85",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "NotSet",

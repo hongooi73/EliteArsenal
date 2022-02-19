@@ -121,7 +121,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_2-Brigadier",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_1-Brigadier",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 2,
@@ -130,7 +130,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_2-Brigadier",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_1-Brigadier",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 2,
@@ -139,7 +139,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Gauss_Gauss_3-EA",
+            "ComponentDefID": "Weapon_Gauss_Gauss_2-M9",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

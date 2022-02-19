@@ -128,7 +128,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_1-RakerIV",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -161,7 +161,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_RotaryAutocannon_RAC5_2",
+            "ComponentDefID": "Weapon_RotaryAutocannon_RAC5_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -172,7 +172,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_1-RakerIV",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

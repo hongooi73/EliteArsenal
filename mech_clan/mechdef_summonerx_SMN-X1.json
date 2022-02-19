@@ -133,7 +133,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Autocannon_AC20_CLAN_2",
+            "ComponentDefID": "Weapon_Autocannon_AC20_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -155,7 +155,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_LRM_ATM6_CLAN_2",
+            "ComponentDefID": "Weapon_LRM_ATM6_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -166,7 +166,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -177,7 +177,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,

@@ -103,7 +103,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_2-BrightBloom",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_1-MagnaVI",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -114,7 +114,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_2-BrightBloom",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_1-MagnaVI",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -125,7 +125,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Gauss_Gauss_3-EA",
+            "ComponentDefID": "Weapon_Gauss_Gauss_2-M9",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -136,7 +136,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Gauss_Gauss_3-EA",
+            "ComponentDefID": "Weapon_Gauss_Gauss_2-M9",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

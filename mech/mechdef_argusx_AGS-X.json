@@ -134,7 +134,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_MRM_40-3",
+            "ComponentDefID": "Weapon_MRM_40-2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -145,7 +145,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_VSLLaser_2",
+            "ComponentDefID": "Weapon_Laser_VSLLaser_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -156,7 +156,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaser_3-Diverse_Optics",
+            "ComponentDefID": "Weapon_Laser_MediumLaser_2-Diverse_Optics",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -167,7 +167,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaser_3-Diverse_Optics",
+            "ComponentDefID": "Weapon_Laser_MediumLaser_2-Diverse_Optics",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

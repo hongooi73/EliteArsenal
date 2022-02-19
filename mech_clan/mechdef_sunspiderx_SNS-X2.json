@@ -131,7 +131,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_LargeLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_LargeLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -142,7 +142,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -153,7 +153,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_LargeLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_LargeLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -164,7 +164,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -175,7 +175,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Autocannon_AC2_CLAN_2",
+            "ComponentDefID": "Weapon_Autocannon_AC2_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -186,7 +186,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Autocannon_AC2_CLAN_2",
+            "ComponentDefID": "Weapon_Autocannon_AC2_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -197,7 +197,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Autocannon_AC2_CLAN_2",
+            "ComponentDefID": "Weapon_Autocannon_AC2_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -208,7 +208,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Autocannon_AC2_CLAN_2",
+            "ComponentDefID": "Weapon_Autocannon_AC2_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

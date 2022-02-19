@@ -133,7 +133,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_HyperGauss_HAG40_2",
+            "ComponentDefID": "Weapon_HyperGauss_HAG40_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -199,7 +199,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_2",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -210,7 +210,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_2",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -221,7 +221,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_LargeLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_LargeLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -232,7 +232,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -243,7 +243,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 2,
@@ -254,7 +254,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 3,
@@ -265,7 +265,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 4,

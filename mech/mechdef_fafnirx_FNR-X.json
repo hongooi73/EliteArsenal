@@ -145,7 +145,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_2-BrightBloom",
+            "ComponentDefID": "Weapon_Laser_LargeLaserPulse_1-Thunderbolt12",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -155,19 +155,8 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Autocannon_UAC2_2-Imperator",
-            "SimGameUID": null,
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": 1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Gauss_HeavyGaussV3",
+            "ComponentDefID": "Weapon_Gauss_HeavyGaussV2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -178,7 +167,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Gauss_HeavyGaussV3",
+            "ComponentDefID": "Weapon_Gauss_HeavyGaussV2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -189,21 +178,10 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_2-BrightBloom",
+            "ComponentDefID": "Weapon_Laser_LargeLaserPulse_1-Thunderbolt12",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Autocannon_UAC2_2-Imperator",
-            "SimGameUID": null,
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": 1,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,
@@ -221,30 +199,8 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftLeg",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_AC2",
-            "SimGameUID": null,
-            "ComponentDefType": "AmmunitionBox",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
             "MountedLocation": "RightLeg",
             "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
-            "SimGameUID": null,
-            "ComponentDefType": "AmmunitionBox",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightLeg",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_AC2",
             "SimGameUID": null,
             "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,

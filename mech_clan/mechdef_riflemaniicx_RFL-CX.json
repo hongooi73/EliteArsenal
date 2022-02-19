@@ -153,7 +153,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Gauss_Gauss_Clantech_2",
+            "ComponentDefID": "Weapon_Gauss_Gauss_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -164,7 +164,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_HeavyLargeLaser_CLAN_IMPROVED_2",
+            "ComponentDefID": "Weapon_Laser_HeavyLargeLaser_CLAN_IMPROVED_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -175,7 +175,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Gauss_Gauss_Clantech_2",
+            "ComponentDefID": "Weapon_Gauss_Gauss_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -186,7 +186,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_HeavyLargeLaser_CLAN_IMPROVED_2",
+            "ComponentDefID": "Weapon_Laser_HeavyLargeLaser_CLAN_IMPROVED_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,

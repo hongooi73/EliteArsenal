@@ -166,7 +166,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_HeavyLargeLaser_CLAN_IMPROVED_2",
+            "ComponentDefID": "Weapon_Laser_HeavyLargeLaser_CLAN_IMPROVED_1",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -177,7 +177,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_1",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -188,7 +188,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_PPC_PPCER_CLAN_2",
+            "ComponentDefID": "Weapon_PPC_PPCER_CLAN_1",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 3,
@@ -199,7 +199,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_HeavyLargeLaser_CLAN_IMPROVED_2",
+            "ComponentDefID": "Weapon_Laser_HeavyLargeLaser_CLAN_IMPROVED_1",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -210,7 +210,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_1",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -221,7 +221,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_PPC_PPCER_CLAN_2",
+            "ComponentDefID": "Weapon_PPC_PPCER_CLAN_1",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 3,
@@ -232,7 +232,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_1",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -243,7 +243,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_1",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

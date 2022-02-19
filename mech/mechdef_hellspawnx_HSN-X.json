@@ -197,7 +197,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_2-BrightBloom",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_1-MagnaVI",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -208,7 +208,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_MRM_20-3",
+            "ComponentDefID": "Weapon_MRM_20-2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -241,7 +241,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_2-BrightBloom",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_1-MagnaVI",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -252,7 +252,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_MRM_20-3",
+            "ComponentDefID": "Weapon_MRM_20-2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -263,7 +263,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_2-BrightBloom",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_1-MagnaVI",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,

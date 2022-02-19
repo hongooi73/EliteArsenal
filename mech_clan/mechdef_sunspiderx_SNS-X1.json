@@ -131,7 +131,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN_2",
+            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -142,7 +142,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN_2",
+            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -153,7 +153,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN_2",
+            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -164,7 +164,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN_2",
+            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -175,7 +175,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Autocannon_AC10_CLAN_2",
+            "ComponentDefID": "Weapon_Autocannon_AC10_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -186,7 +186,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -197,7 +197,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,

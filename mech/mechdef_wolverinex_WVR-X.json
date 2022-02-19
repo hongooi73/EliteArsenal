@@ -139,7 +139,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_SRM_SRM6_3-Valiant",
+            "ComponentDefID": "Weapon_SRM_SRM6_2-Holly",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -150,7 +150,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_SRM_SRM6_3-Valiant",
+            "ComponentDefID": "Weapon_SRM_SRM6_2-Holly",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -183,7 +183,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_VSLLaser_2",
+            "ComponentDefID": "Weapon_Laser_VSLLaser_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -194,7 +194,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_1-RakerIV",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,

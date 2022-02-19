@@ -131,7 +131,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -142,7 +142,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_2",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -153,7 +153,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_2",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 2,
@@ -164,7 +164,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_SRM_SRM4_Clantech_3",
+            "ComponentDefID": "Weapon_SRM_SRM4_Clantech_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -208,7 +208,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_SRM_SRM4_Clantech_3",
+            "ComponentDefID": "Weapon_SRM_SRM4_Clantech_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -230,7 +230,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -241,7 +241,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_2",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -252,7 +252,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_2",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_LIGHT_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 2,

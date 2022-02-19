@@ -131,7 +131,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Autocannon_UAC20_2-Kali_Yama",
+            "ComponentDefID": "Weapon_Autocannon_LB20X_1-Shengli_Arms",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -142,40 +142,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_MassDriver_MD40",
-            "SimGameUID": null,
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": 0,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_MRM_20-3",
-            "SimGameUID": null,
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": 0,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_2-BrightBloom",
-            "SimGameUID": null,
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": 0,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_2-VMI",
+            "ComponentDefID": "Weapon_Gauss_HeavyGaussV2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -186,7 +153,73 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_2-VMI",
+            "ComponentDefID": "Weapon_Laser_MediumLaser_1-Magna",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Weapon_Laser_MediumLaser_1-Magna",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Weapon_MRM_20-2",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Weapon_Laser_MediumLaser_1-Magna",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_1-Brigadier",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_1-Brigadier",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_1-Brigadier",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -197,7 +230,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_2-VMI",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_1-Brigadier",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -208,7 +241,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_2-VMI",
+            "ComponentDefID": "Weapon_MachineGun_MachineGun_1-Brigadier",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -296,18 +329,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_AC20_Double",
-            "SimGameUID": null,
-            "ComponentDefType": "AmmunitionBox",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightArm",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_AC20_Double",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LB20X_Double",
             "SimGameUID": null,
             "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,

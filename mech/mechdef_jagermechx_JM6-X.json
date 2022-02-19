@@ -134,7 +134,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Gauss_HeavyGaussV3",
+            "ComponentDefID": "Weapon_Gauss_HeavyGaussV2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -145,7 +145,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Gauss_HeavyGaussV3",
+            "ComponentDefID": "Weapon_Gauss_HeavyGaussV2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

@@ -134,7 +134,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_SRM_SRM2_STREAK_2",
+            "ComponentDefID": "Weapon_SRM_SRM2_STREAK_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -145,7 +145,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_MRM_10-3",
+            "ComponentDefID": "Weapon_MRM_10-2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -156,7 +156,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_SRM_SRM2_STREAK_2",
+            "ComponentDefID": "Weapon_SRM_SRM2_STREAK_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -167,7 +167,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_MRM_10-3",
+            "ComponentDefID": "Weapon_MRM_10-2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -211,7 +211,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Gauss_Gauss_3-EA",
+            "ComponentDefID": "Weapon_Gauss_Gauss_2-M9",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

@@ -123,7 +123,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_LRM_LRM20_3-Zeus",
+            "ComponentDefID": "Weapon_LRM_LRM20_2-Delta",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -145,7 +145,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_LRM_LRM15_3-Zeus",
+            "ComponentDefID": "Weapon_LRM_LRM15_2-Delta",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -156,7 +156,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_LRM_LRM15_3-Zeus",
+            "ComponentDefID": "Weapon_LRM_LRM15_2-Delta",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -167,7 +167,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_LRM_LRM20_3-Zeus",
+            "ComponentDefID": "Weapon_LRM_LRM20_2-Delta",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

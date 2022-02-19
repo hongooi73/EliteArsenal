@@ -133,7 +133,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Laser_VSMLaser_2",
+            "ComponentDefID": "Weapon_Laser_VSMLaser_1",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -144,7 +144,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_2-BrightBloom",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_1-MagnaVI",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -177,7 +177,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Laser_VSMLaser_2",
+            "ComponentDefID": "Weapon_Laser_VSMLaser_1",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -188,7 +188,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_2-BrightBloom",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_1-MagnaVI",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -221,7 +221,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_2-BrightBloom",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_1-MagnaVI",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -254,7 +254,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_2",
+            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_1",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

@@ -296,7 +296,7 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "RightTorso",
+            "MountedLocation": "LeftTorso",
             "ComponentDefID": "Gear_TargetingTrackingSystem_Hartford_S2000",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
@@ -307,7 +307,7 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftTorso",
+            "MountedLocation": "RightTorso",
             "ComponentDefId": "Gear_Passive_Defensive_Matrix",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",

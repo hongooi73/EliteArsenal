@@ -253,7 +253,7 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftTorso",
+            "MountedLocation": "RightTorso",
             "ComponentDefID": "Gear_TargetingTrackingSystem_ARTEMISIV_2",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",

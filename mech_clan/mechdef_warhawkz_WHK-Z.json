@@ -289,7 +289,7 @@
         },
         {
             "MountedLocation": "CenterTorso",
-            "ComponentDefId": "Gear_Heavy_Defensive_Suite",
+            "ComponentDefID": "Gear_Heavy_Defensive_Suite",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
             "HardpointSlot": -1,

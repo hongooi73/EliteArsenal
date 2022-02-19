@@ -297,7 +297,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefId": "Gear_Passive_Defensive_Matrix",
+            "ComponentDefID": "Gear_Passive_Defensive_Matrix",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
             "HardpointSlot": -1,

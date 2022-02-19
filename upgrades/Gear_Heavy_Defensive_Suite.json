@@ -14,7 +14,7 @@
         "Details": "A combination of ultradense alloy armour and an active protection suite of full-spectrum jammers and hit-to-kill point-defense systems.",
         "Icon": "UixSvgIcon_specialEquip_System"
     },
-    "BonusValueA": "- 20% Dmg.",
+    "BonusValueA": "- 25% Dmg.",
     "BonusValueB": "",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
@@ -49,7 +49,7 @@
                 "effectsPersistAfterDestruction": false,
                 "statName": "DamageReductionMultiplierAll",
                 "operation": "Float_Multiply",
-                "modValue": "0.8",
+                "modValue": "0.75",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "NotSet",

@@ -238,6 +238,17 @@
             "HardpointSlot": -1,
             "DamageLevel": "Functional",
             "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefId": "Gear_Hybrid_Defensive_Package",
+            "SimGameUID": null,
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
         }
     ]
 }

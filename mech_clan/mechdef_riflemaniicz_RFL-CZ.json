@@ -252,7 +252,7 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftTorso",
+            "MountedLocation": "RightTorso",
             "ComponentDefID": "Gear_AP_CLAN",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",

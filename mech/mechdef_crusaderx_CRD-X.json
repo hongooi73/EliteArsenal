@@ -176,7 +176,7 @@
         },
         {
             "MountedLocation": "LeftLeg",
-            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_1",
+            "ComponentDefID": "Weapon_SRM_SRM6_2-Holly",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -185,7 +185,7 @@
         },
         {
             "MountedLocation": "RightLeg",
-            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_1",
+            "ComponentDefID": "Weapon_SRM_SRM6_2-Holly",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

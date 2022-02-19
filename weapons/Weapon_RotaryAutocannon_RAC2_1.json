@@ -47,7 +47,7 @@
     "ComponentSubType": "Weapon",
     "PrefabIdentifier": "uac5",
     "InventorySize": 3,
-    "Tonnage": 6.5,
+    "Tonnage": 7.5,
     "AllowedLocations": "All",
     "DisallowedLocations": "All",
     "CriticalComponent": false,

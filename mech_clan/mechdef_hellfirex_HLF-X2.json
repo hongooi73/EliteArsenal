@@ -142,17 +142,6 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_1",
-            "SimGameUID": null,
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": 0,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
             "MountedLocation": "RightTorso",
             "ComponentDefID": "Weapon_ATM_IATM9_1",
             "SimGameUID": null,
@@ -198,7 +187,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_CLAN_1",
+            "ComponentDefID": "Weapon_Laser_SmallLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -223,17 +212,6 @@
             "ComponentDefID": "Gear_HeatSink_CorrosiveDouble",
             "SimGameUID": null,
             "ComponentDefType": "HeatSink",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG_Half",
-            "SimGameUID": null,
-            "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",

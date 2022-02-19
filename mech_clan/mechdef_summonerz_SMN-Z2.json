@@ -255,7 +255,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Gear_Hybrid_Defensive_Package",
+            "ComponentDefID": "Gear_Hybrid_Defensive_Package_1",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
             "HardpointSlot": -1,

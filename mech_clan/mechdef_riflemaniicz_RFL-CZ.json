@@ -12,7 +12,8 @@
             "unit_role_scout",
             "unit_role_flanker",
             "unit_lance_vanguard",
-            "elite_arsenal"
+            "elite_arsenal",
+            "unit_s_tier"
         ],
         "tagSetSourceFile": ""
     },

@@ -110,6 +110,17 @@
     ],
     "inventory": [
         {
+            "MountedLocation": "Head",
+            "ComponentDefID": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha",
+            "SimGameUID": null,
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
             "MountedLocation": "RightArm",
             "ComponentDefID": "Weapon_HyperGauss_HAG40_2",
             "SimGameUID": "",
@@ -154,7 +165,7 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftTorso",
+            "MountedLocation": "LeftLeg",
             "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
             "SimGameUID": "",
             "ComponentDefType": "AmmunitionBox",
@@ -176,7 +187,7 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "RightTorso",
+            "MountedLocation": "RightLeg",
             "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
             "SimGameUID": "",
             "ComponentDefType": "AmmunitionBox",
@@ -210,32 +221,10 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN_2",
+            "ComponentDefID": "Weapon_LRM_ATM12_CLAN_2",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN_2",
-            "SimGameUID": "",
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": 1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Gear_HeatSink_CorrosiveDouble",
-            "SimGameUID": "",
-            "ComponentDefType": "HeatSink",
-            "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,
@@ -253,21 +242,21 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "RightLeg",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM_Double",
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
             "SimGameUID": "",
-            "ComponentDefType": "AmmunitionBox",
-            "HardpointSlot": -1,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "Head",
-            "ComponentDefID": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha",
-            "SimGameUID": null,
-            "ComponentDefType": "Upgrade",
+            "MountedLocation": "RightLeg",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+            "SimGameUID": "",
+            "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",

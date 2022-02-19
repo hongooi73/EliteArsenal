@@ -209,7 +209,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_COIL_COIL-L_0-STOCK",
+            "ComponentDefID": "Weapon_Laser_LargeLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -219,7 +219,7 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftTorso",
+            "MountedLocation": "RightTorso",
             "ComponentDefID": "Gear_HeatSink_CorrosiveDouble",
             "SimGameUID": null,
             "ComponentDefType": "HeatSink",

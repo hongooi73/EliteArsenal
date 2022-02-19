@@ -220,7 +220,7 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftTorso",
+            "MountedLocation": "RightTorso",
             "ComponentDefID": "Gear_HeatSink_CorrosiveDouble",
             "SimGameUID": null,
             "ComponentDefType": "HeatSink",

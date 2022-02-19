@@ -128,7 +128,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_1-RakerIV",
+            "ComponentDefID": "Weapon_Laser_MediumLaser_2-Magna",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

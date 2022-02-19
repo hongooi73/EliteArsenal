@@ -122,7 +122,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_LRM_ATM9_CLAN_1",
+            "ComponentDefID": "Weapon_LRM_LRM20_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -133,7 +133,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_LRM_ATM9_CLAN_1",
+            "ComponentDefID": "Weapon_LRM_LRM20_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -155,7 +155,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_1",
+            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -232,7 +232,7 @@
         },
         {
             "MountedLocation": "LeftLeg",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Double",
             "SimGameUID": null,
             "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,

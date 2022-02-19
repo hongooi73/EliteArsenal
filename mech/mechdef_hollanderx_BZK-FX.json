@@ -4,7 +4,6 @@
             "unit_mech",
             "unit_light",
             "unit_release",
-            "unit_jumpOK",
             "unit_lance_assassin",
             "unit_lance_support",
             "unit_role_sniper",
@@ -129,15 +128,6 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_1-Brigadier",
-            "SimGameUID": "",
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": 2,
-            "DamageLevel": "Functional",
-            "hasPrefabName": false
-        },
-        {
             "MountedLocation": "RightTorso",
             "ComponentDefID": "Weapon_Gauss_Gauss_2-M9",
             "SimGameUID": null,
@@ -175,61 +165,6 @@
             "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG_Half",
             "SimGameUID": null,
             "ComponentDefType": "AmmunitionBox",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "LeftLeg",
-            "ComponentDefID": "Gear_JumpJet_Generic_Standard",
-            "SimGameUID": null,
-            "ComponentDefType": "JumpJet",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "LeftLeg",
-            "ComponentDefID": "Gear_JumpJet_Generic_Standard",
-            "SimGameUID": null,
-            "ComponentDefType": "JumpJet",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightLeg",
-            "ComponentDefID": "Gear_JumpJet_Generic_Standard",
-            "SimGameUID": null,
-            "ComponentDefType": "JumpJet",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightLeg",
-            "ComponentDefID": "Gear_JumpJet_Generic_Standard",
-            "SimGameUID": null,
-            "ComponentDefType": "JumpJet",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "CenterTorso",
-            "ComponentDefID": "Gear_JumpJet_Generic_Standard",
-            "SimGameUID": null,
-            "ComponentDefType": "JumpJet",
             "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",

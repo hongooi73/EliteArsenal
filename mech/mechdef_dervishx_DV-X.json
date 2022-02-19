@@ -254,18 +254,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Gear_TargetingTrackingSystem_ARTEMISIV_2",
-            "SimGameUID": null,
-            "ComponentDefType": "Upgrade",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "RightTorso",
-            "ComponentDefID": "Gear_TargetingTrackingSystem_Hartford_F2400",
+            "ComponentDefID": "Gear_TargetingTrackingSystem_ARTEMISIV_1",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
             "HardpointSlot": -1,

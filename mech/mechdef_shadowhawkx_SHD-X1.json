@@ -204,7 +204,18 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_VSMLaser_1",
+            "ComponentDefID": "Weapon_Laser_MediumLaser_2-Magna",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightArm",
+            "ComponentDefID": "Weapon_Laser_MediumLaser_2-Magna",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

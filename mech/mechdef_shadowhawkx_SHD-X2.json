@@ -192,17 +192,6 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_SmallLaserER_1-Diverse_Optics",
-            "SimGameUID": null,
-            "ComponentDefType": "Weapon",
-            "HardpointSlot": 0,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
             "MountedLocation": "RightArm",
             "ComponentDefID": "Weapon_Laser_MediumLaserPulse_1-RakerIV",
             "SimGameUID": null,

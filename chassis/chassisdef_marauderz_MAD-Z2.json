@@ -8,7 +8,7 @@
         "UIName": "Marauder Z",
         "Id": "chassisdef_marauderz_MAD-Z2",
         "Name": "Marauder Z",
-        "Details": "The MAD-2R is the Marauder variant that was given to the SLDF's Royal Divisions before the fall of the Star League. Like most Royal units, it is exceedingly rare, and comes equipped with advanced weaponry and components.",
+        "Details": "The 5S variant of the Marauder dates to the Clan Invasion, introduced in 3051 by Bowie Industries after the Draconis Combine captured plans for the 5D design. The variant was built around an XL engine to save weight and upgraded the heat sinks to double-strength models. Like the 5D, the 5S carried ER PPCs and medium pulse lasers, but replaced the autocannon with a Poland Main Model A Gauss Rifle.",
         "Icon": "uixTxrIcon_marauder"
     },
     "MovementCapDefID": "movedef_marauder_MAD-2R",
@@ -17,7 +17,7 @@
     "PrefabIdentifier": "chrPrfMech_marauderBase-001",
     "PrefabBase": "marauder",
     "Tonnage": 75,
-    "InitialTonnage": 32.5,
+    "InitialTonnage": 23.5,
     "weightClass": "HEAVY",
     "Heatsinks": 30,
     "MaxJumpjets": 4,
@@ -105,6 +105,10 @@
         {
             "Location": "RightTorso",
             "Hardpoints": [
+                {
+                    "WeaponMount": "Ballistic",
+                    "Omni": false
+                },
                 {
                     "WeaponMount": "Ballistic",
                     "Omni": false
@@ -213,7 +217,7 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Ranged Assault",
-    "YangsThoughts": "The MAD-2R is the Marauder variant that was given to the SLDF's Royal Divisions before the fall of the Star League. Like most Royal units, it is exceedingly rare, and comes equipped with advanced weaponry and components.",
+    "YangsThoughts": "The 5S variant of the Marauder dates to the Clan Invasion, introduced in 3051 by Bowie Industries after the Draconis Combine captured plans for the 5D design. The variant was built around an XL engine to save weight and upgraded the heat sinks to double-strength models. Like the 5D, the 5S carried ER PPCs and medium pulse lasers, but replaced the autocannon with a Poland Main Model A Gauss Rifle.",
     "FixedEquipment": [
         {
             "MountedLocation": "LeftTorso",

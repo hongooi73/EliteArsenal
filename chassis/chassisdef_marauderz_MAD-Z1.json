@@ -8,7 +8,7 @@
         "UIName": "Marauder Z",
         "Id": "chassisdef_marauderz_MAD-Z1",
         "Name": "Marauder Z",
-        "Details": "The MAD-2R is the Marauder variant that was given to the SLDF's Royal Divisions before the fall of the Star League. Like most Royal units, it is exceedingly rare, and comes equipped with advanced weaponry and components.",
+        "Details": "The 5D Marauder was the first updated variant to be designed in the wake of the Helm Memory Core recovery, coming off the factory lines in 3051. A direct upgrade of the 3D model, the 5D's engine was replaced with a General Motors 300 XL Engine, retaining the same speed profile at a much-reduced weight, to allow the entire weapons payload to be stripped out and upgraded. The 5D's primary weapons were two Defiance 1001 ER PPCs, carried in either arm, supported by a Sutel Precision Line Large Pulse Laser in place of the autocannon. The medium lasers were replaced with two Sutel Precision Line Medium Pulse Lasers, while a Federated SuperStreak Streak SRM-2 launcher was also added to the left torso.",
         "Icon": "uixTxrIcon_marauder"
     },
     "MovementCapDefID": "movedef_marauder_MAD-2R",
@@ -17,7 +17,7 @@
     "PrefabIdentifier": "chrPrfMech_marauderBase-001",
     "PrefabBase": "marauder",
     "Tonnage": 75,
-    "InitialTonnage": 32.5,
+    "InitialTonnage": 23.5,
     "weightClass": "HEAVY",
     "Heatsinks": 30,
     "MaxJumpjets": 4,
@@ -83,7 +83,10 @@
         {
             "Location": "LeftTorso",
             "Hardpoints": [
-
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                }
             ],
             "Tonnage": 0,
             "InventorySlots": 10,
@@ -106,7 +109,7 @@
             "Location": "RightTorso",
             "Hardpoints": [
                 {
-                    "WeaponMount": "Ballistic",
+                    "WeaponMount": "Energy",
                     "Omni": false
                 }
             ],
@@ -213,7 +216,7 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Ranged Assault",
-    "YangsThoughts": "The MAD-2R is the Marauder variant that was given to the SLDF's Royal Divisions before the fall of the Star League. Like most Royal units, it is exceedingly rare, and comes equipped with advanced weaponry and components.",
+    "YangsThoughts": "The 5D Marauder was the first updated variant to be designed in the wake of the Helm Memory Core recovery, coming off the factory lines in 3051. A direct upgrade of the 3D model, the 5D's engine was replaced with a General Motors 300 XL Engine, retaining the same speed profile at a much-reduced weight, to allow the entire weapons payload to be stripped out and upgraded. The 5D's primary weapons were two Defiance 1001 ER PPCs, carried in either arm, supported by a Sutel Precision Line Large Pulse Laser in place of the autocannon. The medium lasers were replaced with two Sutel Precision Line Medium Pulse Lasers, while a Federated SuperStreak Streak SRM-2 launcher was also added to the left torso.",
     "FixedEquipment": [
         {
             "MountedLocation": "LeftTorso",

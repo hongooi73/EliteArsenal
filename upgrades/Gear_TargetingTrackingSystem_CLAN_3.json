@@ -75,7 +75,7 @@
             "Description": {
                 "Id": "TC-IgnoreEvasion-Energy",
                 "Name": "TARGET LOCK",
-                "Details": "unit's energy weapons ignore [AMT] charges of EVASIVE.",
+                "Details": "This unit's energy weapons ignore [AMT] charges of EVASIVE.",
                 "Icon": "UixSvgIcon_specialEquip_System"
             },
             "statisticData": {

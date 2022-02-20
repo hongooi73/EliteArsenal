@@ -18,7 +18,8 @@
             "unit_noncombatant",
             "unit_vehicle_apc",
             "unit_release",
-            "elite_arsenal"
+            "elite_arsenal",
+            "elite_arsenal_s_tier"
         ],
         "tagSetSourceFile": ""
     },

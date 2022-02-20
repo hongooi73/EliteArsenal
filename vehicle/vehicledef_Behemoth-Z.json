@@ -15,7 +15,8 @@
             "unit_vehicle",
             "unit_assault",
             "unit_tracks",
-            "elite_arsenal"
+            "elite_arsenal",
+            "elite_arsenal_s_tier"
         ],
         "tagSetSourceFile": ""
     },

@@ -21,7 +21,6 @@
             "BaumannGroup",
             "BlackAngels",
             "BlackCalderaDefense",
-            "BlackWidowCompany",
             "BountyHunterAssociates",
             "BrotherhoodOfRandis",
             "CanopianPirates",
@@ -129,6 +128,13 @@
             "ComponentDefType": "Weapon",
             "MountedLocation": "Turret",
             "HardpointSlot": 2,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Gear_Heavy_Defensive_Suite_1",
+            "ComponentDefType": "Upgrade",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
             "DamageLevel": "Functional"
         }
     ]

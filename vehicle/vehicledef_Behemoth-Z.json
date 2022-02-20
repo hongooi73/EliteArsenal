@@ -129,7 +129,7 @@
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Gear_Heavy_Defensive_Suite",
+            "ComponentDefID": "Gear_Heavy_Defensive_Suite_1",
             "ComponentDefType": "Upgrade",
             "MountedLocation": "Front",
             "HardpointSlot": -1,

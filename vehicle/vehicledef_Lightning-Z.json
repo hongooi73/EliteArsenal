@@ -72,6 +72,13 @@
             "MountedLocation": "Front",
             "HardpointSlot": -1,
             "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Gear_Passive_Defensive_Matrix_1",
+            "ComponentDefType": "Upgrade",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
         }
     ]
 }

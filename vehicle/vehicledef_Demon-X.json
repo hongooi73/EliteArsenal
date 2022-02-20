@@ -113,6 +113,13 @@
             "MountedLocation": "Front",
             "HardpointSlot": -1,
             "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Gear_Hybrid_Defensive_Package",
+            "ComponentDefType": "Upgrade",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
         }
     ]
 }

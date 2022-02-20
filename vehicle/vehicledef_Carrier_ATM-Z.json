@@ -22,7 +22,6 @@
             "BaumannGroup",
             "BlackAngels",
             "BlackCalderaDefense",
-            "BlackWidowCompany",
             "BountyHunterAssociates",
             "BrotherhoodOfRandis",
             "CanopianPirates",
@@ -150,6 +149,13 @@
         {
             "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
             "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Gear_Hybrid_Defensive_Package_1",
+            "ComponentDefType": "Upgrade",
             "MountedLocation": "Front",
             "HardpointSlot": -1,
             "DamageLevel": "Functional"

@@ -41,7 +41,7 @@
         "Icon": "uixSvgIcon_weapon_Missile"
     },
     "BonusValueA": "+ 2 Dmg., Ignores 2 Evasion, + 2 Acc.",
-    "BonusValueB": "- 1 Heat",
+    "BonusValueB": "- 1 Heat, - 0.5 Tons",
     "ComponentType": "Weapon",
     "ComponentSubType": "Weapon",
     "PrefabIdentifier": "srm2",
@@ -49,7 +49,7 @@
     "HitGenerator": "Streak",
     "BattleValue": 0,
     "InventorySize": 1,
-    "Tonnage": 1,
+    "Tonnage": 0.5,
     "AllowedLocations": "All",
     "DisallowedLocations": "All",
     "CriticalComponent": false,

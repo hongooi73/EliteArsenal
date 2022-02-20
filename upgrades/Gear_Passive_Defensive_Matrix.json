@@ -14,8 +14,8 @@
         "Details": "A protective retrofit of spaced armour constructed of lightweight, advanced metamaterials that serves to deflect incoming attacks and reduce damage.",
         "Icon": "UixSvgIcon_specialEquip_System"
     },
-    "BonusValueA": "- 15% Dmg.",
-    "BonusValueB": "+ 30% Stability",
+    "BonusValueA": "- 20% Dmg.",
+    "BonusValueB": "+ 25% Stability",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
     "PrefabIdentifier": "",
@@ -49,7 +49,7 @@
                 "effectsPersistAfterDestruction": false,
                 "statName": "DamageReductionMultiplierAll",
                 "operation": "Float_Multiply",
-                "modValue": "0.85",
+                "modValue": "0.8",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "NotSet",
@@ -75,7 +75,7 @@
             "Description": {
                 "Id": "StatusEffect-EA-StabilityIncrease",
                 "Name": "STABILITY INCREASE",
-                "Details": "This unit's stability is increased by 30%.",
+                "Details": "This unit's stability is increased by 25%.",
                 "Icon": "uixSvgIcon_special_Equipment"
             },
             "statisticData": {

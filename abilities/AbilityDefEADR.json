@@ -2,11 +2,11 @@
     "Description": {
         "Id": "AbilityDefEADR",
         "Name": "Elite Arsenal Damage Reduction",
-        "Details": "PASSIVE: Elite Arsenal pilots have 25% damage reduction and +25% stability.",
-        "Icon": "UixSvgIcon_specialAbility_BWCL"
+        "Details": "PASSIVE: Elite Arsenal pilots have 20% damage reduction and +25% stability.",
+        "Icon": "UixSvgIcon_specialAbility_HiredGuns"
     },
     "Type": "Command",
-    "ShortDesc": "+ 25% Damage Reduction and Increased Stability",
+    "ShortDesc": "Damage Reduction and Increased Stability",
     "DisplayParams": "NeverShow",
     "ActivationTime": "Passive",
     "EffectData": [
@@ -33,7 +33,7 @@
             "statisticData": {
                 "statName": "DamageReductionMultiplierAll",
                 "operation": "Float_Multiply",
-                "modValue": "0.75",
+                "modValue": "0.8",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "NotSet",

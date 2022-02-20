@@ -6,7 +6,7 @@
         "Icon": "UixSvgIcon_specialAbility_BWCL"
     },
     "Type": "Command",
-    "ShortDesc": "+ 25% Damage Reduction",
+    "ShortDesc": "+ 25% Damage Reduction and Increased Stability",
     "DisplayParams": "NeverShow",
     "ActivationTime": "Passive",
     "EffectData": [

@@ -33,7 +33,7 @@
             "excludedUnitTagSet": {
                 "items": [
                     "unit_urbie",
-                    "elite_arsenal"
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -64,7 +64,7 @@
             "excludedUnitTagSet": {
                 "items": [
                     "unit_urbie",
-                    "elite_arsenal"
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -95,7 +95,7 @@
             "excludedUnitTagSet": {
                 "items": [
                     "unit_urbie",
-                    "elite_arsenal"
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -126,7 +126,7 @@
             "excludedUnitTagSet": {
                 "items": [
                     "unit_urbie",
-                    "elite_arsenal"
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

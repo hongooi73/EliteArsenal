@@ -29,7 +29,8 @@
             "unitTagSet": {
                 "items": [
                     "unit_mech",
-                    "elite_arsenal"
+                    "elite_arsenal",
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -61,7 +62,8 @@
                 "items": [
                     "unit_heavy",
                     "unit_mech",
-                    "elite_arsenal"
+                    "elite_arsenal",
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -98,13 +100,14 @@
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d8_elite_arsenal"
+                    "pilot_npc_d8_elite"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -121,14 +124,15 @@
                 "items": [
                     "unit_heavy",
                     "unit_mech",
-                    "BlackWidowCompany"
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

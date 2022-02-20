@@ -30,7 +30,8 @@
                 "items": [
                     "unit_mech",
                     "unit_heavy",
-                    "elite_arsenal"
+                    "elite_arsenal",
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -60,7 +61,8 @@
                 "items": [
                     "unit_heavy",
                     "unit_mech",
-                    "elite_arsenal"
+                    "elite_arsenal",
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

@@ -32,7 +32,7 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "elite_arsenal"
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -60,7 +60,7 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "elite_arsenal"
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -88,7 +88,7 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "elite_arsenal"
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -116,7 +116,7 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "elite_arsenal"
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

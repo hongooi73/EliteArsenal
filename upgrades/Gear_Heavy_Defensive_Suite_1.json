@@ -15,7 +15,7 @@
         "Icon": "UixSvgIcon_specialEquip_System"
     },
     "BonusValueA": "- 30% Dmg.",
-    "BonusValueB": "",
+    "BonusValueB": "+ 40% Stability",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
     "PrefabIdentifier": "",
@@ -39,7 +39,7 @@
             },
             "effectType": "StatisticEffect",
             "Description": {
-                "Id": "StatusEffect-EE-DamageReduction",
+                "Id": "StatusEffect-EA-DamageReduction",
                 "Name": "DAMAGE REDUCTION",
                 "Details": "This unit takes [AMT] less damage.",
                 "Icon": "uixSvgIcon_special_Equipment"
@@ -50,6 +50,40 @@
                 "statName": "DamageReductionMultiplierAll",
                 "operation": "Float_Multiply",
                 "modValue": "0.7",
+                "modType": "System.Single",
+                "additionalRules": "NotSet",
+                "targetCollection": "NotSet",
+                "targetWeaponCategory": "NotSet",
+                "targetWeaponType": "NotSet",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            },
+            "nature": "Buff"
+        },
+        {
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "Creator",
+                "showInTargetPreview": true,
+                "showInStatusPanel": true
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+                "Id": "StatusEffect-EA-StabilityIncrease",
+                "Name": "STABILITY INCREASE",
+                "Details": "This unit's stability is increased by 40%.",
+                "Icon": "uixSvgIcon_special_Equipment"
+            },
+            "statisticData": {
+                "appliesEachTick": false,
+                "effectsPersistAfterDestruction": false,
+                "statName": "MaxStability",
+                "operation": "Float_Multiply",
+                "modValue": "1.4",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "NotSet",

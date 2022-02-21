@@ -8,7 +8,7 @@
         "UIName": "Warhammer Z",
         "Id": "chassisdef_warhammerz_WHM-Z",
         "Name": "Warhammer Z",
-        "Details": "An extremely rare Warhammer variant associated with the SLDF's famed Royal Divisions. Kitted out with top-tier weaponry and advanced heat management, the WHM-7A was piloted by the best-trained MechWarriors the SLDF had to offer.",
+        "Details": "This variant was developed by ComStar to more easily traverse the difficult terrain and engage in the ambush tactics intended for the Battle of Tukayyid. The PPCs are replaced by Fusigon Longtooth extended range models and the heat sinks are traded for double strength models. The secondary weapons of the WHM-6R are removed. Two Martel Medium Lasers are in each side torso, and the SRM-6 has been replaced by three Hovertec Streak SRM-2 launchers. A ton of Streak ammo is carried in the CASE-protected right torso. Finally four Leviathon Plus jump jets are installed in the legs, allowing this Warhammer to quickly reposition itself within 120 meters.",
         "Icon": "uixTxrIcon_warhammer"
     },
     "MovementCapDefID": "movedef_warhammer_WHM-7A",
@@ -17,7 +17,7 @@
     "PrefabIdentifier": "chrPrfMech_warhammerBase-001",
     "PrefabBase": "warhammer",
     "Tonnage": 70,
-    "InitialTonnage": 25.5,
+    "InitialTonnage": 21.5,
     "weightClass": "HEAVY",
     "Heatsinks": 30,
     "MaxJumpjets": 4,
@@ -114,6 +114,14 @@
             "Hardpoints": [
                 {
                     "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Missile",
                     "Omni": false
                 },
                 {
@@ -228,7 +236,7 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Brawler",
-    "YangsThoughts": "An extremely rare Warhammer variant associated with the SLDF's famed Royal Divisions. Kitted out with top-tier weaponry and advanced heat management, the WHM-7A was piloted by the best-trained MechWarriors the SLDF had to offer.",
+    "YangsThoughts": "This variant was developed by ComStar to more easily traverse the difficult terrain and engage in the ambush tactics intended for the Battle of Tukayyid. The PPCs are replaced by Fusigon Longtooth extended range models and the heat sinks are traded for double strength models. The secondary weapons of the WHM-6R are removed. Two Martel Medium Lasers are in each side torso, and the SRM-6 has been replaced by three Hovertec Streak SRM-2 launchers. A ton of Streak ammo is carried in the CASE-protected right torso. Finally four Leviathon Plus jump jets are installed in the legs, allowing this Warhammer to quickly reposition itself within 120 meters.",
     "FixedEquipment": [
         {
             "MountedLocation": "CenterTorso",

@@ -221,7 +221,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_SRM_SRM4_STREAK_CLAN_2",
+            "ComponentDefID": "Weapon_SRM_SRM6_STREAK_CLAN_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

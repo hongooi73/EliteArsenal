@@ -221,6 +221,17 @@
             "hasPrefabName": false
         },
         {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Weapon_SRM_SRM2_STREAK_2",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
             "MountedLocation": "RightTorso",
             "ComponentDefID": "Gear_JumpJet_Generic_Standard",
             "SimGameUID": null,

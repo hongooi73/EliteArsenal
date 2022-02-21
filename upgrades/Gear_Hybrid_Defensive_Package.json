@@ -3,7 +3,7 @@
     "RelativeModifier": 0,
     "AbsoluteModifier": 0,
     "Description": {
-        "Cost": 20000000,
+        "Cost": 5000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": "Expanded Arsenal",
@@ -15,12 +15,12 @@
         "Icon": "UixSvgIcon_specialEquip_System"
     },
     "BonusValueA": "- 20% Dmg.",
-    "BonusValueB": "",
+    "BonusValueB": "+ 30% Stability",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
     "PrefabIdentifier": "",
     "BattleValue": 0,
-    "InventorySize": 3,
+    "InventorySize": 2,
     "Tonnage": 0.5,
     "AllowedLocations": "LeftTorso,RightTorso",
     "DisallowedLocations": "All",
@@ -39,7 +39,7 @@
             },
             "effectType": "StatisticEffect",
             "Description": {
-                "Id": "StatusEffect-EE-DamageReduction",
+                "Id": "StatusEffect-EA-DamageReduction",
                 "Name": "DAMAGE REDUCTION",
                 "Details": "This unit takes [AMT] less damage.",
                 "Icon": "uixSvgIcon_special_Equipment"
@@ -50,6 +50,40 @@
                 "statName": "DamageReductionMultiplierAll",
                 "operation": "Float_Multiply",
                 "modValue": "0.8",
+                "modType": "System.Single",
+                "additionalRules": "NotSet",
+                "targetCollection": "NotSet",
+                "targetWeaponCategory": "NotSet",
+                "targetWeaponType": "NotSet",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            },
+            "nature": "Buff"
+        },
+        {
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "Creator",
+                "showInTargetPreview": true,
+                "showInStatusPanel": true
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+                "Id": "StatusEffect-EA-StabilityIncrease",
+                "Name": "STABILITY INCREASE",
+                "Details": "This unit's stability is increased by 30%.",
+                "Icon": "uixSvgIcon_special_Equipment"
+            },
+            "statisticData": {
+                "appliesEachTick": false,
+                "effectsPersistAfterDestruction": false,
+                "statName": "MaxStability",
+                "operation": "Float_Multiply",
+                "modValue": "1.3",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "NotSet",

@@ -9,13 +9,14 @@
         "Rarity": 9,
         "Purchasable": false
     },
-    "ChassisID": "vehiclechassisdef_Zhukov-X",
+    "ChassisID": "vehiclechassisdef_Zhukov-Z",
     "VehicleTags": {
         "items": [
             "unit_vehicle",
             "unit_heavy",
             "unit_tracks",
-            "elite_arsenal"
+            "elite_arsenal",
+            "elite_arsenal_s_tier"
         ],
         "tagSetSourceFile": ""
     },
@@ -93,7 +94,7 @@
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Gear_Hybrid_Defensive_Package",
+            "ComponentDefID": "Gear_Hybrid_Defensive_Package_1",
             "ComponentDefType": "Upgrade",
             "MountedLocation": "Front",
             "HardpointSlot": -1,

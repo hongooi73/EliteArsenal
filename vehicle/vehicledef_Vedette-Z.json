@@ -15,7 +15,8 @@
             "unit_vehicle",
             "unit_medium",
             "unit_tracks",
-            "elite_arsenal"
+            "elite_arsenal",
+            "elite_arsenal_s_tier"
         ],
         "tagSetSourceFile": ""
     },
@@ -86,7 +87,7 @@
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Gear_Passive_Defensive_Matrix",
+            "ComponentDefID": "Gear_Passive_Defensive_Matrix_1",
             "ComponentDefType": "Upgrade",
             "MountedLocation": "Front",
             "HardpointSlot": -1,

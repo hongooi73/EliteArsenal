@@ -2,18 +2,18 @@
     "Description": {
         "Id": "AbilityDefEADR",
         "Name": "Elite Arsenal Damage Reduction",
-        "Details": "PASSIVE: Elite Arsenal units have 25% damage reduction.",
-        "Icon": "UixSvgIcon_specialAbility_BWCL"
+        "Details": "PASSIVE: Elite Arsenal pilots have 20% damage reduction and +25% stability.",
+        "Icon": "UixSvgIcon_specialAbility_HiredGuns"
     },
     "Type": "Command",
-    "ShortDesc": "+ 20% Damage Reduction",
+    "ShortDesc": "Damage Reduction and Increased Stability",
     "DisplayParams": "NeverShow",
     "ActivationTime": "Passive",
     "EffectData": [
         {
             "Description": {
-                "Id": "StatusEffect-EA-DamageReduction",
-                "Name": "DAMAGE MITIGATION",
+                "Id": "StatusEffect-EA-PilotDR",
+                "Name": "ELITE DAMAGE REDUCTION",
                 "Details": "This unit takes [AMT] less damage.",
                 "Icon": "UixSvgIcon_specialAbility_BWCL"
             },
@@ -33,7 +33,7 @@
             "statisticData": {
                 "statName": "DamageReductionMultiplierAll",
                 "operation": "Float_Multiply",
-                "modValue": "0.75",
+                "modValue": "0.8",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "NotSet",
@@ -42,6 +42,40 @@
                 "targetAmmoCategory": "NotSet",
                 "targetWeaponSubType": "NotSet"
             }
+        },
+        {
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "Creator",
+                "showInTargetPreview": true,
+                "showInStatusPanel": true
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+                "Id": "StatusEffect-EA-PilotStab",
+                "Name": "ELITE STABILITY INCREASE",
+                "Details": "This unit's stability is increased by 25%.",
+                "Icon": "uixSvgIcon_special_Equipment"
+            },
+            "statisticData": {
+                "appliesEachTick": false,
+                "effectsPersistAfterDestruction": false,
+                "statName": "MaxStability",
+                "operation": "Float_Multiply",
+                "modValue": "1.25",
+                "modType": "System.Single",
+                "additionalRules": "NotSet",
+                "targetCollection": "NotSet",
+                "targetWeaponCategory": "NotSet",
+                "targetWeaponType": "NotSet",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            },
+            "nature": "Buff"
         }
     ]
 }

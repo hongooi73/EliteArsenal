@@ -30,7 +30,8 @@
                 "items": [
                     "unit_light",
                     "unit_mech",
-                    "elite_arsenal"
+                    "elite_arsenal",
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -58,10 +59,9 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_jumpOK",
                     "unit_light",
                     "unit_mech",
-                    "unit_lance_assassin"
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -69,18 +69,18 @@
                 "items": [
                     "unit_noncombatant",
                     "unit_urbie",
-                    "elite_arsenal"
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d3",
+                "items": [
+                    "pilot_npc_d3_elite"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ],
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -90,28 +90,27 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_jumpOK",
                     "unit_light",
-                    "unit_mech"
+                    "unit_mech",
+                    "BlackWidowCompany"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie",
-                    "elite_arsenal"
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d3",
+                "items": [
+                    "pilot_npc_d3_elite"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ],
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -123,26 +122,25 @@
                 "items": [
                     "unit_medium",
                     "unit_mech",
-                    "unit_jumpOK"
+                    "BlackWidowCompany"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie",
-                    "elite_arsenal"
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d3",
+                "items": [
+                    "pilot_npc_d3_elite"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ],
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

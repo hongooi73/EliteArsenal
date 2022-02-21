@@ -1,0 +1,92 @@
+{
+    "Version": 1,
+    "Description": {
+        "Id": "vehicledef_Bolla-Z",
+        "Name": "Bolla Z",
+        "Details": "",
+        "Icon": "",
+        "Cost": 993,
+        "Rarity": 9,
+        "Purchasable": false
+    },
+    "ChassisID": "vehiclechassisdef_Bolla-Z",
+    "VehicleTags": {
+        "items": [
+            "unit_vehicle",
+            "unit_heavy",
+            "unit_wheels",
+            "unit_release",
+            "elite_arsenal",
+            "elite_arsenal_s_tier"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "Locations": [
+        {
+            "Location": "Front",
+            "CurrentArmor": 170,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 170,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Left",
+            "CurrentArmor": 160,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 160,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Right",
+            "CurrentArmor": 160,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 160,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Rear",
+            "CurrentArmor": 150,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 150,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Turret",
+            "CurrentArmor": 200,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 200,
+            "DamageLevel": "Functional"
+        }
+    ],
+    "inventory": [
+        {
+            "ComponentDefID": "Weapon_Gauss_Gauss_3-EA",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Turret",
+            "HardpointSlot": 0,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Weapon_Autocannon_UAC2_2-Imperator",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Turret",
+            "HardpointSlot": 0,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
+            "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_AC2",
+            "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        }
+    ]
+}
+

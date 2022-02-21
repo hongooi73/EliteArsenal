@@ -133,7 +133,7 @@
         },
         {
             "MountedLocation": "CenterTorso",
-            "ComponentDefID": "Weapon_Laser_SmallLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_SmallLaserER_Clantech_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -155,7 +155,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_PPC_PPCER_CLAN_2",
+            "ComponentDefID": "Weapon_PPC_PPCER_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -166,7 +166,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_PPC_PPCER_CLAN_2",
+            "ComponentDefID": "Weapon_PPC_PPCER_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,

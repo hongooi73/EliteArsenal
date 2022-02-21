@@ -16,7 +16,8 @@
             "unit_heavy",
             "unit_tracks",
             "unit_release",
-            "elite_arsenal"
+            "elite_arsenal",
+            "elite_arsenal_s_tier"
         ],
         "tagSetSourceFile": ""
     },
@@ -89,6 +90,13 @@
         {
             "ComponentDefID": "Ammo_AmmunitionBox_Generic_AC5_Double",
             "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Gear_Hybrid_Defensive_Package_1",
+            "ComponentDefType": "Upgrade",
             "MountedLocation": "Front",
             "HardpointSlot": -1,
             "DamageLevel": "Functional"

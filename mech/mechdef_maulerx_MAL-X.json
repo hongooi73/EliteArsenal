@@ -46,64 +46,64 @@
         {
             "DamageLevel": "Functional",
             "Location": "LeftArm",
-            "CurrentArmor": 140,
+            "CurrentArmor": 115,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 75,
-            "AssignedArmor": 140,
+            "AssignedArmor": 115,
             "AssignedRearArmor": -1
         },
         {
             "DamageLevel": "Functional",
             "Location": "LeftTorso",
-            "CurrentArmor": 145,
+            "CurrentArmor": 125,
             "CurrentRearArmor": 25,
             "CurrentInternalStructure": 95,
-            "AssignedArmor": 145,
+            "AssignedArmor": 125,
             "AssignedRearArmor": 25
         },
         {
             "DamageLevel": "Functional",
             "Location": "CenterTorso",
-            "CurrentArmor": 175,
-            "CurrentRearArmor": 40,
+            "CurrentArmor": 140,
+            "CurrentRearArmor": 35,
             "CurrentInternalStructure": 145,
-            "AssignedArmor": 175,
-            "AssignedRearArmor": 40
+            "AssignedArmor": 140,
+            "AssignedRearArmor": 35
         },
         {
             "DamageLevel": "Functional",
             "Location": "RightTorso",
-            "CurrentArmor": 145,
+            "CurrentArmor": 125,
             "CurrentRearArmor": 25,
             "CurrentInternalStructure": 95,
-            "AssignedArmor": 145,
+            "AssignedArmor": 125,
             "AssignedRearArmor": 25
         },
         {
             "DamageLevel": "Functional",
             "Location": "RightArm",
-            "CurrentArmor": 140,
+            "CurrentArmor": 115,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 75,
-            "AssignedArmor": 140,
+            "AssignedArmor": 115,
             "AssignedRearArmor": -1
         },
         {
             "DamageLevel": "Functional",
             "Location": "LeftLeg",
-            "CurrentArmor": 140,
+            "CurrentArmor": 125,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 95,
-            "AssignedArmor": 140,
+            "AssignedArmor": 125,
             "AssignedRearArmor": -1
         },
         {
             "DamageLevel": "Functional",
             "Location": "RightLeg",
-            "CurrentArmor": 140,
+            "CurrentArmor": 125,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 95,
-            "AssignedArmor": 140,
+            "AssignedArmor": 125,
             "AssignedRearArmor": -1
         }
     ],
@@ -132,7 +132,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_2",
+            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -143,7 +143,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_LRM_LRM15_3-Zeus",
+            "ComponentDefID": "Weapon_LRM_LRM15_2-Delta",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -198,7 +198,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_LRM_LRM15_3-Zeus",
+            "ComponentDefID": "Weapon_LRM_LRM15_2-Delta",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -253,7 +253,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_2",
+            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_1",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -300,6 +300,17 @@
             "ComponentDefID": "Gear_HeatSink_CorrosiveDouble",
             "SimGameUID": null,
             "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_Heavy_Defensive_Suite",
+            "SimGameUID": null,
+            "ComponentDefType": "Upgrade",
             "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",

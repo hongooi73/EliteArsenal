@@ -22,7 +22,6 @@
             "BaumannGroup",
             "BlackAngels",
             "BlackCalderaDefense",
-            "BlackWidowCompany",
             "BountyHunterAssociates",
             "BrotherhoodOfRandis",
             "CanopianPirates",
@@ -69,7 +68,8 @@
             "Warboys",
             "unit_release",
             "unit_vehicle_carrier",
-            "elite_arsenal"
+            "elite_arsenal",
+            "elite_arsenal_s_tier"
         ],
         "tagSetSourceFile": ""
     },
@@ -149,6 +149,13 @@
         {
             "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
             "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Gear_Hybrid_Defensive_Package_1",
+            "ComponentDefType": "Upgrade",
             "MountedLocation": "Front",
             "HardpointSlot": -1,
             "DamageLevel": "Functional"

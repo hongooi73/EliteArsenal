@@ -11,7 +11,7 @@
     ],
     "AmmoCategoryID": "SRM",
     "StartingAmmoCapacity": 0,
-    "HeatGenerated": 8,
+    "HeatGenerated": 6,
     "Damage": 10,
     "OverheatedDamageMultiplier": 0,
     "EvasiveDamageMultiplier": 0,
@@ -41,7 +41,7 @@
         "Icon": "uixSvgIcon_weapon_Missile"
     },
     "BonusValueA": "+ 2 Dmg., Ignores 2 Evasion, + 2 Acc.",
-    "BonusValueB": "",
+    "BonusValueB": "- 2 Heat",
     "ComponentType": "Weapon",
     "ComponentSubType": "Weapon",
     "PrefabIdentifier": "srm4",

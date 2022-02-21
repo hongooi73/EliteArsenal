@@ -15,7 +15,8 @@
             "unit_vehicle",
             "unit_assault",
             "unit_tracks",
-            "elite_arsenal"
+            "elite_arsenal",
+            "elite_arsenal_s_tier"
         ],
         "tagSetSourceFile": ""
     },
@@ -100,7 +101,7 @@
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Gear_Heavy_Defensive_Suite",
+            "ComponentDefID": "Gear_Heavy_Defensive_Suite_1",
             "ComponentDefType": "Upgrade",
             "MountedLocation": "Front",
             "HardpointSlot": -1,

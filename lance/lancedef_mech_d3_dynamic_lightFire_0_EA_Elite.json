@@ -30,7 +30,8 @@
                 "items": [
                     "unit_light",
                     "unit_mech",
-                    "elite_arsenal"
+                    "elite_arsenal",
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -59,39 +60,8 @@
             "unitTagSet": {
                 "items": [
                     "unit_light",
-                    "unit_mech"
-                ],
-                "tagSetSourceFile": "Tags/UnitTags"
-            },
-            "excludedUnitTagSet": {
-                "items": [
-                    "unit_lance_vanguard",
-                    "unit_lance_support",
-                    "unit_noncombatant",
-                    "unit_urbie",
+                    "unit_mech",
                     "elite_arsenal"
-                ],
-                "tagSetSourceFile": "Tags/UnitTags"
-            },
-            "pilotTagSet": {
-                "items": "pilot_npc_d3",
-                "tagSetSourceFile": "Tags/PilotTags"
-            },
-            "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ],
-                "tagSetSourceFile": "Tags/PilotTags"
-            }
-        },
-        {
-            "unitType": "Mech",
-            "unitId": "Tagged",
-            "pilotId": "Tagged",
-            "unitTagSet": {
-                "items": [
-                    "unit_light",
-                    "unit_mech"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -99,18 +69,18 @@
                 "items": [
                     "unit_noncombatant",
                     "unit_urbie",
-                    "elite_arsenal"
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d3",
+                "items": [
+                    "pilot_npc_d3_elite"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ],
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -122,26 +92,55 @@
                 "items": [
                     "unit_light",
                     "unit_mech",
-                    "unit_lance_support"
+                    "BlackWidowCompany"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie",
-                    "elite_arsenal"
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d3",
+                "items": [
+                    "pilot_npc_d3_elite"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Mech",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
                 "items": [
-                    "elite_arsenal"
+                    "unit_light",
+                    "unit_mech",
+                    "BlackWidowCompany"
                 ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_noncombatant",
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d3_elite"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

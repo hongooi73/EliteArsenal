@@ -1,56 +1,33 @@
 {
     "Description": {
-        "Cost": 7800000,
-        "Rarity": 4,
+        "Cost": 5900000,
+        "Rarity": 2,
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Hatamoto-Chi X",
-        "Id": "chassisdef_hatamotochix_HTM-X",
-        "Name": "Hatamoto-Chi X",
-        "Details": "Custom Hatamoto-Chi with Katanae in both arms.",
-        "Icon": "uixTxrIcon_hatamotochisam"
+        "UIName": "Hellfire Z",
+        "Id": "chassisdef_hellfirez_HLF-Z1",
+        "Name": "Hellfire Z",
+        "Details": "Approximately twice as expensive as the original, the Hellfire 2 uses an 300-rated XL Engine to increase the 'Mech's speed to 86 km/h. In place of the LRMs are a pair of ATM 6s. The heavy smalls are replaced with a single ER Small Laser and an additional double heat sink.",
+        "Icon": "uixTxrIcon_hellfire"
     },
     "FixedEquipment": [
-        {
-            "ComponentDefID": "Gear_Actuator_Chi_Katana",
-            "ComponentDefType": "Upgrade",
-            "DamageLevel": "Functional",
-            "GUID": null,
-            "HardpointSlot": -1,
-            "IsFixed": true,
-            "MountedLocation": "RightArm",
-            "SimGameUID": "",
-            "hasPrefabName": false,
-            "prefabName": null
-        },
-        {
-            "ComponentDefID": "Gear_Actuator_Chi_Katana",
-            "ComponentDefType": "Upgrade",
-            "DamageLevel": "Functional",
-            "GUID": null,
-            "HardpointSlot": -1,
-            "IsFixed": true,
-            "MountedLocation": "LeftArm",
-            "SimGameUID": "",
-            "hasPrefabName": false,
-            "prefabName": null
-        }
+
     ],
-    "MovementCapDefID": "movedef_hatamotochi_HTM-SAM",
-    "PathingCapDefID": "pathingdef_assault",
-    "HardpointDataDefID": "hardpointdatadef_hatamotochisam",
-    "PrefabIdentifier": "chrprfmech_hatamotochisam-001",
-    "PrefabBase": "hatamotochisam",
-    "Tonnage": 80,
-    "InitialTonnage": 33.5,
-    "weightClass": "ASSAULT",
-    "BattleValue": 7718000,
+    "MovementCapDefID": "movedef_hellfire_300",
+    "PathingCapDefID": "pathingdef_heavy",
+    "HardpointDataDefID": "hardpointdatadef_hellfire",
+    "PrefabIdentifier": "chrprfmech_hellfirebase-001",
+    "PrefabBase": "hellfire",
+    "Tonnage": 60,
+    "InitialTonnage": 21,
+    "weightClass": "HEAVY",
+    "BattleValue": 5383000,
     "Heatsinks": 30,
-    "TopSpeed": 105,
+    "TopSpeed": 150,
     "TurnRadius": 90,
-    "MaxJumpjets": 4,
-    "Stability": 200,
+    "MaxJumpjets": 5,
+    "Stability": 160,
     "StabilityDefenses": [
         0,
         0,
@@ -64,14 +41,14 @@
     "SensorRangeMultiplier": 1,
     "Signature": 0,
     "Radius": 8,
-    "PunchesWithLeftArm": true,
-    "MeleeDamage": 120,
-    "MeleeInstability": 80,
+    "PunchesWithLeftArm": false,
+    "MeleeDamage": 90,
+    "MeleeInstability": 60,
     "MeleeToHitModifier": 0,
-    "DFADamage": 100,
+    "DFADamage": 75,
     "DFAToHitModifier": 0,
-    "DFASelfDamage": 100,
-    "DFAInstability": 100,
+    "DFASelfDamage": 75,
+    "DFAInstability": 75,
     "Locations": [
         {
             "Location": "Head",
@@ -98,23 +75,23 @@
                 {
                     "WeaponMount": "Energy",
                     "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
                 }
             ],
             "Tonnage": 0,
             "InventorySlots": 8,
-            "MaxArmor": 130,
+            "MaxArmor": 100,
             "MaxRearArmor": -1,
-            "InternalStructure": 65
+            "InternalStructure": 50
         },
         {
             "Location": "LeftTorso",
             "Hardpoints": [
                 {
-                    "WeaponMount": "Missile",
-                    "Omni": false
-                },
-                {
-                    "WeaponMount": "Missile",
+                    "WeaponMount": "Energy",
                     "Omni": false
                 },
                 {
@@ -124,9 +101,9 @@
             ],
             "Tonnage": 0,
             "InventorySlots": 10,
-            "MaxArmor": 170,
-            "MaxRearArmor": 85,
-            "InternalStructure": 85
+            "MaxArmor": 140,
+            "MaxRearArmor": 70,
+            "InternalStructure": 70
         },
         {
             "Location": "CenterTorso",
@@ -135,9 +112,9 @@
             ],
             "Tonnage": 0,
             "InventorySlots": 4,
-            "MaxArmor": 250,
-            "MaxRearArmor": 125,
-            "InternalStructure": 125
+            "MaxArmor": 200,
+            "MaxRearArmor": 100,
+            "InternalStructure": 100
         },
         {
             "Location": "RightTorso",
@@ -149,17 +126,13 @@
                 {
                     "WeaponMount": "Missile",
                     "Omni": false
-                },
-                {
-                    "WeaponMount": "Missile",
-                    "Omni": false
                 }
             ],
             "Tonnage": 0,
             "InventorySlots": 10,
-            "MaxArmor": 170,
-            "MaxRearArmor": 85,
-            "InternalStructure": 85
+            "MaxArmor": 140,
+            "MaxRearArmor": 70,
+            "InternalStructure": 70
         },
         {
             "Location": "RightArm",
@@ -175,13 +148,17 @@
                 {
                     "WeaponMount": "Energy",
                     "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
                 }
             ],
             "Tonnage": 0,
             "InventorySlots": 8,
-            "MaxArmor": 130,
+            "MaxArmor": 100,
             "MaxRearArmor": -1,
-            "InternalStructure": 65
+            "InternalStructure": 50
         },
         {
             "Location": "LeftLeg",
@@ -190,9 +167,9 @@
             ],
             "Tonnage": 0,
             "InventorySlots": 4,
-            "MaxArmor": 170,
+            "MaxArmor": 140,
             "MaxRearArmor": -1,
-            "InternalStructure": 85
+            "InternalStructure": 70
         },
         {
             "Location": "RightLeg",
@@ -201,63 +178,63 @@
             ],
             "Tonnage": 0,
             "InventorySlots": 4,
-            "MaxArmor": 170,
+            "MaxArmor": 140,
             "MaxRearArmor": -1,
-            "InternalStructure": 85
+            "InternalStructure": 70
         }
     ],
     "LOSSourcePositions": [
         {
             "x": 0,
-            "y": 14,
+            "y": 13,
+            "z": 1
+        },
+        {
+            "x": 3,
+            "y": 13,
             "z": 0
         },
         {
-            "x": 4,
-            "y": 15,
-            "z": -1
-        },
-        {
-            "x": -4,
-            "y": 15,
-            "z": -1
+            "x": -3,
+            "y": 13,
+            "z": 0
         }
     ],
     "LOSTargetPositions": [
         {
             "x": 0,
-            "y": 14,
+            "y": 13,
+            "z": 1
+        },
+        {
+            "x": 3,
+            "y": 13,
             "z": 0
         },
         {
-            "x": 4,
-            "y": 15,
-            "z": -1
+            "x": -3,
+            "y": 13,
+            "z": 0
         },
         {
-            "x": -4,
-            "y": 15,
-            "z": -1
+            "x": 2,
+            "y": 5,
+            "z": 0
         },
         {
-            "x": 3.5,
-            "y": 5.5,
-            "z": 1
-        },
-        {
-            "x": -3.5,
-            "y": 5.5,
-            "z": 1
+            "x": -2,
+            "y": 5,
+            "z": 0
         }
     ],
-    "VariantName": "HTM-X",
+    "VariantName": "HLF-Z1",
     "ChassisTags": {
         "items": [
 
         ],
         "tagSetSourceFile": ""
     },
-    "StockRole": "Heavy Sniper & Defender",
-    "YangsThoughts": "The original version produced during 3039. Though lacking the LosTech of the HTM-27, the single production run of the original field-test Hatamoto-Chi completed on the verge of the War of 3039 came as a total shock to the attacking Lyran and Davion Forces. Since it was built on a standard chassis, the 26T had less armor, one less heat sink, and single ton of SRM ammunition in a standard ammo bin."
+    "StockRole": "Skirmisher & Support",
+    "YangsThoughts": "Approximately twice as expensive as the original, the Hellfire 2 uses an 300-rated XL Engine to increase the 'Mech's speed to 86 km/h. In place of the LRMs are a pair of ATM 6s. The heavy smalls are replaced with a single ER Small Laser and an additional double heat sink."
 }
 

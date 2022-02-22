@@ -49,7 +49,7 @@
                 "effectsPersistAfterDestruction": false,
                 "statName": "EvasivePipsIgnored",
                 "operation": "Float_Add",
-                "modValue": "3",
+                "modValue": "2",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "Weapon",

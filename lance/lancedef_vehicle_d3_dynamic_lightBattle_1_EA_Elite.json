@@ -121,15 +121,14 @@
                 "items": [
                     "unit_heavy",
                     "unit_vehicle",
-                    "elite_arsenal"
+                    "BlackWidowCompany"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
                     "unit_assault",
-                    "unit_noncombatant",
-                    "elite_arsenal_s_tier"
+                    "unit_noncombatant"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

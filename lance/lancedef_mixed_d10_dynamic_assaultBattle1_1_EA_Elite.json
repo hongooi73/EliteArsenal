@@ -123,7 +123,7 @@
                 "items": [
                     "unit_assault",
                     "unit_mech",
-                    "elite_arsenal"
+                    "BlackWidowCompany"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -132,8 +132,7 @@
                     "unit_light",
                     "unit_medium",
                     "unit_noncombatant",
-                    "unit_urbie",
-                    "elite_arsenal_s_tier"
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

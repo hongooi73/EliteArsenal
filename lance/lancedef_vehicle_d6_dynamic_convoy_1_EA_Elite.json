@@ -122,14 +122,13 @@
                     "unit_vehicle_apc",
                     "unit_noncombatant",
                     "unit_heavy",
-                    "elite_arsenal"
+                    "BlackWidowCompany"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_urbie",
-                    "elite_arsenal_s_tier"
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

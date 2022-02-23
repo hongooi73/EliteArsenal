@@ -18,6 +18,7 @@
             "lance_type_assault",
             "lance_type_rangeShort",
             "lance_type_armored",
+            "difficulty_-1",
             "lance_stock"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

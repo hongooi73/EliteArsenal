@@ -17,6 +17,8 @@
             "lance_type_mixed",
             "lance_type_dynamic",
             "lance_type_notallvehicles",
+            "difficulty_6",
+            "elite",
             "elite_arsenal"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

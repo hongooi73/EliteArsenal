@@ -22,6 +22,7 @@
             "MercenaryReviewBoard",
             "AuriganPirates",
             "AuriganMercenaries",
+            "difficulty_-1",
             "lance_stock"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

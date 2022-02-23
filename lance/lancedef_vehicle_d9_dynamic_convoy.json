@@ -12,6 +12,7 @@
     "LanceTags": {
         "items": [
             "lance_type_convoy",
+            "difficulty_9",
             "lance_stock"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

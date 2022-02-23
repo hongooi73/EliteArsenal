@@ -18,6 +18,7 @@
             "lance_type_support",
             "lance_type_rangeLong",
             "lance_type_indirectFire",
+            "difficulty_-1",
             "lance_stock"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

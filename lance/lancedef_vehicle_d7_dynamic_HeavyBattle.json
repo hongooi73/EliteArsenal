@@ -16,6 +16,7 @@
             "lance_type_heavy",
             "lance_type_dynamic",
             "lance_type_vehicle",
+            "difficulty_7",
             "lance_stock"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

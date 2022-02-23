@@ -17,6 +17,7 @@
             "lance_type_support",
             "lance_type_mech",
             "lance_type_notallvehicles",
+            "difficulty_10",
             "lance_stock"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

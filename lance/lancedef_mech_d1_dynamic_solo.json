@@ -14,6 +14,8 @@
             "lance_type_dynamic",
             "lance_type_solo",
             "lance_type_mech",
+            "difficulty_1",
+            "elite",
             "elite_arsenal"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

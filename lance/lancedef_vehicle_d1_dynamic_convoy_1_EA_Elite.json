@@ -12,6 +12,8 @@
     "LanceTags": {
         "items": [
             "lance_type_convoy",
+            "difficulty_1",
+            "elite",
             "elite_arsenal"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

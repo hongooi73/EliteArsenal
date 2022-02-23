@@ -14,6 +14,7 @@
     "Difficulty": 3,
     "LanceTags": {
         "items": [
+            "difficulty_3",
             "lance_stock"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

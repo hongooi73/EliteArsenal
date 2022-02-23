@@ -17,6 +17,8 @@
             "lance_type_assault",
             "lance_type_mech",
             "lance_type_notallvehicles",
+            "difficulty_10",
+            "elite",
             "elite_arsenal"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

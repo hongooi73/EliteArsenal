@@ -17,6 +17,8 @@
             "lance_type_fire",
             "lance_type_mech",
             "lance_type_notallvehicles",
+            "difficulty_9",
+            "elite",
             "elite_arsenal"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

@@ -41,9 +41,7 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": [
-                    "pilot_sensor_elite_arsenal"
-                ],
+                "items": "pilot_sensor",
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -73,9 +71,7 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": [
-                    "pilot_sensor_elite_arsenal"
-                ],
+                "items": "pilot_sensor",
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -105,9 +101,7 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": [
-                    "pilot_sensor_elite"
-                ],
+                "items": "pilot_sensor",
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -136,9 +130,7 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": [
-                    "pilot_sensor_elite"
-                ],
+                "items": "pilot_sensor",
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {

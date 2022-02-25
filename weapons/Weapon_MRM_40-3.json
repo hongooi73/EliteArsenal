@@ -18,7 +18,7 @@
     "EvasivePipsIgnored": 0,
     "DamageVariance": 0,
     "HeatDamage": 0,
-    "AccuracyModifier": -1,
+    "AccuracyModifier": 1,
     "CriticalChanceMultiplier": 1,
     "AOECapable": false,
     "IndirectFireCapable": false,
@@ -26,7 +26,7 @@
     "ShotsWhenFired": 40,
     "ProjectilesPerShot": 1,
     "AttackRecoil": 1,
-    "Instability": 2,
+    "Instability": 2.5,
     "WeaponEffectID": "WeaponEffect-Weapon_SRM6",
     "Description": {
         "Cost": 800000,
@@ -40,7 +40,7 @@
         "Details": "The Medium-Range Missile Launcher was designed by scientists at Luthien Armor Works. MRMs are dead-fire missiles that are fired more like lasers than missiles. In order to pack as many missiles as possible into one salvo, scientists removed guidance systems and made the whole package smaller. Though this was seen as a step backwards in technological development, the inexpensive and deadly MRMs have spread throughout the Draconis Combine and to many mercenary units.",
         "Icon": "uixSvgIcon_weapon_Missile"
     },
-    "BonusValueA": "+ 1 Stb.Dmg., + 2 Acc.",
+    "BonusValueA": "+ 1.5 Stb.Dmg.",
     "BonusValueB": "- 4 Heat, - 3 Tons",
     "ComponentType": "Weapon",
     "ComponentSubType": "Weapon",

@@ -8,7 +8,7 @@
         "UIName": "Archer Z",
         "Id": "chassisdef_archerz_ARC-SZ",
         "Name": "Archer Z",
-        "Details": "The Archer's 2S variant trades some of its long-range punch to become even deadlier when it gets up close, mounting SRMs to follow up what its LRMs have battered. Its heat management still poses a huge problem, though, so its pilots have to stay very wary of overheating.",
+        "Details": "The 5S variant of the Archer, built out of Defiance Industries' massive Hesperus II complex in 3050, was the official variant for the Armed Forces of the Federated Commonwealth. The 5S upgraded the engine to an Edasich Motors 280 XL Engine, cutting the engine's weight in half while retaining the same speed profile. The 5S also reduced the LRM-20 launchers to Coventry Star Fire LRM-15s. This saved weight was used to add two Coventry T4H Streak SRM-2 launchers, one in each arm and fed by two tons of reloads in the side torsos. They also upgraded the four medium lasers to Medium Pulse Lasers.",
         "Icon": "uixTxrIcon_archer"
     },
     "MovementCapDefID": "movedef_archer_ARC-2S",
@@ -17,7 +17,7 @@
     "PrefabIdentifier": "chrPrfMech_archerBase-001",
     "PrefabBase": "archer",
     "Tonnage": 70,
-    "InitialTonnage": 29,
+    "InitialTonnage": 22,
     "weightClass": "HEAVY",
     "Heatsinks": 0,
     "MaxJumpjets": 4,
@@ -58,6 +58,10 @@
         {
             "Location": "LeftArm",
             "Hardpoints": [
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                },
                 {
                     "WeaponMount": "Energy",
                     "Omni": false
@@ -111,10 +115,6 @@
                 {
                     "WeaponMount": "Missile",
                     "Omni": false
-                },
-                {
-                    "WeaponMount": "Missile",
-                    "Omni": false
                 }
             ],
             "Tonnage": 0,
@@ -126,6 +126,10 @@
         {
             "Location": "RightArm",
             "Hardpoints": [
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                },
                 {
                     "WeaponMount": "Energy",
                     "Omni": false
@@ -211,7 +215,7 @@
         ],
         "tagSetSourceFile": ""
     },
-    "YangsThoughts": "The Archer's 2S variant trades some of its long-range punch to become even deadlier when it gets up close, mounting SRMs to follow up what its LRMs have battered. Its heat management still poses a huge problem, though, so its pilots have to stay very wary of overheating.",
+    "YangsThoughts": "The 5S variant of the Archer, built out of Defiance Industries' massive Hesperus II complex in 3050, was the official variant for the Armed Forces of the Federated Commonwealth. The 5S upgraded the engine to an Edasich Motors 280 XL Engine, cutting the engine's weight in half while retaining the same speed profile. The 5S also reduced the LRM-20 launchers to Coventry Star Fire LRM-15s. This saved weight was used to add two Coventry T4H Streak SRM-2 launchers, one in each arm and fed by two tons of reloads in the side torsos. They also upgraded the four medium lasers to Medium Pulse Lasers.",
     "StockRole": "Missile Boat",
     "FixedEquipment": [
         {

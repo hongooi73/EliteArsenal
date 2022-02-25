@@ -30,7 +30,7 @@
     "Instability": 80,
     "WeaponEffectID": "WeaponEffect-Weapon_GaussRifle",
     "Description": {
-        "Cost": 27500000,
+        "Cost": 10500000,
         "Rarity": 0,
         "Purchasable": true,
         "Manufacturer": "UMP",

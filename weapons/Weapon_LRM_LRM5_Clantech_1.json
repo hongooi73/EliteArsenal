@@ -29,7 +29,7 @@
     "Instability": 2,
     "WeaponEffectID": "WeaponEffect-Weapon_LRM5",
     "Description": {
-        "Cost": 30000,
+        "Cost": 210000,
         "Rarity": 0,
         "Purchasable": true,
         "Manufacturer": "CLAN",

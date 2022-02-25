@@ -31,7 +31,7 @@
     "CanExplode": true,
     "WeaponEffectID": "WeaponEffect-Weapon_GaussRifle",
     "Description": {
-        "Cost": 8440000,
+        "Cost": 5440000,
         "Rarity": 99,
         "Purchasable": true,
         "Manufacturer": "Expanded Arsenal",

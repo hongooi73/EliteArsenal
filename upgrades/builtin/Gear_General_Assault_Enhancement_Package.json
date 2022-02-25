@@ -8,11 +8,11 @@
         "UIName": "Assault Enhancement Package",
         "Id": "Gear_General_Assault_Enhancement_Package",
         "Name": "Assault Upgrade Package",
-        "Details": "The Dire Wolf X features a comprehensive suite of upgrades over the regular Dire Wolf that allow it to deal more damage with its weapons and take less incoming damage.",
+        "Details": "The Dire Wolf X features a comprehensive suite of upgrades over the regular Dire Wolf that allow it to deal more damage with its weapons.",
         "Icon": "uixSvgIcon_special_Equipment"
     },
     "BonusValueA": "+ 10% Dmg. dealt",
-    "BonusValueB": "- 10% Dmg. taken",
+    "BonusValueB": "- 10% Weapon Heat",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
     "PrefabIdentifier": "",
@@ -23,6 +23,57 @@
     "CriticalComponent": false,
     "statusEffects": [
         {
+            "durationData" : {
+                "duration" : -1,
+                "ticksOnActivations" : false,
+                "useActivationsOfTarget" : false,
+                "ticksOnEndOfRound" : false,
+                "ticksOnMovements" : false,
+                "stackLimit" : -1,
+                "clearedWhenAttacked" : false
+            },
+            "targetingData" : {
+                "effectTriggerType" : "Passive",
+                "triggerLimit" : 0,
+                "extendDurationOnTrigger" : 0,
+                "specialRules" : "NotSet",
+                "effectTargetType" : "Creator",
+                "range" : 0,
+                "forcePathRebuild" : false,
+                "forceVisRebuild" : false,
+                "showInTargetPreview" : false,
+                "showInStatusPanel" : true
+            },
+            "effectType" : "StatisticEffect",
+            "Description" : {
+                "Id" : "StatusEffect-AEP-Heat_GenReduction",
+                "Name" : "HEAT GENERATION DECREASED",
+                "Details" : "Heat generation reduced by [AMT].",
+                "Icon" : "uixSvgIcon_equipment_ThermalExchanger"
+            },
+            "nature" : "Buff",
+            "statisticData" : {
+                "appliesEachTick" : false,
+                "effectsPersistAfterDestruction" : false,
+                "statName" : "HeatGenerated",
+                "operation" : "Float_Multiply",
+                "modValue" : "0.9",
+                "modType" : "System.Single",
+                "additionalRules" : "NotSet",
+                "targetCollection" : "Weapon",
+                "targetWeaponCategory" : "NotSet",
+                "targetWeaponType" : "NotSet",
+                "targetAmmoCategory" : "NotSet",
+                "targetWeaponSubType" : "NotSet"
+            },
+            "tagData" : null,
+            "floatieData" : null,
+            "actorBurningData" : null,
+            "vfxData" : null,
+            "instantModData" : null,
+            "poorlyMaintainedEffectData" : null
+        },
+        {
             "durationData": {
                 "duration": -1,
                 "stackLimit": 1
@@ -35,157 +86,21 @@
             },
             "effectType": "StatisticEffect",
             "Description": {
-                "Id": "StatusEffect-AEP-DamageReduction",
+                "Id": "StatusEffect-AEP-DamageBoost",
                 "Name": "ASSAULT ENHANCEMENT PACKAGE",
-                "Details": "This unit takes [AMT] less damage.",
-                "Icon": "uixSvgIcon_special_Equipment"
+                "Details": "All weapons on this unit deal [AMT] more damage",
+                "Icon": "UixSvgIcon_specialEquip_System"
             },
             "statisticData": {
                 "appliesEachTick": false,
                 "effectsPersistAfterDestruction": false,
-                "statName": "DamageReductionMultiplierAll",
+                "statName": "DamagePerShot",
                 "operation": "Float_Multiply",
-                "modValue": "0.9",
+                "modValue": "1.1",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
-                "targetCollection": "NotSet",
+                "targetCollection": "Weapon",
                 "targetWeaponCategory": "NotSet",
-                "targetWeaponType": "NotSet",
-                "targetAmmoCategory": "NotSet",
-                "targetWeaponSubType": "NotSet"
-            },
-            "nature": "Buff"
-        },
-        {
-            "durationData": {
-                "duration": -1,
-                "stackLimit": 1
-            },
-            "targetingData": {
-                "effectTriggerType": "Passive",
-                "effectTargetType": "Creator",
-                "showInTargetPreview": true,
-                "showInStatusPanel": true
-            },
-            "effectType": "StatisticEffect",
-            "Description": {
-                "Id": "StatusEffect-AEP-BallisticBoost",
-                "Name": "ASSAULT ENHANCEMENT PACKAGE",
-                "Details": "Ballistic weapons on this unit deal [AMT] more damage",
-                "Icon": "UixSvgIcon_specialEquip_System"
-            },
-            "statisticData": {
-                "appliesEachTick": false,
-                "effectsPersistAfterDestruction": false,
-                "statName": "DamagePerShot",
-                "operation": "Float_Multiply",
-                "modValue": "1.1",
-                "modType": "System.Single",
-                "additionalRules": "NotSet",
-                "targetCollection": "Weapon",
-                "targetWeaponCategory": "Ballistic",
-                "targetWeaponType": "NotSet",
-                "targetAmmoCategory": "NotSet",
-                "targetWeaponSubType": "NotSet"
-            },
-            "nature": "Buff"
-        },
-        {
-            "durationData": {
-                "duration": -1,
-                "stackLimit": 1
-            },
-            "targetingData": {
-                "effectTriggerType": "Passive",
-                "effectTargetType": "Creator",
-                "showInTargetPreview": true,
-                "showInStatusPanel": true
-            },
-            "effectType": "StatisticEffect",
-            "Description": {
-                "Id": "StatusEffect-AEP-MissileBoost",
-                "Name": "ASSAULT ENHANCEMENT PACKAGE",
-                "Details": "Missile weapons on this unit deal [AMT] more damage",
-                "Icon": "UixSvgIcon_specialEquip_System"
-            },
-            "statisticData": {
-                "appliesEachTick": false,
-                "effectsPersistAfterDestruction": false,
-                "statName": "DamagePerShot",
-                "operation": "Float_Multiply",
-                "modValue": "1.1",
-                "modType": "System.Single",
-                "additionalRules": "NotSet",
-                "targetCollection": "Weapon",
-                "targetWeaponCategory": "Missile",
-                "targetWeaponType": "NotSet",
-                "targetAmmoCategory": "NotSet",
-                "targetWeaponSubType": "NotSet"
-            },
-            "nature": "Buff"
-        },
-        {
-            "durationData": {
-                "duration": -1,
-                "stackLimit": 1
-            },
-            "targetingData": {
-                "effectTriggerType": "Passive",
-                "effectTargetType": "Creator",
-                "showInTargetPreview": true,
-                "showInStatusPanel": true
-            },
-            "effectType": "StatisticEffect",
-            "Description": {
-                "Id": "StatusEffect-AEP-EnergyBoost",
-                "Name": "ASSAULT ENHANCEMENT PACKAGE",
-                "Details": "Missile weapons on this unit deal [AMT] more damage",
-                "Icon": "UixSvgIcon_specialEquip_System"
-            },
-            "statisticData": {
-                "appliesEachTick": false,
-                "effectsPersistAfterDestruction": false,
-                "statName": "DamagePerShot",
-                "operation": "Float_Multiply",
-                "modValue": "1.1",
-                "modType": "System.Single",
-                "additionalRules": "NotSet",
-                "targetCollection": "Weapon",
-                "targetWeaponCategory": "Energy",
-                "targetWeaponType": "NotSet",
-                "targetAmmoCategory": "NotSet",
-                "targetWeaponSubType": "NotSet"
-            },
-            "nature": "Buff"
-        },
-        {
-            "durationData": {
-                "duration": -1,
-                "stackLimit": 1
-            },
-            "targetingData": {
-                "effectTriggerType": "Passive",
-                "effectTargetType": "Creator",
-                "showInTargetPreview": true,
-                "showInStatusPanel": true
-            },
-            "effectType": "StatisticEffect",
-            "Description": {
-                "Id": "StatusEffect-AEP-SupportBoost",
-                "Name": "ASSAULT ENHANCEMENT PACKAGE",
-                "Details": "Antipersonnel weapons on this unit deal [AMT] more damage",
-                "Icon": "UixSvgIcon_specialEquip_System"
-            },
-            "statisticData": {
-                "appliesEachTick": false,
-                "effectsPersistAfterDestruction": false,
-                "statName": "DamagePerShot",
-                "operation": "Float_Multiply",
-                "modValue": "1.1",
-                "modType": "System.Single",
-                "additionalRules": "NotSet",
-                "targetCollection": "Weapon",
-                "targetWeaponCategory": "AntiPersonnel",
                 "targetWeaponType": "NotSet",
                 "targetAmmoCategory": "NotSet",
                 "targetWeaponSubType": "NotSet"

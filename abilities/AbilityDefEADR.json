@@ -59,7 +59,7 @@
                 "Id": "StatusEffect-EA-PilotStab",
                 "Name": "ELITE STABILITY INCREASE",
                 "Details": "This unit's stability is increased by 25%.",
-                "Icon": "uixSvgIcon_special_Equipment"
+                "Icon": "UixSvgIcon_specialAbility_BWCL"
             },
             "statisticData": {
                 "appliesEachTick": false,

@@ -77,8 +77,9 @@
         "items": [
             "pilot_npc_outrider",
             "pilot_npc_dynamic",
-            "pilot_npc_d9_elite_arsenal",
+            "pilot_npc_d9_elite",
             "pilot_npc_d9",
+            "pilot_npc_d9_elite_arsenal",
             "elite_arsenal"
         ],
         "tagSetSourceFile": ""

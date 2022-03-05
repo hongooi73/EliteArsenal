@@ -50,9 +50,7 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ],
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "locked": false
@@ -85,9 +83,7 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ],
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "locked": false
@@ -119,9 +115,7 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ],
+                "items": null,
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "locked": false

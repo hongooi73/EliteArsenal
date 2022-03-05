@@ -77,8 +77,9 @@
         "items": [
             "pilot_npc_pilot",
             "pilot_npc_dynamic",
-            "pilot_npc_d10_elite_arsenal",
+            "pilot_npc_d10_elite",
             "pilot_npc_d10",
+            "pilot_npc_d10_elite_arsenal",
             "elite_arsenal"
         ],
         "tagSetSourceFile": ""

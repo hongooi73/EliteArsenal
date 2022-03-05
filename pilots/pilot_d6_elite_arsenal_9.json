@@ -77,8 +77,9 @@
         "items": [
             "pilot_npc_vanguard",
             "pilot_npc_dynamic",
-            "pilot_npc_d6_elite_arsenal",
+            "pilot_npc_d6_elite",
             "pilot_npc_d6",
+            "pilot_npc_d6_elite_arsenal",
             "elite_arsenal"
         ],
         "tagSetSourceFile": ""

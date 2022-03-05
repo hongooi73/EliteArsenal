@@ -66,8 +66,9 @@
         "items": [
             "pilot_npc_sentinel",
             "pilot_npc_dynamic",
-            "pilot_npc_d4_elite_arsenal",
+            "pilot_npc_d4_elite",
             "pilot_npc_d4",
+            "pilot_npc_d4_elite_arsenal",
             "elite_arsenal"
         ],
         "tagSetSourceFile": ""

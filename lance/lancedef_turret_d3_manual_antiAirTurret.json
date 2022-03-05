@@ -33,11 +33,7 @@
                 ]
             },
             "pilotTagSet": null,
-            "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ]
-            },
+            "excludedPilotTagSet": null,
             "locked": false
         },
         {
@@ -53,11 +49,7 @@
                 ]
             },
             "pilotTagSet": null,
-            "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ]
-            },
+            "excludedPilotTagSet": null,
             "locked": false
         },
         {
@@ -73,11 +65,7 @@
                 ]
             },
             "pilotTagSet": null,
-            "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ]
-            },
+            "excludedPilotTagSet": null,
             "locked": false
         },
         {
@@ -93,11 +81,7 @@
                 ]
             },
             "pilotTagSet": null,
-            "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ]
-            },
+            "excludedPilotTagSet": null,
             "locked": false
         },
         {
@@ -113,11 +97,7 @@
                 ]
             },
             "pilotTagSet": null,
-            "excludedPilotTagSet": {
-                "items": [
-                    "elite_arsenal"
-                ]
-            },
+            "excludedPilotTagSet": null,
             "locked": false
         }
     ]

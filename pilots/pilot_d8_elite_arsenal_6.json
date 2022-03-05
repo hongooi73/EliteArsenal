@@ -64,8 +64,9 @@
         "items": [
             "pilot_npc_gunner",
             "pilot_npc_dynamic",
-            "pilot_npc_d8_elite_arsenal",
+            "pilot_npc_d8_elite",
             "pilot_npc_d8",
+            "pilot_npc_d8_elite_arsenal",
             "elite_arsenal"
         ],
         "tagSetSourceFile": ""

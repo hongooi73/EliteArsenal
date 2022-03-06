@@ -47,7 +47,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d4_elite_arsenal"
+                    "pilot_npc_d4_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -80,7 +80,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d4_elite_arsenal"
+                    "pilot_npc_d4_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -130,9 +130,8 @@
             "pilotSimGameID": null,
             "unitTagSet": {
                 "items": [
-                    "unit_medium",
-                    "unit_vehicle",
-                    "BlackWidowCompany"
+                    "mech_medium_Advanced",
+                    "unit_vehicle"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

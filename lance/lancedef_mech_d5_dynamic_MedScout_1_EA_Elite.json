@@ -46,7 +46,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d5_elite_arsenal"
+                    "pilot_npc_d5_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -77,7 +77,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d5_elite_arsenal"
+                    "pilot_npc_d5_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -125,8 +125,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_mech",
-                    "unit_medium",
-                    "BlackWidowCompany"
+                    "mech_medium_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

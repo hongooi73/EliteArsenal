@@ -117,8 +117,7 @@
                     "unit_vehicle",
                     "unit_vehicle_apc",
                     "unit_noncombatant",
-                    "unit_heavy",
-                    "BlackWidowCompany"
+                    "mech_heavy_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

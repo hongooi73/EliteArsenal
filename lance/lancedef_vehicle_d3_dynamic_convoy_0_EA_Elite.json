@@ -88,8 +88,7 @@
                     "unit_vehicle",
                     "unit_vehicle_apc",
                     "unit_noncombatant",
-                    "unit_light",
-                    "BlackWidowCompany"
+                    "mech_light_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -117,8 +116,7 @@
                     "unit_vehicle",
                     "unit_vehicle_apc",
                     "unit_noncombatant",
-                    "unit_medium",
-                    "BlackWidowCompany"
+                    "mech_medium_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

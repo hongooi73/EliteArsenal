@@ -44,7 +44,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d7_elite_arsenal"
+                    "pilot_npc_d7_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -90,9 +90,8 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_heavy",
-                    "unit_vehicle",
-                    "BlackWidowCompany"
+                    "mech_heavy_Advanced",
+                    "unit_vehicle"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -120,9 +119,8 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_heavy",
-                    "unit_vehicle",
-                    "BlackWidowCompany"
+                    "mech_heavy_Advanced",
+                    "unit_vehicle"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

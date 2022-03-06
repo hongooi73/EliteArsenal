@@ -44,7 +44,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d10_elite_arsenal"
+                    "pilot_npc_d10_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -75,7 +75,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d10_elite_arsenal"
+                    "pilot_npc_d10_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -121,9 +121,8 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_assault",
-                    "unit_vehicle",
-                    "BlackWidowCompany"
+                    "mech_assault_Advanced",
+                    "unit_vehicle"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

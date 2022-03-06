@@ -46,7 +46,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d3_elite_arsenal"
+                    "pilot_npc_d3_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -92,9 +92,8 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_light",
-                    "unit_mech",
-                    "BlackWidowCompany"
+                    "mech_light_Advanced",
+                    "unit_mech"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -122,9 +121,8 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_light",
-                    "unit_mech",
-                    "BlackWidowCompany"
+                    "mech_light_Advanced",
+                    "unit_mech"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

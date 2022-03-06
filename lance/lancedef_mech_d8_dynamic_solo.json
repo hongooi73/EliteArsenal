@@ -43,7 +43,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d9_elite_arsenal"
+                    "pilot_npc_d9_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -74,7 +74,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d8_elite_arsenal"
+                    "pilot_npc_d8_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

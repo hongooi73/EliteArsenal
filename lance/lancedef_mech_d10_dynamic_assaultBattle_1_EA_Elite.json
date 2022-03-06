@@ -125,7 +125,7 @@
             "unitTagSet": {
                 "items": [
                     "mech_assault_Advanced",
-                    "unit_mech"
+                    "unit_mech_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

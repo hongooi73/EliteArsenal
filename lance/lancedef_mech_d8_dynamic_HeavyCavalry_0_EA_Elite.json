@@ -93,7 +93,7 @@
             "unitTagSet": {
                 "items": [
                     "mech_heavy_Advanced",
-                    "unit_mech"
+                    "unit_mech_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -122,7 +122,7 @@
             "unitTagSet": {
                 "items": [
                     "mech_heavy_Advanced",
-                    "unit_mech"
+                    "unit_mech_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

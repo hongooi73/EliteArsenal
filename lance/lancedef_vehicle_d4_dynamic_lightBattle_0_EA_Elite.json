@@ -97,7 +97,7 @@
             "pilotSimGameID": null,
             "unitTagSet": {
                 "items": [
-                    "mech_medium_Advanced",
+                    "unit_medium",
                     "unit_vehicle"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
@@ -128,7 +128,7 @@
             "pilotSimGameID": null,
             "unitTagSet": {
                 "items": [
-                    "mech_medium_Advanced",
+                    "unit_medium",
                     "unit_vehicle"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"

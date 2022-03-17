@@ -42,7 +42,9 @@
                     "unit_lance_support",
                     "unit_noncombatant",
                     "unit_urbie",
-                    "elite_arsenal_s_tier"
+                    "elite_arsenal_s_tier",
+                    "elite_forces",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -51,7 +53,9 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -72,7 +76,9 @@
                     "unit_light",
                     "unit_noncombatant",
                     "unit_urbie",
-                    "elite_arsenal_s_tier"
+                    "elite_arsenal_s_tier",
+                    "elite_forces",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -81,7 +87,9 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },

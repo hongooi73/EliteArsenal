@@ -90,7 +90,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "mech_heavy_Advanced",
+                    "unit_heavy",
                     "unit_vehicle"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
@@ -119,7 +119,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "mech_assault_Advanced",
+                    "unit_assault",
                     "unit_vehicle"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
@@ -128,9 +128,7 @@
                 "items": [
                     "unit_light",
                     "unit_medium",
-                    "unit_noncombatant",
-                    "mech_light_Advanced",
-                    "mech_medium_Advanced"
+                    "unit_noncombatant"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

@@ -92,7 +92,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "mech_medium_Advanced",
+                    "unit_medium",
                     "unit_vehicle"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"

@@ -88,7 +88,7 @@
                     "unit_vehicle",
                     "unit_vehicle_apc",
                     "unit_noncombatant",
-                    "mech_light_Advanced"
+                    "unit_light"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -116,7 +116,7 @@
                     "unit_vehicle",
                     "unit_vehicle_apc",
                     "unit_noncombatant",
-                    "mech_medium_Advanced"
+                    "unit_medium"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

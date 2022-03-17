@@ -117,7 +117,7 @@
                     "unit_vehicle",
                     "unit_vehicle_apc",
                     "unit_noncombatant",
-                    "mech_medium_Advanced"
+                    "unit_medium"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

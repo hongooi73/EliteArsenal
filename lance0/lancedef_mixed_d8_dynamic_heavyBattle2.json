@@ -117,7 +117,7 @@
          "unitTagSet" : {
             "items" : [
                "unit_assault",
-               "unit_vehicle"
+               "unit_mech"
             ],
             "tagSetSourceFile" : "Tags/UnitTags"
          },

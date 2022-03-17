@@ -29,11 +29,17 @@
             "unitTagSet": null,
             "excludedUnitTagSet": {
                 "items": [
-                    "elite_arsenal_s_tier"
+                    "elite_arsenal_s_tier",
+                    "elite_forces",
+                    "elite_arsenal"
                 ]
             },
             "pilotTagSet": null,
-            "excludedPilotTagSet": null,
+            "excludedPilotTagSet": {
+                "items": [
+                    "elite_forces"
+                ]
+            },
             "locked": false
         },
         {
@@ -45,11 +51,17 @@
             "unitTagSet": null,
             "excludedUnitTagSet": {
                 "items": [
-                    "elite_arsenal_s_tier"
+                    "elite_arsenal_s_tier",
+                    "elite_forces",
+                    "elite_arsenal"
                 ]
             },
             "pilotTagSet": null,
-            "excludedPilotTagSet": null,
+            "excludedPilotTagSet": {
+                "items": [
+                    "elite_forces"
+                ]
+            },
             "locked": false
         },
         {

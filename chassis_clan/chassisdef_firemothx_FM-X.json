@@ -5,13 +5,15 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Fire Moth X",
+        "UIName": "Fire Moth",
         "Id": "chassisdef_firemothx_FM-X",
-        "Name": "Fire Moth X",
+        "Name": "Fire Moth",
         "Details": "The Fire Moth is a light Clan OmniMech intended for scouting. With a running speed of 162.0 km/h, accelerating up to 216.0 km/h with the MASC system installed on the 'Mech's chassis, the Fire Moth is easily one of the fastest designs ever created. The Fire Moth's superior speed comes from its 200 XL Fusion Engine. An Endo Steel chassis saves additional space. Two tons of Ferro-Fibrous armor act as the only barrier between an enemy and the 'Mech's fragile internals. A close combat configuration, the Fire Moth B replaces the ER Medium Lasers with Medium Pulse Lasers. Dual Machine Guns easily dispose of any infantry the 'Mech may encounter, and an A-Pod secures the 'Mech's legs against any that manage to close in.",
         "Icon": "uixTxrIcon_dasher"
     },
-    "FixedEquipment": [],
+    "FixedEquipment": [
+
+    ],
     "MovementCapDefID": "movedef_dasher",
     "PathingCapDefID": "pathingdef_light",
     "HardpointDataDefID": "hardpointdatadef_dasher",
@@ -50,7 +52,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -85,7 +89,9 @@
         },
         {
             "Location": "LeftTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 50,
@@ -94,7 +100,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 60,
@@ -155,7 +163,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 40,
@@ -164,7 +174,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 40,
@@ -218,9 +230,12 @@
     ],
     "VariantName": "FM-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Super-Fast Scout",
     "YangsThoughts": "The Fire Moth is a light Clan OmniMech intended for scouting. With a running speed of 162.0 km/h, accelerating up to 216.0 km/h with the MASC system installed on the 'Mech's chassis, the Fire Moth is easily one of the fastest designs ever created. The Fire Moth's superior speed comes from its 200 XL Fusion Engine. An Endo Steel chassis saves additional space. Two tons of Ferro-Fibrous armor act as the only barrier between an enemy and the 'Mech's fragile internals. A close combat configuration, the Fire Moth B replaces the ER Medium Lasers with Medium Pulse Lasers. Dual Machine Guns easily dispose of any infantry the 'Mech may encounter, and an A-Pod secures the 'Mech's legs against any that manage to close in."
 }
+

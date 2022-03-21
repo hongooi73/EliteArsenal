@@ -5,13 +5,15 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Executioner X",
+        "UIName": "Executioner",
         "Id": "chassisdef_executionerx_EXE-X",
-        "Name": "Executioner X",
+        "Name": "Executioner",
         "Details": "Introduced at the turn of the century, the executioner was created by the Smoke Jaguars in anticipation of the Clan return to the Inner Sphere.",
         "Icon": "uixTxrIcon_executioner"
     },
-    "FixedEquipment": [],
+    "FixedEquipment": [
+
+    ],
     "MovementCapDefID": "movedef_executioner",
     "PathingCapDefID": "pathingdef_assault",
     "HardpointDataDefID": "hardpointdatadef_executioner",
@@ -50,7 +52,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -115,7 +119,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 300,
@@ -204,7 +210,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 200,
@@ -213,7 +221,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 200,
@@ -267,9 +277,12 @@
     ],
     "VariantName": "EXE-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Lumbering Pain Machine",
     "YangsThoughts": "Introduced at the turn of the century, the executioner was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere."
 }
+

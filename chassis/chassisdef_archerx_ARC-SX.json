@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Archer X",
+        "UIName": "Archer",
         "Id": "chassisdef_archerx_ARC-SX",
-        "Name": "Archer X",
+        "Name": "Archer",
         "Details": "The Archer's 2S variant trades some of its long-range punch to become even deadlier when it gets up close, mounting SRMs to follow up what its LRMs have battered. Its heat management still poses a huge problem, though, so its pilots have to stay very wary of overheating.",
         "Icon": "uixTxrIcon_archer"
     },
@@ -46,7 +46,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -137,7 +139,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 150,
@@ -146,7 +150,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 150,
@@ -200,7 +206,9 @@
     ],
     "VariantName": "ARC-SX",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "YangsThoughts": "The Archer's 2S variant trades some of its long-range punch to become even deadlier when it gets up close, mounting SRMs to follow up what its LRMs have battered. Its heat management still poses a huge problem, though, so its pilots have to stay very wary of overheating.",
@@ -220,3 +228,4 @@
         }
     ]
 }
+

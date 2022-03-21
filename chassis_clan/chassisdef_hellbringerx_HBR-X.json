@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Hellbringer X",
+        "UIName": "Hellbringer",
         "Id": "chassisdef_hellbringerx_HBR-X",
-        "Name": "Hellbringer X",
+        "Name": "Hellbringer",
         "Details": "The Hellbringer Prime bears similarities in design and appearance to the classic Warhammer. The primary weapons are indeed a pair of ER PPCs.",
         "Icon": "uixTxrIcon_hellbringer"
     },
@@ -372,9 +372,12 @@
     ],
     "VariantName": "HBR-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Direct Fire Support",
     "YangsThoughts": "The Hellbringer Prime bears similarities in design and appearance to the classic Warhammer. The primary weapons are indeed a pair of ER PPCs."
 }
+

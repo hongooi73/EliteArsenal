@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Archer X",
+        "UIName": "Archer",
         "Id": "chassisdef_archerx_ARC-RX",
-        "Name": "Archer X",
+        "Name": "Archer",
         "Details": "The well-known Archer is the epitome of the \"missile boat\" concept. It is commonly found hurling deadly swarms of LRMs at targets from behind the safety of a hill. It's not too shabby in closer-range fights, either. Its only real weakness is terrible heat management.",
         "Icon": "uixTxrIcon_archer"
     },
@@ -46,7 +46,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -137,7 +139,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 150,
@@ -146,7 +150,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 150,
@@ -200,7 +206,9 @@
     ],
     "VariantName": "ARC-RX",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "YangsThoughts": "The well-known Archer is the epitome of the \"missile boat\" concept. It is commonly found hurling deadly swarms of LRMs at targets from behind the safety of a hill. It's not too shabby in closer-range fights, either. Its only real weakness is terrible heat management.",
@@ -220,3 +228,4 @@
         }
     ]
 }
+

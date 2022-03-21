@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "SuperNova X",
+        "UIName": "SuperNova",
         "Id": "chassisdef_supernovax_SNV-X1",
-        "Name": "SuperNova X",
+        "Name": "SuperNova",
         "Details": "This variant strips out all the lasers and replaces them with four Large Pulse Lasers, two Heavy Medium Lasers, and a Targeting Computer. This variant retains enough additional double heat sinks to help with heat management.",
         "Icon": "uixTxrIcon_supernova"
     },

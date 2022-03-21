@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Hatchetman X",
+        "UIName": "Hatchetman",
         "Id": "chassisdef_hatchetmanx_HCT-X",
-        "Name": "Hatchetman X",
+        "Name": "Hatchetman",
         "Details": "Fresh out of NAIS, the experimental HCT-3G (jestingly called the Grounded) variant from Team Banzai downgrades the engine and JumpJet capability while increasing the overall heat dissipation capacity.  While this more lumbersome version was difficult to use in open ground, it was a force to be reckoned with in the close quarters of urban warfare.",
         "Icon": "uixTxrIcon_hatchetman"
     },
@@ -49,13 +49,17 @@
     "DFASelfDamage": 55,
     "DFAInstability": 55,
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -78,7 +82,9 @@
         },
         {
             "Location": "LeftTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 110,
@@ -87,7 +93,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 140,
@@ -128,7 +136,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 110,
@@ -137,7 +147,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 110,
@@ -226,3 +238,4 @@
         }
     ]
 }
+

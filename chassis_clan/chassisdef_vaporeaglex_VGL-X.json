@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Vapor Eagle X",
+        "UIName": "Vapor Eagle",
         "Id": "chassisdef_vaporeaglex_VGL-X",
-        "Name": "Vapor Eagle X",
+        "Name": "Vapor Eagle",
         "Details": "The Vapor Eagle X features an upgraded targeting computer and pulse laser battery.",
         "Icon": "uixTxrIcon_vaporeagle"
     },
@@ -63,7 +63,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -136,7 +138,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 180,
@@ -185,7 +189,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 130,
@@ -194,7 +200,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 130,
@@ -248,9 +256,12 @@
     ],
     "VariantName": "VGL-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Skirmisher & Cavalry",
     "YangsThoughts": "This thing is deadly accurate. Don't let it get a bead on you."
 }
+

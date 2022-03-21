@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Blood Asp X",
+        "UIName": "Blood Asp",
         "Id": "chassisdef_bloodaspx_BAS-X",
-        "Name": "Blood Asp X",
+        "Name": "Blood Asp",
         "Details": "Introduced at the turn of the century, the bloodasp was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere.",
         "Icon": "uixTxrIcon_bloodasp"
     },

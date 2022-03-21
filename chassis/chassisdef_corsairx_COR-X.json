@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Corsair X",
+        "UIName": "Corsair",
         "Id": "chassisdef_corsairx_COR-X",
-        "Name": "Corsair X",
+        "Name": "Corsair",
         "Details": "This custom variant makes use of both sets of the corsairs available arms making it a true frankenmech.",
         "Icon": "uixTxrIcon_corsair"
     },

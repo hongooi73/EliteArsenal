@@ -5,13 +5,15 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Stormcrow X",
+        "UIName": "Stormcrow",
         "Id": "chassisdef_stormcrowx_SCR-X2",
-        "Name": "Stormcrow X",
+        "Name": "Stormcrow",
         "Details": "A sleek, mobile, and versatile design, the Clan Stormcrow was long suspected to be one of the first OmniMechs produced by the Clans.",
         "Icon": "uixTxrIcon_stormcrow"
     },
-    "FixedEquipment": [],
+    "FixedEquipment": [
+
+    ],
     "MovementCapDefID": "movedef_stormcrow",
     "PathingCapDefID": "pathingdef_medium",
     "HardpointDataDefID": "hardpointdatadef_stormcrow",
@@ -306,7 +308,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 130,
@@ -315,7 +319,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 130,
@@ -369,9 +375,12 @@
     ],
     "VariantName": "SCR-X2",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Disabler",
     "YangsThoughts": "A sleek, mobile, and versatile design, the Clan Stormcrow was long suspected to be one of the first OmniMechs produced by the Clans."
 }
+

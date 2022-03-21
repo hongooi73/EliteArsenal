@@ -5,24 +5,24 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Commando X",
+        "UIName": "Commando",
         "Id": "chassisdef_commandox_COM-X",
-        "Name": "Commando X",
+        "Name": "Commando",
         "Details": "Dubbed the 'Blazing Inferno', this variant of the 2D chassis removes all the missiles and instead adds three more Medium Lasers and six Small Lasers, along with an extra ton of armor.",
         "Icon": "uixTxrIcon_commando"
     },
-    "FixedEquipment" : [
+    "FixedEquipment": [
         {
-            "MountedLocation" : "CenterTorso",
-            "ComponentDefID" : "Gear_General_Close_Quarters_Combat_Suite",
-            "SimGameUID" : "",
-            "ComponentDefType" : "Upgrade",
-            "HardpointSlot" : -1,
-            "IsFixed" : true,
-            "GUID" : null,
-            "DamageLevel" : "Functional",
-            "prefabName" : null,
-            "hasPrefabName" : false
+            "MountedLocation": "CenterTorso",
+            "ComponentDefID": "Gear_General_Close_Quarters_Combat_Suite",
+            "SimGameUID": "",
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "IsFixed": true,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
         }
     ],
     "MovementCapDefID": "movedef_commando_COM-2D",
@@ -63,7 +63,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -170,7 +172,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 60,
@@ -179,7 +183,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 60,
@@ -233,9 +239,12 @@
     ],
     "VariantName": "COM-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Striker & Scout",
     "YangsThoughts": "When they say Inferno, no one realized the techs were referring to the temperature inside the cockpit.  I suggest removing some of the lasers and adding a heat sink or two... or three."
 }
+

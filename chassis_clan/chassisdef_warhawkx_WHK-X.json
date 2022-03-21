@@ -5,13 +5,14 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Warhawk X",
+        "UIName": "Warhawk",
         "Id": "chassisdef_warhawkx_WHK-X",
-        "Name": "Warhawk X",
+        "Name": "Warhawk",
         "Details": "Introduced at the turn of the century, the Warhawk was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere.",
         "Icon": "uixTxrIcon_warhawk"
     },
     "FixedEquipment": [
+
     ],
     "MovementCapDefID": "movedef_warhawk",
     "PathingCapDefID": "pathingdef_assault",
@@ -263,7 +264,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 180,
@@ -272,7 +275,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 180,
@@ -326,9 +331,12 @@
     ],
     "VariantName": "WHK_X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Fast Assault",
     "YangsThoughts": "Introduced at the turn of the century, the Warhawk was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere."
 }
+

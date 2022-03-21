@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Stinger X",
+        "UIName": "Stinger",
         "Id": "chassisdef_stingerx_STG-X",
-        "Name": "Stinger X",
+        "Name": "Stinger",
         "Details": "The Royal Stinger introduced in 2720 used a XL Engine and Endo Steel chassis, to be able to mount a battery of three medium lasers and one Small Laser. The heat-sinks were upgraded to Double Heat Sinks and the speed and jumping distance of the Mech were also been improved slightly. ",
         "Icon": "uixTxrIcon_stinger"
     },
@@ -107,7 +107,9 @@
         },
         {
             "Location": "LeftTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 50,
@@ -134,7 +136,7 @@
                 {
                     "WeaponMount": "AntiPersonnel",
                     "Omni": false
-                }                
+                }
             ],
             "Tonnage": 0,
             "InventorySlots": 10,
@@ -166,7 +168,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 40,
@@ -175,7 +179,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 40,
@@ -229,9 +235,12 @@
     ],
     "VariantName": "STG-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Scout",
     "YangsThoughts": "The Royal Stinger introduced in 2720 used a XL Engine and Endo Steel chassis, to be able to mount a battery of three medium lasers and one Small Laser. The heat-sinks were upgraded to Double Heat Sinks and the speed and jumping distance of the Mech were also been improved slightly."
 }
+

@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Crab X",
+        "UIName": "Crab",
         "Id": "chassisdef_crabx_CRB-X2",
-        "Name": "Crab X",
+        "Name": "Crab",
         "Details": "The Crab 27B is a very old model that dates back to the days of the Star League. Its energy weapons are all rare, upgraded versions of the tech found on the CRB-20, allowing it to hit harder while still requiring no ammunition. Improved heat sinking also keeps it comparatively cool.",
         "Icon": "uixTxrIcon_crab"
     },
@@ -153,7 +153,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 120,
@@ -162,7 +164,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 120,
@@ -216,9 +220,12 @@
     ],
     "VariantName": "CRB-X2",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Direct-Fire Support",
     "YangsThoughts": "The Crab 27B is a very old model that dates back to the days of the Star League. Its energy weapons are all rare, upgraded versions of the tech found on the CRB-20, allowing it to hit harder while still requiring no ammunition. Improved heat sinking also keeps it comparatively cool."
 }
+

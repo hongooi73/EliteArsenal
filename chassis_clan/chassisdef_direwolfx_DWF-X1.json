@@ -1,53 +1,53 @@
 {
     "Description": {
-        "Cost": 1.08E+07,
-        "Rarity": 5.0,
+        "Cost": 10800000,
+        "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "Name": "Dire Wolf X",
+        "Name": "Dire Wolf",
         "Details": "This variant mounts two of the largest weapons in the Clan arsenal: the HAG 40. Ten tons of ammunition ensure that the 'Mech will not quickly run out. The uncharacteristically light backup weapons include a pair of Medium Pulse Lasers, a Streak SRM-6, and a single ER Small Laser.",
-        "UIName": "Dire Wolf X",
+        "UIName": "Dire Wolf",
         "Id": "chassisdef_direwolfx_DWF-X1",
         "Icon": "uixTxrIcon_direwolf"
     },
     "VariantName": "DWF-X1",
     "StockRole": "Juggernaut & Close Assault",
     "YangsThoughts": "This variant mounts two of the largest weapons in the Clan arsenal: the HAG 40. Ten tons of ammunition ensure that the 'Mech will not quickly run out. The uncharacteristically light backup weapons include a pair of Medium Pulse Lasers, a Streak SRM-6, and a single ER Small Laser.",
-    "Tonnage": 100.0,
+    "Tonnage": 100,
     "InitialTonnage": 25.5,
     "weightClass": "ASSAULT",
-    "Heatsinks": 30.0,
-    "MaxJumpjets": 3.0,
-    "Stability": 200.0,
-    "SpotterDistanceMultiplier": 1.0,
-    "VisibilityMultiplier": 1.0,
-    "SensorRangeMultiplier": 1.0,
-    "Signature": 0.0,
-    "Radius": 8.0,
+    "Heatsinks": 30,
+    "MaxJumpjets": 3,
+    "Stability": 200,
+    "SpotterDistanceMultiplier": 1,
+    "VisibilityMultiplier": 1,
+    "SensorRangeMultiplier": 1,
+    "Signature": 0,
+    "Radius": 8,
     "HardpointDataDefID": "hardpointdatadef_direwhale",
     "PrefabIdentifier": "chrprfmech_direwolfbase-001",
     "PrefabBase": "direwolf",
-    "BattleValue": 1.0581E+07,
-    "TopSpeed": 60.0,
-    "TurnRadius": 90.0,
+    "BattleValue": 10581000,
+    "TopSpeed": 60,
+    "TurnRadius": 90,
     "MovementCapDefID": "movedef_direwhale",
     "PathingCapDefID": "pathingdef_assault",
-    "MeleeDamage": 140.0,
-    "MeleeInstability": 100.0,
-    "MeleeToHitModifier": 0.0,
-    "DFADamage": 125.0,
-    "DFAToHitModifier": 0.0,
-    "DFASelfDamage": 125.0,
-    "DFAInstability": 125.0,
+    "MeleeDamage": 140,
+    "MeleeInstability": 100,
+    "MeleeToHitModifier": 0,
+    "DFADamage": 125,
+    "DFAToHitModifier": 0,
+    "DFASelfDamage": 125,
+    "DFAInstability": 125,
     "PunchesWithLeftArm": false,
     "Locations": [
         {
-            "Tonnage": 0.0,
-            "InventorySlots": 1.0,
-            "MaxArmor": 45.0,
-            "MaxRearArmor": -1.0,
-            "InternalStructure": 16.0,
+            "Tonnage": 0,
+            "InventorySlots": 1,
+            "MaxArmor": 45,
+            "MaxRearArmor": -1,
+            "InternalStructure": 16,
             "Location": "Head",
             "Hardpoints": [
                 {
@@ -57,11 +57,11 @@
             ]
         },
         {
-            "Tonnage": 0.0,
-            "InventorySlots": 8.0,
-            "MaxArmor": 170.0,
-            "MaxRearArmor": -1.0,
-            "InternalStructure": 85.0,
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 170,
+            "MaxRearArmor": -1,
+            "InternalStructure": 85,
             "Location": "LeftArm",
             "Hardpoints": [
                 {
@@ -75,11 +75,11 @@
             ]
         },
         {
-            "Tonnage": 0.0,
-            "InventorySlots": 10.0,
-            "MaxArmor": 210.0,
-            "MaxRearArmor": 105.0,
-            "InternalStructure": 105.0,
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 210,
+            "MaxRearArmor": 105,
+            "InternalStructure": 105,
             "Location": "LeftTorso",
             "Hardpoints": [
                 {
@@ -101,11 +101,11 @@
             ]
         },
         {
-            "Tonnage": 0.0,
-            "InventorySlots": 4.0,
-            "MaxArmor": 320.0,
-            "MaxRearArmor": 160.0,
-            "InternalStructure": 160.0,
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 320,
+            "MaxRearArmor": 160,
+            "InternalStructure": 160,
             "Location": "CenterTorso",
             "Hardpoints": [
                 {
@@ -123,11 +123,11 @@
             ]
         },
         {
-            "Tonnage": 0.0,
-            "InventorySlots": 10.0,
-            "MaxArmor": 210.0,
-            "MaxRearArmor": 105.0,
-            "InternalStructure": 105.0,
+            "Tonnage": 0,
+            "InventorySlots": 10,
+            "MaxArmor": 210,
+            "MaxRearArmor": 105,
+            "InternalStructure": 105,
             "Location": "RightTorso",
             "Hardpoints": [
                 {
@@ -149,11 +149,11 @@
             ]
         },
         {
-            "Tonnage": 0.0,
-            "InventorySlots": 8.0,
-            "MaxArmor": 170.0,
-            "MaxRearArmor": -1.0,
-            "InternalStructure": 85.0,
+            "Tonnage": 0,
+            "InventorySlots": 8,
+            "MaxArmor": 170,
+            "MaxRearArmor": -1,
+            "InternalStructure": 85,
             "Location": "RightArm",
             "Hardpoints": [
                 {
@@ -167,22 +167,26 @@
             ]
         },
         {
-            "Tonnage": 0.0,
-            "InventorySlots": 4.0,
-            "MaxArmor": 210.0,
-            "MaxRearArmor": -1.0,
-            "InternalStructure": 105.0,
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 210,
+            "MaxRearArmor": -1,
+            "InternalStructure": 105,
             "Location": "LeftLeg",
-            "Hardpoints": []
+            "Hardpoints": [
+
+            ]
         },
         {
-            "Tonnage": 0.0,
-            "InventorySlots": 4.0,
-            "MaxArmor": 210.0,
-            "MaxRearArmor": -1.0,
-            "InternalStructure": 105.0,
+            "Tonnage": 0,
+            "InventorySlots": 4,
+            "MaxArmor": 210,
+            "MaxRearArmor": -1,
+            "InternalStructure": 105,
             "Location": "RightLeg",
-            "Hardpoints": []
+            "Hardpoints": [
+
+            ]
         }
     ],
     "FixedEquipment": [
@@ -200,59 +204,62 @@
         }
     ],
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "LOSSourcePositions": [
         {
-            "x": 0.0,
-            "y": 17.0,
-            "z": 0.0
+            "x": 0,
+            "y": 17,
+            "z": 0
         },
         {
-            "x": 5.0,
-            "y": 16.0,
-            "z": -1.0
+            "x": 5,
+            "y": 16,
+            "z": -1
         },
         {
-            "x": -5.0,
-            "y": 16.0,
-            "z": -1.0
+            "x": -5,
+            "y": 16,
+            "z": -1
         }
     ],
     "LOSTargetPositions": [
         {
-            "x": 0.0,
-            "y": 17.0,
-            "z": 0.0
+            "x": 0,
+            "y": 17,
+            "z": 0
         },
         {
-            "x": 5.0,
-            "y": 16.0,
-            "z": -1.0
+            "x": 5,
+            "y": 16,
+            "z": -1
         },
         {
-            "x": -5.0,
-            "y": 16.0,
-            "z": -1.0
+            "x": -5,
+            "y": 16,
+            "z": -1
         },
         {
             "x": 3.5,
             "y": 5.5,
-            "z": 1.0
+            "z": 1
         },
         {
             "x": -3.5,
             "y": 5.5,
-            "z": 1.0
+            "z": 1
         }
     ],
     "StabilityDefenses": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
     ]
 }
+

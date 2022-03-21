@@ -5,60 +5,60 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "UrbanMech X",
+        "UIName": "UrbanMech",
         "Id": "chassisdef_urbanmechx_UM-X",
-        "Name": "UrbanMech X",
-        "Details": "Don't let the stubby 'Urbie' fool you\u2014it may look like a walking trash can, but it can mount heavy armor and a grown-up-sized Autocannon. R60s aren't known for their speed, but they are very useful if you can draw the enemy into their firing range.",
+        "Name": "UrbanMech",
+        "Details": "Don't let the stubby 'Urbie' fool you—it may look like a walking trash can, but it can mount heavy armor and a grown-up-sized Autocannon. R60s aren't known for their speed, but they are very useful if you can draw the enemy into their firing range.",
         "Icon": "uixTxrIcon_urbanmech"
     },
     "FixedEquipment": [
         {
-            "MountedLocation" : "CenterTorso",
-            "ComponentDefID" : "Gear_General_GM_Ballistic_Siege_Compensators",
-            "SimGameUID" : "",
-            "ComponentDefType" : "Upgrade",
-            "HardpointSlot" : -1,
-            "IsFixed" : true,
-            "GUID" : null,
-            "DamageLevel" : "Functional",
-            "prefabName" : null,
-            "hasPrefabName" : false
+            "MountedLocation": "CenterTorso",
+            "ComponentDefID": "Gear_General_GM_Ballistic_Siege_Compensators",
+            "SimGameUID": "",
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "IsFixed": true,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
         },
         {
-            "MountedLocation" : "LeftTorso",
-            "ComponentDefID" : "Gear_General_Targeting_Baffle",
-            "SimGameUID" : "",
-            "ComponentDefType" : "Upgrade",
-            "HardpointSlot" : -1,
-            "IsFixed" : true,
-            "GUID" : null,
-            "DamageLevel" : "Functional",
-            "prefabName" : null,
-            "hasPrefabName" : false
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_General_Targeting_Baffle",
+            "SimGameUID": "",
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "IsFixed": true,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
         },
         {
-            "MountedLocation" : "RightTorso",
-            "ComponentDefID" : "Gear_General_Targeting_Baffle",
-            "SimGameUID" : "",
-            "ComponentDefType" : "Upgrade",
-            "HardpointSlot" : -1,
-            "IsFixed" : true,
-            "GUID" : null,
-            "DamageLevel" : "Functional",
-            "prefabName" : null,
-            "hasPrefabName" : false
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Gear_General_Targeting_Baffle",
+            "SimGameUID": "",
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "IsFixed": true,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
         },
         {
-            "MountedLocation" : "LeftTorso",
-            "ComponentDefID" : "Gear_General_Intercept_System",
-            "SimGameUID" : "",
-            "ComponentDefType" : "Upgrade",
-            "HardpointSlot" : -1,
-            "IsFixed" : true,
-            "GUID" : null,
-            "DamageLevel" : "Functional",
-            "prefabName" : null,
-            "hasPrefabName" : false
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_General_Intercept_System",
+            "SimGameUID": "",
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "IsFixed": true,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
         }
     ],
     "MovementCapDefID": "movedef_urbanmech_UM-R60",
@@ -99,7 +99,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -134,7 +136,9 @@
         },
         {
             "Location": "LeftTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 70,
@@ -143,7 +147,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 100,
@@ -152,7 +158,9 @@
         },
         {
             "Location": "RightTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 70,
@@ -187,7 +195,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 70,
@@ -196,7 +206,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 70,
@@ -250,9 +262,12 @@
     ],
     "VariantName": "UM-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Heavy Defender",
-    "YangsThoughts": "Don't let the stubby 'Urbie' fool you\u2014it may look like a walking trash can, but it can mount heavy armor and a grown-up-sized Autocannon. R60s aren't known for their speed, but they are very useful if you can draw the enemy into their firing range."
+    "YangsThoughts": "Don't let the stubby 'Urbie' fool you—it may look like a walking trash can, but it can mount heavy armor and a grown-up-sized Autocannon. R60s aren't known for their speed, but they are very useful if you can draw the enemy into their firing range."
 }
+

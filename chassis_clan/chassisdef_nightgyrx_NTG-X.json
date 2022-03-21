@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Night Gyr X",
+        "UIName": "Night Gyr",
         "Id": "chassisdef_nightgyrx_NTG-X",
-        "Name": "Night Gyr X",
+        "Name": "Night Gyr",
         "Details": "The primary configuration is hard-hitting, mounting a pair of ER PPCs located in the left arm and an Ultra Autocannon/10 in the right. This blistering firepower can often take down an opponent before they are in range. Three Medium Pulse Lasers serve as accurate backups. Eight additional double heat sinks keep the 'Mech fairly cool.",
         "Icon": "uixTxrIcon_nightgyr"
     },

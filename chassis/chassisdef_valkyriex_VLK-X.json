@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Valkyrie X",
+        "UIName": "Valkyrie",
         "Id": "chassisdef_valkyriex_VLK-X",
-        "Name": "Valkyrie X",
+        "Name": "Valkyrie",
         "Details": "The Valkyrie has as its primary armament a LRM-10 launcher with one ton of reloads mounted in the left torso. While an unusual weapon on a light 'Mech, it gives the Valkyrie a long reach and respectable damage, especially against other light 'Mech hunters. As a back-up weapon the Valkyrie carries a Medium Laser in its right arm.",
         "Icon": "uixTxrIcon_valkyrie"
     },
@@ -49,7 +49,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -94,7 +96,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 100,
@@ -135,7 +139,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 70,
@@ -144,7 +150,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 70,
@@ -198,9 +206,12 @@
     ],
     "VariantName": "VLK-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Fire Support",
     "YangsThoughts": "The Valkyrie has as its primary armament a LRM-10 launcher with one ton of reloads mounted in the left torso. While an unusual weapon on a light 'Mech, it gives the Valkyrie a long reach and respectable damage, especially against other light 'Mech hunters. As a back-up weapon the Valkyrie carries a Medium Laser in its right arm."
 }
+

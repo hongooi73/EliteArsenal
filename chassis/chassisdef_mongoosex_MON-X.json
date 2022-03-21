@@ -5,13 +5,15 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Mongoose X",
+        "UIName": "Mongoose",
         "Id": "chassisdef_mongoosex_MON-X",
-        "Name": "Mongoose X",
+        "Name": "Mongoose",
         "Details": "The Mongoose was designed as a deep recon 'Mech and a competitor to the Locust. The MON-66b is the variant used by the Star League's Royal regiments. Constructed around a powerful XL engine and using weight saving technologies, the Royal Mongoose is extremely fast while also carrying a heavy armament of an ER Large Laser, a pair of Medium Lasers, and a Small Laser for good measure.",
         "Icon": "uixTxrIcon_mongoose"
     },
-    "FixedEquipment": [],
+    "FixedEquipment": [
+
+    ],
     "MovementCapDefID": "movedef_mongoose_MON-67",
     "PathingCapDefID": "pathingdef_light",
     "HardpointDataDefID": "hardpointdatadef_mongoose",
@@ -86,7 +88,9 @@
         },
         {
             "Location": "LeftTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 60,
@@ -113,7 +117,9 @@
         },
         {
             "Location": "RightTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 60,
@@ -140,7 +146,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 60,
@@ -149,7 +157,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 60,
@@ -203,9 +213,12 @@
     ],
     "VariantName": "MON-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Striker & Scout",
     "YangsThoughts": "Boss, this thing is a wonder. As fast as they could make 'em back then but with a serious punch, this baby is going to work wonders for us!"
 }
+

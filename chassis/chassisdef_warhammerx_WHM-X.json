@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Warhammer X",
+        "UIName": "Warhammer",
         "Id": "chassisdef_warhammerx_WHM-X",
-        "Name": "Warhammer X",
+        "Name": "Warhammer",
         "Details": "An extremely rare Warhammer variant associated with the SLDF's famed Royal Divisions. Kitted out with top-tier weaponry and advanced heat management, the WHM-7A was piloted by the best-trained MechWarriors the SLDF had to offer.",
         "Icon": "uixTxrIcon_warhammer"
     },
@@ -100,7 +100,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 220,
@@ -153,7 +155,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 150,
@@ -162,7 +166,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 150,
@@ -216,7 +222,9 @@
     ],
     "VariantName": "WHM-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Brawler",
@@ -236,3 +244,4 @@
         }
     ]
 }
+

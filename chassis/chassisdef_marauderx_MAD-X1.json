@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Marauder X",
+        "UIName": "Marauder",
         "Id": "chassisdef_marauderx_MAD-X1",
-        "Name": "Marauder X",
+        "Name": "Marauder",
         "Details": "The MAD-2R is the Marauder variant that was given to the SLDF's Royal Divisions before the fall of the Star League. Like most Royal units, it is exceedingly rare, and comes equipped with advanced weaponry and components.",
         "Icon": "uixTxrIcon_marauder"
     },
@@ -82,7 +82,9 @@
         },
         {
             "Location": "LeftTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 160,
@@ -91,7 +93,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 230,
@@ -136,7 +140,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 160,
@@ -145,7 +151,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 160,
@@ -199,7 +207,9 @@
     ],
     "VariantName": "MAD-X1",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Ranged Assault",
@@ -219,3 +229,4 @@
         }
     ]
 }
+

@@ -5,13 +5,15 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Nova X",
+        "UIName": "Nova",
         "Id": "chassisdef_novax_NVA-X1",
-        "Name": "Nova X",
+        "Name": "Nova",
         "Details": "The Nova X1 is a dedicated mech disabler.",
         "Icon": "uixTxrIcon_nova"
     },
-    "FixedEquipment": [],
+    "FixedEquipment": [
+
+    ],
     "MovementCapDefID": "movedef_nova",
     "PathingCapDefID": "pathingdef_medium",
     "HardpointDataDefID": "hardpointdatadef_nova",
@@ -50,7 +52,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -147,7 +151,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 160,
@@ -236,7 +242,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 120,
@@ -245,7 +253,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 120,
@@ -299,9 +309,12 @@
     ],
     "VariantName": "NVA-X1",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Disabler",
     "YangsThoughts": "The Nova X normally mounts a battery of medium lasers, but this one has been modified to be a specialised mech disabler."
 }
+

@@ -5,13 +5,15 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Wolfhound X",
+        "UIName": "Wolfhound",
         "Id": "chassisdef_wolfhoundx_WLF-X2",
-        "Name": "Wolfhound X",
+        "Name": "Wolfhound",
         "Details": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to doubles and the Large laser is upgraded also to an ER version.",
         "Icon": "uixTxrIcon_wolfhound"
     },
-    "FixedEquipment": [],
+    "FixedEquipment": [
+
+    ],
     "MovementCapDefID": "movedef_wolfhound_WLF-1",
     "PathingCapDefID": "pathingdef_light",
     "HardpointDataDefID": "hardpointdatadef_wolfhound",
@@ -50,7 +52,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 1,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -59,7 +63,9 @@
         },
         {
             "Location": "LeftArm",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 8,
             "MaxArmor": 60,
@@ -152,7 +158,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 80,
@@ -161,7 +169,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 80,
@@ -215,9 +225,12 @@
     ],
     "VariantName": "WLF-X2",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper & Light Brawler",
     "YangsThoughts": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to doubles and the Large laser is upgraded also to an ER version."
 }
+

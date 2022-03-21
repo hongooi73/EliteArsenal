@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Hellfire X",
+        "UIName": "Hellfire",
         "Id": "chassisdef_hellfirex_HLF-X2",
-        "Name": "Hellfire X",
+        "Name": "Hellfire",
         "Details": "Approximately twice as expensive as the original, the Hellfire 2 uses an 300-rated XL Engine to increase the 'Mech's speed to 86 km/h. In place of the LRMs are a pair of ATM 6s. The heavy smalls are replaced with a single ER Small Laser and an additional double heat sink.",
         "Icon": "uixTxrIcon_hellfire"
     },

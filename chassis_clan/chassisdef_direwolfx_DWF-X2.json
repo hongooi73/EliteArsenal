@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Dire Wolf X",
+        "UIName": "Dire Wolf",
         "Id": "chassisdef_direwolfx_DWF-X2",
-        "Name": "Dire Wolf X",
+        "Name": "Dire Wolf",
         "Details": "In its primary configuration, the Dire Wolf carries an extensive long range payload that is backed up by good close combat weapons. The primary long range weapons are four ER Large Lasers which give the Dire Wolf an impressive long range punch. These are backed up by two Ultra Autocannon/5s for even more direct fire capability and an LRM-10 launcher giving the Dire Wolf some indirect fire capabilities. For close combat, the Dire Wolf has a simple yet effective array of four Medium Pulse Lasers.",
         "Icon": "uixTxrIcon_direwolf"
     },
@@ -63,7 +63,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -120,7 +122,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 320,
@@ -129,7 +133,9 @@
         },
         {
             "Location": "RightTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 210,
@@ -168,7 +174,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 210,
@@ -177,7 +185,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 210,
@@ -231,9 +241,12 @@
     ],
     "VariantName": "DWF-X2",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Juggernaut & Close Assault",
     "YangsThoughts": "In its primary configuration, the Dire Wolf carries an extensive long range payload that is backed up by good close combat weapons. The primary long range weapons are four ER Large Lasers which give the Dire Wolf an impressive long range punch. These are backed up by two Ultra Autocannon/5s for even more direct fire capability and an LRM-10 launcher giving the Dire Wolf some indirect fire capabilities. For close combat, the Dire Wolf has a simple yet effective array of four Medium Pulse Lasers."
 }
+

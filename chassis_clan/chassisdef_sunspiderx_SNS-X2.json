@@ -5,13 +5,15 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Sun Spider X",
+        "UIName": "Sun Spider",
         "Id": "chassisdef_sunspiderx_SNS-X2",
-        "Name": "Sun Spider X",
+        "Name": "Sun Spider",
         "Details": "Almost a direct counter-point to the Prime, the A Config mounts twin Ultra AC/2s in each side torso, supported by an ER Large Laser in each arm if the two tons of Ultra reloads run dry. The config is rounded out by an extra Double Heat Sink.",
         "Icon": "uixTxrIcon_sunspider"
     },
-    "FixedEquipment": [],
+    "FixedEquipment": [
+
+    ],
     "MovementCapDefID": "movedef_sunspider",
     "PathingCapDefID": "pathingdef_heavy",
     "HardpointDataDefID": "hardpointdatadef_sunspider",
@@ -50,7 +52,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -99,7 +103,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 220,
@@ -148,7 +154,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 150,
@@ -157,7 +165,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 150,
@@ -211,9 +221,12 @@
     ],
     "VariantName": "SNS-X2",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Brawler & Close Assault",
     "YangsThoughts": "Almost a direct counter-point to the Prime, the A Config mounts twin Ultra AC/2s in each side torso, supported by an ER Large Laser in each arm if the two tons of Ultra reloads run dry. The config is rounded out by an extra Double Heat Sink."
 }
+

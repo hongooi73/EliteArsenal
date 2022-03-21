@@ -5,10 +5,10 @@
         "Purchasable": false,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Black Knight X",
+        "UIName": "Black Knight",
         "Id": "chassisdef_blackknightx_BL-KNT-X",
-        "Name": "Black Knight X",
-        "Details": "The Black Knight 6B was the harder-hitting, cooler-running Star League ancestor to the standard BL-6-KNT we have today. It did everything the 6 does, but better\u2014mostly thanks to its Double Heat Sinks, which are basically nonexistent these days.",
+        "Name": "Black Knight",
+        "Details": "The Black Knight 6B was the harder-hitting, cooler-running Star League ancestor to the standard BL-6-KNT we have today. It did everything the 6 does, but better—mostly thanks to its Double Heat Sinks, which are basically nonexistent these days.",
         "Icon": "uixTxrIcon_blackknight"
     },
     "MovementCapDefID": "movedef_blackknight_BL-6-KNT",
@@ -111,7 +111,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 230,
@@ -164,7 +166,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 160,
@@ -173,7 +177,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 160,
@@ -227,9 +233,12 @@
     ],
     "VariantName": "BL-KNT-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Brawler & Ranged Assault",
-    "YangsThoughts": "The Black Knight 6B was the harder-hitting, cooler-running Star League ancestor to the standard BL-6-KNT we have today. It did everything the 6 does, but better\u2014mostly thanks to its Double Heat Sinks, which are basically nonexistent these days."
+    "YangsThoughts": "The Black Knight 6B was the harder-hitting, cooler-running Star League ancestor to the standard BL-6-KNT we have today. It did everything the 6 does, but better—mostly thanks to its Double Heat Sinks, which are basically nonexistent these days."
 }
+

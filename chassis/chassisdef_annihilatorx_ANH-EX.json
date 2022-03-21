@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Annihilator X",
+        "UIName": "Annihilator",
         "Id": "chassisdef_annihilatorx_ANH-EX",
-        "Name": "Annihilator X",
+        "Name": "Annihilator",
         "Details": "Where the original Annihilator 1A carries four powerful autocannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.",
         "Icon": "uixTxrIcon_annihilator"
     },
@@ -49,7 +49,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -88,7 +90,9 @@
         },
         {
             "Location": "LeftTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 210,
@@ -123,7 +127,9 @@
         },
         {
             "Location": "RightTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 210,
@@ -162,7 +168,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 210,
@@ -171,7 +179,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 210,
@@ -225,23 +235,26 @@
     ],
     "VariantName": "ANH-EX",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Juggernaut & Siege Mech",
     "YangsThoughts": "I thought the Awesome was scary, but the 1E's four PPCs even makes the Awesome look a little less... awesome.",
     "FixedEquipment": [
         {
-            "MountedLocation" : "CenterTorso",
-            "ComponentDefID" : "Gear_General_Optimized_Capacitors",
-            "SimGameUID" : "",
-            "ComponentDefType" : "Upgrade",
-            "HardpointSlot" : -1,
-            "IsFixed" : true,
-            "GUID" : null,
-            "DamageLevel" : "Functional",
-            "prefabName" : null,
-            "hasPrefabName" : false
+            "MountedLocation": "CenterTorso",
+            "ComponentDefID": "Gear_General_Optimized_Capacitors",
+            "SimGameUID": "",
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "IsFixed": true,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
         }
     ]
 }
+

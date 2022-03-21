@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Kodiak X",
+        "UIName": "Kodiak",
         "Id": "chassisdef_kodiakx_KDK-X",
-        "Name": "Kodiak X",
+        "Name": "Kodiak",
         "Details": "A fast moving assault Mech, the Kodiak was originally designed by Clan Ghost Bear as a second-line mech and represents the epitome of Ghost Bear thinking: mostly defensive but capable of surprising speed and a devastating attack when launched.",
         "Icon": "uixTxrIcon_kodiak"
     },

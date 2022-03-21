@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Incubus X",
+        "UIName": "Incubus",
         "Id": "chassisdef_incubusx_INC-X",
-        "Name": "Incubus X",
+        "Name": "Incubus",
         "Details": "A second line mech designed for settling clan duels, the laser armed Incubus has found considerable success with Clan Hell's Horses'49th Battlemech Cluster as a protomech hunter.",
         "Icon": "uixTxrIcon_incubus"
     },

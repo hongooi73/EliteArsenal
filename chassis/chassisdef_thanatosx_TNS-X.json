@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Thanatos X",
+        "UIName": "Thanatos",
         "Id": "chassisdef_thanatosx_TNS-X",
-        "Name": "Thanatos X",
+        "Name": "Thanatos",
         "Details": "The Thanatos-4T is a closer-range brawler variant of the Thanatos that reduces the engine size in order to carry a significantly better close range payload, consisting of the original's MRM-20 combined with a massive LB-20X Autocannon and 4 Medium Pulse Lasers. It keeps a similar armor profile and keeps the jump jet mobility of the original Thanatos-4S.",
         "Icon": "uixTxrIcon_thanatos"
     },

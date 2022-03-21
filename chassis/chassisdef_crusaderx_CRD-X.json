@@ -5,13 +5,15 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Crusader X",
+        "UIName": "Crusader",
         "Id": "chassisdef_crusaderx_CRD-X",
-        "Name": "Crusader X",
+        "Name": "Crusader",
         "Details": "This lostech variant was used by the SLDF's Royal units. It upgraded the heat sinks to double heat sinks and utilized an Endo Steel internal structure to save mass. This enabled the addition of Artemis IV Fire Control Systems to the LRM launchers. The SRMs were replaced with four Hawk Streak SRM-2s. All of the ammunition was moved to the side torsos and protected by CASE.",
         "Icon": "uixTxrIcon_crusader"
     },
-    "FixedEquipment": [],
+    "FixedEquipment": [
+
+    ],
     "MovementCapDefID": "movedef_crusader_CRD-3R",
     "PathingCapDefID": "pathingdef_heavy",
     "HardpointDataDefID": "hardpointdatadef_crusader",
@@ -50,7 +52,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -81,7 +85,9 @@
         },
         {
             "Location": "LeftTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 150,
@@ -90,7 +96,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 210,
@@ -99,7 +107,9 @@
         },
         {
             "Location": "RightTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 10,
             "MaxArmor": 150,
@@ -211,9 +221,12 @@
     ],
     "VariantName": "CRD-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Heavy Skirmisher & Brawler",
     "YangsThoughts": "This lostech variant was used by the SLDF's Royal units. It upgraded the heat sinks to double heat sinks and utilized an Endo Steel internal structure to save mass. This enabled the addition of Artemis IV Fire Control Systems to the LRM launchers. The SRMs were replaced with four Hawk Streak SRM-2s. All of the ammunition was moved to the side torsos and protected by CASE."
 }
+

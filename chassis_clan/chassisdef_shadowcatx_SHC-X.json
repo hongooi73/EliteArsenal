@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Shadow Cat X",
+        "UIName": "Shadow Cat",
         "Id": "chassisdef_shadowcatx_SHC-X",
-        "Name": "Shadow Cat X",
+        "Name": "Shadow Cat",
         "Details": "At the beginning of this century, the leaders of Clan Nova Cat commissioned a new medium Mech that could compete with and outperform the Fenris. The Shadow Cat was the result.",
         "Icon": "uixTxrIcon_shadowcat"
     },
@@ -75,7 +75,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -144,7 +146,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 140,
@@ -209,7 +213,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 110,
@@ -218,7 +224,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 110,
@@ -272,9 +280,12 @@
     ],
     "VariantName": "SHC-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Disabler",
     "YangsThoughts": "At the beginning of this century, the leaders of Clan Nova Cat commissioned a new medium Mech that could compete with and outperform the Fenris. The Shadow Cat was the result."
 }
+

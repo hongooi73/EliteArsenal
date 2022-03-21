@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Mist Lynx X",
+        "UIName": "Mist Lynx",
         "Id": "chassisdef_mistlynxx_MLX-X",
-        "Name": "Mist Lynx X",
+        "Name": "Mist Lynx",
         "Details": "In its primary configuration the Mist Lynx is armed to engage an enemy at any range. For long range combat, the Mist Lynx carries a single LRM-10 launcher, which is backed up by a Streak SRM-4 launcher for close combat. Finally, to protect itself from infantry, the Mist Lynx carries two Machine Guns.",
         "Icon": "uixTxrIcon_mistlynx"
     },

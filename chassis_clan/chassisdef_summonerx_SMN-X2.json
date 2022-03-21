@@ -5,13 +5,15 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Summoner X",
+        "UIName": "Summoner",
         "Id": "chassisdef_summonerx_SMN-X2",
-        "Name": "Summoner X",
+        "Name": "Summoner",
         "Details": "In its primary configuration the Summoner has a basic yet effective arsenal. The primary direct fire weapon is an ER PPC backed up by an LB 10-X Autocannon that can fire both standard and cluster ammunition. For fire support and bombardment, the Summoner has an LRM-15 launcher.",
         "Icon": "uixTxrIcon_summoner"
     },
-    "FixedEquipment": [],
+    "FixedEquipment": [
+
+    ],
     "MovementCapDefID": "movedef_summoner",
     "PathingCapDefID": "pathingdef_heavy",
     "HardpointDataDefID": "hardpointdatadef_summoner",
@@ -50,7 +52,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -99,7 +103,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 220,
@@ -140,7 +146,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 150,
@@ -149,7 +157,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 150,
@@ -203,9 +213,12 @@
     ],
     "VariantName": "SMN-X2",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Brawler & Close Assault",
     "YangsThoughts": "In its primary configuration the Summoner has a basic yet effective arsenal. The primary direct fire weapon is an ER PPC backed up by an LB 10-X Autocannon that can fire both standard and cluster ammunition. For fire support and bombardment, the Summoner has an LRM-15 launcher."
 }
+

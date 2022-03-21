@@ -5,9 +5,9 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Rifleman X",
+        "UIName": "Rifleman",
         "Id": "chassisdef_riflemanx_RFL-X",
-        "Name": "Rifleman X",
+        "Name": "Rifleman",
         "Details": "The RFL-3N Rifleman is as well known for its terrible armor as for its ability to hammer opponents from long range. It has only average speed and poor heat sinking ability, but if you can put it in the right position, it can rain death on anything it surveys.",
         "Icon": "uixTxrIcon_rifleman"
     },
@@ -46,7 +46,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -91,7 +93,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 200,
@@ -136,7 +140,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 140,
@@ -145,7 +151,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 140,
@@ -199,7 +207,9 @@
     ],
     "VariantName": "RFL-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper",
@@ -219,3 +229,4 @@
         }
     ]
 }
+

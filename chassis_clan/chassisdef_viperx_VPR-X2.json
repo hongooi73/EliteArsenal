@@ -5,13 +5,15 @@
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Viper X",
+        "UIName": "Viper",
         "Id": "chassisdef_viperx_VPR-X2",
-        "Name": "Viper X",
+        "Name": "Viper",
         "Details": "Utilizing a heavier mix of shorter ranged weapons among many of the configurations, the Viper saw success when paired with other light platforms.",
         "Icon": "uixTxrIcon_viper"
     },
-    "FixedEquipment": [],
+    "FixedEquipment": [
+
+    ],
     "MovementCapDefID": "movedef_viper",
     "PathingCapDefID": "pathingdef_medium",
     "HardpointDataDefID": "hardpointdatadef_viper",
@@ -50,7 +52,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -209,7 +213,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 100,
@@ -218,7 +224,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 100,
@@ -272,9 +280,12 @@
     ],
     "VariantName": "VPR-X2",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Disabler",
     "YangsThoughts": " Utilizing a heavier mix of shorter ranged weapons among many of the configurations, the Viper saw success when paired with other light platforms."
 }
+

@@ -11,7 +11,7 @@
         "Id": "chassisdef_direwolfs_DWF-S1",
         "Icon": "uixTxrIcon_direwolf"
     },
-    "VariantName": "DWF-Z1",
+    "VariantName": "DWF-S1",
     "StockRole": "Juggernaut & Close Assault",
     "YangsThoughts": "This variant mounts two of the largest weapons in the Clan arsenal: the HAG 40. Ten tons of ammunition ensure that the 'Mech will not quickly run out. The uncharacteristically light backup weapons include a pair of Medium Pulse Lasers, a Streak SRM-6, and a single ER Small Laser.",
     "Tonnage": 100,

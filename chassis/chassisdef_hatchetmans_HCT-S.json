@@ -16,7 +16,7 @@
     "HardpointDataDefID": "hardpointdatadef_hatchetman",
     "PrefabIdentifier": "chrPrfMech_hatchetmanBase-001",
     "PrefabBase": "hatchetman",
-    "VariantName": "HCT-Z",
+    "VariantName": "HCT-S",
     "StockRole": "Brawler & Skirmisher",
     "YangsThoughts": "Just what they needed to do, make an even slower version of the Hatchetman.  Though it does make wonder if they reduced the engine in the HCT-3G with the intent of mounting an AC/20 in the torso instead of the AC/10 - which would certainly limit your options to close range assault.",
     "Tonnage": 45,

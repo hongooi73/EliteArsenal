@@ -8,7 +8,7 @@
         "UIName": "Kit Fox",
         "Id": "chassisdef_kitfoxs_KFX-S2",
         "Name": "Kit Fox",
-        "Details": "The Kit Fox X is a light, fast mech destroyer. With MASC to increase its walking and running speeds, and a massive COIL-L weapon system that can wreck even the most well-protected target, this is a mech to be respected.",
+        "Details": "In its primary configuration, the Kit Fox mounts an ER Large Laser and Small Pulse Laser on the left arm as its primary source of firepower. These are supplemented by an LB 5-X Autocannon for tactical flexibility and a Streak SRM-4 rack for close range combat.",
         "Icon": "uixTxrIcon_kitfox"
     },
     "FixedEquipment": [

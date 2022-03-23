@@ -8,7 +8,7 @@
         "UIName": "Nova",
         "Id": "chassisdef_novax_NVA-X2",
         "Name": "Nova",
-        "Details": "The Nova X2 is an improved version of the regular Nova laserboat. Clan technicians have managed to extract even more damage from its multiple medium lasers, while reducing its heat generation.",
+        "Details": "A sleek, mobile, and versatile design, the Clan nova was long suspected to be one of the first OmniMechs produced by the Clans.",
         "Icon": "uixTxrIcon_nova"
     },
     "FixedEquipment": [

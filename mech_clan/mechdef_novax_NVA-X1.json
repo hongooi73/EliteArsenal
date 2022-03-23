@@ -30,7 +30,7 @@
         "UIName": "Nova X",
         "Id": "mechdef_novax_NVA-X1",
         "Name": "Nova X",
-        "Details": "The Nova X1 is a dedicated mech disabler.",
+        "Details": "A sleek, mobile, and versatile design, the Clan nova was long suspected to be one of the first OmniMechs produced by the Clans.",
         "Icon": "uixTxrIcon_nova"
     },
     "simGameMechPartCost": 2500000,

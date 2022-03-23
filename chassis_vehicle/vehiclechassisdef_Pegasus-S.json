@@ -1,100 +1,108 @@
 {
     "Description": {
-        "Id": "vehiclechassisdef_Chevalier-Z",
-        "Name": "Chevalier Z",
+        "Id": "vehiclechassisdef_Pegasus-S",
+        "Name": "Pegasus S",
         "Details": "",
         "Icon": "STRIKER",
-        "Cost": 564,
+        "Cost": 993,
         "Rarity": 0,
         "Purchasable": false
     },
-    "MovementCapDefID": "movedef_chevalier",
-    "PathingCapDefID": "pathingdef_light_tracked",
-    "HardpointDataDefID": "hardpointdatadef_chevalier",
-    "PrefabIdentifier": "chrprfvhcl_chevalier",
-    "PrefabBase": "chevalier",
+    "MovementCapDefID": "movedef_pegasus",
+    "PathingCapDefID": "pathingdef_light_wheeled",
+    "HardpointDataDefID": "hardpointdatadef_pegasus",
+    "PrefabIdentifier": "chrprfvhcl_pegasusbase",
+    "PrefabBase": "pegasus",
     "Tonnage": 35,
-    "weightClass": "MEDIUM",
-    "BattleValue": 564,
-    "TopSpeed": 97,
+    "weightClass": "LIGHT",
+    "BattleValue": 993,
+    "TopSpeed": 85,
     "TurnRadius": 90,
     "movementType": "Wheeled",
-    "SpotterDistanceMultiplier": 1,
-    "VisibilityMultiplier": 1,
-    "SensorRangeMultiplier": 1,
-    "Signature": 0,
-    "Radius": 3,
+    "SpotterDistanceMultiplier": 1.25,
+    "VisibilityMultiplier": 0.9,
+    "SensorRangeMultiplier": 1.25,
+    "Signature": -0.25,
+    "Radius": 4,
     "LOSSourcePositions": [
         {
             "x": 0,
-            "y": 3.25,
+            "y": 3,
             "z": -0.5
         },
         {
             "x": 0,
             "y": 1.5,
-            "z": 3
+            "z": 3.5
         }
     ],
     "LOSTargetPositions": [
         {
             "x": 0,
-            "y": 3.25,
+            "y": 3,
             "z": -0.5
         },
         {
             "x": 0,
             "y": 1.5,
-            "z": 3
+            "z": 3.5
         },
         {
-            "x": -1.5,
-            "y": 4,
+            "x": -2,
+            "y": 2.5,
             "z": 0
         },
         {
-            "x": 1.5,
-            "y": 4,
+            "x": 2,
+            "y": 2.5,
             "z": 0
         },
         {
             "x": 0,
-            "y": 2.5,
+            "y": 1.6,
             "z": -4
         }
     ],
     "Locations": [
         {
             "Location": "Front",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 130,
-            "InternalStructure": 4
+            "MaxArmor": 100,
+            "InternalStructure": 20
         },
         {
             "Location": "Left",
-            "Hardpoints": [],
-            "Tonnage": 0,
-            "InventorySlots": 0,
-            "MaxArmor": 100,
-            "InternalStructure": 4
-        },
-        {
-            "Location": "Right",
-            "Hardpoints": [],
-            "Tonnage": 0,
-            "InventorySlots": 0,
-            "MaxArmor": 100,
-            "InternalStructure": 4
-        },
-        {
-            "Location": "Rear",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
             "MaxArmor": 80,
-            "InternalStructure": 4
+            "InternalStructure": 20
+        },
+        {
+            "Location": "Right",
+            "Hardpoints": [
+
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 0,
+            "MaxArmor": 80,
+            "InternalStructure": 20
+        },
+        {
+            "Location": "Rear",
+            "Hardpoints": [
+
+            ],
+            "Tonnage": 0,
+            "InventorySlots": 0,
+            "MaxArmor": 50,
+            "InternalStructure": 20
         },
         {
             "Location": "Turret",
@@ -114,8 +122,9 @@
             ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 110,
-            "InternalStructure": 4
+            "MaxArmor": 90,
+            "InternalStructure": 20
         }
     ]
 }
+

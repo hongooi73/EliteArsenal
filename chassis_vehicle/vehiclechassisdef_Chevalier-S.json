@@ -1,100 +1,108 @@
 {
     "Description": {
-        "Id": "vehiclechassisdef_JEdgar-Z",
-        "Name": "J Edgar Z",
+        "Id": "vehiclechassisdef_Chevalier-S",
+        "Name": "Chevalier S",
         "Details": "",
-        "Icon": "MANTICORE",
-        "Cost": 993,
-        "Rarity": 3,
+        "Icon": "STRIKER",
+        "Cost": 564,
+        "Rarity": 0,
         "Purchasable": false
     },
-    "MovementCapDefID": "movedef_JEdgar",
-    "PathingCapDefID": "pathingdef_medium_tracked",
-    "HardpointDataDefID": "hardpointdatadef_jedgar",
-    "PrefabIdentifier": "chrprfvhcl_jedgarbase",
-    "PrefabBase": "jedgar",
-    "Tonnage": 25,
-    "weightClass": "LIGHT",
-    "BattleValue": 993,
-    "TopSpeed": 500,
+    "MovementCapDefID": "movedef_chevalier",
+    "PathingCapDefID": "pathingdef_light_tracked",
+    "HardpointDataDefID": "hardpointdatadef_chevalier",
+    "PrefabIdentifier": "chrprfvhcl_chevalier",
+    "PrefabBase": "chevalier",
+    "Tonnage": 35,
+    "weightClass": "MEDIUM",
+    "BattleValue": 564,
+    "TopSpeed": 97,
     "TurnRadius": 90,
     "movementType": "Wheeled",
     "SpotterDistanceMultiplier": 1,
     "VisibilityMultiplier": 1,
     "SensorRangeMultiplier": 1,
     "Signature": 0,
-    "Radius": 4,
+    "Radius": 3,
     "LOSSourcePositions": [
         {
             "x": 0,
-            "y": 3,
+            "y": 3.25,
             "z": -0.5
         },
         {
-            "x": 0.0,
+            "x": 0,
             "y": 1.5,
-            "z": 3.5
+            "z": 3
         }
     ],
     "LOSTargetPositions": [
         {
             "x": 0,
-            "y": 3,
+            "y": 3.25,
             "z": -0.5
         },
         {
-            "x": 0.0,
+            "x": 0,
             "y": 1.5,
-            "z": 3.5
+            "z": 3
         },
         {
-            "x": -2,
-            "y": 2.5,
+            "x": -1.5,
+            "y": 4,
             "z": 0
         },
         {
-            "x": 2,
-            "y": 2.5,
+            "x": 1.5,
+            "y": 4,
             "z": 0
         },
         {
-            "x": 0.0,
-            "y": 1.6,
-            "z": -4.0
+            "x": 0,
+            "y": 2.5,
+            "z": -4
         }
     ],
     "Locations": [
         {
             "Location": "Front",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 220,
-            "InternalStructure": 15
+            "MaxArmor": 130,
+            "InternalStructure": 4
         },
         {
             "Location": "Left",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 200,
-            "InternalStructure": 15
+            "MaxArmor": 100,
+            "InternalStructure": 4
         },
         {
             "Location": "Right",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 200,
-            "InternalStructure": 15
+            "MaxArmor": 100,
+            "InternalStructure": 4
         },
         {
             "Location": "Rear",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 200,
-            "InternalStructure": 15
+            "MaxArmor": 80,
+            "InternalStructure": 4
         },
         {
             "Location": "Turret",
@@ -114,8 +122,9 @@
             ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 220,
-            "InternalStructure": 15
+            "MaxArmor": 110,
+            "InternalStructure": 4
         }
     ]
 }
+

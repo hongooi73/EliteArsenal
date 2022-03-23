@@ -1,125 +1,130 @@
 {
     "Description": {
-        "Id": "vehiclechassisdef_APC_Vargr-Z",
-        "Name": "Vargr APC Z",
+        "Id": "vehiclechassisdef_JEdgar-S",
+        "Name": "J Edgar S",
         "Details": "",
-        "Icon": "STRIKER",
-        "Cost": 564,
-        "Rarity": 0,
+        "Icon": "MANTICORE",
+        "Cost": 993,
+        "Rarity": 3,
         "Purchasable": false
     },
-    "MovementCapDefID": "movedef_APC_Wheeled",
-    "PathingCapDefID": "pathingdef_light_wheeled",
-    "HardpointDataDefID": "hardpointdatadef_apc",
-    "PrefabIdentifier": "chrPrfVhcl_apc",
-    "PrefabBase": "apc",
-    "Tonnage": 50,
-    "weightClass": "HEAVY",
-    "BattleValue": 564,
-    "TopSpeed": 85,
+    "MovementCapDefID": "movedef_JEdgar",
+    "PathingCapDefID": "pathingdef_medium_tracked",
+    "HardpointDataDefID": "hardpointdatadef_jedgar",
+    "PrefabIdentifier": "chrprfvhcl_jedgarbase",
+    "PrefabBase": "jedgar",
+    "Tonnage": 25,
+    "weightClass": "LIGHT",
+    "BattleValue": 993,
+    "TopSpeed": 500,
     "TurnRadius": 90,
     "movementType": "Wheeled",
     "SpotterDistanceMultiplier": 1,
-    "VisibilityMultiplier": 0.85,
+    "VisibilityMultiplier": 1,
     "SensorRangeMultiplier": 1,
     "Signature": 0,
     "Radius": 4,
     "LOSSourcePositions": [
         {
             "x": 0,
-            "y": 4,
-            "z": -2
+            "y": 3,
+            "z": -0.5
         },
         {
             "x": 0,
-            "y": 2.5,
-            "z": 4
+            "y": 1.5,
+            "z": 3.5
         }
     ],
     "LOSTargetPositions": [
         {
             "x": 0,
-            "y": 4,
-            "z": -2
+            "y": 3,
+            "z": -0.5
         },
         {
             "x": 0,
-            "y": 2.5,
-            "z": 4
+            "y": 1.5,
+            "z": 3.5
         },
         {
-            "x": -1.5,
+            "x": -2,
             "y": 2.5,
             "z": 0
         },
         {
-            "x": 1.5,
+            "x": 2,
             "y": 2.5,
             "z": 0
         },
         {
-            "x": 0.0,
-            "y": 2.5,
+            "x": 0,
+            "y": 1.6,
             "z": -4
         }
     ],
     "Locations": [
         {
             "Location": "Front",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 280,
-            "InternalStructure": 35
+            "MaxArmor": 220,
+            "InternalStructure": 15
         },
         {
             "Location": "Left",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 280,
-            "InternalStructure": 35
+            "MaxArmor": 200,
+            "InternalStructure": 15
         },
         {
             "Location": "Right",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 280,
-            "InternalStructure": 35
+            "MaxArmor": 200,
+            "InternalStructure": 15
         },
         {
             "Location": "Rear",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 280,
-            "InternalStructure": 35
+            "MaxArmor": 200,
+            "InternalStructure": 15
         },
         {
             "Location": "Turret",
             "Hardpoints": [
                 {
-                    "WeaponMount": "AntiPersonnel",
-                    "Omni": false
-                },
-                {
-                    "WeaponMount": "AntiPersonnel",
-                    "Omni": false
-                },
-                {
                     "WeaponMount": "Energy",
                     "Omni": false
                 },
                 {
-                    "WeaponMount": "Energy",
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Missile",
                     "Omni": false
                 }
             ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 280,
-            "InternalStructure": 35
+            "MaxArmor": 220,
+            "InternalStructure": 15
         }
     ]
 }
+

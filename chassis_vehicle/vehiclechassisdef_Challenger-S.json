@@ -1,21 +1,21 @@
 {
     "Description": {
-        "Id": "vehiclechassisdef_Zhukov-Z",
-        "Name": "Zhukov Z",
+        "Id": "vehiclechassisdef_Challenger-S",
+        "Name": "Challenger S",
         "Details": "",
         "Icon": "MANTICORE",
-        "Cost": 973,
-        "Rarity": 1,
+        "Cost": 993,
+        "Rarity": 4,
         "Purchasable": false
     },
-    "MovementCapDefID": "movedef_ZHUKOV",
-    "PathingCapDefID": "pathingdef_heavy_tracked",
-    "HardpointDataDefID": "hardpointdatadef_zhukov",
-    "PrefabIdentifier": "chrprfvhcl_zhukovbase",
-    "PrefabBase": "zhukov",
-    "Tonnage": 75,
-    "weightClass": "HEAVY",
-    "BattleValue": 973,
+    "MovementCapDefID": "movedef_CHALLENGER",
+    "PathingCapDefID": "pathingdef_assault_tracked",
+    "HardpointDataDefID": "hardpointdatadef_challenger",
+    "PrefabIdentifier": "chrprfvhcl_challengerbase",
+    "PrefabBase": "challenger",
+    "Tonnage": 90,
+    "weightClass": "ASSAULT",
+    "BattleValue": 993,
     "TopSpeed": 85,
     "TurnRadius": 90,
     "movementType": "Tracked",
@@ -27,82 +27,89 @@
     "LOSSourcePositions": [
         {
             "x": 0,
-            "y": 3.5,
+            "y": 3,
             "z": -0.5
         },
         {
             "x": 0,
             "y": 1.5,
-            "z": 4.5
+            "z": 4
         }
     ],
     "LOSTargetPositions": [
         {
             "x": 0,
-            "y": 3.5,
+            "y": 3,
             "z": -0.5
         },
         {
             "x": 0,
             "y": 1.5,
-            "z": 4.5
+            "z": 4
         },
         {
             "x": -2,
-            "y": 3,
+            "y": 2.5,
             "z": 0
         },
         {
             "x": 2,
-            "y": 3,
+            "y": 2.5,
             "z": 0
         },
         {
             "x": 0,
-            "y": 2,
+            "y": 1.5,
             "z": -4.5
         }
     ],
     "Locations": [
         {
             "Location": "Front",
-            "Hardpoints": [],
+            "Hardpoints": [
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                }
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 220,
-            "InternalStructure": 40
+            "MaxArmor": 285,
+            "InternalStructure": 50
         },
         {
             "Location": "Left",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 160,
-            "InternalStructure": 40
+            "MaxArmor": 250,
+            "InternalStructure": 50
         },
         {
             "Location": "Right",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 160,
-            "InternalStructure": 40
+            "MaxArmor": 250,
+            "InternalStructure": 50
         },
         {
             "Location": "Rear",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 120,
-            "InternalStructure": 40
+            "MaxArmor": 180,
+            "InternalStructure": 50
         },
         {
             "Location": "Turret",
             "Hardpoints": [
-                {
-                    "WeaponMount": "Missile",
-                    "Omni": false
-                },
                 {
                     "WeaponMount": "Ballistic",
                     "Omni": false
@@ -114,8 +121,9 @@
             ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 220,
-            "InternalStructure": 40
+            "MaxArmor": 285,
+            "InternalStructure": 50
         }
     ]
 }
+

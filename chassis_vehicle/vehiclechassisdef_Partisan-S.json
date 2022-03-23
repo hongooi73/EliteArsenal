@@ -1,7 +1,7 @@
 {
     "Description": {
-        "Id": "vehiclechassisdef_Partisan-Z",
-        "Name": "Partisan Z",
+        "Id": "vehiclechassisdef_Partisan-S",
+        "Name": "Partisan S",
         "Details": "",
         "Icon": "MANTICORE",
         "Cost": 993,
@@ -83,7 +83,9 @@
         },
         {
             "Location": "Left",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
             "MaxArmor": 90,
@@ -91,7 +93,9 @@
         },
         {
             "Location": "Right",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
             "MaxArmor": 90,
@@ -99,7 +103,9 @@
         },
         {
             "Location": "Rear",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
             "MaxArmor": 80,
@@ -132,3 +138,4 @@
         }
     ]
 }
+

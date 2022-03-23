@@ -31,7 +31,7 @@
             "z": -0.5
         },
         {
-            "x": 0.0,
+            "x": 0,
             "y": 1.5,
             "z": 3.5
         }
@@ -43,7 +43,7 @@
             "z": -0.5
         },
         {
-            "x": 0.0,
+            "x": 0,
             "y": 1.5,
             "z": 3.5
         },
@@ -58,9 +58,9 @@
             "z": 0
         },
         {
-            "x": 0.0,
+            "x": 0,
             "y": 1.6,
-            "z": -4.0
+            "z": -4
         }
     ],
     "Locations": [
@@ -79,7 +79,9 @@
         },
         {
             "Location": "Left",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
             "MaxArmor": 90,
@@ -87,7 +89,9 @@
         },
         {
             "Location": "Right",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
             "MaxArmor": 90,
@@ -95,7 +99,9 @@
         },
         {
             "Location": "Rear",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
             "MaxArmor": 100,
@@ -116,3 +122,4 @@
         }
     ]
 }
+

@@ -79,7 +79,9 @@
         },
         {
             "Location": "Left",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
             "MaxArmor": 110,
@@ -87,7 +89,9 @@
         },
         {
             "Location": "Right",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
             "MaxArmor": 110,
@@ -95,7 +99,9 @@
         },
         {
             "Location": "Rear",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 0,
             "MaxArmor": 110,
@@ -103,3 +109,4 @@
         }
     ]
 }
+

@@ -1,60 +1,60 @@
 {
     "Description": {
-        "Id": "vehiclechassisdef_Chevalier-X",
-        "Name": "Chevalier X",
+        "Id": "vehiclechassisdef_APC_Sleipnir-S",
+        "Name": "Sleipnir APC S",
         "Details": "",
         "Icon": "STRIKER",
         "Cost": 564,
         "Rarity": 0,
         "Purchasable": false
     },
-    "MovementCapDefID": "movedef_chevalier",
-    "PathingCapDefID": "pathingdef_light_tracked",
-    "HardpointDataDefID": "hardpointdatadef_chevalier",
-    "PrefabIdentifier": "chrprfvhcl_chevalier",
-    "PrefabBase": "chevalier",
-    "Tonnage": 35,
+    "MovementCapDefID": "movedef_APC_Wheeled",
+    "PathingCapDefID": "pathingdef_light_wheeled",
+    "HardpointDataDefID": "hardpointdatadef_apc",
+    "PrefabIdentifier": "chrPrfVhcl_apc",
+    "PrefabBase": "apc",
+    "Tonnage": 50,
     "weightClass": "MEDIUM",
     "BattleValue": 564,
-    "TopSpeed": 97,
+    "TopSpeed": 85,
     "TurnRadius": 90,
     "movementType": "Wheeled",
     "SpotterDistanceMultiplier": 1,
-    "VisibilityMultiplier": 1,
+    "VisibilityMultiplier": 0.85,
     "SensorRangeMultiplier": 1,
     "Signature": 0,
-    "Radius": 3,
+    "Radius": 4,
     "LOSSourcePositions": [
         {
             "x": 0,
-            "y": 3.25,
-            "z": -0.5
+            "y": 4,
+            "z": -2
         },
         {
             "x": 0,
-            "y": 1.5,
-            "z": 3
+            "y": 2.5,
+            "z": 4
         }
     ],
     "LOSTargetPositions": [
         {
             "x": 0,
-            "y": 3.25,
-            "z": -0.5
+            "y": 4,
+            "z": -2
         },
         {
             "x": 0,
-            "y": 1.5,
-            "z": 3
+            "y": 2.5,
+            "z": 4
         },
         {
             "x": -1.5,
-            "y": 4,
+            "y": 2.5,
             "z": 0
         },
         {
             "x": 1.5,
-            "y": 4,
+            "y": 2.5,
             "z": 0
         },
         {
@@ -71,8 +71,8 @@
             ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 130,
-            "InternalStructure": 4
+            "MaxArmor": 120,
+            "InternalStructure": 25
         },
         {
             "Location": "Left",
@@ -82,7 +82,7 @@
             "Tonnage": 0,
             "InventorySlots": 0,
             "MaxArmor": 100,
-            "InternalStructure": 4
+            "InternalStructure": 25
         },
         {
             "Location": "Right",
@@ -92,7 +92,7 @@
             "Tonnage": 0,
             "InventorySlots": 0,
             "MaxArmor": 100,
-            "InternalStructure": 4
+            "InternalStructure": 25
         },
         {
             "Location": "Rear",
@@ -101,29 +101,33 @@
             ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 80,
-            "InternalStructure": 4
+            "MaxArmor": 100,
+            "InternalStructure": 25
         },
         {
             "Location": "Turret",
             "Hardpoints": [
                 {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
                     "WeaponMount": "Energy",
                     "Omni": false
                 },
                 {
-                    "WeaponMount": "Missile",
-                    "Omni": false
-                },
-                {
-                    "WeaponMount": "Missile",
+                    "WeaponMount": "Energy",
                     "Omni": false
                 }
             ],
             "Tonnage": 0,
             "InventorySlots": 0,
-            "MaxArmor": 110,
-            "InternalStructure": 4
+            "MaxArmor": 120,
+            "InternalStructure": 25
         }
     ]
 }

@@ -128,7 +128,8 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant"
+                    "unit_noncombatant",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

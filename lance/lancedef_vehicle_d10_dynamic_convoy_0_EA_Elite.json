@@ -93,7 +93,8 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_urbie"
+                    "unit_urbie",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -121,7 +122,8 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_urbie"
+                    "unit_urbie",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

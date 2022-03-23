@@ -8,7 +8,7 @@
         "UIName": "Marauder II",
         "Id": "chassisdef_marauderIIs_MAD-AS",
         "Name": "Marauder II",
-        "Details": "Retaining only the two Magna Mk II Medium Lasers, the 5A variant of the Marauder II carries as its primary weapons a pair of Magna Firestar ER PPCs in its arms which give it a powerful long range punch compared to the 4A. The ER PPCs are backed up by a right torso mounted Mydron Excel LB-X Autocannon/10 which gives the Marauder II the tactical flexibility of using both solid and cluster rounds.",
+        "Details": "Based on the standard MAD-5A Marauder II, this variant uses an XL Engine to provide power. The weapons have been replaced with Snub-Nose PPCs, Light PPCs, and a Rotary AC/5. Three tons of ammunition in a CASE protected bay provides plenty of endurance. The single heat sinks were traded out for double heat sinks, and Improved Jump Jets provide a 150 meter jump radius.",
         "Icon": "uixTxrIcon_marauderii"
     },
     "FixedEquipment": [
@@ -34,7 +34,7 @@
     "InitialTonnage": 26,
     "weightClass": "ASSAULT",
     "BattleValue": 10206000,
-    "Heatsinks": 0,
+    "Heatsinks": 30,
     "TopSpeed": 105,
     "TurnRadius": 90,
     "MaxJumpjets": 3,
@@ -255,6 +255,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper & Ranged Assault",
-    "YangsThoughts": "Retaining only the two Magna Mk II Medium Lasers, the 5A variant of the Marauder II carries as its primary weapons a pair of Magna Firestar ER PPCs in its arms which give it a powerful long range punch compared to the 4A. The ER PPCs are backed up by a right torso mounted Mydron Excel LB-X Autocannon/10 which gives the Marauder II the tactical flexibility of using both solid and cluster rounds."
+    "YangsThoughts": "Based on the standard MAD-5A Marauder II, this variant uses an XL Engine to provide power. The weapons have been replaced with Snub-Nose PPCs, Light PPCs, and a Rotary AC/5. Three tons of ammunition in a CASE protected bay provides plenty of endurance. The single heat sinks were traded out for double heat sinks, and Improved Jump Jets provide a 150 meter jump radius."
 }
 

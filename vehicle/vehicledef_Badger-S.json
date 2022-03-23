@@ -1,20 +1,22 @@
 {
     "Version": 1,
     "Description": {
-        "Id": "vehicledef_Hetzer-Z",
-        "Name": "Hetzer Z",
+        "Id": "vehicledef_Badger-S",
+        "Name": "Badger APC S",
         "Details": "",
         "Icon": "",
         "Cost": 564,
         "Rarity": 9,
         "Purchasable": false
     },
-    "ChassisID": "vehiclechassisdef_Hetzer-Z",
+    "ChassisID": "vehiclechassisdef_Badger-S",
     "VehicleTags": {
         "items": [
             "unit_vehicle",
-            "unit_medium",
-            "unit_wheels",
+            "unit_light",
+            "unit_tracks",
+            "unit_noncombatant",
+            "unit_vehicle_apc",
             "unit_release",
             "elite_arsenal",
             "elite_arsenal_s_tier"
@@ -24,46 +26,53 @@
     "Locations": [
         {
             "Location": "Front",
-            "CurrentArmor": 150,
-            "CurrentInternalStructure": 20,
-            "AssignedArmor": 150,
+            "CurrentArmor": 100,
+            "CurrentInternalStructure": 10,
+            "AssignedArmor": 100,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Left",
-            "CurrentArmor": 110,
-            "CurrentInternalStructure": 20,
-            "AssignedArmor": 110,
+            "CurrentArmor": 90,
+            "CurrentInternalStructure": 10,
+            "AssignedArmor": 90,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Right",
-            "CurrentArmor": 110,
-            "CurrentInternalStructure": 20,
-            "AssignedArmor": 110,
+            "CurrentArmor": 90,
+            "CurrentInternalStructure": 10,
+            "AssignedArmor": 90,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Rear",
-            "CurrentArmor": 110,
-            "CurrentInternalStructure": 20,
-            "AssignedArmor": 110,
+            "CurrentArmor": 70,
+            "CurrentInternalStructure": 10,
+            "AssignedArmor": 70,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Turret",
+            "CurrentArmor": 90,
+            "CurrentInternalStructure": 10,
+            "AssignedArmor": 90,
             "DamageLevel": "Functional"
         }
     ],
     "inventory": [
         {
-            "ComponentDefID": "Weapon_Gauss_Gauss_3-EA",
+            "ComponentDefID": "Weapon_Laser_MediumLaser_3-Diverse_Optics",
             "ComponentDefType": "Weapon",
-            "MountedLocation": "Front",
+            "MountedLocation": "Turret",
             "HardpointSlot": 0,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
-            "ComponentDefType": "AmmunitionBox",
-            "MountedLocation": "Front",
-            "HardpointSlot": -1,
+            "ComponentDefID": "Weapon_Laser_MediumLaser_3-Diverse_Optics",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Turret",
+            "HardpointSlot": 0,
             "DamageLevel": "Functional"
         },
         {

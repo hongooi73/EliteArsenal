@@ -1,23 +1,23 @@
 {
     "Version": 1,
     "Description": {
-        "Id": "vehicledef_Badger-Z",
-        "Name": "Badger APC Z",
+        "Id": "vehicledef_Ares-S",
+        "Name": "Ares S",
         "Details": "",
         "Icon": "",
         "Cost": 564,
         "Rarity": 9,
         "Purchasable": false
     },
-    "ChassisID": "vehiclechassisdef_Badger-Z",
+    "ChassisID": "vehiclechassisdef_Ares-S",
     "VehicleTags": {
         "items": [
             "unit_vehicle",
-            "unit_light",
+            "unit_medium",
             "unit_tracks",
-            "unit_noncombatant",
-            "unit_vehicle_apc",
             "unit_release",
+            "unit_range_long",
+            "unit_role_sniper",
             "elite_arsenal",
             "elite_arsenal_s_tier"
         ],
@@ -26,53 +26,60 @@
     "Locations": [
         {
             "Location": "Front",
-            "CurrentArmor": 100,
+            "CurrentArmor": 95,
             "CurrentInternalStructure": 10,
-            "AssignedArmor": 100,
+            "AssignedArmor": 95,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Left",
-            "CurrentArmor": 90,
+            "CurrentArmor": 85,
             "CurrentInternalStructure": 10,
-            "AssignedArmor": 90,
+            "AssignedArmor": 85,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Right",
-            "CurrentArmor": 90,
+            "CurrentArmor": 85,
             "CurrentInternalStructure": 10,
-            "AssignedArmor": 90,
+            "AssignedArmor": 85,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Rear",
-            "CurrentArmor": 70,
+            "CurrentArmor": 80,
             "CurrentInternalStructure": 10,
-            "AssignedArmor": 70,
+            "AssignedArmor": 80,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Turret",
-            "CurrentArmor": 90,
+            "CurrentArmor": 85,
             "CurrentInternalStructure": 10,
-            "AssignedArmor": 90,
+            "AssignedArmor": 85,
             "DamageLevel": "Functional"
         }
     ],
     "inventory": [
         {
-            "ComponentDefID": "Weapon_Laser_MediumLaser_3-Diverse_Optics",
+            "ComponentDefID": "Weapon_Laser_HeavyLargeLaser_CLAN_IMPROVED_2",
             "ComponentDefType": "Weapon",
             "MountedLocation": "Turret",
             "HardpointSlot": 0,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Weapon_Laser_MediumLaser_3-Diverse_Optics",
+            "ComponentDefID": "Weapon_ATM_IATM9_2",
             "ComponentDefType": "Weapon",
             "MountedLocation": "Turret",
             "HardpointSlot": 0,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+            "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
             "DamageLevel": "Functional"
         },
         {

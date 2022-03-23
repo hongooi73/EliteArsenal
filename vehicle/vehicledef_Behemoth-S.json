@@ -1,15 +1,15 @@
 {
     "Version": 1,
     "Description": {
-        "Id": "vehicledef_Behemoth-Z",
-        "Name": "Behemoth Z",
+        "Id": "vehicledef_Behemoth-S",
+        "Name": "Behemoth S",
         "Details": "",
         "Icon": "",
         "Cost": 973,
         "Rarity": 9,
         "Purchasable": false
     },
-    "ChassisID": "vehiclechassisdef_Behemoth-Z",
+    "ChassisID": "vehiclechassisdef_Behemoth-S",
     "VehicleTags": {
         "items": [
             "unit_vehicle",

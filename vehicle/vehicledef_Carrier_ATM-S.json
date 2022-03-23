@@ -1,7 +1,7 @@
 {
     "Version": 1,
     "Description": {
-        "Id": "vehicledef_Carrier_ATM-Z",
+        "Id": "vehicledef_Carrier_ATM-S",
         "Name": "ATM Carrier",
         "Details": "",
         "Icon": "",
@@ -9,7 +9,7 @@
         "Rarity": 9,
         "Purchasable": false
     },
-    "ChassisID": "vehiclechassisdef_Carrier_ATM-Z",
+    "ChassisID": "vehiclechassisdef_Carrier_ATM-S",
     "VehicleTags": {
         "items": [
             "unit_vehicle",

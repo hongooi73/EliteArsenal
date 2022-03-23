@@ -1,19 +1,20 @@
 {
     "Version": 1,
     "Description": {
-        "Id": "vehicledef_Schrek_Heavy-Z",
-        "Name": "Heavy PPC Carrier",
+        "Id": "vehicledef_Carrier_MRM-S",
+        "Name": "MRM Carrier",
         "Details": "",
         "Icon": "",
         "Cost": 993,
         "Rarity": 9,
         "Purchasable": false
     },
-    "ChassisID": "vehiclechassisdef_Schrek_Heavy-Z",
+    "ChassisID": "vehiclechassisdef_Carrier_MRM-S",
     "VehicleTags": {
         "items": [
             "unit_vehicle",
-            "unit_assault",
+            "unit_heavy",
+            "unit_tracks",
             "AlphardTradingCompany",
             "AntithesisCreed",
             "AuriganPirates",
@@ -65,7 +66,8 @@
             "TortugaPirates",
             "VandenbergMechanizedIndustries",
             "Warboys",
-            "unit_tracks",
+            "unit_release",
+            "unit_vehicle_carrier",
             "elite_arsenal",
             "elite_arsenal_s_tier"
         ],
@@ -74,64 +76,85 @@
     "Locations": [
         {
             "Location": "Front",
-            "CurrentArmor": 120,
-            "CurrentInternalStructure": 40,
-            "AssignedArmor": 120,
+            "CurrentArmor": 60,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 60,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Left",
-            "CurrentArmor": 100,
-            "CurrentInternalStructure": 40,
-            "AssignedArmor": 100,
+            "CurrentArmor": 60,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 60,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Right",
-            "CurrentArmor": 100,
-            "CurrentInternalStructure": 40,
-            "AssignedArmor": 100,
+            "CurrentArmor": 60,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 60,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Rear",
-            "CurrentArmor": 100,
-            "CurrentInternalStructure": 40,
-            "AssignedArmor": 100,
-            "DamageLevel": "Functional"
-        },
-        {
-            "Location": "Turret",
-            "CurrentArmor": 140,
-            "CurrentInternalStructure": 40,
-            "AssignedArmor": 140,
+            "CurrentArmor": 60,
+            "CurrentInternalStructure": 30,
+            "AssignedArmor": 60,
             "DamageLevel": "Functional"
         }
     ],
     "inventory": [
         {
-            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_2",
+            "ComponentDefID": "Weapon_MRM_40-3",
             "ComponentDefType": "Weapon",
-            "MountedLocation": "Turret",
+            "MountedLocation": "Front",
             "HardpointSlot": 0,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_2",
+            "ComponentDefID": "Weapon_MRM_40-3",
             "ComponentDefType": "Weapon",
-            "MountedLocation": "Turret",
+            "MountedLocation": "Front",
             "HardpointSlot": 1,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_2",
+            "ComponentDefID": "Weapon_MRM_40-3",
             "ComponentDefType": "Weapon",
-            "MountedLocation": "Turret",
+            "MountedLocation": "Front",
             "HardpointSlot": 2,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Gear_Heavy_Defensive_Suite_1",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Double",
+            "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Double",
+            "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Double",
+            "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+            "ComponentDefType": "AmmunitionBox",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Gear_Hybrid_Defensive_Package_1",
             "ComponentDefType": "Upgrade",
             "MountedLocation": "Front",
             "HardpointSlot": -1,

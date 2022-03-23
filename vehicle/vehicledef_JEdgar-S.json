@@ -1,15 +1,15 @@
 {
     "Version": 1,
     "Description": {
-        "Id": "vehicledef_JEdgar-Z",
-        "Name": "J Edgar Z",
+        "Id": "vehicledef_JEdgar-S",
+        "Name": "J Edgar S",
         "Details": "",
         "Icon": "",
         "Cost": 993,
         "Rarity": 9,
         "Purchasable": false
     },
-    "ChassisID": "vehiclechassisdef_JEdgar-Z",
+    "ChassisID": "vehiclechassisdef_JEdgar-S",
     "VehicleTags": {
         "items": [
             "unit_vehicle",

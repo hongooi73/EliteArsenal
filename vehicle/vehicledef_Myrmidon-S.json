@@ -1,21 +1,24 @@
 {
     "Version": 1,
     "Description": {
-        "Id": "vehicledef_Chevalier-Z",
-        "Name": "Chevalier Z",
+        "Id": "vehicledef_Myrmidon-S",
+        "Name": "Myrmidon S",
         "Details": "",
         "Icon": "",
-        "Cost": 564,
+        "Cost": 993,
         "Rarity": 9,
         "Purchasable": false
     },
-    "ChassisID": "vehiclechassisdef_Chevalier-Z",
+    "ChassisID": "vehiclechassisdef_Myrmidon-S",
     "VehicleTags": {
         "items": [
             "unit_vehicle",
             "unit_medium",
-            "unit_wheeled",
+            "unit_tracks",
             "unit_release",
+            "unit_lance_vanguard",
+            "unit_lance_tank",
+            "unit_generic",
             "elite_arsenal",
             "elite_arsenal_s_tier"
         ],
@@ -24,43 +27,43 @@
     "Locations": [
         {
             "Location": "Front",
-            "CurrentArmor": 130,
-            "CurrentInternalStructure": 10,
-            "AssignedArmor": 130,
+            "CurrentArmor": 175,
+            "CurrentInternalStructure": 20,
+            "AssignedArmor": 175,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Left",
-            "CurrentArmor": 100,
-            "CurrentInternalStructure": 10,
-            "AssignedArmor": 100,
+            "CurrentArmor": 125,
+            "CurrentInternalStructure": 20,
+            "AssignedArmor": 125,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Right",
-            "CurrentArmor": 100,
-            "CurrentInternalStructure": 10,
-            "AssignedArmor": 100,
+            "CurrentArmor": 125,
+            "CurrentInternalStructure": 20,
+            "AssignedArmor": 125,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Rear",
-            "CurrentArmor": 80,
-            "CurrentInternalStructure": 10,
-            "AssignedArmor": 80,
+            "CurrentArmor": 120,
+            "CurrentInternalStructure": 20,
+            "AssignedArmor": 120,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Turret",
-            "CurrentArmor": 110,
-            "CurrentInternalStructure": 10,
-            "AssignedArmor": 110,
+            "CurrentArmor": 175,
+            "CurrentInternalStructure": 20,
+            "AssignedArmor": 175,
             "DamageLevel": "Functional"
         }
     ],
     "inventory": [
         {
-            "ComponentDefID": "Weapon_Laser_VSLLaser_2",
+            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_2",
             "ComponentDefType": "Weapon",
             "MountedLocation": "Turret",
             "HardpointSlot": 0,

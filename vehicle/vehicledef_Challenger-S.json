@@ -1,21 +1,20 @@
 {
     "Version": 1,
     "Description": {
-        "Id": "vehicledef_VonLuckner-Z",
-        "Name": "Von Luckner Z",
+        "Id": "vehicledef_Challenger-S",
+        "Name": "Challenger S",
         "Details": "",
         "Icon": "",
-        "Cost": 564,
+        "Cost": 993,
         "Rarity": 9,
         "Purchasable": false
     },
-    "ChassisID": "vehiclechassisdef_VonLuckner-Z",
+    "ChassisID": "vehiclechassisdef_Challenger-S",
     "VehicleTags": {
         "items": [
             "unit_vehicle",
-            "unit_heavy",
+            "unit_assault",
             "unit_tracks",
-            "unit_release",
             "elite_arsenal",
             "elite_arsenal_s_tier"
         ],
@@ -24,99 +23,64 @@
     "Locations": [
         {
             "Location": "Front",
-            "CurrentArmor": 205,
-            "CurrentInternalStructure": 10,
-            "AssignedArmor": 205,
+            "CurrentArmor": 285,
+            "CurrentInternalStructure": 50,
+            "AssignedArmor": 285,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Left",
-            "CurrentArmor": 150,
-            "CurrentInternalStructure": 10,
-            "AssignedArmor": 150,
+            "CurrentArmor": 250,
+            "CurrentInternalStructure": 50,
+            "AssignedArmor": 250,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Right",
-            "CurrentArmor": 150,
-            "CurrentInternalStructure": 10,
-            "AssignedArmor": 150,
+            "CurrentArmor": 250,
+            "CurrentInternalStructure": 50,
+            "AssignedArmor": 250,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Rear",
-            "CurrentArmor": 150,
-            "CurrentInternalStructure": 10,
-            "AssignedArmor": 150,
+            "CurrentArmor": 180,
+            "CurrentInternalStructure": 50,
+            "AssignedArmor": 180,
             "DamageLevel": "Functional"
         },
         {
             "Location": "Turret",
-            "CurrentArmor": 225,
-            "CurrentInternalStructure": 10,
-            "AssignedArmor": 225,
+            "CurrentArmor": 285,
+            "CurrentInternalStructure": 50,
+            "AssignedArmor": 285,
             "DamageLevel": "Functional"
         }
     ],
     "inventory": [
         {
-            "ComponentDefID": "Weapon_LRM_LRM10_3-Zeus",
+            "ComponentDefID": "Weapon_HyperGauss_HAG30_2",
             "ComponentDefType": "Weapon",
             "MountedLocation": "Turret",
             "HardpointSlot": 0,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Weapon_SRM_SRM6_3-Valiant",
-            "ComponentDefType": "Weapon",
-            "MountedLocation": "Turret",
-            "HardpointSlot": 0,
-            "DamageLevel": "Functional"
-        },
-        {
-            "ComponentDefID": "Weapon_SRM_SRM6_3-Valiant",
+            "ComponentDefID": "Weapon_HyperGauss_HAG30_2",
             "ComponentDefType": "Weapon",
             "MountedLocation": "Turret",
             "HardpointSlot": 1,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Weapon_HyperGauss_HAG40_2",
-            "ComponentDefType": "Weapon",
-            "MountedLocation": "Turret",
-            "HardpointSlot": 0,
-            "DamageLevel": "Functional"
-        },
-        {
-            "ComponentDefID": "Weapon_MachineGun_MachineGun_2-VMI",
-            "ComponentDefType": "Weapon",
-            "MountedLocation": "Turret",
-            "HardpointSlot": 0,
-            "DamageLevel": "Functional"
-        },
-        {
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
             "ComponentDefType": "AmmunitionBox",
             "MountedLocation": "Front",
             "HardpointSlot": -1,
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM",
-            "ComponentDefType": "AmmunitionBox",
-            "MountedLocation": "Front",
-            "HardpointSlot": -1,
-            "DamageLevel": "Functional"
-        },
-        {
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
-            "ComponentDefType": "AmmunitionBox",
-            "MountedLocation": "Front",
-            "HardpointSlot": -1,
-            "DamageLevel": "Functional"
-        },
-        {
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG_Half",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS_Double",
             "ComponentDefType": "AmmunitionBox",
             "MountedLocation": "Front",
             "HardpointSlot": -1,
@@ -137,7 +101,7 @@
             "DamageLevel": "Functional"
         },
         {
-            "ComponentDefID": "Gear_Hybrid_Defensive_Package_1",
+            "ComponentDefID": "Gear_Heavy_Defensive_Suite_1",
             "ComponentDefType": "Upgrade",
             "MountedLocation": "Front",
             "HardpointSlot": -1,

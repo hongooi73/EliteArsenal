@@ -1,15 +1,15 @@
 {
     "Version": 1,
     "Description": {
-        "Id": "vehicledef_APC_Vargr-Z",
-        "Name": "Vargr Z",
+        "Id": "vehicledef_APC_Vargr-S",
+        "Name": "Vargr S",
         "Details": "",
         "Icon": "",
         "Cost": 564,
         "Rarity": 9,
         "Purchasable": false
     },
-    "ChassisID": "vehiclechassisdef_APC_Vargr-Z",
+    "ChassisID": "vehiclechassisdef_APC_Vargr-S",
     "VehicleTags": {
         "items": [
             "unit_vehicle",

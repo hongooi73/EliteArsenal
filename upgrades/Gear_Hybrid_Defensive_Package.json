@@ -15,7 +15,7 @@
         "Icon": "UixSvgIcon_specialEquip_System"
     },
     "BonusValueA": "- 20% Dmg.",
-    "BonusValueB": "+ 30% Stability",
+    "BonusValueB": "+ 40% Stability",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
     "PrefabIdentifier": "",
@@ -75,7 +75,7 @@
             "Description": {
                 "Id": "StatusEffect-EA-StabilityIncrease",
                 "Name": "STABILITY INCREASE",
-                "Details": "This unit's stability is increased by 30%.",
+                "Details": "This unit's stability is increased by 40%.",
                 "Icon": "uixSvgIcon_special_Equipment"
             },
             "statisticData": {
@@ -83,7 +83,7 @@
                 "effectsPersistAfterDestruction": false,
                 "statName": "MaxStability",
                 "operation": "Float_Multiply",
-                "modValue": "1.3",
+                "modValue": "1.4",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "NotSet",

@@ -6,7 +6,7 @@
         "Manufacturer": "",
         "Model": "",
         "UIName": "JagerMech",
-        "Id": "chassisdef_jagermechs_JM6-S",
+        "Id": "chassisdef_jagermechs_JM6-SS",
         "Name": "JagerMech",
         "Details": "The JagerMech S model is highly specialized at long-range Autocannon fire support. It doesn't have much in the way of protection or closer-range weapons, though, so keep it distant and out of harm's way.",
         "Icon": "uixTxrIcon_jagermech"
@@ -227,7 +227,7 @@
             "z": 0
         }
     ],
-    "VariantName": "JM6-S",
+    "VariantName": "JM6-SS",
     "ChassisTags": {
         "items": [
 

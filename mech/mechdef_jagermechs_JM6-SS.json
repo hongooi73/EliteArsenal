@@ -20,7 +20,7 @@
         ],
         "tagSetSourceFile": ""
     },
-    "ChassisID": "chassisdef_jagermechs_JM6-S",
+    "ChassisID": "chassisdef_jagermechs_JM6-SS",
     "HeraldryID": null,
     "Description": {
         "Cost": 6670000,
@@ -29,7 +29,7 @@
         "Manufacturer": null,
         "Model": null,
         "UIName": "JagerMech S",
-        "Id": "mechdef_jagermechs_JM6-S",
+        "Id": "mechdef_jagermechs_JM6-SS",
         "Name": "JagerMech S",
         "Details": "The JagerMech S model is highly specialized at long-range Autocannon fire support. It doesn't have much in the way of protection or closer-range weapons, though, so keep it distant and out of harm's way.",
         "Icon": "uixTxrIcon_jagermech"

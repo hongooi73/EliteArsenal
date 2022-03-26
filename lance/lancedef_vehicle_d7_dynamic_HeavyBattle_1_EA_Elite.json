@@ -127,10 +127,7 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
-                "items": [
-                    "unit_noncombatant",
-                    "elite_arsenal"
-                ],
+                "items": "unit_noncombatant",
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {

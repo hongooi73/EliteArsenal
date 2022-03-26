@@ -134,6 +134,8 @@
                     "unit_light",
                     "unit_noncombatant",
                     "unit_urbie",
+                    "mech_assault_Advanced",
+                    "mech_light_Advanced",
                     "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"

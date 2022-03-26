@@ -93,10 +93,7 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
-                "items": [
-                    "unit_urbie",
-                    "elite_arsenal"
-                ],
+                "items": "unit_urbie",
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
@@ -122,10 +119,7 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
-                "items": [
-                    "unit_urbie",
-                    "elite_arsenal"
-                ],
+                "items": "unit_urbie",
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {

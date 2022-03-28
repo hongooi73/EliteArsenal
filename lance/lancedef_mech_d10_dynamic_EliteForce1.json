@@ -16,10 +16,7 @@
             "lance_type_assault",
             "lance_type_battle",
             "lance_type_recon",
-            "lance_type_fire",
-            "lance_type_striker",
             "lance_type_support",
-            "lance_type_cavalry",
             "lance_type_defense",
             "lance_type_mech",
             "lance_type_notallvehicles"
@@ -67,7 +64,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_elite_forces"
+                    "pilot_elite_forces_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -79,7 +76,8 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "mech_assault_Advanced"
+                    "unit_assault",
+                    "unit_mech"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -90,7 +88,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_elite_forces"
+                    "pilot_npc_d10"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -102,7 +100,8 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "mech_assault_Advanced"
+                    "unit_assault",
+                    "unit_mech"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -113,7 +112,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_elite_forces"
+                    "pilot_npc_d10"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

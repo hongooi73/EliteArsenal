@@ -1,37 +1,35 @@
 {
     "Description": {
-        "Id": "lancedef_vehicle_d6_dynamic_EliteForce2",
-        "Name": "Dynamic Dif 6 Medium vehicle EliteForce2",
+        "Id": "lancedef_mech_d9_dynamic_EliteForce6",
+        "Name": "Dynamic Dif 9 Elite Force6",
         "Details": "",
         "Icon": "",
         "Cost": 0,
         "Rarity": 3,
         "Purchasable": false
     },
-    "Difficulty": 6,
+    "Difficulty": 9,
     "LanceTags": {
         "items": [
-            "lance_bracket_med",
+            "lance_bracket_high",
+            "lance_type_dynamic",
+            "lance_type_assault",
             "lance_type_battle",
-            "lance_type_medium",
-            "lance_type_cavalry",
             "lance_type_fire",
-            "lance_type_recon",
-            "lance_type_support",
-            "lance_type_vehicle",
-            "lance_type_dynamic"
+            "lance_type_cavalry",
+            "lance_type_mech",
+            "lance_type_notallvehicles"
         ],
         "tagSetSourceFile": "Tags/LanceTags"
     },
     "LanceUnits": [
         {
-            "unitType": "Vehicle",
+            "unitType": "Mech",
             "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_medium",
-                    "unit_vehicle"
+                    "mech_assault_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -42,20 +40,19 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d6"
+                    "pilot_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": null
         },
         {
-            "unitType": "Vehicle",
+            "unitType": "Mech",
             "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_medium",
-                    "unit_vehicle"
+                    "mech_assault_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -66,20 +63,19 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d6"
+                    "pilot_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": null
         },
         {
-            "unitType": "Vehicle",
+            "unitType": "Mech",
             "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_heavy",
-                    "unit_vehicle"
+                    "mech_heavy_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -90,19 +86,19 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d6"
+                    "pilot_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": null
         },
         {
-            "unitType": "Vehicle",
-            "unitId": "tagged",
+            "unitType": "Mech",
+            "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "vehicle_heavy_Advanced"
+                    "mech_heavy_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -113,7 +109,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_elite_forces_ace"
+                    "pilot_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

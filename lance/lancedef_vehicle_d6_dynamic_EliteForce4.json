@@ -37,6 +37,7 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
                     "elite_arsenal_s_tier"
                 ]
             },
@@ -61,6 +62,7 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
                     "elite_arsenal_s_tier"
                 ]
             },
@@ -85,6 +87,7 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
                     "elite_arsenal_s_tier"
                 ]
             },
@@ -108,6 +111,7 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_noncombatant",
                     "elite_arsenal_s_tier"
                 ]
             },

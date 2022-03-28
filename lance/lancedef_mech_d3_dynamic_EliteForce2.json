@@ -14,10 +14,10 @@
             "lance_bracket_low",
             "lance_type_dynamic",
             "lance_type_light",
-            "lance_type_battle",
             "lance_type_fire",
-            "lance_type_striker",
             "lance_type_cavalry",
+            "lance_type_defense",
+            "lance_type_support",
             "lance_type_mech",
             "lance_type_notallvehicles"
         ],
@@ -53,8 +53,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_light",
-                    "unit_mech"
+                    "mech_light_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -65,7 +64,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d3"
+                    "pilot_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

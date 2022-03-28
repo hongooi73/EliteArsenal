@@ -53,8 +53,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_assault",
-                    "unit_mech"
+                    "mech_assault_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -65,7 +64,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d10"
+                    "pilot_elite_forces_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -77,8 +76,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_assault",
-                    "unit_mech"
+                    "mech_assault_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -89,7 +87,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d10"
+                    "pilot_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -101,8 +99,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_assault",
-                    "unit_mech"
+                    "mech_assault_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -113,7 +110,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d10"
+                    "pilot_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

@@ -42,7 +42,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_elite_forces"
+                    "pilot_elite_forces_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -54,8 +54,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_heavy",
-                    "unit_mech"
+                    "mech_heavy_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -66,7 +65,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d8"
+                    "pilot_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

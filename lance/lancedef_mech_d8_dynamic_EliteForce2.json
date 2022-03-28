@@ -1,120 +1,114 @@
 {
     "Description": {
-        "Id": "lancedef_vehicle_d7_dynamic_EliteForce1",
-        "Name": "Dynamic Dif 7 Heavy vehicle EliteForce1",
+        "Id": "lancedef_mech_d8_dynamic_EliteForce2",
+        "Name": "Dynamic Dif 8 Elite Force2",
         "Details": "",
         "Icon": "",
         "Cost": 0,
         "Rarity": 3,
         "Purchasable": false
     },
-    "Difficulty": 7,
+    "Difficulty": 8,
     "LanceTags": {
         "items": [
             "lance_bracket_high",
-            "lance_type_battle",
+            "lance_type_dynamic",
             "lance_type_heavy",
-            "lance_type_cavalry",
-            "lance_type_fire",
-            "lance_type_recon",
-            "lance_type_support",
-            "lance_type_vehicle",
-            "lance_type_dynamic"
+            "lance_type_battle",
+            "lance_type_striker",
+            "lance_type_mech",
+            "lance_type_notallvehicles"
         ],
         "tagSetSourceFile": "Tags/LanceTags"
     },
     "LanceUnits": [
         {
-            "unitType": "Vehicle",
+            "unitType": "Mech",
             "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "vehicle_heavy_Advanced"
+                    "mech_assault_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant",
                     "elite_arsenal_s_tier"
                 ]
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_elite_forces"
+                    "pilot_elite_forces_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": null
         },
         {
-            "unitType": "Vehicle",
+            "unitType": "Mech",
             "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "vehicle_heavy_Advanced"
+                    "mech_assault_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant",
                     "elite_arsenal_s_tier"
                 ]
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_elite_forces"
+                    "pilot_elite_forces_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": null
         },
         {
-            "unitType": "Vehicle",
+            "unitType": "Mech",
             "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "vehicle_heavy_Advanced"
+                    "mech_heavy_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant",
                     "elite_arsenal_s_tier"
                 ]
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_elite_forces"
+                    "pilot_elite_forces_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": null
         },
         {
-            "unitType": "Vehicle",
+            "unitType": "Mech",
             "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "vehicle_heavy_Advanced"
+                    "mech_heavy_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant",
                     "elite_arsenal_s_tier"
                 ]
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_elite_forces"
+                    "pilot_elite_forces_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

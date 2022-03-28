@@ -41,7 +41,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_elite_forces"
+                    "pilot_elite_forces_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

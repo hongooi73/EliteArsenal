@@ -97,8 +97,8 @@
             "pilotSimGameID": null,
             "unitTagSet": {
                 "items": [
-                    "unit_medium",
-                    "unit_vehicle"
+                    "vehicle_medium_Advanced",
+                    "elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -136,18 +136,22 @@
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "elite_arsenal",
+                    "elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d4_elite"
+                    "pilot_npc_d4"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

@@ -92,17 +92,15 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_light",
-                    "unit_mech",
-                    "elite_arsenal"
+                    "mech_light_Advanced",
+                    "unit_mech_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie",
-                    "elite_arsenal_s_tier"
+                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -123,27 +121,31 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "mech_light_Advanced",
-                    "unit_mech_Advanced"
+                    "unit_light",
+                    "unit_mech"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_lance_vanguard",
                     "unit_noncombatant",
                     "unit_urbie",
-                    "elite_arsenal"
+                    "elite_arsenal",
+                    "elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d3_elite"
+                    "pilot_npc_d3"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

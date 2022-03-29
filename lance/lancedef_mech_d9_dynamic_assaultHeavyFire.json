@@ -45,7 +45,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d9",
+                "items": [
+                    "pilot_npc_d9"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -79,7 +81,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d9",
+                "items": [
+                    "pilot_npc_d9"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -109,7 +113,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d9",
+                "items": [
+                    "pilot_npc_d9"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -138,7 +144,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d9",
+                "items": [
+                    "pilot_npc_d9"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {

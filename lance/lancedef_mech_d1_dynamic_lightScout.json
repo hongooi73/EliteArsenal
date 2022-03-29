@@ -48,7 +48,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d1",
+                "items": [
+                    "pilot_npc_d1"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -84,7 +86,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d1",
+                "items": [
+                    "pilot_npc_d1"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -117,7 +121,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d1",
+                "items": [
+                    "pilot_npc_d1"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {

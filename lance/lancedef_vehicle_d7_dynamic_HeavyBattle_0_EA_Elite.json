@@ -90,8 +90,8 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_heavy",
-                    "unit_vehicle"
+                    "vehicle_heavy_Advanced",
+                    "elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -125,17 +125,23 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
-                "items": "unit_noncombatant",
+                "items": [
+                    "unit_noncombatant",
+                    "elite_arsenal",
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d7_elite"
+                    "pilot_npc_d7"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

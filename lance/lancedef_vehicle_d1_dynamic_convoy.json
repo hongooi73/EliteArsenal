@@ -41,7 +41,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_sensor",
+                "items": [
+                    "pilot_sensor"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -74,7 +76,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_sensor",
+                "items": [
+                    "pilot_sensor"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -105,7 +109,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_sensor",
+                "items": [
+                    "pilot_sensor"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -134,7 +140,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_sensor",
+                "items": [
+                    "pilot_sensor"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {

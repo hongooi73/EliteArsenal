@@ -28,7 +28,9 @@
             "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {
-                "items": "unit_mech",
+                "items": [
+                    "unit_mech"
+                ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
@@ -44,7 +46,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d7",
+                "items": [
+                    "pilot_npc_d7"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -59,7 +63,9 @@
             "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {
-                "items": "unit_mech",
+                "items": [
+                    "unit_mech"
+                ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
@@ -77,7 +83,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d7",
+                "items": [
+                    "pilot_npc_d7"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -108,7 +116,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d7",
+                "items": [
+                    "pilot_npc_d7"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
@@ -137,7 +147,9 @@
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
-                "items": "pilot_npc_d7",
+                "items": [
+                    "pilot_npc_d7"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {

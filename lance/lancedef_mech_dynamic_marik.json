@@ -29,7 +29,9 @@
             "pilotId": "Tagged",
             "dynamicDifficulty": true,
             "unitTagSet": {
-                "items": "Marik",
+                "items": [
+                    "Marik"
+                ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
@@ -60,7 +62,9 @@
             "pilotId": "Tagged",
             "dynamicDifficulty": true,
             "unitTagSet": {
-                "items": "unit_mech",
+                "items": [
+                    "unit_mech"
+                ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
@@ -92,7 +96,9 @@
             "pilotId": "Tagged",
             "dynamicDifficulty": true,
             "unitTagSet": {
-                "items": "unit_mech",
+                "items": [
+                    "unit_mech"
+                ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
@@ -120,7 +126,9 @@
             "pilotId": "Tagged",
             "dynamicDifficulty": true,
             "unitTagSet": {
-                "items": "unit_mech",
+                "items": [
+                    "unit_mech"
+                ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {

@@ -1,0 +1,85 @@
+{
+    "Version": 1,
+    "Description": {
+        "Id": "vehicledef_Bandit-S",
+        "Name": "Bandit S",
+        "Details": "",
+        "Icon": "",
+        "Cost": 993,
+        "Rarity": 9,
+        "Purchasable": false
+    },
+    "ChassisID": "vehiclechassisdef_Bandit-S",
+    "VehicleTags": {
+        "items": [
+            "unit_vehicle",
+            "unit_medium",
+            "unit_wheels",
+            "unit_release",
+            "elite_arsenal",
+            "elite_arsenal_s_tier"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "Locations": [
+        {
+            "Location": "Front",
+            "CurrentArmor": 210,
+            "CurrentInternalStructure": 25,
+            "AssignedArmor": 210,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Left",
+            "CurrentArmor": 200,
+            "CurrentInternalStructure": 25,
+            "AssignedArmor": 200,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Right",
+            "CurrentArmor": 200,
+            "CurrentInternalStructure": 25,
+            "AssignedArmor": 200,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Rear",
+            "CurrentArmor": 160,
+            "CurrentInternalStructure": 25,
+            "AssignedArmor": 160,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Turret",
+            "CurrentArmor": 110,
+            "CurrentInternalStructure": 25,
+            "AssignedArmor": 110,
+            "DamageLevel": "Functional"
+        }
+    ],
+    "inventory": [
+        {
+            "ComponentDefID": "Weapon_PPC_PPCER_CLAN_2",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Front",
+            "HardpointSlot": 0,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Gear_PPC_Capacitator",
+            "ComponentDefType": "Upgrade",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Gear_Passive_Defensive_Matrix",
+            "ComponentDefType": "Upgrade",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        }
+    ]
+}
+

@@ -45,11 +45,6 @@
             "AddToDB": true
         },
         {
-            "Type": "AbilityDef",
-            "Path": "abilities",
-            "AddToDB": true
-        },
-        {
             "Type": "PilotDef",
             "Path": "pilots",
             "AddToDB": true
@@ -71,6 +66,10 @@
         {
             "Type": "AdvancedJSONMerge",
             "Path": "starsystems"
+        },
+        {
+            "Type": "AdvancedJSONMerge",
+            "Path": "abilities"
         }
     ]
 }

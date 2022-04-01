@@ -1,0 +1,116 @@
+{
+    "TargetID": "AbilityDefAceBuff",
+    "Instructions": [
+        {
+            "JSONPath": "$.EffectData",
+            "Action": "ArrayConcat",
+            "Value": [
+                {
+                    "Description": {
+                        "Id": "StatusEffect-EA-LanceDR",
+                        "Name": "LANCE DAMAGE REDUCTION",
+                        "Details": "Units in this lance take [AMT] less damage.",
+                        "Icon": "UixSvgIcon_specialAbility_BWCL"
+                    },
+                    "effectType": "StatisticEffect",
+                    "nature": "Buff",
+                    "durationData": {
+                        "duration": -1,
+                        "stackLimit": 1
+                    },
+                    "targetingData": {
+                        "effectTriggerType": "Passive",
+                        "effectTargetType": "AllLanceMates",
+                        "showInTargetPreview": true,
+                        "showInStatusPanel": true,
+                        "triggerLimit": 0,
+                        "extendDurationOnTrigger": 0,
+                        "range": 0,
+                        "forcePathRebuild": false,
+                        "forceVisRebuild": false,
+                        "hideApplicationFloatie": true
+                    },
+                    "statisticData": {
+                        "statName": "DamageReductionMultiplierAll",
+                        "operation": "Float_Multiply",
+                        "modValue": "0.9",
+                        "modType": "System.Single",
+                        "additionalRules": "NotSet",
+                        "targetCollection": "NotSet",
+                        "targetWeaponCategory": "NotSet",
+                        "targetWeaponType": "NotSet",
+                        "targetAmmoCategory": "NotSet",
+                        "targetWeaponSubType": "NotSet"
+                    }
+                },
+                {
+                    "Description": {
+                        "Id": "StatusEffect-EA-PilotDR",
+                        "Name": "ACE DAMAGE REDUCTION",
+                        "Details": "This unit takes [AMT] less damage.",
+                        "Icon": "UixSvgIcon_specialAbility_BWCL"
+                    },
+                    "effectType": "StatisticEffect",
+                    "nature": "Buff",
+                    "durationData": {
+                        "duration": -1,
+                        "stackLimit": 1
+                    },
+                    "targetingData": {
+                        "effectTriggerType": "Passive",
+                        "effectTargetType": "Creator",
+                        "showInTargetPreview": true,
+                        "showInStatusPanel": true,
+                        "hideApplicationFloatie": true
+                    },
+                    "statisticData": {
+                        "statName": "DamageReductionMultiplierAll",
+                        "operation": "Float_Multiply",
+                        "modValue": "0.9",
+                        "modType": "System.Single",
+                        "additionalRules": "NotSet",
+                        "targetCollection": "NotSet",
+                        "targetWeaponCategory": "NotSet",
+                        "targetWeaponType": "NotSet",
+                        "targetAmmoCategory": "NotSet",
+                        "targetWeaponSubType": "NotSet"
+                    }
+                },
+                {
+                    "durationData": {
+                        "duration": -1,
+                        "stackLimit": 1
+                    },
+                    "targetingData": {
+                        "effectTriggerType": "Passive",
+                        "effectTargetType": "Creator",
+                        "showInTargetPreview": true,
+                        "showInStatusPanel": true
+                    },
+                    "effectType": "StatisticEffect",
+                    "Description": {
+                        "Id": "StatusEffect-EA-PilotStab",
+                        "Name": "ACE STABILITY INCREASE",
+                        "Details": "This unit's stability is increased by 25%.",
+                        "Icon": "UixSvgIcon_specialAbility_BWCL"
+                    },
+                    "statisticData": {
+                        "appliesEachTick": false,
+                        "effectsPersistAfterDestruction": false,
+                        "statName": "MaxStability",
+                        "operation": "Float_Multiply",
+                        "modValue": "1.25",
+                        "modType": "System.Single",
+                        "additionalRules": "NotSet",
+                        "targetCollection": "NotSet",
+                        "targetWeaponCategory": "NotSet",
+                        "targetWeaponType": "NotSet",
+                        "targetAmmoCategory": "NotSet",
+                        "targetWeaponSubType": "NotSet"
+                    },
+                    "nature": "Buff"
+                }
+            ]
+        }
+    ]
+}

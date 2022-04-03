@@ -13,10 +13,7 @@
         "items": [
             "lance_type_dynamic",
             "lance_type_solo",
-            "lance_type_mech",
-            "difficulty_2",
-            "elite",
-            "elite_arsenal"
+            "lance_type_mech"
         ],
         "tagSetSourceFile": "Tags/LanceTags"
     },
@@ -28,9 +25,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_mech",
-                    "unit_medium",
-                    "elite_arsenal",
-                    "elite_arsenal_s_tier"
+                    "unit_medium"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -43,7 +38,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d6_ace"
+                    "pilot_npc_d6"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -59,9 +54,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_light",
-                    "unit_mech",
-                    "elite_arsenal",
-                    "elite_arsenal_s_tier"
+                    "unit_mech"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -74,7 +67,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d2_ace"
+                    "pilot_npc_d2"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

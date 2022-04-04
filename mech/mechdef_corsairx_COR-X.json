@@ -27,7 +27,7 @@
         "UIName": "Corsair X",
         "Id": "mechdef_corsairx_COR-X",
         "Name": "Corsair X",
-        "Details": "This custom variant makes use of both sets of the corsairs available arms making it a true frankenmech.",
+        "Details": "This custom variant makes use of both sets of the corsairs available arms making it a true frankenmech.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_corsair"
     },
     "simGameMechPartCost": 2000000,

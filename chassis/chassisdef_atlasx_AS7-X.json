@@ -8,7 +8,7 @@
         "UIName": "Atlas",
         "Id": "chassisdef_atlasx_AS7-X",
         "Name": "Atlas",
-        "Details": "The Atlas D is the king of the battlefield, capable of bringing a dizzying array of weapons to bear on targets at any range. It is also noteworthy for normally mounting the maximum amount of armor possible. Few opponents can survive even brief contact with this monster.",
+        "Details": "The Atlas D is the king of the battlefield, capable of bringing a dizzying array of weapons to bear on targets at any range. It is also noteworthy for normally mounting the maximum amount of armor possible. Few opponents can survive even brief contact with this monster.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_atlas"
     },
     "MovementCapDefID": "movedef_atlas_AS7-D",
@@ -49,7 +49,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 1,
             "MaxArmor": 45,
@@ -148,7 +150,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 210,
@@ -157,7 +161,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 210,
@@ -211,9 +217,12 @@
     ],
     "VariantName": "AS7-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Juggernaut & Close Assault",
-    "YangsThoughts": "The Atlas D is the king of the battlefield, capable of bringing a dizzying array of weapons to bear on targets at any range. It is also noteworthy for normally mounting the maximum amount of armor possible. Few opponents can survive even brief contact with this monster."
+    "YangsThoughts": "The Atlas D is the king of the battlefield, capable of bringing a dizzying array of weapons to bear on targets at any range. It is also noteworthy for normally mounting the maximum amount of armor possible. Few opponents can survive even brief contact with this monster.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
+

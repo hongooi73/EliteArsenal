@@ -31,7 +31,7 @@
         "UIName": "Marauder II S",
         "Id": "mechdef_marauderIIs_MAD-AS",
         "Name": "Marauder II S",
-        "Details": "Based on the standard MAD-5A Marauder II, this variant uses an XL Engine to provide power. The weapons have been replaced with Snub-Nose PPCs, Light PPCs, and a Rotary AC/5. Three tons of ammunition in a CASE protected bay provides plenty of endurance. The single heat sinks were traded out for double heat sinks, and Improved Jump Jets provide a 150 meter jump radius.",
+        "Details": "Based on the standard MAD-5A Marauder II, this variant uses an XL Engine to provide power. The weapons have been replaced with Snub-Nose PPCs, Light PPCs, and a Rotary AC/5. Three tons of ammunition in a CASE protected bay provides plenty of endurance. The single heat sinks were traded out for double heat sinks, and Improved Jump Jets provide a 150 meter jump radius.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_marauderii"
     },
     "simGameMechPartCost": 2000000,

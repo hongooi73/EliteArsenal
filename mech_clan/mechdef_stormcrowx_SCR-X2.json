@@ -29,7 +29,7 @@
         "UIName": "Stormcrow X",
         "Id": "mechdef_stormcrowx_SCR-X2",
         "Name": "Stormcrow X",
-        "Details": "A sleek, mobile, and versatile design, the Clan Stormcrow was long suspected to be one of the first OmniMechs produced by the Clans.",
+        "Details": "A sleek, mobile, and versatile design, the Clan Stormcrow was long suspected to be one of the first OmniMechs produced by the Clans.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_stormcrow"
     },
     "simGameMechPartCost": 2500000,

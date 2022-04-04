@@ -8,10 +8,12 @@
         "UIName": "Stone Rhino",
         "Id": "chassisdef_stonerhinox_STR-X",
         "Name": "Stone Rhino",
-        "Details": "The design featured Large Pulse Lasers in each arm, twin Gauss Rifles mounted behind flip-open circular firing ports on each side torso, and an almost superfluous Small Pulse Laser located above the cockpit. The Stone Rhino also sported an interesting feature; each arm contained a retractable, shock-absorbing cowl covering the weapon barrels. This allowed MechWarriors to use the arms as battering rams without damaging the weaponry.",
+        "Details": "The design featured Large Pulse Lasers in each arm, twin Gauss Rifles mounted behind flip-open circular firing ports on each side torso, and an almost superfluous Small Pulse Laser located above the cockpit. The Stone Rhino also sported an interesting feature; each arm contained a retractable, shock-absorbing cowl covering the weapon barrels. This allowed MechWarriors to use the arms as battering rams without damaging the weaponry.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_stonerhino"
     },
-    "FixedEquipment": [],
+    "FixedEquipment": [
+
+    ],
     "MovementCapDefID": "movedef_stonerhino_300",
     "PathingCapDefID": "pathingdef_assault",
     "HardpointDataDefID": "hardpointdatadef_stonerhino",
@@ -120,7 +122,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 310,
@@ -181,7 +185,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 210,
@@ -190,7 +196,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 4,
             "MaxArmor": 210,
@@ -244,9 +252,12 @@
     ],
     "VariantName": "STR-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Slow Juggernaut",
-    "YangsThoughts": "The design featured Large Pulse Lasers in each arm, twin Gauss Rifles mounted behind flip-open circular firing ports on each side torso, and an almost superfluous Small Pulse Laser located above the cockpit. The Stone Rhino also sported an interesting feature; each arm contained a retractable, shock-absorbing cowl covering the weapon barrels. This allowed MechWarriors to use the arms as battering rams without damaging the weaponry."
+    "YangsThoughts": "The design featured Large Pulse Lasers in each arm, twin Gauss Rifles mounted behind flip-open circular firing ports on each side torso, and an almost superfluous Small Pulse Laser located above the cockpit. The Stone Rhino also sported an interesting feature; each arm contained a retractable, shock-absorbing cowl covering the weapon barrels. This allowed MechWarriors to use the arms as battering rams without damaging the weaponry.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
+

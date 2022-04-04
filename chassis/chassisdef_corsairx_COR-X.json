@@ -8,7 +8,7 @@
         "UIName": "Corsair",
         "Id": "chassisdef_corsairx_COR-X",
         "Name": "Corsair",
-        "Details": "This custom variant makes use of both sets of the corsairs available arms making it a true frankenmech.",
+        "Details": "This custom variant makes use of both sets of the corsairs available arms making it a true frankenmech.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_corsair"
     },
     "FixedEquipment": [
@@ -313,6 +313,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Heavy Frankenmech",
-    "YangsThoughts": "Boss, what on earth is this thing? I'm all one for a challenge but this thing looks like a pirate deathtrap. Somehow it works but I couldn't begin to tell you why or how it works."
+    "YangsThoughts": "This custom variant makes use of both sets of the corsairs available arms making it a true frankenmech.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

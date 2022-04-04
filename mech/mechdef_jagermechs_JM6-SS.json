@@ -31,7 +31,7 @@
         "UIName": "JagerMech S",
         "Id": "mechdef_jagermechs_JM6-SS",
         "Name": "JagerMech S",
-        "Details": "The JagerMech S model is highly specialized at long-range Autocannon fire support. It doesn't have much in the way of protection or closer-range weapons, though, so keep it distant and out of harm's way.",
+        "Details": "The JagerMech S model is highly specialized at long-range Autocannon fire support. It doesn't have much in the way of protection or closer-range weapons, though, so keep it distant and out of harm's way.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_jagermech"
     },
     "simGameMechPartCost": 670000,

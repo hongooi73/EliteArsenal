@@ -8,7 +8,7 @@
         "UIName": "Kit Fox",
         "Id": "chassisdef_kitfoxx_KFX-X1",
         "Name": "Kit Fox",
-        "Details": "In its primary configuration, the Kit Fox mounts an ER Large Laser and Small Pulse Laser on the left arm as its primary source of firepower. These are supplemented by an LB 5-X Autocannon for tactical flexibility and a Streak SRM-4 rack for close range combat.",
+        "Details": "In its primary configuration, the Kit Fox mounts an ER Large Laser and Small Pulse Laser on the left arm as its primary source of firepower. These are supplemented by an LB 5-X Autocannon for tactical flexibility and a Streak SRM-4 rack for close range combat.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_kitfox"
     },
     "FixedEquipment": [
@@ -231,6 +231,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout",
-    "YangsThoughts": "In its primary configuration, the Kit Fox mounts an ER Large Laser and Small Pulse Laser on the left arm as its primary source of firepower. These are supplemented by an LB 5-X Autocannon for tactical flexibility and a Streak SRM-4 rack for close range combat."
+    "YangsThoughts": "In its primary configuration, the Kit Fox mounts an ER Large Laser and Small Pulse Laser on the left arm as its primary source of firepower. These are supplemented by an LB 5-X Autocannon for tactical flexibility and a Streak SRM-4 rack for close range combat.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

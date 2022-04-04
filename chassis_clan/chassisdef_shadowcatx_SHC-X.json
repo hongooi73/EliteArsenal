@@ -8,7 +8,7 @@
         "UIName": "Shadow Cat",
         "Id": "chassisdef_shadowcatx_SHC-X",
         "Name": "Shadow Cat",
-        "Details": "At the beginning of this century, the leaders of Clan Nova Cat commissioned a new medium Mech that could compete with and outperform the Fenris. The Shadow Cat was the result.",
+        "Details": "At the beginning of this century, the leaders of Clan Nova Cat commissioned a new medium Mech that could compete with and outperform the Fenris. The Shadow Cat was the result.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_shadowcat"
     },
     "FixedEquipment": [
@@ -286,6 +286,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Disabler",
-    "YangsThoughts": "At the beginning of this century, the leaders of Clan Nova Cat commissioned a new medium Mech that could compete with and outperform the Fenris. The Shadow Cat was the result."
+    "YangsThoughts": "At the beginning of this century, the leaders of Clan Nova Cat commissioned a new medium Mech that could compete with and outperform the Fenris. The Shadow Cat was the result.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

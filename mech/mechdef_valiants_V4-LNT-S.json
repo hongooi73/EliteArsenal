@@ -28,7 +28,7 @@
         "UIName": "Valiant S",
         "Id": "mechdef_valiants_V4-LNT-S",
         "Name": "Valiant S",
-        "Details": "The Valiant was developed by Vining Engineering and Salvage Team, one of the many weapon manufacturers on Solaris VII, at the behest of Irian BattleMechs Unlimited. Based on the Scarabus, the Valiant was conceived as a light skirmisher. As a fast skirmisher, the Valiant wields only three ER Medium Lasers and its Hatchet. The configuration's lack of ammo dependency is perhaps the characteristic that potential buyers are most interested in.",
+        "Details": "The Valiant was developed by Vining Engineering and Salvage Team, one of the many weapon manufacturers on Solaris VII, at the behest of Irian BattleMechs Unlimited. Based on the Scarabus, the Valiant was conceived as a light skirmisher. As a fast skirmisher, the Valiant wields only three ER Medium Lasers and its Hatchet. The configuration's lack of ammo dependency is perhaps the characteristic that potential buyers are most interested in.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_valiant"
     },
     "simGameMechPartCost": 500000,

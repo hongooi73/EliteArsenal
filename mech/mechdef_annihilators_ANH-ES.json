@@ -30,7 +30,7 @@
         "UIName": "Annihilator S",
         "Id": "mechdef_annihilators_ANH-ES",
         "Name": "Annihilator S",
-        "Details": "Where the original Annihilator 1A carries four powerful AutoCannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.",
+        "Details": "Where the original Annihilator 1A carries four powerful AutoCannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_annihilator"
     },
     "simGameMechPartCost": 1200000,

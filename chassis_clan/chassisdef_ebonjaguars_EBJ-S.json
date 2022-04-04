@@ -8,7 +8,7 @@
         "UIName": "Ebon Jaguar",
         "Id": "chassisdef_ebonjaguars_EBJ-S",
         "Name": "Ebon Jaguar",
-        "Details": "Once fielded in great numbers by the Smoke Jaguars, the Ebon Jaguar has proliferated to many of Kerensky's Clans, though some, like the Wolves, Jade Falcons and Coyotes, continue to field Hellbringers instead.",
+        "Details": "Once fielded in great numbers by the Smoke Jaguars, the Ebon Jaguar has proliferated to many of Kerensky's Clans, though some, like the Wolves, Jade Falcons and Coyotes, continue to field Hellbringers instead.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_ebonjaguar"
     },
     "FixedEquipment": [
@@ -23,7 +23,7 @@
     "InitialTonnage": 21.25,
     "weightClass": "HEAVY",
     "BattleValue": 3749000,
-    "Heatsinks": 30,
+    "Heatsinks": 45,
     "TopSpeed": 85,
     "TurnRadius": 90,
     "MaxJumpjets": 5,
@@ -295,6 +295,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Long Range Fire Support",
-    "YangsThoughts": "Once fielded in great numbers by the Smoke Jaguars, the Ebon Jaguar has proliferated to many of Kerensky's Clans, though some, like the Wolves, Jade Falcons and Coyotes, continue to field Hellbringers instead."
+    "YangsThoughts": "Once fielded in great numbers by the Smoke Jaguars, the Ebon Jaguar has proliferated to many of Kerensky's Clans, though some, like the Wolves, Jade Falcons and Coyotes, continue to field Hellbringers instead.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield."
 }
 

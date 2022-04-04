@@ -8,7 +8,7 @@
         "UIName": "Piranha",
         "Id": "chassisdef_piranhas_PIR-S",
         "Name": "Piranha",
-        "Details": "This variant of the Piranha is fielded by Clan Ice Hellion and upgrades to double heat sinks so that the Machine Guns can be effectively swapped out for ER Micro Lasers. The other lasers were upgraded to heavy models.",
+        "Details": "This variant of the Piranha is fielded by Clan Ice Hellion and upgrades to double heat sinks so that the Machine Guns can be effectively swapped out for ER Micro Lasers. The other lasers were upgraded to heavy models.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_piranha"
     },
     "FixedEquipment": [
@@ -23,7 +23,7 @@
     "InitialTonnage": 6.5,
     "weightClass": "LIGHT",
     "BattleValue": 3749000,
-    "Heatsinks": 30,
+    "Heatsinks": 45,
     "TopSpeed": 140,
     "TurnRadius": 90,
     "MaxJumpjets": 9,
@@ -306,6 +306,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Disabler",
-    "YangsThoughts": "This variant of the Piranha is fielded by Clan Ice Hellion and upgrades to double heat sinks so that the Machine Guns can be effectively swapped out for ER Micro Lasers. The other lasers were upgraded to heavy models."
+    "YangsThoughts": "This variant of the Piranha is fielded by Clan Ice Hellion and upgrades to double heat sinks so that the Machine Guns can be effectively swapped out for ER Micro Lasers. The other lasers were upgraded to heavy models.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield."
 }
 

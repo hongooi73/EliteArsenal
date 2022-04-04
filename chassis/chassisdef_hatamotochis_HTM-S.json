@@ -8,7 +8,7 @@
         "UIName": "Hatamoto-Chi",
         "Id": "chassisdef_hatamotochis_HTM-S",
         "Name": "Hatamoto-Chi",
-        "Details": "Custom Hatamoto-Chi with Katanae in both arms.",
+        "Details": "Custom Hatamoto-Chi with Katanae in both arms.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_hatamotochisam"
     },
     "FixedEquipment": [
@@ -46,7 +46,7 @@
     "InitialTonnage": 33.5,
     "weightClass": "ASSAULT",
     "BattleValue": 7718000,
-    "Heatsinks": 30,
+    "Heatsinks": 45,
     "TopSpeed": 105,
     "TurnRadius": 90,
     "MaxJumpjets": 4,
@@ -258,6 +258,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Heavy Sniper & Defender",
-    "YangsThoughts": "The original version produced during 3039. Though lacking the LosTech of the HTM-27, the single production run of the original field-test Hatamoto-Chi completed on the verge of the War of 3039 came as a total shock to the attacking Lyran and Davion Forces. Since it was built on a standard chassis, the 26T had less armor, one less heat sink, and single ton of SRM ammunition in a standard ammo bin."
+    "YangsThoughts": "Custom Hatamoto-Chi with Katanae in both arms.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield."
 }
 

@@ -8,7 +8,7 @@
         "UIName": "Banshee",
         "Id": "chassisdef_bansheex_BNC-X",
         "Name": "Banshee",
-        "Details": "The Banshee 3S sacrifices its trademark speed for a large expansion in firepower. The 3S fills the role of a well armored sniper, sporting two PPCs and an AC10 while still being capable of inflicting heavy melee damage.",
+        "Details": "The Banshee 3S sacrifices its trademark speed for a large expansion in firepower. The 3S fills the role of a well armored sniper, sporting two PPCs and an AC10 while still being capable of inflicting heavy melee damage.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_banshee"
     },
     "MovementCapDefID": "movedef_banshee_BNC-3S",
@@ -18,7 +18,7 @@
     "PrefabBase": "banshee",
     "VariantName": "BNC-X",
     "StockRole": "Heavy Brawler & Sniper",
-    "YangsThoughts": "The Banshee 3S is slower than the stock design, but it can take a punch while pummeling an enemy to the ground. If you're unsatisfied with the stock Banshee's lack of firepower, this is the variant you've been waiting for, Commander.",
+    "YangsThoughts": "The Banshee 3S sacrifices its trademark speed for a large expansion in firepower. The 3S fills the role of a well armored sniper, sporting two PPCs and an AC10 while still being capable of inflicting heavy melee damage.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
     "Tonnage": 95,
     "InitialTonnage": 32,
     "weightClass": "ASSAULT",

@@ -8,7 +8,7 @@
         "UIName": "Black Knight",
         "Id": "chassisdef_blackknightx_BL-KNT-X",
         "Name": "Black Knight",
-        "Details": "The Black Knight 6B was the harder-hitting, cooler-running Star League ancestor to the standard BL-6-KNT we have today. It did everything the 6 does, but better—mostly thanks to its Double Heat Sinks, which are basically nonexistent these days.",
+        "Details": "The Black Knight 6B was the harder-hitting, cooler-running Star League ancestor to the standard BL-6-KNT we have today. It did everything the 6 does, but better—mostly thanks to its Double Heat Sinks, which are basically nonexistent these days.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_blackknight"
     },
     "MovementCapDefID": "movedef_blackknight_BL-6-KNT",
@@ -239,6 +239,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Brawler & Ranged Assault",
-    "YangsThoughts": "The Black Knight 6B was the harder-hitting, cooler-running Star League ancestor to the standard BL-6-KNT we have today. It did everything the 6 does, but better—mostly thanks to its Double Heat Sinks, which are basically nonexistent these days."
+    "YangsThoughts": "The Black Knight 6B was the harder-hitting, cooler-running Star League ancestor to the standard BL-6-KNT we have today. It did everything the 6 does, but better—mostly thanks to its Double Heat Sinks, which are basically nonexistent these days.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

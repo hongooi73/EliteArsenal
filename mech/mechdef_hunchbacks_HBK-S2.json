@@ -36,7 +36,7 @@
         "UIName": "Hunchback S",
         "Id": "mechdef_hunchbacks_HBK-S2",
         "Name": "Hunchback S",
-        "Details": "The Hunchback 4G is a tried and tested juggernaut on the field. One of the lightest 'Mechs to mount such a massive Autocannon, it is capable of destroying some lighter units in a single volley. It tends to mount heavy armor to boot.",
+        "Details": "The Hunchback 4G is a tried and tested juggernaut on the field. One of the lightest 'Mechs to mount such a massive Autocannon, it is capable of destroying some lighter units in a single volley. It tends to mount heavy armor to boot.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_hunchback"
     },
     "simGameMechPartCost": 510000,

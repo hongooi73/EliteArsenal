@@ -8,7 +8,7 @@
         "UIName": "Wolfhound",
         "Id": "chassisdef_wolfhoundx_WLF-X2",
         "Name": "Wolfhound",
-        "Details": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to doubles and the Large laser is upgraded also to an ER version.",
+        "Details": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to doubles and the Large laser is upgraded also to an ER version.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_wolfhound"
     },
     "FixedEquipment": [
@@ -231,6 +231,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper & Light Brawler",
-    "YangsThoughts": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to doubles and the Large laser is upgraded also to an ER version."
+    "YangsThoughts": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to doubles and the Large laser is upgraded also to an ER version.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

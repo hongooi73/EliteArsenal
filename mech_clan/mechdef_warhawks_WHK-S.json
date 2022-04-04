@@ -31,7 +31,7 @@
         "UIName": "Warhawk S",
         "Id": "mechdef_warhawks_WHK-S",
         "Name": "Warhawk S",
-        "Details": "Introduced at the turn of the century, the Warhawk was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere.",
+        "Details": "Introduced at the turn of the century, the Warhawk was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_warhawk"
     },
     "simGameMechPartCost": 4500000,

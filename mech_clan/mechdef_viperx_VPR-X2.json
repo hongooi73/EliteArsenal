@@ -28,7 +28,7 @@
         "UIName": "Viper X",
         "Id": "mechdef_viperx_VPR-X2",
         "Name": "Viper X",
-        "Details": "Utilizing a heavier mix of shorter ranged weapons among many of the configurations, the Viper saw success when paired with other light platforms.",
+        "Details": "Utilizing a heavier mix of shorter ranged weapons among many of the configurations, the Viper saw success when paired with other light platforms.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_viper"
     },
     "simGameMechPartCost": 2500000,

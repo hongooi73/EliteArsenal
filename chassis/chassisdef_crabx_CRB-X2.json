@@ -8,7 +8,7 @@
         "UIName": "Crab",
         "Id": "chassisdef_crabx_CRB-X2",
         "Name": "Crab",
-        "Details": "The Crab 27B is a very old model that dates back to the days of the Star League. Its energy weapons are all rare, upgraded versions of the tech found on the CRB-20, allowing it to hit harder while still requiring no ammunition. Improved heat sinking also keeps it comparatively cool.",
+        "Details": "The Crab 27B is a very old model that dates back to the days of the Star League. Its energy weapons are all rare, upgraded versions of the tech found on the CRB-20, allowing it to hit harder while still requiring no ammunition. Improved heat sinking also keeps it comparatively cool.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_crab"
     },
     "MovementCapDefID": "movedef_crab_CRB-27b",
@@ -226,6 +226,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Direct-Fire Support",
-    "YangsThoughts": "The Crab 27B is a very old model that dates back to the days of the Star League. Its energy weapons are all rare, upgraded versions of the tech found on the CRB-20, allowing it to hit harder while still requiring no ammunition. Improved heat sinking also keeps it comparatively cool."
+    "YangsThoughts": "The Crab 27B is a very old model that dates back to the days of the Star League. Its energy weapons are all rare, upgraded versions of the tech found on the CRB-20, allowing it to hit harder while still requiring no ammunition. Improved heat sinking also keeps it comparatively cool.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

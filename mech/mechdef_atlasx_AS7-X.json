@@ -37,7 +37,7 @@
         "UIName": "Atlas X",
         "Id": "mechdef_atlasx_AS7-X",
         "Name": "Atlas X",
-        "Details": "The Atlas D is the king of the battlefield, capable of bringing a dizzying array of weapons to bear on targets at any range. It is also noteworthy for normally mounting the maximum amount of armor possible. Few opponents can survive even brief contact with this monster.",
+        "Details": "The Atlas D is the king of the battlefield, capable of bringing a dizzying array of weapons to bear on targets at any range. It is also noteworthy for normally mounting the maximum amount of armor possible. Few opponents can survive even brief contact with this monster.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_atlas"
     },
     "simGameMechPartCost": 1300000,

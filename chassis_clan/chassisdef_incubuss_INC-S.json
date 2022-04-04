@@ -8,7 +8,7 @@
         "UIName": "Incubus",
         "Id": "chassisdef_incubuss_INC-S",
         "Name": "Incubus",
-        "Details": "A second line mech designed for settling clan duels, the laser armed Incubus has found considerable success with Clan Hell's Horses'49th Battlemech Cluster as a protomech hunter.",
+        "Details": "A second line mech designed for settling clan duels, the laser armed Incubus has found considerable success with Clan Hell's Horses'49th Battlemech Cluster as a protomech hunter.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_incubus"
     },
     "FixedEquipment": [
@@ -23,7 +23,7 @@
     "InitialTonnage": 14.25,
     "weightClass": "LIGHT",
     "BattleValue": 2780466,
-    "Heatsinks": 30,
+    "Heatsinks": 45,
     "TopSpeed": 85,
     "TurnRadius": 90,
     "MaxJumpjets": 9,
@@ -267,6 +267,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Light and Protomech Hunter",
-    "YangsThoughts": "A second line mech designed for settling clan duels, the laser armed Incubus has found considerable success with Clan Hell's Horses'49th Battlemech Cluster as a protomech hunter."
+    "YangsThoughts": "A second line mech designed for settling clan duels, the laser armed Incubus has found considerable success with Clan Hell's Horses'49th Battlemech Cluster as a protomech hunter.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield."
 }
 

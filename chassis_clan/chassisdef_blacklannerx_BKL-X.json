@@ -8,7 +8,7 @@
         "UIName": "Black Lanner",
         "Id": "chassisdef_blacklannerx_BKL-X",
         "Name": "Black Lanner",
-        "Details": "The primary configuration of the Black Lanner is effective at all ranges. At long range, it can make use of an ER Large Laser and LRM-10. When it closes in, it can attack with a pair of ER Medium Lasers and an SRM-6 that can exploit holes in its opponent's armor. An ECM Suite protects it from many forms of electronics.",
+        "Details": "The primary configuration of the Black Lanner is effective at all ranges. At long range, it can make use of an ER Large Laser and LRM-10. When it closes in, it can attack with a pair of ER Medium Lasers and an SRM-6 that can exploit holes in its opponent's armor. An ECM Suite protects it from many forms of electronics.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_blacklanner"
     },
     "FixedEquipment": [
@@ -239,6 +239,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Fire Support & Skirmisher",
-    "YangsThoughts": "The primary configuration of the Black Lanner is effective at all ranges. At long range, it can make use of an ER Large Laser and LRM-10. When it closes in, it can attack with a pair of ER Medium Lasers and an SRM-6 that can exploit holes in its opponent's armor. An ECM Suite protects it from many forms of electronics."
+    "YangsThoughts": "The primary configuration of the Black Lanner is effective at all ranges. At long range, it can make use of an ER Large Laser and LRM-10. When it closes in, it can attack with a pair of ER Medium Lasers and an SRM-6 that can exploit holes in its opponent's armor. An ECM Suite protects it from many forms of electronics.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

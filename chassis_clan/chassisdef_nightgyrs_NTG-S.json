@@ -8,7 +8,7 @@
         "UIName": "Night Gyr",
         "Id": "chassisdef_nightgyrs_NTG-S",
         "Name": "Night Gyr",
-        "Details": "The primary configuration is hard-hitting, mounting a pair of ER PPCs located in the left arm and an Ultra Autocannon/10 in the right. This blistering firepower can often take down an opponent before they are in range. Three Medium Pulse Lasers serve as accurate backups. Eight additional double heat sinks keep the 'Mech fairly cool.",
+        "Details": "The primary configuration is hard-hitting, mounting a pair of ER PPCs located in the left arm and an Ultra Autocannon/10 in the right. This blistering firepower can often take down an opponent before they are in range. Three Medium Pulse Lasers serve as accurate backups. Eight additional double heat sinks keep the 'Mech fairly cool.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_nightgyr"
     },
     "FixedEquipment": [
@@ -23,7 +23,7 @@
     "InitialTonnage": 18,
     "weightClass": "HEAVY",
     "BattleValue": 7124000,
-    "Heatsinks": 30,
+    "Heatsinks": 45,
     "TopSpeed": 64,
     "TurnRadius": 90,
     "MaxJumpjets": 4,
@@ -234,6 +234,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Brawler & Close Assault",
-    "YangsThoughts": "The primary configuration is hard-hitting, mounting a pair of ER PPCs located in the left arm and an Ultra Autocannon/10 in the right. This blistering firepower can often take down an opponent before they are in range. Three Medium Pulse Lasers serve as accurate backups. Eight additional double heat sinks keep the 'Mech fairly cool."
+    "YangsThoughts": "The primary configuration is hard-hitting, mounting a pair of ER PPCs located in the left arm and an Ultra Autocannon/10 in the right. This blistering firepower can often take down an opponent before they are in range. Three Medium Pulse Lasers serve as accurate backups. Eight additional double heat sinks keep the 'Mech fairly cool.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield."
 }
 

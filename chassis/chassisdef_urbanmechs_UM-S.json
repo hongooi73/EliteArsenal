@@ -8,7 +8,7 @@
         "UIName": "UrbanMech",
         "Id": "chassisdef_urbanmechs_UM-S",
         "Name": "UrbanMech",
-        "Details": "Don't let the stubby 'Urbie' fool you—it may look like a walking trash can, but it can mount heavy armor and a grown-up-sized Autocannon. R60s aren't known for their speed, but they are very useful if you can draw the enemy into their firing range.",
+        "Details": "Don't let the stubby 'Urbie' fool you—it may look like a walking trash can, but it can mount heavy armor and a grown-up-sized Autocannon. R60s aren't known for their speed, but they are very useful if you can draw the enemy into their firing range.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_urbanmech"
     },
     "FixedEquipment": [
@@ -70,7 +70,7 @@
     "InitialTonnage": 8.5,
     "weightClass": "LIGHT",
     "BattleValue": 1892000,
-    "Heatsinks": 0,
+    "Heatsinks": 15,
     "TopSpeed": 85,
     "TurnRadius": 90,
     "MaxJumpjets": 3,
@@ -268,6 +268,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Heavy Defender",
-    "YangsThoughts": "Don't let the stubby 'Urbie' fool you—it may look like a walking trash can, but it can mount heavy armor and a grown-up-sized Autocannon. R60s aren't known for their speed, but they are very useful if you can draw the enemy into their firing range."
+    "YangsThoughts": "Don't let the stubby 'Urbie' fool you—it may look like a walking trash can, but it can mount heavy armor and a grown-up-sized Autocannon. R60s aren't known for their speed, but they are very useful if you can draw the enemy into their firing range.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield."
 }
 

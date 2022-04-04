@@ -30,7 +30,7 @@
         "UIName": "Wolfhound S",
         "Id": "mechdef_wolfhounds_WLF-S1",
         "Name": "Wolfhound S",
-        "Details": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to double strength and the Large laser is upgraded also to ER version.",
+        "Details": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to double strength and the Large laser is upgraded also to ER version.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_wolfhound"
     },
     "simGameMechPartCost": 500000,

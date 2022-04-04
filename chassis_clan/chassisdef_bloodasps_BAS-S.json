@@ -8,7 +8,7 @@
         "UIName": "Blood Asp",
         "Id": "chassisdef_bloodasps_BAS-S",
         "Name": "Blood Asp",
-        "Details": "Introduced at the turn of the century, the bloodasp was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere.",
+        "Details": "Introduced at the turn of the century, the bloodasp was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_bloodasp"
     },
     "FixedEquipment": [
@@ -23,7 +23,7 @@
     "InitialTonnage": 28,
     "weightClass": "ASSAULT",
     "BattleValue": 17159064,
-    "Heatsinks": 30,
+    "Heatsinks": 45,
     "TopSpeed": 65,
     "TurnRadius": 90,
     "MaxJumpjets": 4,
@@ -306,6 +306,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Fast Assault",
-    "YangsThoughts": "Introduced at the turn of the century, the bloodasp was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere."
+    "YangsThoughts": "Introduced at the turn of the century, the bloodasp was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield."
 }
 

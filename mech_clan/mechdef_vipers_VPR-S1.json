@@ -29,7 +29,7 @@
         "UIName": "Viper S",
         "Id": "mechdef_vipers_VPR-S1",
         "Name": "Viper S",
-        "Details": "Utilizing a heavier mix of shorter ranged weapons among many of the configurations, the Viper saw success when paired with other light platforms.",
+        "Details": "Utilizing a heavier mix of shorter ranged weapons among many of the configurations, the Viper saw success when paired with other light platforms.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_viper"
     },
     "simGameMechPartCost": 2500000,

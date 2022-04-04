@@ -30,7 +30,7 @@
         "UIName": "Executioner S",
         "Id": "mechdef_executioners_EXE-S",
         "Name": "Executioner S",
-        "Details": "Introduced at the turn of the century, the executioner was created by the Smoke Jaguars in anticipation of the Clan return to the Inner Sphere.",
+        "Details": "Introduced at the turn of the century, the executioner was created by the Smoke Jaguars in anticipation of the Clan return to the Inner Sphere.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_executioner"
     },
     "simGameMechPartCost": 4500000,

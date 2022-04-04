@@ -8,7 +8,7 @@
         "UIName": "Archer",
         "Id": "chassisdef_archers_ARC-SS",
         "Name": "Archer",
-        "Details": "The 5S variant of the Archer, built out of Defiance Industries' massive Hesperus II complex in 3050, was the official variant for the Armed Forces of the Federated Commonwealth. The 5S upgraded the engine to an Edasich Motors 280 XL Engine, cutting the engine's weight in half while retaining the same speed profile. The 5S also reduced the LRM-20 launchers to Coventry Star Fire LRM-15s. This saved weight was used to add two Coventry T4H Streak SRM-2 launchers, one in each arm and fed by two tons of reloads in the side torsos. They also upgraded the four medium lasers to Medium Pulse Lasers.",
+        "Details": "The 5S variant of the Archer, built out of Defiance Industries' massive Hesperus II complex in 3050, was the official variant for the Armed Forces of the Federated Commonwealth. The 5S upgraded the engine to an Edasich Motors 280 XL Engine, cutting the engine's weight in half while retaining the same speed profile. The 5S also reduced the LRM-20 launchers to Coventry Star Fire LRM-15s. This saved weight was used to add two Coventry T4H Streak SRM-2 launchers, one in each arm and fed by two tons of reloads in the side torsos. They also upgraded the four medium lasers to Medium Pulse Lasers.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_archer"
     },
     "MovementCapDefID": "movedef_archer_ARC-2S",
@@ -19,7 +19,7 @@
     "Tonnage": 70,
     "InitialTonnage": 22,
     "weightClass": "HEAVY",
-    "Heatsinks": 0,
+    "Heatsinks": 15,
     "MaxJumpjets": 4,
     "Stability": 160,
     "StabilityDefenses": [
@@ -215,7 +215,7 @@
         ],
         "tagSetSourceFile": ""
     },
-    "YangsThoughts": "The 5S variant of the Archer, built out of Defiance Industries' massive Hesperus II complex in 3050, was the official variant for the Armed Forces of the Federated Commonwealth. The 5S upgraded the engine to an Edasich Motors 280 XL Engine, cutting the engine's weight in half while retaining the same speed profile. The 5S also reduced the LRM-20 launchers to Coventry Star Fire LRM-15s. This saved weight was used to add two Coventry T4H Streak SRM-2 launchers, one in each arm and fed by two tons of reloads in the side torsos. They also upgraded the four medium lasers to Medium Pulse Lasers.",
+    "YangsThoughts": "The 5S variant of the Archer, built out of Defiance Industries' massive Hesperus II complex in 3050, was the official variant for the Armed Forces of the Federated Commonwealth. The 5S upgraded the engine to an Edasich Motors 280 XL Engine, cutting the engine's weight in half while retaining the same speed profile. The 5S also reduced the LRM-20 launchers to Coventry Star Fire LRM-15s. This saved weight was used to add two Coventry T4H Streak SRM-2 launchers, one in each arm and fed by two tons of reloads in the side torsos. They also upgraded the four medium lasers to Medium Pulse Lasers.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
     "StockRole": "Missile Boat",
     "FixedEquipment": [
         {

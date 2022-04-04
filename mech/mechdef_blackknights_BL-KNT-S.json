@@ -30,7 +30,7 @@
         "UIName": "Black Knight S",
         "Id": "mechdef_blackknights_BL-KNT-S",
         "Name": "Black Knight S",
-        "Details": "The Black Knight 6B was the harder-hitting, cooler-running Star League ancestor to the standard BL-6-KNT we have today. It did everything the 6 does, but better—mostly thanks to its Double Heat Sinks, which are basically nonexistent these days.",
+        "Details": "The Black Knight 6B was the harder-hitting, cooler-running Star League ancestor to the standard BL-6-KNT we have today. It did everything the 6 does, but better—mostly thanks to its Double Heat Sinks, which are basically nonexistent these days.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_blackknight"
     },
     "simGameMechPartCost": 1490000,

@@ -10,7 +10,7 @@
         "UIName": "Phoenix Hawk X",
         "Id": "mechdef_phoenixhawkx_PXH-X",
         "Name": "Phoenix Hawk X",
-        "Details": "The Phoenix Hawk 1B is a highly advanced 'Mech that was provided only to the SLDF's Royal Divisions. It's an extremely rare find, and a powerful striker that can execute devastating flanking maneuvers.",
+        "Details": "The Phoenix Hawk 1B is a highly advanced 'Mech that was provided only to the SLDF's Royal Divisions. It's an extremely rare find, and a powerful striker that can execute devastating flanking maneuvers.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_phoenixhawk"
     },
     "simGameMechPartCost": 3636666,

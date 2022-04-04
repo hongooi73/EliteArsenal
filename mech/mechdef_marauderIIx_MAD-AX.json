@@ -30,7 +30,7 @@
         "UIName": "Marauder II X",
         "Id": "mechdef_marauderIIx_MAD-AX",
         "Name": "Marauder II X",
-        "Details": "Retaining only the two Magna Mk II Medium Lasers, the 5A variant of the Marauder II carries as its primary weapons a pair of Magna Firestar ER PPCs in its arms which give it a powerful long range punch compared to the 4A. The ER PPCs are backed up by a right torso mounted Mydron Excel LB-X Autocannon/10 which gives the Marauder II the tactical flexibility of using both solid and cluster rounds.",
+        "Details": "Retaining only the two Magna Mk II Medium Lasers, the 5A variant of the Marauder II carries as its primary weapons a pair of Magna Firestar ER PPCs in its arms which give it a powerful long range punch compared to the 4A. The ER PPCs are backed up by a right torso mounted Mydron Excel LB-X Autocannon/10 which gives the Marauder II the tactical flexibility of using both solid and cluster rounds.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_marauderii"
     },
     "simGameMechPartCost": 2000000,

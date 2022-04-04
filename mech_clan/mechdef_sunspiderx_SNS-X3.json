@@ -27,7 +27,7 @@
         "UIName": "Sun Spider X",
         "Id": "mechdef_sunspiderx_SNS-X3",
         "Name": "Sun Spider X",
-        "Details": "The Sun Spider Prime is built for short-range combat and carries a pair of Streak SRM-6 launchers in each arm, supported at range by Ultra AC/10 and an ER Large Laser in the right and left torsos, respectively. Two tons of Ultra Autocannon reloads and three tons of Streak SRM missiles are more than adequate for Clan Trials.",
+        "Details": "The Sun Spider Prime is built for short-range combat and carries a pair of Streak SRM-6 launchers in each arm, supported at range by Ultra AC/10 and an ER Large Laser in the right and left torsos, respectively. Two tons of Ultra Autocannon reloads and three tons of Streak SRM missiles are more than adequate for Clan Trials.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_sunspider"
     },
     "simGameMechPartCost": 3500000,

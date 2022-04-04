@@ -29,7 +29,7 @@
         "UIName": "Hellbringer S",
         "Id": "mechdef_hellbringers_HBR-S",
         "Name": "Hellbringer S",
-        "Details": "The Hellbringer Prime bears similarities in design and appearance to the classic Warhammer. The primary weapons are indeed a pair of ER PPCs.",
+        "Details": "The Hellbringer Prime bears similarities in design and appearance to the classic Warhammer. The primary weapons are indeed a pair of ER PPCs.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_hellbringer"
     },
     "simGameMechPartCost": 3500000,

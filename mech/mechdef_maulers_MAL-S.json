@@ -29,7 +29,7 @@
         "UIName": "Mauler S",
         "Id": "mechdef_maulers_MAL-S",
         "Name": "Mauler S",
-        "Details": "The Mauler is armed with four Imperator Smoothie-2 Autocannon/2s as its longest ranged primary weapons. Individually, the damage the AC/2s deal is insignificant, but together they can steadily whittle away armor at extreme range. The 'Mech also carries two Shigunga LRM-15 launchers, adding much needed punch to the extreme reach of its four autocannons. The 'Mech also carries two Victory Nickel Alloy ER Large Lasers for added long range punch.",
+        "Details": "The Mauler is armed with four Imperator Smoothie-2 Autocannon/2s as its longest ranged primary weapons. Individually, the damage the AC/2s deal is insignificant, but together they can steadily whittle away armor at extreme range. The 'Mech also carries two Shigunga LRM-15 launchers, adding much needed punch to the extreme reach of its four autocannons. The 'Mech also carries two Victory Nickel Alloy ER Large Lasers for added long range punch.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_mauler"
     },
     "simGameMechPartCost": 2000000,

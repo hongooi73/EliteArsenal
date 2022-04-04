@@ -8,7 +8,7 @@
         "UIName": "Marauder",
         "Id": "chassisdef_marauderx_MAD-X1",
         "Name": "Marauder",
-        "Details": "The MAD-2R is the Marauder variant that was given to the SLDF's Royal Divisions before the fall of the Star League. Like most Royal units, it is exceedingly rare, and comes equipped with advanced weaponry and components.",
+        "Details": "The MAD-2R is the Marauder variant that was given to the SLDF's Royal Divisions before the fall of the Star League. Like most Royal units, it is exceedingly rare, and comes equipped with advanced weaponry and components.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_marauder"
     },
     "MovementCapDefID": "movedef_marauder_MAD-2R",
@@ -213,7 +213,7 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Ranged Assault",
-    "YangsThoughts": "The MAD-2R is the Marauder variant that was given to the SLDF's Royal Divisions before the fall of the Star League. Like most Royal units, it is exceedingly rare, and comes equipped with advanced weaponry and components.",
+    "YangsThoughts": "The MAD-2R is the Marauder variant that was given to the SLDF's Royal Divisions before the fall of the Star League. Like most Royal units, it is exceedingly rare, and comes equipped with advanced weaponry and components.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
     "FixedEquipment": [
         {
             "MountedLocation": "LeftTorso",

@@ -8,7 +8,7 @@
         "UIName": "Stinger",
         "Id": "chassisdef_stingers_STG-S",
         "Name": "Stinger",
-        "Details": "The Royal Stinger introduced in 2720 used a XL Engine and Endo Steel chassis, to be able to mount a battery of three medium lasers and one Small Laser. The heat-sinks were upgraded to Double Heat Sinks and the speed and jumping distance of the Mech were also been improved slightly. ",
+        "Details": "The Royal Stinger introduced in 2720 used a XL Engine and Endo Steel chassis, to be able to mount a battery of three medium lasers and one Small Laser. The heat-sinks were upgraded to Double Heat Sinks and the speed and jumping distance of the Mech were also been improved slightly. <br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_stinger"
     },
     "FixedEquipment": [
@@ -46,7 +46,7 @@
     "InitialTonnage": 8.5,
     "weightClass": "LIGHT",
     "BattleValue": 1642000,
-    "Heatsinks": 30,
+    "Heatsinks": 45,
     "TopSpeed": 85,
     "TurnRadius": 90,
     "MaxJumpjets": 6,
@@ -241,6 +241,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Scout",
-    "YangsThoughts": "The Royal Stinger introduced in 2720 used a XL Engine and Endo Steel chassis, to be able to mount a battery of three medium lasers and one Small Laser. The heat-sinks were upgraded to Double Heat Sinks and the speed and jumping distance of the Mech were also been improved slightly."
+    "YangsThoughts": "The Royal Stinger introduced in 2720 used a XL Engine and Endo Steel chassis, to be able to mount a battery of three medium lasers and one Small Laser. The heat-sinks were upgraded to Double Heat Sinks and the speed and jumping distance of the Mech were also been improved slightly. <br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield."
 }
 

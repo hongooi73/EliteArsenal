@@ -8,7 +8,7 @@
         "UIName": "Viper",
         "Id": "chassisdef_viperx_VPR-X1",
         "Name": "Viper",
-        "Details": "Utilizing a heavier mix of shorter ranged weapons among many of the configurations, the Viper saw success when paired with other light platforms.",
+        "Details": "Utilizing a heavier mix of shorter ranged weapons among many of the configurations, the Viper saw success when paired with other light platforms.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_viper"
     },
     "FixedEquipment": [
@@ -286,6 +286,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Disabler",
-    "YangsThoughts": "Utilizing a heavier mix of shorter ranged weapons among many of the configurations, the Viper saw success when paired with other light platforms."
+    "YangsThoughts": "Utilizing a heavier mix of shorter ranged weapons among many of the configurations, the Viper saw success when paired with other light platforms.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

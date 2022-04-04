@@ -8,7 +8,7 @@
         "UIName": "Stormcrow",
         "Id": "chassisdef_stormcrowx_SCR-X1",
         "Name": "Stormcrow",
-        "Details": "A sleek, mobile, and versatile design, the Clan Stormcrow was long suspected to be one of the first OmniMechs produced by the Clans.",
+        "Details": "A sleek, mobile, and versatile design, the Clan Stormcrow was long suspected to be one of the first OmniMechs produced by the Clans.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_stormcrow"
     },
     "FixedEquipment": [
@@ -381,6 +381,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Disabler",
-    "YangsThoughts": "A sleek, mobile, and versatile design, the Clan Stormcrow was long suspected to be one of the first OmniMechs produced by the Clans."
+    "YangsThoughts": "A sleek, mobile, and versatile design, the Clan Stormcrow was long suspected to be one of the first OmniMechs produced by the Clans.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

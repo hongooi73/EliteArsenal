@@ -70,7 +70,7 @@
         "UIName": "Commando S",
         "Id": "mechdef_commandos_COM-S",
         "Name": "Commando S",
-        "Details": "Dubbed the 'Blazing Inferno', this variant of the 2D chassis removes all the missiles and instead adds three more Medium Lasers and six Small Lasers, along with an extra ton of armor.",
+        "Details": "Dubbed the 'Blazing Inferno', this variant of the 2D chassis removes all the missiles and instead adds three more Medium Lasers and six Small Lasers, along with an extra ton of armor.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_commando"
     },
     "simGameMechPartCost": 280000,

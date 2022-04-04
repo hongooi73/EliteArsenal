@@ -8,7 +8,7 @@
         "UIName": "Marauder",
         "Id": "chassisdef_marauders_MAD-S2",
         "Name": "Marauder",
-        "Details": "The 5S variant of the Marauder dates to the Clan Invasion, introduced in 3051 by Bowie Industries after the Draconis Combine captured plans for the 5D design. The variant was built around an XL engine to save weight and upgraded the heat sinks to double-strength models. Like the 5D, the 5S carried ER PPCs and medium pulse lasers, but replaced the autocannon with a Poland Main Model A Gauss Rifle.",
+        "Details": "The 5S variant of the Marauder dates to the Clan Invasion, introduced in 3051 by Bowie Industries after the Draconis Combine captured plans for the 5D design. The variant was built around an XL engine to save weight and upgraded the heat sinks to double-strength models. Like the 5D, the 5S carried ER PPCs and medium pulse lasers, but replaced the autocannon with a Poland Main Model A Gauss Rifle.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_marauder"
     },
     "MovementCapDefID": "movedef_marauder_MAD-2R",
@@ -19,7 +19,7 @@
     "Tonnage": 75,
     "InitialTonnage": 23.5,
     "weightClass": "HEAVY",
-    "Heatsinks": 30,
+    "Heatsinks": 45,
     "MaxJumpjets": 4,
     "Stability": 160,
     "StabilityDefenses": [
@@ -217,7 +217,7 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Ranged Assault",
-    "YangsThoughts": "The 5S variant of the Marauder dates to the Clan Invasion, introduced in 3051 by Bowie Industries after the Draconis Combine captured plans for the 5D design. The variant was built around an XL engine to save weight and upgraded the heat sinks to double-strength models. Like the 5D, the 5S carried ER PPCs and medium pulse lasers, but replaced the autocannon with a Poland Main Model A Gauss Rifle.",
+    "YangsThoughts": "The 5S variant of the Marauder dates to the Clan Invasion, introduced in 3051 by Bowie Industries after the Draconis Combine captured plans for the 5D design. The variant was built around an XL engine to save weight and upgraded the heat sinks to double-strength models. Like the 5D, the 5S carried ER PPCs and medium pulse lasers, but replaced the autocannon with a Poland Main Model A Gauss Rifle.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
     "FixedEquipment": [
         {
             "MountedLocation": "LeftTorso",

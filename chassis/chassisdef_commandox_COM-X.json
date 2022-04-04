@@ -8,7 +8,7 @@
         "UIName": "Commando",
         "Id": "chassisdef_commandox_COM-X",
         "Name": "Commando",
-        "Details": "Dubbed the 'Blazing Inferno', this variant of the 2D chassis removes all the missiles and instead adds three more Medium Lasers and six Small Lasers, along with an extra ton of armor.",
+        "Details": "Dubbed the 'Blazing Inferno', this variant of the 2D chassis removes all the missiles and instead adds three more Medium Lasers and six Small Lasers, along with an extra ton of armor.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_commando"
     },
     "FixedEquipment": [
@@ -245,6 +245,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Striker & Scout",
-    "YangsThoughts": "When they say Inferno, no one realized the techs were referring to the temperature inside the cockpit.  I suggest removing some of the lasers and adding a heat sink or two... or three."
+    "YangsThoughts": "Dubbed the 'Blazing Inferno', this variant of the 2D chassis removes all the missiles and instead adds three more Medium Lasers and six Small Lasers, along with an extra ton of armor.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

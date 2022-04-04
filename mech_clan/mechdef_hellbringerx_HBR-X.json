@@ -28,7 +28,7 @@
         "UIName": "Hellbringer X",
         "Id": "mechdef_hellbringerx_HBR-X",
         "Name": "Hellbringer X",
-        "Details": "The Hellbringer Prime bears similarities in design and appearance to the classic Warhammer. The primary weapons are indeed a pair of ER PPCs.",
+        "Details": "The Hellbringer Prime bears similarities in design and appearance to the classic Warhammer. The primary weapons are indeed a pair of ER PPCs.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_hellbringer"
     },
     "simGameMechPartCost": 3500000,

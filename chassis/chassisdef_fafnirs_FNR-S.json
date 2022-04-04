@@ -8,7 +8,7 @@
         "UIName": "Fafnir",
         "Id": "chassisdef_fafnirs_FNR-S",
         "Name": "Fafnir",
-        "Details": "The Fafnir was intended to become Defiance Industries of Hesperus' flagship BattleMech. The slow assault design serves as a platform for the pair of 'Thor's Hammers', the brand new Heavy Gauss Rifles, the largest non-artillery 'Mech weapon in existence. The Fafnir can lay out an incredible amount of firepower at extreme ranges, so take it seriously.",
+        "Details": "The Fafnir was intended to become Defiance Industries of Hesperus' flagship BattleMech. The slow assault design serves as a platform for the pair of 'Thor's Hammers', the brand new Heavy Gauss Rifles, the largest non-artillery 'Mech weapon in existence. The Fafnir can lay out an incredible amount of firepower at extreme ranges, so take it seriously.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_fafnir"
     },
     "FixedEquipment": [
@@ -23,7 +23,7 @@
     "InitialTonnage": 31,
     "weightClass": "ASSAULT",
     "BattleValue": 10581000,
-    "Heatsinks": 30,
+    "Heatsinks": 45,
     "TopSpeed": 60,
     "TurnRadius": 90,
     "MaxJumpjets": 3,
@@ -222,6 +222,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Incredible Direct-Fire Support",
-    "YangsThoughts": "The Fafnir was intended to become Defiance Industries of Hesperus' flagship BattleMech. The slow assault design serves as a platform for the pair of 'Thor's Hammers', the brand new Heavy Gauss Rifles, the largest non-artillery 'Mech weapon in existence. The Fafnir can lay out an incredible amount of firepower at extreme ranges, so take it seriously."
+    "YangsThoughts": "The Fafnir was intended to become Defiance Industries of Hesperus' flagship BattleMech. The slow assault design serves as a platform for the pair of 'Thor's Hammers', the brand new Heavy Gauss Rifles, the largest non-artillery 'Mech weapon in existence. The Fafnir can lay out an incredible amount of firepower at extreme ranges, so take it seriously.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield."
 }
 

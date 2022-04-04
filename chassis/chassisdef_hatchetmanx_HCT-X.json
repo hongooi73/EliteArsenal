@@ -8,7 +8,7 @@
         "UIName": "Hatchetman",
         "Id": "chassisdef_hatchetmanx_HCT-X",
         "Name": "Hatchetman",
-        "Details": "Fresh out of NAIS, the experimental HCT-3G (jestingly called the Grounded) variant from Team Banzai downgrades the engine and JumpJet capability while increasing the overall heat dissipation capacity.  While this more lumbersome version was difficult to use in open ground, it was a force to be reckoned with in the close quarters of urban warfare.",
+        "Details": "Fresh out of NAIS, the experimental HCT-3G (jestingly called the Grounded) variant from Team Banzai downgrades the engine and JumpJet capability while increasing the overall heat dissipation capacity.  While this more lumbersome version was difficult to use in open ground, it was a force to be reckoned with in the close quarters of urban warfare.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_hatchetman"
     },
     "MovementCapDefID": "movedef_hatchetman_HCT-3G",
@@ -18,7 +18,7 @@
     "PrefabBase": "hatchetman",
     "VariantName": "HCT-X",
     "StockRole": "Brawler & Skirmisher",
-    "YangsThoughts": "Just what they needed to do, make an even slower version of the Hatchetman.  Though it does make wonder if they reduced the engine in the HCT-3G with the intent of mounting an AC/20 in the torso instead of the AC/10 - which would certainly limit your options to close range assault.",
+    "YangsThoughts": "Fresh out of NAIS, the experimental HCT-3G (jestingly called the Grounded) variant from Team Banzai downgrades the engine and JumpJet capability while increasing the overall heat dissipation capacity.  While this more lumbersome version was difficult to use in open ground, it was a force to be reckoned with in the close quarters of urban warfare.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
     "Tonnage": 45,
     "InitialTonnage": 14,
     "weightClass": "MEDIUM",

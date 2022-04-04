@@ -8,7 +8,7 @@
         "UIName": "Hunchback",
         "Id": "chassisdef_hunchbackx_HBK-X2",
         "Name": "Hunchback",
-        "Details": "The Hunchback 4G is a tried and tested juggernaut on the field. One of the lightest 'Mechs to mount such a massive Autocannon, it is capable of destroying some lighter units in a single volley. It tends to mount heavy armor to boot.",
+        "Details": "The Hunchback 4G is a tried and tested juggernaut on the field. One of the lightest 'Mechs to mount such a massive Autocannon, it is capable of destroying some lighter units in a single volley. It tends to mount heavy armor to boot.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_hunchback"
     },
     "MovementCapDefID": "movedef_hunchback_HBK-4G",
@@ -208,6 +208,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Juggernaut & Close Assault",
-    "YangsThoughts": "The Hunchback 4G is a tried and tested juggernaut on the field. One of the lightest 'Mechs to mount such a massive Autocannon, it is capable of destroying some lighter units in a single volley. It tends to mount heavy armor to boot."
+    "YangsThoughts": "The Hunchback 4G is a tried and tested juggernaut on the field. One of the lightest 'Mechs to mount such a massive Autocannon, it is capable of destroying some lighter units in a single volley. It tends to mount heavy armor to boot.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

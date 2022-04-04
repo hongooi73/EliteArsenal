@@ -29,7 +29,7 @@
         "UIName": "Shadow Cat S",
         "Id": "mechdef_shadowcats_SHC-S",
         "Name": "Shadow Cat S",
-        "Details": "At the beginning of this century, the leaders of Clan Nova Cat commissioned a new medium 'Mech that could compete with and outperform the Fenris. The Shadow Cat was the result.",
+        "Details": "At the beginning of this century, the leaders of Clan Nova Cat commissioned a new medium 'Mech that could compete with and outperform the Fenris. The Shadow Cat was the result.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_shadowcat"
     },
     "simGameMechPartCost": 2500000,

@@ -8,7 +8,7 @@
         "UIName": "Ostwar",
         "Id": "chassisdef_ostwarx_OWR-X",
         "Name": "Ostwar",
-        "Details": "An updated version of the primitive Ostwar developed in 2620, this variant carries 12 tons of standard BattleMech armor and a modern cockpit. The chassis has been upgraded to use Endo Steel, while an XL Engine increases the Ostwar's ground speed to 84 kmh. Eighteen double heat sinks dissipate the heat from three ER Large Lasers and twin SRM-6 launchers.",
+        "Details": "An updated version of the primitive Ostwar developed in 2620, this variant carries 12 tons of standard BattleMech armor and a modern cockpit. The chassis has been upgraded to use Endo Steel, while an XL Engine increases the Ostwar's ground speed to 84 kmh. Eighteen double heat sinks dissipate the heat from three ER Large Lasers and twin SRM-6 launchers.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_ostwar"
     },
     "FixedEquipment": [
@@ -21,7 +21,7 @@
     "PrefabBase": "ostwar",
     "VariantName": "OWR-X",
     "StockRole": "Heavy Fire Support",
-    "YangsThoughts": "An updated version of the primitive Ostwar developed in 2620, this variant carries 12 tons of standard BattleMech armor and a modern cockpit. The chassis has been upgraded to use Endo Steel, while an XL Engine increases the Ostwar's ground speed to 84 kmh. Eighteen double heat sinks dissipate the heat from three ER Large Lasers and twin SRM-6 launchers.",
+    "YangsThoughts": "An updated version of the primitive Ostwar developed in 2620, this variant carries 12 tons of standard BattleMech armor and a modern cockpit. The chassis has been upgraded to use Endo Steel, while an XL Engine increases the Ostwar's ground speed to 84 kmh. Eighteen double heat sinks dissipate the heat from three ER Large Lasers and twin SRM-6 launchers.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
     "Tonnage": 65,
     "InitialTonnage": 23,
     "weightClass": "HEAVY",

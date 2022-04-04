@@ -30,7 +30,7 @@
         "UIName": "Kodiak S",
         "Id": "mechdef_kodiaks_KDK-S",
         "Name": "Kodiak S",
-        "Details": "A fast moving assault Mech, the Kodiak was originally designed by Clan Ghost Bear as a second-line mech and represents the epitome of Ghost Bear thinking: mostly defensive but capable of surprising speed and a devastating attack when launched. ",
+        "Details": "A fast moving assault Mech, the Kodiak was originally designed by Clan Ghost Bear as a second-line mech and represents the epitome of Ghost Bear thinking: mostly defensive but capable of surprising speed and a devastating attack when launched. <br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_kodiak"
     },
     "simGameMechPartCost": 4500000,

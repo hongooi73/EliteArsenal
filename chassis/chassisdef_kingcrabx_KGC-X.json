@@ -8,7 +8,7 @@
         "UIName": "King Crab",
         "Id": "chassisdef_kingcrabx_KGC-X",
         "Name": "King Crab",
-        "Details": "One of the so-called 'Clanbuster' variants developed in 3052 during the lead-up to the Battle of Tukayyid, ComStar's techs replaced the twin autocannons with two M-7 Gauss Rifles and four tons of ammo in the arms, trading a minor reduction in destructive capacity for greatly increased range. While retaining the LRM launcher the large laser was upgraded to a Tronel XIII Large Pulse Laser and two Hovertec Streak SRM-2s, split between the side torsos with a single ton of reloads each, were added. These changes were accomplished by using an extralight engine in place of the standard model.",
+        "Details": "One of the so-called 'Clanbuster' variants developed in 3052 during the lead-up to the Battle of Tukayyid, ComStar's techs replaced the twin autocannons with two M-7 Gauss Rifles and four tons of ammo in the arms, trading a minor reduction in destructive capacity for greatly increased range. While retaining the LRM launcher the large laser was upgraded to a Tronel XIII Large Pulse Laser and two Hovertec Streak SRM-2s, split between the side torsos with a single ton of reloads each, were added. These changes were accomplished by using an extralight engine in place of the standard model.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_kingcrab"
     },
     "MovementCapDefID": "movedef_kingcrab_KGC-0000",
@@ -240,6 +240,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Juggernaut & Close Assault",
-    "YangsThoughts": "One of the most heavily armed and armored 'Mechs ever constructed, the King Crab 0000 is capable of massive burst damage. A pair of heavy, close-range Autocannons form its primary weaponry, backed up by ranged weaponry to fire as it closes distance."
+    "YangsThoughts": "One of the so-called 'Clanbuster' variants developed in 3052 during the lead-up to the Battle of Tukayyid, ComStar's techs replaced the twin autocannons with two M-7 Gauss Rifles and four tons of ammo in the arms, trading a minor reduction in destructive capacity for greatly increased range. While retaining the LRM launcher the large laser was upgraded to a Tronel XIII Large Pulse Laser and two Hovertec Streak SRM-2s, split between the side torsos with a single ton of reloads each, were added. These changes were accomplished by using an extralight engine in place of the standard model.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

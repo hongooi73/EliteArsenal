@@ -30,7 +30,7 @@
         "UIName": "Stormcrow S",
         "Id": "mechdef_stormcrows_SCR-S1",
         "Name": "Stormcrow S",
-        "Details": "A sleek, mobile, and versatile design, the Clan Stormcrow was long suspected to be one of the first OmniMechs produced by the Clans.",
+        "Details": "A sleek, mobile, and versatile design, the Clan Stormcrow was long suspected to be one of the first OmniMechs produced by the Clans.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_stormcrow"
     },
     "simGameMechPartCost": 2500000,

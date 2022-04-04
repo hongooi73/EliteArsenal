@@ -8,7 +8,7 @@
         "UIName": "Annihilator",
         "Id": "chassisdef_annihilators_ANH-ES",
         "Name": "Annihilator",
-        "Details": "Where the original Annihilator 1A carries four powerful autocannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.",
+        "Details": "Where the original Annihilator 1A carries four powerful autocannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_annihilator"
     },
     "MovementCapDefID": "movedef_annihilator_ANH-1A",
@@ -20,7 +20,7 @@
     "InitialTonnage": 23.5,
     "weightClass": "ASSAULT",
     "BattleValue": 10581000,
-    "Heatsinks": 0,
+    "Heatsinks": 15,
     "TopSpeed": 60,
     "TurnRadius": 90,
     "MaxJumpjets": 0,
@@ -241,7 +241,7 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Juggernaut & Siege Mech",
-    "YangsThoughts": "I thought the Awesome was scary, but the 1E's four PPCs even makes the Awesome look a little less... awesome.",
+    "YangsThoughts": "Where the original Annihilator 1A carries four powerful autocannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
     "FixedEquipment": [
         {
             "MountedLocation": "CenterTorso",

@@ -30,7 +30,7 @@
         "UIName": "Blood Asp S",
         "Id": "mechdef_bloodasps_BAS-S",
         "Name": "Blood Asp S",
-        "Details": "This configuration is built for assault. It uses an advanced Targeting Computer to guide a pair of ER PPCs and two Heavy Large Lasers. Eleven additional heat sinks fail to keep this configuration cool, even with the addition of enough jump jets to leap ninety meters at a time. It also incorporates an ECM Suite to protect itself from enemy electronics.",
+        "Details": "This configuration is built for assault. It uses an advanced Targeting Computer to guide a pair of ER PPCs and two Heavy Large Lasers. Eleven additional heat sinks fail to keep this configuration cool, even with the addition of enough jump jets to leap ninety meters at a time. It also incorporates an ECM Suite to protect itself from enemy electronics.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_bloodasp"
     },
     "simGameMechPartCost": 4500000,

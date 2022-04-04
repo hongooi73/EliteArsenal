@@ -8,7 +8,7 @@
         "UIName": "Executioner",
         "Id": "chassisdef_executionerx_EXE-X",
         "Name": "Executioner",
-        "Details": "Introduced at the turn of the century, the executioner was created by the Smoke Jaguars in anticipation of the Clan return to the Inner Sphere.",
+        "Details": "Introduced at the turn of the century, the executioner was created by the Smoke Jaguars in anticipation of the Clan return to the Inner Sphere.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_executioner"
     },
     "FixedEquipment": [
@@ -283,6 +283,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Lumbering Pain Machine",
-    "YangsThoughts": "Introduced at the turn of the century, the executioner was created by the Smoke Jaguars in anticipation of the Clan return to the Inner Sphere."
+    "YangsThoughts": "Introduced at the turn of the century, the executioner was created by the Smoke Jaguars in anticipation of the Clan return to the Inner Sphere.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

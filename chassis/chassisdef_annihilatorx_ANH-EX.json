@@ -8,7 +8,7 @@
         "UIName": "Annihilator",
         "Id": "chassisdef_annihilatorx_ANH-EX",
         "Name": "Annihilator",
-        "Details": "Where the original Annihilator 1A carries four powerful autocannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.",
+        "Details": "Where the original Annihilator 1A carries four powerful autocannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_annihilator"
     },
     "MovementCapDefID": "movedef_annihilator_ANH-1A",
@@ -241,7 +241,7 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Juggernaut & Siege Mech",
-    "YangsThoughts": "I thought the Awesome was scary, but the 1E's four PPCs even makes the Awesome look a little less... awesome.",
+    "YangsThoughts": "Where the original Annihilator 1A carries four powerful autocannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
     "FixedEquipment": [
         {
             "MountedLocation": "CenterTorso",

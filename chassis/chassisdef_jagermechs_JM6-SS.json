@@ -8,7 +8,7 @@
         "UIName": "JagerMech",
         "Id": "chassisdef_jagermechs_JM6-SS",
         "Name": "JagerMech",
-        "Details": "The JagerMech S model is highly specialized at long-range Autocannon fire support. It doesn't have much in the way of protection or closer-range weapons, though, so keep it distant and out of harm's way.",
+        "Details": "The JagerMech S model is highly specialized at long-range Autocannon fire support. It doesn't have much in the way of protection or closer-range weapons, though, so keep it distant and out of harm's way.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_jagermech"
     },
     "FixedEquipment": [
@@ -23,7 +23,7 @@
     "InitialTonnage": 26,
     "weightClass": "HEAVY",
     "BattleValue": 5514000,
-    "Heatsinks": 0,
+    "Heatsinks": 15,
     "TopSpeed": 120,
     "TurnRadius": 90,
     "MaxJumpjets": 4,
@@ -235,6 +235,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Sniper & Direct-Fire Support",
-    "YangsThoughts": "The JagerMech S model is highly specialized at long-range Autocannon fire support. It doesn't have much in the way of protection or closer-range weapons, though, so keep it distant and out of harm's way."
+    "YangsThoughts": "The JagerMech S model is highly specialized at long-range Autocannon fire support. It doesn't have much in the way of protection or closer-range weapons, though, so keep it distant and out of harm's way.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield."
 }
 

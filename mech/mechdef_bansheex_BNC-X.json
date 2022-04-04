@@ -85,7 +85,7 @@
         "UIName": "Banshee X",
         "Id": "mechdef_bansheex_BNC-X",
         "Name": "Banshee X",
-        "Details": "The Banshee 3S sacrifices its trademark speed for a large expansion in firepower. The 3S fills the role of a well armored sniper, sporting two PPCs and an AC10 while still being capable of inflicting heavy melee damage.",
+        "Details": "The Banshee 3S sacrifices its trademark speed for a large expansion in firepower. The 3S fills the role of a well armored sniper, sporting two PPCs and an AC10 while still being capable of inflicting heavy melee damage.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_banshee"
     },
     "simGameMechPartCost": 1570000,

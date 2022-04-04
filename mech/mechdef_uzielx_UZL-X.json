@@ -29,7 +29,7 @@
         "UIName": "Uziel X",
         "Id": "mechdef_uzielx_UZL-X",
         "Name": "Uziel X",
-        "Details": "Based on the original prototype of the Uziel, the 2S carries a pair of PPCs as its primary weapons for long range combat. A SRM-6 launcher provides close combat capabilities and a pair of Machine Guns provide anti-infantry capabilities. A Beagle Active Probe allows the 'Mech to detect hidden units and protects the Uziel from ambushes.",
+        "Details": "Based on the original prototype of the Uziel, the 2S carries a pair of PPCs as its primary weapons for long range combat. A SRM-6 launcher provides close combat capabilities and a pair of Machine Guns provide anti-infantry capabilities. A Beagle Active Probe allows the 'Mech to detect hidden units and protects the Uziel from ambushes.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_uziel"
     },
     "simGameMechPartCost": 1000000,

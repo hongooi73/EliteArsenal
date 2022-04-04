@@ -69,7 +69,7 @@
         "UIName": "Commando X",
         "Id": "mechdef_commandox_COM-X",
         "Name": "Commando X",
-        "Details": "Dubbed the 'Blazing Inferno', this variant of the 2D chassis removes all the missiles and instead adds three more Medium Lasers and six Small Lasers, along with an extra ton of armor.",
+        "Details": "Dubbed the 'Blazing Inferno', this variant of the 2D chassis removes all the missiles and instead adds three more Medium Lasers and six Small Lasers, along with an extra ton of armor.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_commando"
     },
     "simGameMechPartCost": 280000,

@@ -8,7 +8,7 @@
         "UIName": "Blood Asp",
         "Id": "chassisdef_bloodaspx_BAS-X",
         "Name": "Blood Asp",
-        "Details": "Introduced at the turn of the century, the bloodasp was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere.",
+        "Details": "Introduced at the turn of the century, the bloodasp was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_bloodasp"
     },
     "FixedEquipment": [
@@ -306,6 +306,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Fast Assault",
-    "YangsThoughts": "Introduced at the turn of the century, the bloodasp was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere."
+    "YangsThoughts": "Introduced at the turn of the century, the bloodasp was created by the Smoke Jaguars in anticipation of the Clans' return to the Inner Sphere.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

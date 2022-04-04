@@ -35,7 +35,7 @@
         "UIName": "Shadow Hawk S",
         "Id": "mechdef_shadowhawks_SHD-S2",
         "Name": "Shadow Hawk S",
-        "Details": "The 5M Shadow Hawk is the first complete overhaul and upgrade of the design, unveiled in 3048 by Earthwerks for the Free Worlds League.",
+        "Details": "The 5M Shadow Hawk is the first complete overhaul and upgrade of the design, unveiled in 3048 by Earthwerks for the Free Worlds League.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_shadowhawk"
     },
     "simGameMechPartCost": 620000,

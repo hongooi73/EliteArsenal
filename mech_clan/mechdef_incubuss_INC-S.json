@@ -29,7 +29,7 @@
         "UIName": "Incubus S",
         "Id": "mechdef_incubuss_INC-S",
         "Name": "Incubus S",
-        "Details": "A second line mech designed for settling clan duels, the laser armed Incubus has found considerable success with Clan Hell's Horses'49th Battlemech Cluster as a protomech hunter.",
+        "Details": "A second line mech designed for settling clan duels, the laser armed Incubus has found considerable success with Clan Hell's Horses'49th Battlemech Cluster as a protomech hunter.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_incubus"
     },
     "simGameMechPartCost": 1500000,

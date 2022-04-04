@@ -8,7 +8,7 @@
         "UIName": "Talos",
         "Id": "chassisdef_talosx_TLS-X",
         "Name": "Talos",
-        "Details": "Drawing upon experiences made with the older Toro and studying related Inner Sphere designs, Vandenberg Heavy Industries finally delivered the Talos to the TDF in 2532 after almost a decade of development and prototype trials. The mature design emphasized easy production and logistics, and was popular with pilots due to its easy handling, improved heat management and solid 8.5 tons of standard armor.",
+        "Details": "Drawing upon experiences made with the older Toro and studying related Inner Sphere designs, Vandenberg Heavy Industries finally delivered the Talos to the TDF in 2532 after almost a decade of development and prototype trials. The mature design emphasized easy production and logistics, and was popular with pilots due to its easy handling, improved heat management and solid 8.5 tons of standard armor.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_talos"
     },
     "MovementCapDefID": "movedef_talos_TLS-1B",
@@ -209,6 +209,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Brawler & General Assault",
-    "YangsThoughts": "The Taurian Concordat Talos design is low on heat but entirely dependant on ammunition. It comes high on armor considering it's 50 tonne chassis and makes a solid, if a bit slow, tank for any lance."
+    "YangsThoughts": "Drawing upon experiences made with the older Toro and studying related Inner Sphere designs, Vandenberg Heavy Industries finally delivered the Talos to the TDF in 2532 after almost a decade of development and prototype trials. The mature design emphasized easy production and logistics, and was popular with pilots due to its easy handling, improved heat management and solid 8.5 tons of standard armor.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

@@ -29,7 +29,7 @@
         "UIName": "Wolfhound X",
         "Id": "mechdef_wolfhoundx_WLF-X2",
         "Name": "Wolfhound X",
-        "Details": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to double strength and the Large laser is upgraded also to ER version.",
+        "Details": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to double strength and the Large laser is upgraded also to ER version.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_wolfhound"
     },
     "simGameMechPartCost": 500000,

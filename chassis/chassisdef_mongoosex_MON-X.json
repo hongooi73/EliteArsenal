@@ -8,7 +8,7 @@
         "UIName": "Mongoose",
         "Id": "chassisdef_mongoosex_MON-X",
         "Name": "Mongoose",
-        "Details": "The Mongoose was designed as a deep recon 'Mech and a competitor to the Locust. The MON-66b is the variant used by the Star League's Royal regiments. Constructed around a powerful XL engine and using weight saving technologies, the Royal Mongoose is extremely fast while also carrying a heavy armament of an ER Large Laser, a pair of Medium Lasers, and a Small Laser for good measure.",
+        "Details": "The Mongoose was designed as a deep recon 'Mech and a competitor to the Locust. The MON-66b is the variant used by the Star League's Royal regiments. Constructed around a powerful XL engine and using weight saving technologies, the Royal Mongoose is extremely fast while also carrying a heavy armament of an ER Large Laser, a pair of Medium Lasers, and a Small Laser for good measure.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_mongoose"
     },
     "FixedEquipment": [
@@ -219,6 +219,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Light Striker & Scout",
-    "YangsThoughts": "Boss, this thing is a wonder. As fast as they could make 'em back then but with a serious punch, this baby is going to work wonders for us!"
+    "YangsThoughts": "The Mongoose was designed as a deep recon 'Mech and a competitor to the Locust. The MON-66b is the variant used by the Star League's Royal regiments. Constructed around a powerful XL engine and using weight saving technologies, the Royal Mongoose is extremely fast while also carrying a heavy armament of an ER Large Laser, a pair of Medium Lasers, and a Small Laser for good measure.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

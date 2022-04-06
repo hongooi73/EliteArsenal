@@ -1,0 +1,78 @@
+{
+    "TargetID": "AbilityDefAceBuff",
+    "Instructions": [
+        {
+            "JSONPath": "$.EffectData",
+            "Action": "ArrayConcat",
+            "Value": [
+                {
+                    "durationData": {
+                        "duration": -1,
+                        "stackLimit": -1
+                    },
+                    "targetingData": {
+                        "effectTriggerType": "Passive",
+                        "effectTargetType": "Creator",
+                        "showInTargetPreview": true,
+                        "showInStatusPanel": true
+                    },
+                    "effectType": "StatisticEffect",
+                    "Description": {
+                        "Id": "StatusEffect-EA-PilotDefense",
+                        "Name": "ACE DEFENSE",
+                        "Details": "+[AMT] Difficulty to hit this unit with ranged attacks.",
+                        "Icon": "UixSvgIcon_specialEquip_System"
+                    },
+                    "statisticData": {
+                        "appliesEachTick": false,
+                        "effectsPersistAfterDestruction": false,
+                        "statName": "ToHitThisActor",
+                        "operation": "Float_Add",
+                        "modValue": "1",
+                        "modType": "System.Single",
+                        "additionalRules": "NotSet",
+                        "targetCollection": "NotSet",
+                        "targetWeaponCategory": "NotSet",
+                        "targetWeaponType": "NotSet",
+                        "targetAmmoCategory": "NotSet",
+                        "targetWeaponSubType": "NotSet"
+                    },
+                    "nature": "Buff"
+                },
+                {
+                    "Description": {
+                        "Id": "StatusEffect-EA-PilotDR",
+                        "Name": "ACE DAMAGE REDUCTION",
+                        "Details": "This unit takes [AMT] less damage.",
+                        "Icon": "UixSvgIcon_specialAbility_BWCL"
+                    },
+                    "effectType": "StatisticEffect",
+                    "nature": "Buff",
+                    "durationData": {
+                        "duration": -1,
+                        "stackLimit": 1
+                    },
+                    "targetingData": {
+                        "effectTriggerType": "Passive",
+                        "effectTargetType": "Creator",
+                        "showInTargetPreview": true,
+                        "showInStatusPanel": true,
+                        "hideApplicationFloatie": true
+                    },
+                    "statisticData": {
+                        "statName": "DamageReductionMultiplierAll",
+                        "operation": "Float_Multiply",
+                        "modValue": "0.9",
+                        "modType": "System.Single",
+                        "additionalRules": "NotSet",
+                        "targetCollection": "NotSet",
+                        "targetWeaponCategory": "NotSet",
+                        "targetWeaponType": "NotSet",
+                        "targetAmmoCategory": "NotSet",
+                        "targetWeaponSubType": "NotSet"
+                    }
+                }
+            ]
+        }
+    ]
+}

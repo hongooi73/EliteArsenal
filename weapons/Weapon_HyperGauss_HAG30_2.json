@@ -20,7 +20,7 @@
     "HeatDamage": 0,
     "StructureDamage": 25,
     "AccuracyModifier": -4,
-    "CriticalChanceMultiplier": 1,
+    "CriticalChanceMultiplier": 1.2,
     "AOECapable": false,
     "IndirectFireCapable": false,
     "RefireModifier": 0,
@@ -41,7 +41,7 @@
         "Details": "The Hyper-Assault Gauss Rifle is a variation on the Gauss Rifle developed by Clan Hell's Horses in 3068. Hoping to stay ahead of the increasing technological curve, they apparently used similar design principles to the Lyran Alliance's Heavy Gauss Rifle. To compensate for its drawbacks, however, Horse scientists used a series of capacitors and launching tubes to fire a multitude of smaller-caliber Gauss slugs. The resulting high rate of fire, akin almost to Rotary Autocannons, made these weapons very effective against battle armor and Combat Vehicles.",
         "Icon": "uixSvgIcon_weapon_Ballistic"
     },
-    "BonusValueA": "- 2 Slots",
+    "BonusValueA": "+ 20% Crit.",
     "BonusValueB": "+ 4 Acc.",
     "ComponentType": "Weapon",
     "ComponentSubType": "Weapon",

@@ -38,7 +38,7 @@
         "UIName": "Thunderbolt S",
         "Id": "mechdef_thunderbolts_TDR-S",
         "Name": "Thunderbolt S",
-        "Details": "The Thunderbolt 5S is well-armed and heavily armored for its size. It's often deployed as a frontline 'Mech where the fighting is heavy, and it needs to give as good as it gets.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
+        "Details": "The Thunderbolt 5S is well-armed and heavily armored for its size. It's often deployed as a frontline 'Mech where the fighting is heavy, and it needs to give as good as it gets.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield. The S-class Thunderbolt continues the tradition of storing its ammunition in the center torso, for maximum protection.",
         "Icon": "uixTxrIcon_thunderbolt"
     },
     "simGameMechPartCost": 760000,

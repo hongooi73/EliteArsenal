@@ -8,7 +8,7 @@
         "UIName": "Thunderbolt",
         "Id": "chassisdef_thunderbolts_TDR-S",
         "Name": "Thunderbolt",
-        "Details": "The Thunderbolt 5S is well-armed and heavily armored for its size. It's often deployed as a frontline 'Mech where the fighting is heavy, and it needs to give as good as it gets.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
+        "Details": "The Thunderbolt 5S is well-armed and heavily armored for its size. It's often deployed as a frontline 'Mech where the fighting is heavy, and it needs to give as good as it gets.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield. The S-class Thunderbolt continues the tradition of storing its ammunition in the center torso, for maximum protection.",
         "Icon": "uixTxrIcon_thunderbolt"
     },
     "MovementCapDefID": "movedef_thunderbolt_TDR-5S",
@@ -224,6 +224,6 @@
         "tagSetSourceFile": ""
     },
     "StockRole": "Heavy Skirmisher & Brawler",
-    "YangsThoughts": "The Thunderbolt 5S is well-armed and heavily armored for its size. It's often deployed as a frontline 'Mech where the fighting is heavy, and it needs to give as good as it gets.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield."
+    "YangsThoughts": "The Thunderbolt 5S is well-armed and heavily armored for its size. It's often deployed as a frontline 'Mech where the fighting is heavy, and it needs to give as good as it gets.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield. The S-class Thunderbolt continues the tradition of storing its ammunition in the center torso, for maximum protection."
 }
 

@@ -101,7 +101,7 @@
         },
         {
             "unitType": "Mech",
-            "unitId": "tagged",
+            "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [

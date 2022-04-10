@@ -61,7 +61,7 @@
     "ChassisID": "chassisdef_commandox_COM-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 2800000,
+        "Cost": 3500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -72,7 +72,7 @@
         "Details": "Dubbed the 'Blazing Inferno', this variant of the 2D chassis removes all the missiles and instead adds three more Medium Lasers and six Small Lasers, along with an extra ton of armor.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_commando"
     },
-    "simGameMechPartCost": 280000,
+    "simGameMechPartCost": 350000,
     "Version": 1,
     "Locations": [
         {

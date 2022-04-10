@@ -21,7 +21,7 @@
     "ChassisID": "chassisdef_bloodaspx_BAS-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12000000,
+        "Cost": 15000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -32,7 +32,7 @@
         "Details": "This configuration is built for assault. It uses an advanced Targeting Computer to guide a pair of ER PPCs and two Heavy Large Lasers. Eleven additional heat sinks fail to keep this configuration cool, even with the addition of enough jump jets to leap ninety meters at a time. It also incorporates an ECM Suite to protect itself from enemy electronics.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_bloodasp"
     },
-    "simGameMechPartCost": 4500000,
+    "simGameMechPartCost": 5625000,
     "Version": 1,
     "Locations": [
         {

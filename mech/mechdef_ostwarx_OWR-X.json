@@ -20,7 +20,7 @@
     "ChassisID": "chassisdef_ostwarx_OWR-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8000000,
+        "Cost": 10000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -31,7 +31,7 @@
         "Details": "An updated version of the primitive Ostwar developed in 2620, this variant carries 12 tons of standard BattleMech armor and a modern cockpit. The chassis has been upgraded to use Endo Steel, while an XL Engine increases the Ostwar's ground speed to 84 kmh. Eighteen double heat sinks dissipate the heat from three ER Large Lasers and twin SRM-6 launchers.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_ostwar"
     },
-    "simGameMechPartCost": 1500000,
+    "simGameMechPartCost": 1875000,
     "Version": 1,
     "Locations": [
         {

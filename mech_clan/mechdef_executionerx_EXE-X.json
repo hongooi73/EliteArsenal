@@ -21,7 +21,7 @@
     "ChassisID": "chassisdef_executionerx_EXE-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12000000,
+        "Cost": 15000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -32,7 +32,7 @@
         "Details": "Introduced at the turn of the century, the executioner was created by the Smoke Jaguars in anticipation of the Clan return to the Inner Sphere.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_executioner"
     },
-    "simGameMechPartCost": 4500000,
+    "simGameMechPartCost": 5625000,
     "Version": 1,
     "Locations": [
         {

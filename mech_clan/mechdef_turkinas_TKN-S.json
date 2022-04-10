@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_turkinas_TKN-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12000000,
+        "Cost": 18000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "Continuing with the paired weapons theme, the B uses two Large Pulse Lasers, ER Large Lasers, Medium Pulse Lasers, and ER Medium Lasers. All of these are linked to an advanced Targeting Computer. Ten extra double heat sinks still struggle to keep heat levels down.[6] The impetus for this variant seems to lie in the Battle of Tukayyid and the ComGuard's strategy of bleeding them of supplies by fighting a protracted campaign. With no weapons that need ammunition, this configuration can stay in the field as long as its MechWarrior can.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_turkina"
     },
-    "simGameMechPartCost": 4500000,
+    "simGameMechPartCost": 6750000,
     "Version": 1,
     "Locations": [
         {

@@ -23,7 +23,7 @@
     "ChassisID": "chassisdef_cougarx_CGR-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6000000,
+        "Cost": 7500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -34,7 +34,7 @@
         "Details": "Conceptualized to be a sniper with a good near field defense the Cougar-D variant relies on a single ERLL and an Ultra Autocannon/10 for long range and dual SRM4 launchers for close range fire. The COU-D might not be quick, but if he closes in after ripping the armor open, these Short Range Missiles have great finishing potential.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_cougar"
     },
-    "simGameMechPartCost": 1500000,
+    "simGameMechPartCost": 1875000,
     "Version": 1,
     "Locations": [
         {

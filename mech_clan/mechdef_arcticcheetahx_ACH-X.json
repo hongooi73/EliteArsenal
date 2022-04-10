@@ -21,7 +21,7 @@
     "ChassisID": "chassisdef_arcticcheetahx_ACH-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6000000,
+        "Cost": 7500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -32,7 +32,7 @@
         "Details": "A sleek, mobile, and versatile design, the Clan arcticcheetah was long suspected to be one of the first OmniMechs produced by the Clans.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_arcticcheetah"
     },
-    "simGameMechPartCost": 1500000,
+    "simGameMechPartCost": 1875000,
     "Version": 1,
     "Locations": [
         {

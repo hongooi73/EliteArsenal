@@ -2,7 +2,7 @@
     "ChassisID": "chassisdef_phoenixhawks_PXH-S",
     "HeraldryID": "heraldrydef_sldf_OD",
     "Description": {
-        "Cost": 10910000,
+        "Cost": 16365000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -13,7 +13,7 @@
         "Details": "The Phoenix Hawk 1B is a highly advanced 'Mech that was provided only to the SLDF's Royal Divisions. It's an extremely rare find, and a powerful striker that can execute devastating flanking maneuvers.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_phoenixhawk"
     },
-    "simGameMechPartCost": 3636666,
+    "simGameMechPartCost": 5454999,
     "Version": 1,
     "Locations": [
         {

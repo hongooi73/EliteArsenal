@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_blackknights_BL-KNT-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 14910000,
+        "Cost": 22365000,
         "Rarity": 9,
         "Purchasable": false,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "The Black Knight 6B was the harder-hitting, cooler-running Star League ancestor to the standard BL-6-KNT we have today. It did everything the 6 does, but better—mostly thanks to its Double Heat Sinks, which are basically nonexistent these days.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_blackknight"
     },
-    "simGameMechPartCost": 1490000,
+    "simGameMechPartCost": 2235000,
     "Version": 1,
     "Locations": [
         {

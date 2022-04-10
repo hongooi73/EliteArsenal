@@ -2,7 +2,7 @@
     "ChassisID": "chassisdef_archerx_ARC-RX",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8500000,
+        "Cost": 10625000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -13,7 +13,7 @@
         "Details": "The well-known Archer is the epitome of the \"missile boat\" concept. It is commonly found hurling deadly swarms of LRMs at targets from behind the safety of a hill. It's not too shabby in closer-range fights, either. Its only real weakness is terrible heat management.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_archer"
     },
-    "simGameMechPartCost": 850000,
+    "simGameMechPartCost": 1062500,
     "Version": 1,
     "Locations": [
         {

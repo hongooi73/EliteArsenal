@@ -21,7 +21,7 @@
     "ChassisID": "chassisdef_ebonjaguarx_EBJ-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10000000,
+        "Cost": 12500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -32,7 +32,7 @@
         "Details": "The primary configuration of the Ebon Jaguar was made to attack from long range. With a mammoth Gauss Rifle occupying the entire right arm, a 75mm LB 5-X AC in the left arm, and an LRM-10 jutting above the birdlike shoulder, it can act as a speedy support 'Mech with a variety of ways to deal damage. An SRM-2 and an ER Medium Laser provide backup for short range work. The thirteen integral double heat sinks are more than enough to keep the OmniMech cool, while its nine and a half tons of Ferro-Fibrous armor keep the design safe.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_ebonjaguar"
     },
-    "simGameMechPartCost": 3500000,
+    "simGameMechPartCost": 4375000,
     "Version": 1,
     "Locations": [
         {

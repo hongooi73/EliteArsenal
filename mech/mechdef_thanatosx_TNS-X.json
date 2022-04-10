@@ -19,7 +19,7 @@
     "ChassisID": "chassisdef_thanatosx_TNS-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8000000,
+        "Cost": 10000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -30,7 +30,7 @@
         "Details": "The Thanatos-4T is a closer-range brawler variant of the Thanatos that reduces the engine size in order to carry a significantly better close range payload, consisting of the original's MRM-20 combined with a massive LB-20X Autocannon and 4 Medium Pulse Lasers. It keeps a similar armor profile and keeps the jump jet mobility of the original Thanatos-4S.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_thanatos"
     },
-    "simGameMechPartCost": 1500000,
+    "simGameMechPartCost": 1875000,
     "Version": 1,
     "Locations": [
         {

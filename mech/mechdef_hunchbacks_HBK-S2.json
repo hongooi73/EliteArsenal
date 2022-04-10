@@ -28,7 +28,7 @@
     "ChassisID": "chassisdef_hunchbacks_HBK-S2",
     "HeraldryID": null,
     "Description": {
-        "Cost": 5090000,
+        "Cost": 7635000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -39,7 +39,7 @@
         "Details": "The Hunchback 4G is a tried and tested juggernaut on the field. One of the lightest 'Mechs to mount such a massive Autocannon, it is capable of destroying some lighter units in a single volley. It tends to mount heavy armor to boot.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_hunchback"
     },
-    "simGameMechPartCost": 510000,
+    "simGameMechPartCost": 765000,
     "Version": 1,
     "Locations": [
         {

@@ -23,7 +23,7 @@
     "ChassisID": "chassisdef_madcatmkiis_MCII-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12000000,
+        "Cost": 18000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -34,7 +34,7 @@
         "Details": "Though bearing a remarkable outward resemblance to the Timberwolf, this BattleMech is a new and powerful creation. Carrying thirteen tons of ferro-fibrous armor, the Mad Cat MK II is an incredibly resilient design. A pair of arm mounted Gaussrifles supported by torso mounted LRM racks give it complete command over the battlefield.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_madcatmkii"
     },
-    "simGameMechPartCost": 4500000,
+    "simGameMechPartCost": 6750000,
     "Version": 1,
     "Locations": [
         {

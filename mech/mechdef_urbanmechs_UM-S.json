@@ -30,7 +30,7 @@
     "ChassisID": "chassisdef_urbanmechs_UM-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 2480000,
+        "Cost": 3720000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -41,7 +41,7 @@
         "Details": "Don't let the stubby 'Urbie' fool you—it may look like a walking trash can, but it can mount heavy armor and a grown-up-sized Autocannon. R60s aren't known for their speed, but they are very useful if you can draw the enemy into their firing range.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_urbanmech"
     },
-    "simGameMechPartCost": 250000,
+    "simGameMechPartCost": 375000,
     "Version": 1,
     "Locations": [
         {

@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_fafnirx_FNR-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10000000,
+        "Cost": 12500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "The Fafnir was intended to become Defiance Industries of Hesperus' flagship BattleMech. The slow assault design serves as a platform for the pair of 'Thor's Hammers', the brand new Heavy Gauss Rifles, the largest non-artillery 'Mech weapon in existence. The Fafnir can lay out an incredible amount of firepower at extreme ranges, so take it seriously.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_fafnir"
     },
-    "simGameMechPartCost": 2000000,
+    "simGameMechPartCost": 2500000,
     "Version": 1,
     "Locations": [
         {

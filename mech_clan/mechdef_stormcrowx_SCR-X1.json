@@ -21,7 +21,7 @@
     "ChassisID": "chassisdef_stormcrowx_SCR-X1",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8000000,
+        "Cost": 10000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -32,7 +32,7 @@
         "Details": "A sleek, mobile, and versatile design, the Clan Stormcrow was long suspected to be one of the first OmniMechs produced by the Clans.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_stormcrow"
     },
-    "simGameMechPartCost": 2500000,
+    "simGameMechPartCost": 3125000,
     "Version": 1,
     "Locations": [
         {

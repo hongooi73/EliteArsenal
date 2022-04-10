@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_direwolfs_DWF-S1",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12000000,
+        "Cost": 18000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "This variant mounts two of the largest weapons in the Clan arsenal: the HAG 40. Ten tons of ammunition ensure that the 'Mech will not quickly run out. The uncharacteristically light backup weapons include a pair of Medium Pulse Lasers, a Streak SRM-6, and a single ER Small Laser.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_direwolf"
     },
-    "simGameMechPartCost": 4500000,
+    "simGameMechPartCost": 6750000,
     "Version": 1,
     "Locations": [
         {

@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_supernovas_SNV-S1",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12000000,
+        "Cost": 18000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "This variant strips out all the lasers and replaces them with four Large Pulse Lasers, two Heavy Medium Lasers, and a Targeting Computer. This variant retains enough additional double heat sinks to help with heat management.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_supernova"
     },
-    "simGameMechPartCost": 4500000,
+    "simGameMechPartCost": 6750000,
     "Version": 1,
     "Locations": [
         {

@@ -21,7 +21,7 @@
     "ChassisID": "chassisdef_annihilatorx_ANH-EX",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12000000,
+        "Cost": 15000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -32,7 +32,7 @@
         "Details": "Where the original Annihilator 1A carries four powerful AutoCannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_annihilator"
     },
-    "simGameMechPartCost": 1200000,
+    "simGameMechPartCost": 1500000,
     "Version": 1,
     "Locations": [
         {

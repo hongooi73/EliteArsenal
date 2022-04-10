@@ -24,7 +24,7 @@
     "ChassisID": "chassisdef_valkyries_VLK-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 4000000,
+        "Cost": 6000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -35,7 +35,7 @@
         "Details": "The Valkyrie has as its primary armament a LRM-10 launcher with one ton of reloads mounted in the left torso. While an unusual weapon on a light 'Mech, it gives the Valkyrie a long reach and respectable damage, especially against other light 'Mech hunters. As a back-up weapon the Valkyrie carries a Medium Laser in its right arm.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_valkyrie"
     },
-    "simGameMechPartCost": 500000,
+    "simGameMechPartCost": 750000,
     "Version": 1,
     "Locations": [
         {

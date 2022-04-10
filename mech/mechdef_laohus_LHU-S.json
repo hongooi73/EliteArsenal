@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_laohus_LHU-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8000000,
+        "Cost": 12000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "The Lao Hu is capable of engaging an enemy at most any range. For long-range combat, the Lao Hu has a Martell ER Large Laser and a Zeus LRM-15 launcher, giving the 'Mech a powerful long range punch. For close combat, the Lao Hu has a devastating Shengli LB-X Autocannon/20 which is capable of firing both solid rounds for armor penetration and cluster rounds allowing it to find holes in already damaged armor and for anti-aircraft use.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_laohu"
     },
-    "simGameMechPartCost": 1500000,
+    "simGameMechPartCost": 2250000,
     "Version": 1,
     "Locations": [
         {

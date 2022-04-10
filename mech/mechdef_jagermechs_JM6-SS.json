@@ -23,7 +23,7 @@
     "ChassisID": "chassisdef_jagermechs_JM6-SS",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6670000,
+        "Cost": 10005000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -34,7 +34,7 @@
         "Details": "The JagerMech S model is highly specialized at long-range Autocannon fire support. It doesn't have much in the way of protection or closer-range weapons, though, so keep it distant and out of harm's way.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_jagermech"
     },
-    "simGameMechPartCost": 670000,
+    "simGameMechPartCost": 1005000,
     "Version": 1,
     "Locations": [
         {

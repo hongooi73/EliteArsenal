@@ -21,7 +21,7 @@
     "ChassisID": "chassisdef_piranhas_PIR-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6000000,
+        "Cost": 9000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -32,7 +32,7 @@
         "Details": "This variant of the Piranha is fielded by Clan Ice Hellion and upgrades to double heat sinks so that the Machine Guns can be effectively swapped out for ER Micro Lasers. The other lasers were upgraded to heavy models. <br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_piranha"
     },
-    "simGameMechPartCost": 1500000,
+    "simGameMechPartCost": 2250000,
     "Version": 1,
     "Locations": [
         {

@@ -2,7 +2,7 @@
     "ChassisID": "chassisdef_warhammers_WHM-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 19960000,
+        "Cost": 29940000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -13,7 +13,7 @@
         "Details": "This variant was developed by ComStar to more easily traverse the difficult terrain and engage in the ambush tactics intended for the Battle of Tukayyid. The PPCs are replaced by Fusigon Longtooth extended range models and the heat sinks are traded for double strength models. The secondary weapons of the WHM-6R are removed. Two Martel Medium Lasers are in each side torso, and the SRM-6 has been replaced by three Hovertec Streak SRM-2 launchers. A ton of Streak ammo is carried in the CASE-protected right torso. Finally four Leviathon Plus jump jets are installed in the legs, allowing this Warhammer to quickly reposition itself within 120 meters.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_warhammer"
     },
-    "simGameMechPartCost": 2000000,
+    "simGameMechPartCost": 3000000,
     "Version": 1,
     "Locations": [
         {

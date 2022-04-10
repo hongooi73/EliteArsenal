@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_marauderIIx_MAD-AX",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10000000,
+        "Cost": 12500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "Retaining only the two Magna Mk II Medium Lasers, the 5A variant of the Marauder II carries as its primary weapons a pair of Magna Firestar ER PPCs in its arms which give it a powerful long range punch compared to the 4A. The ER PPCs are backed up by a right torso mounted Mydron Excel LB-X Autocannon/10 which gives the Marauder II the tactical flexibility of using both solid and cluster rounds.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_marauderii"
     },
-    "simGameMechPartCost": 2000000,
+    "simGameMechPartCost": 2500000,
     "Version": 1,
     "Locations": [
         {

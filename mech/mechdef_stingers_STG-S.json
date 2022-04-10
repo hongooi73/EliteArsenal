@@ -21,7 +21,7 @@
     "ChassisID": "chassisdef_stingers_STG-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 2500000,
+        "Cost": 3750000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -32,7 +32,7 @@
         "Details": "The Royal Stinger introduced in 2720 used a XL Engine and Endo Steel chassis, to be able to mount a battery of three medium lasers and one Small Laser. The heat-sinks were upgraded to Double Heat Sinks and the speed and jumping distance of the 'Mech were also been improved slightly.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_stinger"
     },
-    "simGameMechPartCost": 250000,
+    "simGameMechPartCost": 375000,
     "Version": 1,
     "Locations": [
         {

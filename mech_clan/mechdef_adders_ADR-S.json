@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_adders_ADR-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6000000,
+        "Cost": 9000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "Khan Marthe Pryde decided to upgrade the 'Mechs her Clan fielded. Rather than waste precious resources designing a new OmniMech from the ground up, she instructed her scientists to improve upon existing designs. The design the scientists chose to modify was the Adder. Though the two 'Mechs are visually similar and share the same weight, the Cougar is slower and better armed.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_adder"
     },
-    "simGameMechPartCost": 1500000,
+    "simGameMechPartCost": 2250000,
     "Version": 1,
     "Locations": [
         {

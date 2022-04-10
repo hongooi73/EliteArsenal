@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_bushwackerx_BSW-XX",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6000000,
+        "Cost": 7500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "The Bushwacker was originally a failed BattleMech designed to have a smaller forward profile to make the 'Mech a harder target to hit. The Bushwacker's unique design caused problems with the engine shielding, the side-effects of which manifested themselves as various gremlins in the 'Mech's on board electronics on the prototypes fielded.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_bushwacker"
     },
-    "simGameMechPartCost": 1000000,
+    "simGameMechPartCost": 1250000,
     "Version": 1,
     "Locations": [
         {

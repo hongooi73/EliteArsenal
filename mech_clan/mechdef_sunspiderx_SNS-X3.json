@@ -19,7 +19,7 @@
     "ChassisID": "chassisdef_sunspiderx_SNS-X3",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10000000,
+        "Cost": 12500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -30,7 +30,7 @@
         "Details": "The Sun Spider Prime is built for short-range combat and carries a pair of Streak SRM-6 launchers in each arm, supported at range by Ultra AC/10 and an ER Large Laser in the right and left torsos, respectively. Two tons of Ultra Autocannon reloads and three tons of Streak SRM missiles are more than adequate for Clan Trials.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_sunspider"
     },
-    "simGameMechPartCost": 3500000,
+    "simGameMechPartCost": 4375000,
     "Version": 1,
     "Locations": [
         {

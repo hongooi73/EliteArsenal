@@ -19,7 +19,7 @@
     "ChassisID": "chassisdef_sunspiderx_SNS-X2",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10000000,
+        "Cost": 12500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -30,7 +30,7 @@
         "Details": "Almost a direct counter-point to the Prime, the A Config mounts twin Ultra AC/2s in each side torso, supported by an ER Large Laser in each arm if the two tons of Ultra reloads run dry. The config is rounded out by an extra Double Heat Sink.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_sunspider"
     },
-    "simGameMechPartCost": 3500000,
+    "simGameMechPartCost": 4375000,
     "Version": 1,
     "Locations": [
         {

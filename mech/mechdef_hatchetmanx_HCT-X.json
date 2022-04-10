@@ -72,7 +72,7 @@
     "ChassisID": "chassisdef_hatchetmanx_HCT-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 4600000,
+        "Cost": 5750000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -83,7 +83,7 @@
         "Details": "Fresh out of NAIS, the experimental HCT-3G (jestingly called the Grounded) variant from Team Banzai downgrades the engine and JumpJet capability while increasing the overall heat dissipation capacity.  While this more lumbersome version was difficult to use in open ground, it was a force to be reckoned with in the close quarters of urban warfare.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_hatchetman"
     },
-    "simGameMechPartCost": 460000,
+    "simGameMechPartCost": 575000,
     "Version": 1,
     "Locations": [
         {

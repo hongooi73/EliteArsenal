@@ -23,7 +23,7 @@
     "ChassisID": "chassisdef_novas_NVA-S1",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8000000,
+        "Cost": 12000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -34,7 +34,7 @@
         "Details": "A sleek, mobile, and versatile design, the Clan nova was long suspected to be one of the first OmniMechs produced by the Clans.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_nova"
     },
-    "simGameMechPartCost": 2500000,
+    "simGameMechPartCost": 3750000,
     "Version": 1,
     "Locations": [
         {

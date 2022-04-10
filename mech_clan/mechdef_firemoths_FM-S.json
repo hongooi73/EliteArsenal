@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_firemoths_FM-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6000000,
+        "Cost": 9000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "The Fire Moth is a light Clan OmniMech intended for scouting. With a running speed of 162.0 km/h, accelerating up to 216.0 km/h with the MASC system installed on the 'Mech's chassis, the Fire Moth is easily one of the fastest designs ever created. The Fire Moth's superior speed comes from its 200 XL Fusion Engine. An Endo Steel chassis saves additional space. Two tons of Ferro-Fibrous armor act as the only barrier between an enemy and the 'Mech's fragile internals. A close combat configuration, the Fire Moth B replaces the ER Medium Lasers with Medium Pulse Lasers. Dual Machine Guns easily dispose of any infantry the 'Mech may encounter, and an A-Pod secures the 'Mech's legs against any that manage to close in.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_dasher"
     },
-    "simGameMechPartCost": 1500000,
+    "simGameMechPartCost": 2250000,
     "Version": 1,
     "Locations": [
         {

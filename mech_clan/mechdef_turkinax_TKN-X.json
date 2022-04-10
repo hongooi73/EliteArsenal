@@ -21,7 +21,7 @@
     "ChassisID": "chassisdef_turkinax_TKN-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12000000,
+        "Cost": 15000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -32,7 +32,7 @@
         "Details": "Continuing with the paired weapons theme, the B uses two Large Pulse Lasers, ER Large Lasers, Medium Pulse Lasers, and ER Medium Lasers. All of these are linked to an advanced Targeting Computer. Ten extra double heat sinks still struggle to keep heat levels down.[6] The impetus for this variant seems to lie in the Battle of Tukayyid and the ComGuard's strategy of bleeding them of supplies by fighting a protracted campaign. With no weapons that need ammunition, this configuration can stay in the field as long as its MechWarrior can.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_turkina"
     },
-    "simGameMechPartCost": 4500000,
+    "simGameMechPartCost": 5625000,
     "Version": 1,
     "Locations": [
         {

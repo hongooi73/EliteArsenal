@@ -26,7 +26,7 @@
     "ChassisID": "chassisdef_shadowhawkx_SHD-X2",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6240000,
+        "Cost": 7800000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -37,7 +37,7 @@
         "Details": "The 5M Shadow Hawk is the first complete overhaul and upgrade of the design, unveiled in 3048 by Earthwerks for the Free Worlds League.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_shadowhawk"
     },
-    "simGameMechPartCost": 620000,
+    "simGameMechPartCost": 775000,
     "Version": 1,
     "Locations": [
         {

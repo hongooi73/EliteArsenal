@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_wolfhounds_WLF-S2",
     "HeraldryID": null,
     "Description": {
-        "Cost": 4000000,
+        "Cost": 6000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "Introduced in 3052 the WLF-2 Variant upgrades the 10 heat sinks to double strength and the Large laser is upgraded also to ER version.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_wolfhound"
     },
-    "simGameMechPartCost": 500000,
+    "simGameMechPartCost": 750000,
     "Version": 1,
     "Locations": [
         {

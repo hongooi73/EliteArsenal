@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_argusx_AGS-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6850000,
+        "Cost": 8562500,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "The Argus 5D drops all the standard weaponry and equipment. In its place are a Heavy PPC, two Streak SRM-6 launchers, and a pair of Medium Lasers. The Targeting Computer remains, and this variant is capable of bursts of speed over 100km/h thanks to a MASC system.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_argus"
     },
-    "simGameMechPartCost": 690000,
+    "simGameMechPartCost": 862500,
     "Version": 1,
     "Locations": [
         {

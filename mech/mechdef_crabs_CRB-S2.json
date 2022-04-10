@@ -30,7 +30,7 @@
     "ChassisID": "chassisdef_crabs_CRB-S2",
     "HeraldryID": null,
     "Description": {
-        "Cost": 14730000,
+        "Cost": 22095000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -41,7 +41,7 @@
         "Details": "The Crab 27B is a very old model that dates back to the days of the Star League. Its energy weapons are all rare, upgraded versions of the tech found on the CRB-20, allowing it to hit harder while still requiring no ammunition. Improved heat sinking also keeps it comparatively cool.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_crab"
     },
-    "simGameMechPartCost": 1470000,
+    "simGameMechPartCost": 2205000,
     "Version": 1,
     "Locations": [
         {

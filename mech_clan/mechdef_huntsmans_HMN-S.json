@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_huntsmans_HMN-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 8000000,
+        "Cost": 12000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "The primary configuration of the Huntsman sports a myriad of weapons. An Ultra Autocannon/2 and Artemis IV-linked LRM-10 provide long-range capability, while four ER Medium Lasers and a Streak SRM-6 make it a vicious close range 'Mech. A pair of Anti-Personnel Pods and a Flamer protect it from conventional infantry, and an Anti-Missile System provides it with some defense against incoming missiles. An Active Probe finds hidden units, and a TAG spotting laser can designate targets for homing artillery strikes.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_huntsman"
     },
-    "simGameMechPartCost": 2500000,
+    "simGameMechPartCost": 3750000,
     "Version": 1,
     "Locations": [
         {

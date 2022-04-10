@@ -78,7 +78,7 @@
     "ChassisID": "chassisdef_banshees_BNC-S",
     "HeraldryID": "heraldrydef_Betrayers",
     "Description": {
-        "Cost": 19730000,
+        "Cost": 29595000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -89,7 +89,7 @@
         "Details": "The Banshee 3S sacrifices its trademark speed for a large expansion in firepower. The 3S fills the role of a well armored sniper, sporting two PPCs and an AC10 while still being capable of inflicting heavy melee damage.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_banshee"
     },
-    "simGameMechPartCost": 1570000,
+    "simGameMechPartCost": 2355000,
     "Version": 1,
     "Locations": [
         {

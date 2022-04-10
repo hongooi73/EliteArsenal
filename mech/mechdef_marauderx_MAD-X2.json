@@ -31,7 +31,7 @@
     },
     "HeraldryID": null,
     "Description": {
-        "Cost": 19660000,
+        "Cost": 24575000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -42,7 +42,7 @@
         "Details": "The MAD-2R is the Marauder variant that was given to the SLDF's Royal Divisions before the fall of the Star League. Like most Royal units, it is exceedingly rare, and comes equipped with advanced weaponry and components.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_marauder"
     },
-    "simGameMechPartCost": 1970000,
+    "simGameMechPartCost": 2462500,
     "Version": 1,
     "Locations": [
         {

@@ -22,7 +22,7 @@
     "ChassisID": "chassisdef_uziels_UZL-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6000000,
+        "Cost": 9000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -33,7 +33,7 @@
         "Details": "Based on the original prototype of the Uziel, the 2S carries a pair of PPCs as its primary weapons for long range combat. A SRM-6 launcher provides close combat capabilities and a pair of Machine Guns provide anti-infantry capabilities. A Beagle Active Probe allows the 'Mech to detect hidden units and protects the Uziel from ambushes.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_uziel"
     },
-    "simGameMechPartCost": 1000000,
+    "simGameMechPartCost": 1500000,
     "Version": 1,
     "Locations": [
         {

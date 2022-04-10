@@ -21,7 +21,7 @@
     "ChassisID": "chassisdef_kitfoxs_KFX-S1",
     "HeraldryID": null,
     "Description": {
-        "Cost": 15000000,
+        "Cost": 22500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -32,7 +32,7 @@
         "Details": "In its primary configuration, the Kit Fox mounts an ER Large Laser and Small Pulse Laser on the left arm as its primary source of firepower. These are supplemented by an LB 5-X Autocannon for tactical flexibility and a Streak SRM-4 rack for close range combat.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_kitfox"
     },
-    "simGameMechPartCost": 1500000,
+    "simGameMechPartCost": 2250000,
     "Version": 1,
     "Locations": [
         {

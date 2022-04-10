@@ -20,7 +20,7 @@
     "ChassisID": "chassisdef_hellbringerx_HBR-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10000000,
+        "Cost": 12500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -31,7 +31,7 @@
         "Details": "The Hellbringer Prime bears similarities in design and appearance to the classic Warhammer. The primary weapons are indeed a pair of ER PPCs.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_hellbringer"
     },
-    "simGameMechPartCost": 3500000,
+    "simGameMechPartCost": 4375000,
     "Version": 1,
     "Locations": [
         {

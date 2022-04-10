@@ -20,7 +20,7 @@
     "ChassisID": "chassisdef_stonerhinos_STR-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12000000,
+        "Cost": 18000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -31,7 +31,7 @@
         "Details": "The design featured Large Pulse Lasers in each arm, twin Gauss Rifles mounted behind flip-open circular firing ports on each side torso, and an almost superfluous Small Pulse Laser located above the cockpit. The Stone Rhino also sported an interesting feature; each arm contained a retractable, shock-absorbing cowl covering the weapon barrels. This allowed MechWarriors to use the arms as battering rams without damaging the weaponry.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_stonerhino"
     },
-    "simGameMechPartCost": 4500000,
+    "simGameMechPartCost": 6750000,
     "Version": 1,
     "Locations": [
         {

@@ -21,7 +21,7 @@
     "ChassisID": "chassisdef_dervishx_DV-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 6000000,
+        "Cost": 7500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -32,7 +32,7 @@
         "Details": "The 7D Dervish is a 3047 upgrade of the design using Star League technology. The 'Mech is built with an Endo Steel chassis and also uses eight tons of Ferro-Fibrous armor with CASE for protection against ammunition explosions. With the saved weight, the SRM-2s have been upgraded to Federated SuperStreak SRMs and the 'Mech uses double heat sinks. This variant was first produced by Achernar BattleMechs on New Avalon.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_dervish"
     },
-    "simGameMechPartCost": 1000000,
+    "simGameMechPartCost": 1250000,
     "Version": 1,
     "Locations": [
         {

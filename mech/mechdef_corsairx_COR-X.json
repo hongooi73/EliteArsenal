@@ -19,7 +19,7 @@
     "ChassisID": "chassisdef_corsairx_COR-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10000000,
+        "Cost": 12500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -30,7 +30,7 @@
         "Details": "This custom variant makes use of both sets of the corsairs available arms making it a true frankenmech.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_corsair"
     },
-    "simGameMechPartCost": 2000000,
+    "simGameMechPartCost": 2500000,
     "Version": 1,
     "Locations": [
         {

@@ -24,7 +24,7 @@
     "ChassisID": "chassisdef_banex_BAN-X",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12000000,
+        "Cost": 15000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -35,7 +35,7 @@
         "Details": "This long-range, direct-fire support 'Mech is armed with ten Ultra Autocannon/2s. This weapon has one of the longest ranges in the Clan arsenal, so the Bane can stand back at extreme range and pepper an enemy unit with impunity. Four tons of ammunition keep the 'Mech well-supplied. It runs into problems up close, however, stemming from the minimum range of the autocannons. To keep enemies at bay, especially unarmored infantry, the Bane mounts four Machine Guns. Ten double heat sinks are sufficient to keep the 'Mech cool.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_bane"
     },
-    "simGameMechPartCost": 2000000,
+    "simGameMechPartCost": 2500000,
     "Version": 1,
     "Locations": [
         {

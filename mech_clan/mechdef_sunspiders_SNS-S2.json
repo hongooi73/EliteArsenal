@@ -20,7 +20,7 @@
     "ChassisID": "chassisdef_sunspiders_SNS-S2",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10000000,
+        "Cost": 15000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -31,7 +31,7 @@
         "Details": "Almost a direct counter-point to the Prime, the A Config mounts twin Ultra AC/2s in each side torso, supported by an ER Large Laser in each arm if the two tons of Ultra reloads run dry. The config is rounded out by an extra Double Heat Sink.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_sunspider"
     },
-    "simGameMechPartCost": 3500000,
+    "simGameMechPartCost": 5250000,
     "Version": 1,
     "Locations": [
         {

@@ -30,7 +30,7 @@
     "ChassisID": "chassisdef_thunderbolts_TDR-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 7640000,
+        "Cost": 11460000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -41,7 +41,7 @@
         "Details": "The Thunderbolt 5S is well-armed and heavily armored for its size. It's often deployed as a frontline 'Mech where the fighting is heavy, and it needs to give as good as it gets.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield. The S-class Thunderbolt continues the tradition of storing its ammunition in the center torso, for maximum protection.",
         "Icon": "uixTxrIcon_thunderbolt"
     },
-    "simGameMechPartCost": 760000,
+    "simGameMechPartCost": 1140000,
     "Version": 1,
     "Locations": [
         {

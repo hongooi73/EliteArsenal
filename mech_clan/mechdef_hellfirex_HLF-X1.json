@@ -20,7 +20,7 @@
     "ChassisID": "chassisdef_hellfirex_HLF-X1",
     "HeraldryID": null,
     "Description": {
-        "Cost": 10000000,
+        "Cost": 12500000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -31,7 +31,7 @@
         "Details": "Approximately twice as expensive as the original, the Hellfire 2 uses an 300-rated XL Engine to increase the 'Mech's speed to 86 km/h. In place of the LRMs are a pair of ATM 6s. The heavy smalls are replaced with a single ER Small Laser and an additional double heat sink.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
         "Icon": "uixTxrIcon_hellfire"
     },
-    "simGameMechPartCost": 3500000,
+    "simGameMechPartCost": 4375000,
     "Version": 1,
     "Locations": [
         {

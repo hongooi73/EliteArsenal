@@ -66,11 +66,6 @@
         {
             "Type": "AdvancedJSONMerge",
             "Path": "starsystems"
-        },
-        {
-            "Type": "AdvancedJSONMerge",
-            "Path": "abilities",
-            "AddToDB": true
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "Name": "Elite Arsenal",
     "Enabled": true,
-    "Version": "0.0.1",
+    "Version": "1.0.0",
     "Description": "Adds elite mechs and upgraded gear to Expanded Arsenal",
     "Author": "Hong Ooi",
     "DependsOn": [

@@ -64,6 +64,10 @@
             "Path": "itemcol"
         },
         {
+            "Type": "ContractOverride",
+            "Path": "contracts"
+        },
+        {
             "Type": "AdvancedJSONMerge",
             "Path": "starsystems"
         }

@@ -1280,7 +1280,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_turret_elite_arsenal"
+                        "lance_type_turret"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },

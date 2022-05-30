@@ -15,8 +15,7 @@
             "lance_type_solo",
             "lance_type_mech",
             "difficulty_3",
-            "elite",
-            "elite_arsenal"
+            "lance_stock"
         ],
         "tagSetSourceFile": "Tags/LanceTags"
     },
@@ -28,27 +27,30 @@
             "unitTagSet": {
                 "items": [
                     "unit_mech",
-                    "unit_medium",
-                    "elite_arsenal",
-                    "elite_arsenal_s_tier"
+                    "unit_medium"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "elite_arsenal_s_tier",
+                    "elite_forces",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d6_ace"
+                    "pilot_npc_d6"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -59,27 +61,30 @@
             "unitTagSet": {
                 "items": [
                     "unit_light",
-                    "unit_mech",
-                    "elite_arsenal",
-                    "elite_arsenal_s_tier"
+                    "unit_mech"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "elite_arsenal_s_tier",
+                    "elite_forces",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d3_ace"
+                    "pilot_npc_d3"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

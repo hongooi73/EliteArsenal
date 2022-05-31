@@ -3,3 +3,4 @@
 - Fix ++clan ERSL stats and tooltip. +10 damage was an error, now gives +25% crit chance over the regular and + variant.
 - Fix Bane S loadout to have ++HAG/20s.
 - Fix stability values for several mechs.
+- Fix internal structure values for several vehicles.

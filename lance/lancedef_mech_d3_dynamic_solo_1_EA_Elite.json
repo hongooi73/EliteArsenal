@@ -11,7 +11,7 @@
     "Difficulty": 3,
     "LanceTags": {
         "items": [
-            "lance_type_dynamic_elite_arsenal",
+            "lance_type_dynamic",
             "lance_type_solo_elite_arsenal",
             "lance_type_mech_elite_arsenal",
             "difficulty_3",

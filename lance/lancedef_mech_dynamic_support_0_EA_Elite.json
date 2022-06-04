@@ -32,7 +32,7 @@
             "dynamicDifficulty": true,
             "unitTagSet": {
                 "items": [
-                    "unit_mech",
+                    "unit_mech_s_tier",
                     "elite_arsenal",
                     "elite_arsenal_s_tier"
                 ],
@@ -63,7 +63,7 @@
             "dynamicDifficulty": true,
             "unitTagSet": {
                 "items": [
-                    "unit_mech",
+                    "unit_mech_s_tier",
                     "elite_arsenal",
                     "elite_arsenal_s_tier"
                 ],

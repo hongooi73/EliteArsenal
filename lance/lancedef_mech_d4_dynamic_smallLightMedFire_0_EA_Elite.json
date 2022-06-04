@@ -32,7 +32,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_medium",
-                    "unit_mech",
+                    "unit_mech_s_tier",
                     "elite_arsenal",
                     "elite_arsenal_s_tier"
                 ],
@@ -62,7 +62,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_mech",
+                    "unit_mech_s_tier",
                     "elite_arsenal",
                     "elite_arsenal_s_tier"
                 ],

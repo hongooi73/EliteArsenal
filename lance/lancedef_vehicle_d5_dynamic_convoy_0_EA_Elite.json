@@ -25,7 +25,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_vehicle",
+                    "unit_vehicle_s_tier",
                     "unit_noncombatant",
                     "unit_medium",
                     "elite_arsenal",
@@ -56,7 +56,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_vehicle",
+                    "unit_vehicle_s_tier",
                     "unit_vehicle_apc",
                     "unit_noncombatant",
                     "unit_medium",

@@ -29,7 +29,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_vehicle",
+                    "unit_vehicle_s_tier",
                     "unit_assault",
                     "elite_arsenal",
                     "elite_arsenal_s_tier"
@@ -62,7 +62,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_heavy",
-                    "unit_vehicle",
+                    "unit_vehicle_s_tier",
                     "elite_arsenal",
                     "elite_arsenal_s_tier"
                 ],

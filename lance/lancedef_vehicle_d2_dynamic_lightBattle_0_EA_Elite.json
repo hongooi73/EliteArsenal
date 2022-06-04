@@ -30,7 +30,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_light",
-                    "unit_vehicle",
+                    "unit_vehicle_s_tier",
                     "elite_arsenal",
                     "elite_arsenal_s_tier"
                 ],
@@ -61,7 +61,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_medium",
-                    "unit_vehicle",
+                    "unit_vehicle_s_tier",
                     "elite_arsenal",
                     "elite_arsenal_s_tier"
                 ],

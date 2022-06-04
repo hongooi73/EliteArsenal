@@ -2,7 +2,7 @@
     "ChassisID": "chassisdef_marauders_MAD-S2",
     "MechTags": {
         "items": [
-            "unit_mech",
+            "unit_mech_s_tier",
             "unit_heavy",
             "unit_release",
             "unit_ready",

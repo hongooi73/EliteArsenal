@@ -280,7 +280,7 @@
     ],
     "MechTags": {
         "items": [
-            "unit_mech",
+            "unit_mech_s_tier",
             "unit_heavy",
             "unit_indirectFire",
             "unit_range_long",

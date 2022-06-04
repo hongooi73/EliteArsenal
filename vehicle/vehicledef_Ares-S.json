@@ -12,7 +12,7 @@
     "ChassisID": "vehiclechassisdef_Ares-S",
     "VehicleTags": {
         "items": [
-            "unit_vehicle",
+            "unit_vehicle_s_tier",
             "unit_medium",
             "unit_tracks",
             "unit_release",

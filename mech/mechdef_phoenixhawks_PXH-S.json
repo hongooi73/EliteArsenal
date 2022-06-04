@@ -225,7 +225,7 @@
     ],
     "MechTags": {
         "items": [
-            "unit_mech",
+            "unit_mech_s_tier",
             "unit_medium",
             "unit_release",
             "unit_ready",

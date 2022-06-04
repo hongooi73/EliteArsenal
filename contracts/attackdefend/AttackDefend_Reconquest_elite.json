@@ -3787,7 +3787,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_medium",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -3831,7 +3831,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_light",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },

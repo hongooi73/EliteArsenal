@@ -3733,7 +3733,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_medium",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -3777,7 +3777,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_light",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -4367,7 +4367,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_medium",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -4411,7 +4411,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_light",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -5406,7 +5406,7 @@
                         "unitDefId": "mechDef_InheritLance",
                         "unitTagSet": {
                             "items": [
-                                "unit_mech",
+                                "unit_mech_s_tier",
                                 "unit_medium"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
@@ -5610,7 +5610,7 @@
                         "unitDefId": "mechDef_InheritLance",
                         "unitTagSet": {
                             "items": [
-                                "unit_mech",
+                                "unit_mech_s_tier",
                                 "unit_medium"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
@@ -5815,7 +5815,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_medium",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -5859,7 +5859,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_light",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -6023,7 +6023,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_medium",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -6067,7 +6067,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_light",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },

@@ -994,7 +994,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_noncombatant",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -1038,7 +1038,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_noncombatant",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },

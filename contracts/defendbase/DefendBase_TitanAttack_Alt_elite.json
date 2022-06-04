@@ -1404,7 +1404,7 @@
                 "lanceDefId": "Manual",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_battle",
+                        "lance_type_battle_elite_arsenal",
                         "lance_type_dynamic_difficulty"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
@@ -1436,7 +1436,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_assault",
-                                "unit_mech"
+                                "unit_mech_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -1452,7 +1452,7 @@
                             ],
                             "tagSetSourceFile": "tags/SpawnEffectTags"
                         },
-                        "pilotDefId": "pilot_d5_tactician",
+                        "pilotDefId": "pilot_d5_Ace_1",
                         "pilotTagSet": {
                             "items": [
 
@@ -1608,7 +1608,7 @@
                 "lanceDefId": "Manual",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_battle",
+                        "lance_type_battle_elite_arsenal",
                         "lance_type_dynamic_difficulty"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
@@ -1640,7 +1640,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_assault",
-                                "unit_mech"
+                                "unit_mech_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -1656,7 +1656,7 @@
                             ],
                             "tagSetSourceFile": "tags/SpawnEffectTags"
                         },
-                        "pilotDefId": "pilot_d5_tactician",
+                        "pilotDefId": "pilot_d5_Ace_1",
                         "pilotTagSet": {
                             "items": [
 

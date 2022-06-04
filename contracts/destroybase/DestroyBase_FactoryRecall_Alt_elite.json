@@ -1292,7 +1292,7 @@
                 "lanceTagSet": {
                     "items": [
                         "lance_type_dynamic_difficulty",
-                        "lance_type_assault"
+                        "lance_type_assault_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -1338,7 +1338,7 @@
                             ],
                             "tagSetSourceFile": "tags/SpawnEffectTags"
                         },
-                        "pilotDefId": "pilot_d5_gunner",
+                        "pilotDefId": "pilot_d5_Ace_1",
                         "pilotTagSet": {
                             "items": [
 
@@ -1381,7 +1381,7 @@
                             ],
                             "tagSetSourceFile": "tags/SpawnEffectTags"
                         },
-                        "pilotDefId": "pilot_d5_pilot",
+                        "pilotDefId": "pilot_d5_Ace_1",
                         "pilotTagSet": {
                             "items": [
 

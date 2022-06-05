@@ -4111,7 +4111,6 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_dynamic_difficulty",
                         "lance_type_recon_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
@@ -5981,8 +5980,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_cavalry_elite_arsenal",
-                        "lance_type_dynamic_difficulty"
+                        "lance_type_cavalry_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },

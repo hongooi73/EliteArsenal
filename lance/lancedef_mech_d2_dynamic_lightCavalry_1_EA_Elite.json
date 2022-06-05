@@ -48,7 +48,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d2_ace"
+                    "pilot_npc_d3_ace"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

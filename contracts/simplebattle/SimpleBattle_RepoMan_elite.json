@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "A {TEAM_TAR.FactionDef.Demonym} leader has fallen behind on payments for their armored vehicles, and our leasing agent has been unable to repossess the heavily armored vehicles. We've decided that sending a more explosive message is the best way to ensure that others do not take future liberties.",
+    "shortDescription": "A {TEAM_TAR.FactionDef.Demonym} leader has fallen behind on payments for their armored vehicles, and our leasing agent has been unable to repossess the heavily armored vehicles. We've decided that sending a more explosive message is the best way to ensure that others do not take future liberties.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, they also mentioned that the target vehicles are currently on deployment with a secondary lance of 'Mechs. You can optionally destroy them as well, and there's a bonus.",
-    "salvagePotential": 15,
+    "salvagePotential": 12,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -82,7 +82,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "Our research facility on {TGT_SYSTEM.name} has been under constant attack from {TEAM_TAR.FactionDef.Demonym} forces for some time. Rather than continue to risk their lives, we are evacuating the noncombatants. {TEAM_EMP.FactionDef.Name} will pay handsomely for a mercenary unit to protect them from {TEAM_TAR.FactionDef.Demonym} aggression.",
+    "shortDescription": "Our research facility on {TGT_SYSTEM.name} has been under constant attack from {TEAM_TAR.FactionDef.Demonym} forces for some time. Rather than continue to risk their lives, we are evacuating the noncombatants. {TEAM_EMP.FactionDef.Name} will pay handsomely for a mercenary unit to protect them from {TEAM_TAR.FactionDef.Demonym} aggression.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "There is probably more to this than {TEAM_EMP.FactionDef.ShortName} are saying, but our role would be limited to escorting a convoy of personnel carriers to an evac point. The remainder of this situation is someone else's problem.",
-    "salvagePotential": 20,
+    "salvagePotential": 16,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -154,7 +154,39 @@
             "description": "Secure the Convoy Rally Point",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

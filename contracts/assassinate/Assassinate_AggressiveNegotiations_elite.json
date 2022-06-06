@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We've been having troubles with {TEAM_TAR.FactionDef.ShortName} here in {TGT_SYSTEM.name} for months now, and our negotiations with them have been stalled by a stubborn {TEAM_TAR.FactionDef.Demonym} diplomat. If he were removed from the equation, through a random attack by \"bandits\" for instance, we might be able to make some headway.",
+    "shortDescription": "We've been having troubles with {TEAM_TAR.FactionDef.ShortName} here in {TGT_SYSTEM.name} for months now, and our negotiations with them have been stalled by a stubborn {TEAM_TAR.FactionDef.Demonym} diplomat. If he were removed from the equation, through a random attack by \"bandits\" for instance, we might be able to make some headway.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, this isn't likely to be resolved by one dead diplomat. Situations like this are good for repeat business.",
-    "salvagePotential": 10,
+    "salvagePotential": 8,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -192,7 +192,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

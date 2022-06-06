@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "A surprise attack by {TEAM_TAR.FactionDef.ShortName} resulted in the capture of our research facility here in the {TGT_SYSTEM.name} system. At the last moment, when all was lost, a convoy managed to escape with an extremely valuable prototype. With the facility in enemy hands, we need this prototype to reconstruct the work of our scientists. Intercept the convoy before the enemy does, and escort our researchers to safety.",
+    "shortDescription": "A surprise attack by {TEAM_TAR.FactionDef.ShortName} resulted in the capture of our research facility here in the {TGT_SYSTEM.name} system. At the last moment, when all was lost, a convoy managed to escape with an extremely valuable prototype. With the facility in enemy hands, we need this prototype to reconstruct the work of our scientists. Intercept the convoy before the enemy does, and escort our researchers to safety.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, this is definitely a contract where speed is of the essence. I expect that if {TEAM_TAR.FactionDef.Demonym} forces locate the asset, they'll rally reinforcements from the captured research facility.",
-    "salvagePotential": 24,
+    "salvagePotential": 20,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -148,7 +148,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

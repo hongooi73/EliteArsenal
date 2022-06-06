@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "Here in the {TGT_SYSTEM.name} system, {TEAM_TAR.FactionDef.Name} has been an oppressive presence for some time, which has led to a number of revolutionary leaders rising up from the common people to strike at the status quo. One such leader has been targeted by {TEAM_TAR.FactionDef.ShortName} for elimination. It's in the interest of the {TEAM_EMP.FactionDef.Demonym} leadership that this rabble rouser survives.",
+    "shortDescription": "Here in the {TGT_SYSTEM.name} system, {TEAM_TAR.FactionDef.Name} has been an oppressive presence for some time, which has led to a number of revolutionary leaders rising up from the common people to strike at the status quo. One such leader has been targeted by {TEAM_TAR.FactionDef.ShortName} for elimination. It's in the interest of the {TEAM_EMP.FactionDef.Demonym} leadership that this rabble rouser survives.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, I've done some research, and {TEAM_TAR.FactionDef.Name} <i>really<\/i> wants this particular rebel eliminated. Stay alert and expect the worst. That's usually a good approach.",
-    "salvagePotential": 20,
+    "salvagePotential": 16,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -148,7 +148,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

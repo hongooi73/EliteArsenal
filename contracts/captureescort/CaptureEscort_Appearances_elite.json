@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "Contravening all decency and acceptable behavior on the battlefield, {TEAM_TAR.FactionDef.Name} has been targeting our hospitals and medical supplies. We're seeking to redistribute our supplies to safer locations, but one convoy remains without a proper escort. That's where you come in. While {TEAM_TAR.FactionDef.Demonym} forces will be stretched thin, attempting to intercept all of our separate shipments, you can expect that this one will not go unnoticed.",
+    "shortDescription": "Contravening all decency and acceptable behavior on the battlefield, {TEAM_TAR.FactionDef.Name} has been targeting our hospitals and medical supplies. We're seeking to redistribute our supplies to safer locations, but one convoy remains without a proper escort. That's where you come in. While {TEAM_TAR.FactionDef.Demonym} forces will be stretched thin, attempting to intercept all of our separate shipments, you can expect that this one will not go unnoticed.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Rumor has it that the {TEAM_EMP.FactionDef.Name} have been smuggling restricted munitions in among their medical supplies. On the surface, at least, we're being tasked with a humanitarian escort mission.",
-    "salvagePotential": 24,
+    "salvagePotential": 20,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -144,7 +144,39 @@
             "description": "Secure the Convoy Rally Point",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

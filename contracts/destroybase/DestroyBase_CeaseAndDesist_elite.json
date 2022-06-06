@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We have reliable information that a remote {TEAM_TAR.FactionDef.Demonym} laboratory is attempting to reverse-engineer sensitive {TEAM_EMP.FactionDef.Demonym} technology in violation of the usage license. They have failed to respond to our communications that they cease and desist these unlawful operations. Therefore, we authorize you to execute the license termination clause upon that facility.",
+    "shortDescription": "We have reliable information that a remote {TEAM_TAR.FactionDef.Demonym} laboratory is attempting to reverse-engineer sensitive {TEAM_EMP.FactionDef.Demonym} technology in violation of the usage license. They have failed to respond to our communications that they cease and desist these unlawful operations. Therefore, we authorize you to execute the license termination clause upon that facility.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "The contract does not specify any retrieval, Commander. We are to bring the base down and destroy the tech with it.",
-    "salvagePotential": 15,
+    "salvagePotential": 12,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -101,7 +101,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "Commander, we have a developing situation and need an unorthodox solution, which we're hoping your team can provide. Six hours ago, a heavily-armed {TEAM_TAR.FactionDef.Demonym} strike force landed near one of our research facilities and took control of it. That facility is stuffed with critical intelligence and research data, all of which is being accessed and transmitted off-planet right now. We simply don't have enough local firepower to dislodge them. We've got a plan, though. We're going to bait a third party into helping us destroy the base and its intel. You're the bait.",
+    "shortDescription": "Commander, we have a developing situation and need an unorthodox solution, which we're hoping your team can provide. Six hours ago, a heavily-armed {TEAM_TAR.FactionDef.Demonym} strike force landed near one of our research facilities and took control of it. That facility is stuffed with critical intelligence and research data, all of which is being accessed and transmitted off-planet right now. We simply don't have enough local firepower to dislodge them. We've got a plan, though. We're going to bait a third party into helping us destroy the base and its intel. You're the bait.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, this mission is... insane. And I don't say that lightly. We're going to take a serious beating on this one.",
-    "salvagePotential": 39,
+    "salvagePotential": 32,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -114,7 +114,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

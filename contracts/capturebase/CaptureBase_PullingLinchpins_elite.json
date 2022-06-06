@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We've recently discovered a {TEAM_TAR.FactionDef.Demonym} military outpost in an extremely inconvenient location, strangling trade and movement for our personnel in the area. Your mission: eliminate enemy defenses, then capture and hold the base long enough for {TEAM_EMP.FactionDef.Demonym} forces to take possession. We'll support your action by drawing off some of the defenders ahead of time, so if these units retreat to the base, they'll already be weakened by our troops.",
+    "shortDescription": "We've recently discovered a {TEAM_TAR.FactionDef.Demonym} military outpost in an extremely inconvenient location, strangling trade and movement for our personnel in the area. Your mission: eliminate enemy defenses, then capture and hold the base long enough for {TEAM_EMP.FactionDef.Demonym} forces to take possession. We'll support your action by drawing off some of the defenders ahead of time, so if these units retreat to the base, they'll already be weakened by our troops.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, the {TEAM_EMP.FactionDef.Demonym} plan is sound, as long as we're okay with intentionally setting up an ambush on ourselves.",
-    "salvagePotential": 24,
+    "salvagePotential": 20,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -98,7 +98,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

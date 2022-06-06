@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "Less than an hour ago, we lost contact with a covert team tasked with infiltrating a {TEAM_TAR.FactionDef.Demonym} facility. The only reason for them not to respond is if their operation was blown, by discovery or counterintelligence. The research materials they were meant to collect are extremely important, and we can't afford to lose them. We need you to make a rapid and immediate deployment to the the facility, and get our people and their cargo to safety.",
+    "shortDescription": "Less than an hour ago, we lost contact with a covert team tasked with infiltrating a {TEAM_TAR.FactionDef.Demonym} facility. The only reason for them not to respond is if their operation was blown, by discovery or counterintelligence. The research materials they were meant to collect are extremely important, and we can't afford to lose them. We need you to make a rapid and immediate deployment to the the facility, and get our people and their cargo to safety.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "When I hear 'rapid' and 'immediate', it makes me think 'no intel' and 'expect nasty surprises', Commander.",
-    "salvagePotential": 24,
+    "salvagePotential": 20,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -142,7 +142,39 @@
             "description": "Secure the Convoy Rally Point",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

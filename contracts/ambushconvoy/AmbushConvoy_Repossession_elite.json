@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "A {TEAM_EMP.FactionDef.Demonym} convoy was ambushed and looted for expensive industrial materials, and the perpetrators, {TEAM_TAR.FactionDef.Name}, are moving the stolen goods to a secure location. We'd like you to strike the convoy and destroy it; our salvage teams will then retrieve our goods from the wreckage.",
+    "shortDescription": "A {TEAM_EMP.FactionDef.Demonym} convoy was ambushed and looted for expensive industrial materials, and the perpetrators, {TEAM_TAR.FactionDef.Name}, are moving the stolen goods to a secure location. We'd like you to strike the convoy and destroy it; our salvage teams will then retrieve our goods from the wreckage.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "The message seems to be at least as important as the cargo. If we clean up the escorts to ensure their salvage crew's safety, there's a bonus in it for us.",
-    "salvagePotential": 15,
+    "salvagePotential": 12,
     "requirementList": [
 
     ],
@@ -80,7 +80,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

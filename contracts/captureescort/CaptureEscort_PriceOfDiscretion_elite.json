@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We're looking for a mercenary company with a reputation for discretion. A personal friend of our leadership here in {TGT_SYSTEM.name} has requested protection for a convoy of his, but {TEAM_EMP.FactionDef.Name} can't commit our own forces to this task. While his convoy is armed and armored, he suspects that his enemies have hired mercenaries of their own to interdict this shipment.",
+    "shortDescription": "We're looking for a mercenary company with a reputation for discretion. A personal friend of our leadership here in {TGT_SYSTEM.name} has requested protection for a convoy of his, but {TEAM_EMP.FactionDef.Name} can't commit our own forces to this task. While his convoy is armed and armored, he suspects that his enemies have hired mercenaries of their own to interdict this shipment.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, I suspect that our employers' reluctance to commit their own forces has less to do with any extreme danger of the task, but some distaste with their merchant friend.",
-    "salvagePotential": 20,
+    "salvagePotential": 16,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -148,7 +148,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

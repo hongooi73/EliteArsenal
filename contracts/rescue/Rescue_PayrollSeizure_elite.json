@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We've located the secure facility where {TEAM_TAR.FactionDef.Name} stores its payroll before distributing it to local forces. We believe we could put that payroll to better use. We'd like to hire you to hit the facility and steal the payroll. It will be well-defended, and there is a bonus if you eliminate all the defenders.",
+    "shortDescription": "We've located the secure facility where {TEAM_TAR.FactionDef.Name} stores its payroll before distributing it to local forces. We believe we could put that payroll to better use. We'd like to hire you to hit the facility and steal the payroll. It will be well-defended, and there is a bonus if you eliminate all the defenders.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Personally, I'm not above simple robbery to pay the bills, Commander.",
-    "salvagePotential": 15,
+    "salvagePotential": 12,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -88,7 +88,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

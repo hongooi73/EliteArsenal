@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We've learned that {TEAM_TAR.FactionDef.Name} here in {TGT_SYSTEM.name} has been busy working on a new water filtration technology, which is both extremely valuable and likely to shift the balance of power in the region by opening up more worlds for colonization. We've discovered where they're working on the latest prototype. We know that they are monitoring the location of our own 'Mechs in the area, so we need a mercenary lance to make the vanguard assault and catch them by surprise. We'll then take over the facility with {TEAM_EMP.FactionDef.Demonym} forces.",
+    "shortDescription": "We've learned that {TEAM_TAR.FactionDef.Name} here in {TGT_SYSTEM.name} has been busy working on a new water filtration technology, which is both extremely valuable and likely to shift the balance of power in the region by opening up more worlds for colonization. We've discovered where they're working on the latest prototype. We know that they are monitoring the location of our own 'Mechs in the area, so we need a mercenary lance to make the vanguard assault and catch them by surprise. We'll then take over the facility with {TEAM_EMP.FactionDef.Demonym} forces.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, I expect the defenses on the facility to be substantial. But if we were bothered by the odds, we wouldn't be mercenaries.",
-    "salvagePotential": 24,
+    "salvagePotential": 20,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -98,7 +98,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

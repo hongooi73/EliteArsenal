@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": "",
     "badFaithStatementOverride": "",
     "goodFaithStatementOverride": "",
-    "shortDescription": "We have a situation here and we'd like your help. We've detected a joint task force of {TEAM_TAR.FactionDef.Demonym} and {TEAM_TAR_ALLY.FactionDef.Demonym} units operating openly on the planet. We need to hunt them down and turn them to scrap, but even if we do manage to find them, our own forces aren't up to the task of engaging that many enemies at once. We'd like you to send a lance to accompany our own team; the two of you can then engage the enemy together and negate their numerical advantage.",
+    "shortDescription": "We have a situation here and we'd like your help. We've detected a joint task force of {TEAM_TAR.FactionDef.Demonym} and {TEAM_TAR_ALLY.FactionDef.Demonym} units operating openly on the planet. We need to hunt them down and turn them to scrap, but even if we do manage to find them, our own forces aren't up to the task of engaging that many enemies at once. We'd like you to send a lance to accompany our own team; the two of you can then engage the enemy together and negate their numerical advantage.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "I'd prefer to handle things ourselves, but if they want us to play babysitter, I suppose that's what we'll do.",
-    "salvagePotential": 20,
+    "salvagePotential": 16,
     "requirementList": [
 
     ],
@@ -76,7 +76,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

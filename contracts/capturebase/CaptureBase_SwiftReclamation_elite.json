@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "Apparently {TEAM_TAR.FactionDef.Name} controls a network of transports and warehouses in the {TGT_SYSTEM.name} system, moving mostly mundane merchandise but also a very few highly valuable goods. Our clandestine research efforts have acquired the latest shipping manifests and identified an opportunity for a swift, profitable strike at a key shipping hub. If timed properly, your Mechs can attack quickly and pave the way for a {TEAM_EMP.FactionDef.Demonym} extraction team to empty the warehouse of its contents.",
+    "shortDescription": "Apparently {TEAM_TAR.FactionDef.Name} controls a network of transports and warehouses in the {TGT_SYSTEM.name} system, moving mostly mundane merchandise but also a very few highly valuable goods. Our clandestine research efforts have acquired the latest shipping manifests and identified an opportunity for a swift, profitable strike at a key shipping hub. If timed properly, your Mechs can attack quickly and pave the way for a {TEAM_EMP.FactionDef.Demonym} extraction team to empty the warehouse of its contents.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, if these are just mercantile goods, as they say, I wouldn't expect very aggressive defenses.",
-    "salvagePotential": 15,
+    "salvagePotential": 12,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -92,7 +92,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

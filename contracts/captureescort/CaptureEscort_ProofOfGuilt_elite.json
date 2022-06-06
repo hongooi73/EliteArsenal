@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "An ally of {TEAM_TAR.FactionDef.Name} here in {TGT_SYSTEM.name} stands accused of a long list of illegal, unethical and deplorable activities. Proof of her guilt was being transported to a spaceport, for safe-keeping off-planet, when it was attacked by unidentified mercenary forces. The convoy narrowly escaped and we need you to protect it while we arrange for a dropship pickup.",
+    "shortDescription": "An ally of {TEAM_TAR.FactionDef.Name} here in {TGT_SYSTEM.name} stands accused of a long list of illegal, unethical and deplorable activities. Proof of her guilt was being transported to a spaceport, for safe-keeping off-planet, when it was attacked by unidentified mercenary forces. The convoy narrowly escaped and we need you to protect it while we arrange for a dropship pickup.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, if the convoy has been attacked once, we can just about guarantee that it's going to be attacked again. Somehow, I doubt {TEAM_TAR.FactionDef.ShortName} will give up so easily.",
-    "salvagePotential": 24,
+    "salvagePotential": 20,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -148,7 +148,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

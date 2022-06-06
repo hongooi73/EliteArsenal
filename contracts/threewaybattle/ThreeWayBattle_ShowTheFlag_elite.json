@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": "",
     "badFaithStatementOverride": "",
     "goodFaithStatementOverride": "",
-    "shortDescription": "A mid-level {TEAM_EMP.FactionDef.Demonym} official has decided to personally patrol a moderately dangerous region of the planet. We've done our best to dissuade her, but she's insistent that she show the people she's willing to take risks on their behalf. Rather than let her stumble around in her family's ancestral Griffin until some opportunistic pirate decides to murder her, we'd like for you to escort her and keep her alive.",
+    "shortDescription": "A mid-level {TEAM_EMP.FactionDef.Demonym} official has decided to personally patrol a moderately dangerous region of the planet. We've done our best to dissuade her, but she's insistent that she show the people she's willing to take risks on their behalf. Rather than let her stumble around in her family's ancestral Griffin until some opportunistic pirate decides to murder her, we'd like for you to escort her and keep her alive.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "On one hand, a Griffin is a tough 'Mech, given the kinds of enemies we're likely to run into out here. On the other hand, any official who thinks personally patrolling is a good idea may not be the best pilot around.",
-    "salvagePotential": 20,
+    "salvagePotential": 16,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -104,7 +104,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

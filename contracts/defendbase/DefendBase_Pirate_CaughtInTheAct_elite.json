@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "A few hours ago, some enterprising lads from our organization planetside were able to seize control of a {TEAM_TAR.FactionDef.Demonym} research facility. They maybe hadn't thought their entire plan through, so right now there's a {TEAM_TAR.FactionDef.Demonym} strike force on the way to level the base before our boys can download any valuable data. We need you to cover them while they finish up and escape.",
+    "shortDescription": "A few hours ago, some enterprising lads from our organization planetside were able to seize control of a {TEAM_TAR.FactionDef.Demonym} research facility. They maybe hadn't thought their entire plan through, so right now there's a {TEAM_TAR.FactionDef.Demonym} strike force on the way to level the base before our boys can download any valuable data. We need you to cover them while they finish up and escape.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Pirates aren't known for competent planning, Commander. Still, their screw-up is our payday.",
-    "salvagePotential": 29,
+    "salvagePotential": 24,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -97,7 +97,39 @@
             "description": "Defend Targeted Base Structures from Attackers",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

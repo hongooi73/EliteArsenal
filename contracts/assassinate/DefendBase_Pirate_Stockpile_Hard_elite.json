@@ -6,9 +6,9 @@
     "weight": 1,
     "scope": "STANDARD",
     "finalDifficulty": 0,
-    "shortDescription": "We've got a facility down on {TGT_SYSTEM.Name} where we store valuable hardware before loading it aboard our DropShips for transport out of the system. Unfortunately, the {TEAM_TAR.FactionDef.Demonym} authorities have discovered our facility, and they're not interested in making any kind of accomodation that lets us get our goods off-planet. We need you to defend the place while we load our valuables up for evacuation.",
+    "shortDescription": "We've got a facility down on {TGT_SYSTEM.Name} where we store valuable hardware before loading it aboard our DropShips for transport out of the system. Unfortunately, the {TEAM_TAR.FactionDef.Demonym} authorities have discovered our facility, and they're not interested in making any kind of accomodation that lets us get our goods off-planet. We need you to defend the place while we load our valuables up for evacuation.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "I'm assuming that 'hardware' means 'weapons', Commander. This should be a fairly standard base defense.",
-    "salvagePotential": 29,
+    "salvagePotential": "24",
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -77,7 +77,39 @@
             "description": "Defend Targetted Base Structures from Attackers",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

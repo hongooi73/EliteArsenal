@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We're getting a number of reports from agents on the ground of a powerful 'Mech sporting {TEAM_TAR.FactionDef.Demonym} colors. A single 'Mech operating on its own, out in the middle of nowhere, sounds like a trap. Our plan is to spring this trap and see who comes to investigate. Engage the 'Mech, intercept the forces {TEAM_TAR.FactionDef.Name} sends to defend it, and destroy all of them.",
+    "shortDescription": "We're getting a number of reports from agents on the ground of a powerful 'Mech sporting {TEAM_TAR.FactionDef.Demonym} colors. A single 'Mech operating on its own, out in the middle of nowhere, sounds like a trap. Our plan is to spring this trap and see who comes to investigate. Engage the 'Mech, intercept the forces {TEAM_TAR.FactionDef.Name} sends to defend it, and destroy all of them.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Forewarned is forearmed, sure, but it's still meant to be a trap. This could get dicey.",
-    "salvagePotential": 10,
+    "salvagePotential": 8,
     "requirementList": [
 
     ],
@@ -65,7 +65,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "Our intelligence operatives believe that a {TEAM_TAR.FactionDef.Demonym} leader is present and vulnerable on the surface of {TGT_SYSTEM.name}. Eliminating them will leave their organization in shambles and clear the field for {TEAM_EMP.FactionDef.Demonym} operations. The target will be relatively unguarded, and we'd like you to strike during this window of opportunity.",
+    "shortDescription": "Our intelligence operatives believe that a {TEAM_TAR.FactionDef.Demonym} leader is present and vulnerable on the surface of {TGT_SYSTEM.name}. Eliminating them will leave their organization in shambles and clear the field for {TEAM_EMP.FactionDef.Demonym} operations. The target will be relatively unguarded, and we'd like you to strike during this window of opportunity.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Sounds like we'll be hitting a middle manager. The target won't be alone, Commander, and there's a bonus if we clean up the escorting units as well. Still, if things get too hot, we can always hit and run.",
-    "salvagePotential": 5,
+    "salvagePotential": 4,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -186,7 +186,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

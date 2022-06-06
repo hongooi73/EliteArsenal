@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "Commander, we're trying to safely transport injured personnel to one of our facilities on {TGT_SYSTEM.Name}. Unfortunately, satellite surveillance has shown {TEAM_TAR.FactionDef.Demonym} units operating in the region we're expecting to move our medical convoy through. We need a mercenary lance to sweep the area and eliminate any {TEAM_TAR.FactionDef.Demonym} units. Please think of this contract as a mission of mercy.",
+    "shortDescription": "Commander, we're trying to safely transport injured personnel to one of our facilities on {TGT_SYSTEM.Name}. Unfortunately, satellite surveillance has shown {TEAM_TAR.FactionDef.Demonym} units operating in the region we're expecting to move our medical convoy through. We need a mercenary lance to sweep the area and eliminate any {TEAM_TAR.FactionDef.Demonym} units. Please think of this contract as a mission of mercy.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "I don't believe that \"mission of mercy\" line for a second, but there isn't anything here to be concerned about.",
-    "salvagePotential": 10,
+    "salvagePotential": 8,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -93,7 +93,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

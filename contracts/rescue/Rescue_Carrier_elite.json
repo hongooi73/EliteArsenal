@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We've discovered a facility where {TEAM_TAR.FactionDef.Demonym} researchers have developed a new computer virus that targets the control mechanisms of our 'Mechs. We can't build an effective defense against this virus without a sample of its code to work with. We need you to get one of your 'Mechs within range of the research facility and download the virus into its systems. Then extract the infected carrier 'Mech so we can analyze the virus.",
+    "shortDescription": "We've discovered a facility where {TEAM_TAR.FactionDef.Demonym} researchers have developed a new computer virus that targets the control mechanisms of our 'Mechs. We can't build an effective defense against this virus without a sample of its code to work with. We need you to get one of your 'Mechs within range of the research facility and download the virus into its systems. Then extract the infected carrier 'Mech so we can analyze the virus.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "I can only imagine what Yang is going to say to the idea of infecting one of our 'Mechs with hostile code.",
-    "salvagePotential": 24,
+    "salvagePotential": 20,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -88,7 +88,39 @@
             "description": "The objective for the player to retrieve the primary rescue target.",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "There's a convoy of military weaponry being transported in the open on the planet's surface. Normally we'd simply handle it ourselves, but {TEAM_TAR.FactionDef.Demonym} leadership has caught wind of our presence and hired a highly-skilled professional mercenary to cover the convoy's route and intercept any attackers. Being highly-skilled professionals yourselves, we thought perhaps you could pay a visit to this hired gun -- and destroy the convoy while you're at it.",
+    "shortDescription": "There's a convoy of military weaponry being transported in the open on the planet's surface. Normally we'd simply handle it ourselves, but {TEAM_TAR.FactionDef.Demonym} leadership has caught wind of our presence and hired a highly-skilled professional mercenary to cover the convoy's route and intercept any attackers. Being highly-skilled professionals yourselves, we thought perhaps you could pay a visit to this hired gun -- and destroy the convoy while you're at it.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "There aren't many solo operators in this region who I'd describe as 'highly skilled'. I wonder if it's anyone we know?",
-    "salvagePotential": 39,
+    "salvagePotential": 32,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -138,6 +138,39 @@
                     },
                     "Stats": [
 
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                },
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
                     ],
                     "Actions": [
 

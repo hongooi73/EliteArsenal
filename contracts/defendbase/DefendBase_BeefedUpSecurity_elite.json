@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "There is a small {TEAM_EMP.FactionDef.Demonym} base on {TGT_SYSTEM.Name} that has been attacked by raiders. Their latest attack was far better organized and equipped than the previous ones, suggesting the raiders are receiving logistical and tactical support from a hostile power. We might not be able to withstand a second attack of that scale. We'd like to hire you to provide additional defensive support.",
+    "shortDescription": "There is a small {TEAM_EMP.FactionDef.Demonym} base on {TGT_SYSTEM.Name} that has been attacked by raiders. Their latest attack was far better organized and equipped than the previous ones, suggesting the raiders are receiving logistical and tactical support from a hostile power. We might not be able to withstand a second attack of that scale. We'd like to hire you to provide additional defensive support.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, be careful: if there *is* a second attack, the raiders will go all out.",
-    "salvagePotential": 20,
+    "salvagePotential": 16,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -97,7 +97,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

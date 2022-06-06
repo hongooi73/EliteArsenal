@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We've been following this shipment of Spazz that the {TEAM_TAR.FactionDef.Demonym} authorities here on {TGT_SYSTEM.name} intercepted. You'd think that, given all the things they say about Spazz, they'd have torched the stuff already. But instead they've locked it up in a secure depot. I'm sure they won't mind if we take that stuff off their hands. We have much better uses for it than just blowing it all up.",
+    "shortDescription": "We've been following this shipment of Spazz that the {TEAM_TAR.FactionDef.Demonym} authorities here on {TGT_SYSTEM.name} intercepted. You'd think that, given all the things they say about Spazz, they'd have torched the stuff already. But instead they've locked it up in a secure depot. I'm sure they won't mind if we take that stuff off their hands. We have much better uses for it than just blowing it all up.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Spazz is a nasty, nasty drug, Commander, but not really recreational in any way. If some MechWarrior wants to burn themself out on the stuff, that's on them.",
-    "salvagePotential": 34,
+    "salvagePotential": 28,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -98,7 +98,39 @@
             "description": "The objective to scout the base that is being captured. Must be completed before the actual capture of the base.",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

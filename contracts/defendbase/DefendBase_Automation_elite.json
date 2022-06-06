@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We have an urgent problem that needs an immediate military response, Commander. We've just detected multiple {TEAM_TAR.FactionDef.Demonym} DropShips en route to one of our supply bases. Logistics bases are generally protected by automated turret systems, but this attack force is much larger than the turret systems were meant for. We want you to provide additional firepower in case the turrets aren't enough.",
+    "shortDescription": "We have an urgent problem that needs an immediate military response, Commander. We've just detected multiple {TEAM_TAR.FactionDef.Demonym} DropShips en route to one of our supply bases. Logistics bases are generally protected by automated turret systems, but this attack force is much larger than the turret systems were meant for. We want you to provide additional firepower in case the turrets aren't enough.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "This job doesn't seem all that difficult, but... Turrets? Please. Never send a machine to do a MechWarrior's job.",
-    "salvagePotential": 24,
+    "salvagePotential": 20,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -91,7 +91,39 @@
             "description": "Defend Targeted Base Structures from Attackers",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

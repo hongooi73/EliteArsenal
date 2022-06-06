@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We've had confirmation from several sources that the leader of an insurgent cell backed by {TEAM_TAR.FactionDef.Name} is moving in the open. This is a rare opportunity to take out one of the primary enemies of the legitimate {TEAM_EMP.FactionDef.Demonym} regime in {TGT_SYSTEM.name}. Additionally, we'll include a bonus payment if you're able to destroy all of the target's escorting units.",
+    "shortDescription": "We've had confirmation from several sources that the leader of an insurgent cell backed by {TEAM_TAR.FactionDef.Name} is moving in the open. This is a rare opportunity to take out one of the primary enemies of the legitimate {TEAM_EMP.FactionDef.Demonym} regime in {TGT_SYSTEM.name}. Additionally, we'll include a bonus payment if you're able to destroy all of the target's escorting units.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "We've only got their word that this target is a terrorist, but that sort of extralegal maneuvering is why they're hiring us instead of using their own forces. Still, best to be alert for anything.",
-    "salvagePotential": 15,
+    "salvagePotential": 12,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -198,7 +198,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

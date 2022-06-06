@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "Commander, we were tracking a {TEAM_TAR.FactionDef.Demonym} Leopard DropShip through this region when we lost its signal. Orbital scans suggest the ship made landfall here on {TGT_SYSTEM.Name}, probably hoping to go to ground and hide the military lance it was carrying. It would be convenient if that lance were to disappear, and {TEAM_EMP.FactionDef.Demonym} analysts believe they've isolated the area the target lance is trying to hide in.",
+    "shortDescription": "Commander, we were tracking a {TEAM_TAR.FactionDef.Demonym} Leopard DropShip through this region when we lost its signal. Orbital scans suggest the ship made landfall here on {TGT_SYSTEM.Name}, probably hoping to go to ground and hide the military lance it was carrying. It would be convenient if that lance were to disappear, and {TEAM_EMP.FactionDef.Demonym} analysts believe they've isolated the area the target lance is trying to hide in.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "We're in the middle of nowhere, Commander, so that means no witnesses. Convenient.",
-    "salvagePotential": 10,
+    "salvagePotential": 8,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -93,7 +93,39 @@
             "description": "The primary objective to destroy the enemy lance.",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

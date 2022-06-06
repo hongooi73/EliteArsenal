@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We've been scouring the {TGT_SYSTEM.name} system for weeks, looking for a {TEAM_TAR.FactionDef.Demonym} spy who took something that didn't belong to them. Recent intelligence has revealed a possible location, but we can't possibly chase every lead with our thin resources. We need you to look into this long shot. If you find the spy, destroy them.",
+    "shortDescription": "We've been scouring the {TGT_SYSTEM.name} system for weeks, looking for a {TEAM_TAR.FactionDef.Demonym} spy who took something that didn't belong to them. Recent intelligence has revealed a possible location, but we can't possibly chase every lead with our thin resources. We need you to look into this long shot. If you find the spy, destroy them.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, we'll get paid whether or not we find anything, so this could be a very profitable trip.",
-    "salvagePotential": 15,
+    "salvagePotential": 12,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -186,7 +186,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

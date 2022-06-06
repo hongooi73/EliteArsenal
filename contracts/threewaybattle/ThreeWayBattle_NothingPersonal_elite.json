@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": "",
     "badFaithStatementOverride": "",
     "goodFaithStatementOverride": "",
-    "shortDescription": "We have a developing situation, Commander, and we need your help to resolve it. One of our minor signals outposts on the planet was attacked and destroyed recently by a {TEAM_TAR.FactionDef.Demonym} force, and they're now moving in the open towards a supply depot that we cannot afford to lose. We'd like your team to set down and intercept them; they're very heavily armed, but they're making no real effort to conceal their movement. They should be a relatively simple target.",
+    "shortDescription": "We have a developing situation, Commander, and we need your help to resolve it. One of our minor signals outposts on the planet was attacked and destroyed recently by a {TEAM_TAR.FactionDef.Demonym} force, and they're now moving in the open towards a supply depot that we cannot afford to lose. We'd like your team to set down and intercept them; they're very heavily armed, but they're making no real effort to conceal their movement. They should be a relatively simple target.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "I get worried when enemies make stupid choices like moving in the open. It makes me think we're about to have a trap sprung on us.",
-    "salvagePotential": 39,
+    "salvagePotential": 32,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -116,7 +116,39 @@
             "description": "",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

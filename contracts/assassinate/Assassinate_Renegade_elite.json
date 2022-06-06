@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "One of our covert facilities was breached, Commander, in what appears to have been an inside job. A MechWarrior stationed there murdered the rest of the staff and is defecting to {TEAM_TAR.FactionDef.Name}, taking a valuable {TEAM_EMP.FactionDef.Demonym} 'Mech with her. The facility is a total loss, but we don't want that 'Mech falling into enemy hands. Track down the renegade and destroy her 'Mech. We believe she's being escorted by {TEAM_TAR.FactionDef.Demonym} forces, and there's a bonus if you destroy them as well.",
+    "shortDescription": "One of our covert facilities was breached, Commander, in what appears to have been an inside job. A MechWarrior stationed there murdered the rest of the staff and is defecting to {TEAM_TAR.FactionDef.Name}, taking a valuable {TEAM_EMP.FactionDef.Demonym} 'Mech with her. The facility is a total loss, but we don't want that 'Mech falling into enemy hands. Track down the renegade and destroy her 'Mech. We believe she's being escorted by {TEAM_TAR.FactionDef.Demonym} forces, and there's a bonus if you destroy them as well.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "I have a bad feeling about this, Commander. If they want that 'Mech torched, I'm guessing it's relatively powerful. Be careful.",
-    "salvagePotential": 15,
+    "salvagePotential": 12,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -186,7 +186,39 @@
             "description": "The objective to destroy the Assassination Target.",
             "isPrimary": true,
             "OnSuccessResults": [
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
 
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                }
             ],
             "OnFailureResults": [
 

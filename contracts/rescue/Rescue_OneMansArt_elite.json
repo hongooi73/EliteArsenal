@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "A {TEAM_EMP.FactionDef.Demonym} philanthropist is a patron of the arts here in {TGT_SYSTEM.Name}. A favored painter has been accused of heresy by the system's religious police. These zealots are propped up by foreign {TEAM_TAR.FactionDef.Demonym} agents. He'll be extradited to face trial and likely execution in {TEAM_TAR.FactionDef.Demonym} territory. We can't allow that to happen, but we don't want to incur reprisal from the religious leaders. That's where you come in. Locate the painter, rescue him and, at the personal request of the patron, recover the painting that started this whole mess.",
+    "shortDescription": "A {TEAM_EMP.FactionDef.Demonym} philanthropist is a patron of the arts here in {TGT_SYSTEM.Name}. A favored painter has been accused of heresy by the system's religious police. These zealots are propped up by foreign {TEAM_TAR.FactionDef.Demonym} agents. He'll be extradited to face trial and likely execution in {TEAM_TAR.FactionDef.Demonym} territory. We can't allow that to happen, but we don't want to incur reprisal from the religious leaders. That's where you come in. Locate the painter, rescue him and, at the personal request of the patron, recover the painting that started this whole mess.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, I don't pretend to understand what's so offensive about this painting, but they take that sort of thing seriously out here. As for retrieving the painting, apparently it's worth even more after all this controversy.",
-    "salvagePotential": 15,
+    "salvagePotential": 12,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -135,6 +135,39 @@
                     },
                     "Stats": [
 
+                    ],
+                    "Actions": [
+
+                    ],
+                    "ForceEvents": [
+
+                    ],
+                    "TemporaryResult": false,
+                    "ResultDuration": 0
+                },
+                {
+                    "Scope": "Company",
+                    "Requirements": null,
+                    "AddedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "RemovedTags": {
+                        "items": [
+
+                        ],
+                        "tagSetSourceFile": ""
+                    },
+                    "Stats": [
+                        {
+                            "typeString": "System.Single",
+                            "name": "ContractBonusRewardPct",
+                            "value": "0.50",
+                            "set": false,
+                            "valueConstant": null
+                        }
                     ],
                     "Actions": [
 

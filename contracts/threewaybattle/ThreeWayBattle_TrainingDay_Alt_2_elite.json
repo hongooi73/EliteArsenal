@@ -4239,7 +4239,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "_elite_arsenal"
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },

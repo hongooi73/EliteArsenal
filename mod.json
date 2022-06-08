@@ -8,6 +8,11 @@
         "Expanded Arsenal",
         "Elite Forces -Aces High-"
     ],
+    "RequiredContentPacks": [
+        "flashpoint",
+        "urbanwarfare",
+        "heavymetal"
+    ],
     "Manifest": [
         {
             "Type": "MechDef",
@@ -62,6 +67,10 @@
         {
             "Type": "ItemCollectionDef",
             "Path": "itemcol"
+        },
+        {
+            "Type": "ContractOverride",
+            "Path": "contracts"
         },
         {
             "Type": "AdvancedJSONMerge",

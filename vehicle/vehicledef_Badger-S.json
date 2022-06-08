@@ -12,7 +12,7 @@
     "ChassisID": "vehiclechassisdef_Badger-S",
     "VehicleTags": {
         "items": [
-            "unit_vehicle",
+            "unit_vehicle_s_tier",
             "unit_light",
             "unit_tracks",
             "unit_noncombatant",

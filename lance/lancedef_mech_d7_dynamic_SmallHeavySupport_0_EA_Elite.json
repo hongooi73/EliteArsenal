@@ -12,12 +12,12 @@
     "LanceTags": {
         "items": [
             "lance_bracket_high",
-            "lance_type_heavy",
-            "lance_type_support",
+            "lance_type_heavy_elite_arsenal",
+            "lance_type_support_elite_arsenal",
             "lance_type_dynamic",
-            "lance_type_mech",
-            "lance_type_notallvehicles",
-            "lance_type_notfull",
+            "lance_type_mech_elite_arsenal",
+            "lance_type_notallvehicles_elite_arsenal",
+            "lance_type_notfull_elite_arsenal",
             "difficulty_7",
             "elite",
             "elite_arsenal"
@@ -31,7 +31,7 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_mech",
+                    "unit_mech_s_tier",
                     "elite_arsenal",
                     "elite_arsenal_s_tier"
                 ],
@@ -41,6 +41,37 @@
                 "items": [
                     "unit_assault",
                     "unit_light",
+                    "unit_noncombatant",
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d7_ace"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Mech",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_heavy",
+                    "unit_mech_s_tier",
+                    "elite_arsenal",
+                    "elite_arsenal_s_tier"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
                     "unit_noncombatant",
                     "unit_urbie"
                 ],
@@ -74,35 +105,6 @@
                     "unit_noncombatant",
                     "unit_urbie",
                     "elite_arsenal_s_tier"
-                ],
-                "tagSetSourceFile": "Tags/UnitTags"
-            },
-            "pilotTagSet": {
-                "items": [
-                    "pilot_npc_d7_elite"
-                ],
-                "tagSetSourceFile": "Tags/PilotTags"
-            },
-            "excludedPilotTagSet": {
-                "items": null,
-                "tagSetSourceFile": "Tags/PilotTags"
-            }
-        },
-        {
-            "unitType": "Mech",
-            "unitId": "Tagged",
-            "pilotId": "Tagged",
-            "unitTagSet": {
-                "items": [
-                    "mech_heavy_Advanced",
-                    "unit_mech_Advanced"
-                ],
-                "tagSetSourceFile": "Tags/UnitTags"
-            },
-            "excludedUnitTagSet": {
-                "items": [
-                    "unit_noncombatant",
-                    "unit_urbie"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

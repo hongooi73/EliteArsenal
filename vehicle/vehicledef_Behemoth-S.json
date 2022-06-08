@@ -12,7 +12,7 @@
     "ChassisID": "vehiclechassisdef_Behemoth-S",
     "VehicleTags": {
         "items": [
-            "unit_vehicle",
+            "unit_vehicle_s_tier",
             "unit_assault",
             "unit_tracks",
             "elite_arsenal",

@@ -11,7 +11,7 @@
     "Difficulty": 9,
     "LanceTags": {
         "items": [
-            "lance_type_convoy",
+            "lance_type_convoy_elite_arsenal",
             "difficulty_9",
             "elite",
             "elite_arsenal"
@@ -25,7 +25,39 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_vehicle",
+                    "unit_vehicle_s_tier",
+                    "unit_noncombatant",
+                    "unit_heavy",
+                    "elite_arsenal",
+                    "elite_arsenal_s_tier"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_sensor"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            }
+        },
+        {
+            "unitType": "Vehicle",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_vehicle_s_tier",
+                    "unit_vehicle_apc",
                     "unit_noncombatant",
                     "unit_heavy",
                     "elite_arsenal",
@@ -108,40 +140,6 @@
             },
             "excludedPilotTagSet": {
                 "items": null,
-                "tagSetSourceFile": "Tags/PilotTags"
-            }
-        },
-        {
-            "unitType": "Vehicle",
-            "unitId": "Tagged",
-            "pilotId": "Tagged",
-            "unitTagSet": {
-                "items": [
-                    "unit_vehicle",
-                    "unit_vehicle_apc",
-                    "unit_noncombatant",
-                    "unit_heavy"
-                ],
-                "tagSetSourceFile": "Tags/UnitTags"
-            },
-            "excludedUnitTagSet": {
-                "items": [
-                    "unit_urbie",
-                    "elite_arsenal",
-                    "elite_forces"
-                ],
-                "tagSetSourceFile": "Tags/UnitTags"
-            },
-            "pilotTagSet": {
-                "items": [
-                    "pilot_sensor"
-                ],
-                "tagSetSourceFile": "Tags/PilotTags"
-            },
-            "excludedPilotTagSet": {
-                "items": [
-                    "elite_forces"
-                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

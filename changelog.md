@@ -9,7 +9,7 @@ Revamped structure to mitigate the difficulty spike in the early game, as well a
 - Elite Forces custom lances moved into Elite Arsenal. Among other things, this means you can only encounter aces if Elite Arsenal is loaded.
   - Also modify Elite Forces so that the base lances will always include at least 2 vanilla mechs and pilots.
 
-With these changes, Elite Forces and Elite Arsenal are now enabled by default when installing the modpack.
+With these changes, Elite Forces is now enabled by default when installing the modpack.
 
 
 ## Other changes
@@ -18,3 +18,4 @@ With these changes, Elite Forces and Elite Arsenal are now enabled by default wh
 - Fix Bane S loadout to have ++HAG/20s.
 - Fix stability values for several mechs.
 - Fix internal structure values for several vehicles.
+- Fix number of jumpjets for Hellhound X and S.

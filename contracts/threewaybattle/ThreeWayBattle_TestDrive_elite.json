@@ -13,7 +13,7 @@
     "goodFaithStatementOverride": "",
     "shortDescription": "We've captured the latest pride and joy of the Capellan Confederation: a Cataphract CTF-1X. Our scientists have been reverse-engineering the monster, but now they say they need real battle data before they can continue. We'd like you to provide that data. We've located a {TEAM_TAR.FactionDef.Demonym} lance to use as a guinea pig. Take the CTF-1X down to the planet and eliminate that lance. Needless to say, we don't have another of these, so it's imperative that you return it intact.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "I'd say this is a terrible idea, but those Cataphracts are beasts. Just make sure it doesn't get killed, or we don't get paid.",
-    "salvagePotential": 16,
+    "salvagePotential": 19,
     "requirementList": [
         {
             "Scope": "StarSystem",

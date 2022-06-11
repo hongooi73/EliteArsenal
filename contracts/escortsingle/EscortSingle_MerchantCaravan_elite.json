@@ -5,7 +5,7 @@
     "finalDifficulty": 0,
     "shortDescription": "A mercantile convoy operating under a {TEAM_EMP.FactionDef.Name} charter needs to travel through {TEAM_TAR.FactionDef.Name}-controlled territory. We need you to escort the convoy to a safe loacation.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "A mercantile convoy operating under a {TEAM_EMP.FactionDef.Name} charter needs to travel through {TEAM_TAR.FactionDef.Name}-controlled territory.\r\n\r\nThe convoy is carrying medical supplies to combat an outbreak of ARNA, a highly contagious hemorrhagic fever endemic to {TGT_SYSTEM.name}.\r\n\r\nWe need you to get the convoy to a rendezvous spot that we'll mark on your map. It is absolutely vital that the vehicles make it to their destination in one piece! Payment will be remitted upon receipt of our medicine from the convoy.",
-    "salvagePotential": "10",
+    "salvagePotential": 13,
     "requirementList": [
 
     ],

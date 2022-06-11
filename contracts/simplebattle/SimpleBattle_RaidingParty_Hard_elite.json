@@ -13,7 +13,7 @@
     "goodFaithStatementOverride": null,
     "shortDescription": "We have detected an inbound dropship belonging to {TEAM_TAR.FactionDef.Name}. Our local defense forces in the expected drop area are ill-equipped to handle a lance of 'Mechs, but with your aid we can ensure that the raid does minimal damage. We'd like you to intercept the {TEAM_TAR.FactionDef.Demonym} lance and destroy it.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, {TEAM_TAR.FactionDef.ShortName} wouldn't send a dropship if they didn't mean business. So if we take this job, we should stay alert down there.",
-    "salvagePotential": 12,
+    "salvagePotential": 15,
     "requirementList": [
         {
             "Scope": "StarSystem",

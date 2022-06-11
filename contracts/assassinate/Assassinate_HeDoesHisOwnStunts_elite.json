@@ -13,7 +13,7 @@
     "goodFaithStatementOverride": null,
     "shortDescription": "Commander, {TEAM_TAR.FactionDef.Name} has arranged for a holo-vid celebrity to visit {TGT_SYSTEM.name} in the hopes of rallying the morale of the local citizens. This is an opportunity for {TEAM_EMP.FactionDef.Demonym} psy-ops to instead make them understand how dangerous the region really is. Deploy your lance, find the target, eliminate him. Destroy his bodyguards if you feel so inclined.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Have you seen the {TEAM_TAR.FactionDef.Demonym} holo-vid show \"Mercenaries\"? Yes, we're being asked to kill its star, Brock Armstrong. He knows his way around a 'Mech and will have two full lances as escorts.",
-    "salvagePotential": 16,
+    "salvagePotential": 19,
     "requirementList": [
         {
             "Scope": "StarSystem",

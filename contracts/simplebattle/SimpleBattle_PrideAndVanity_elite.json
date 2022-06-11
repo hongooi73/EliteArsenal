@@ -13,7 +13,7 @@
     "goodFaithStatementOverride": null,
     "shortDescription": "A family associated with {TEAM_TAR.FactionDef.Name} has been threatening military action against their {TEAM_EMP.FactionDef.Demonym} neighbors on {TGT_SYSTEM.Name}. Neither of us has any legal claim in this system, but as our allied nobles have requested help and protection, we're willing to intervene. We need a deniable force to step in and destroy the {TEAM_TAR.FactionDef.Demonym} threat.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Commander, as soon as you make contact, expect any nearby enemy forces to close on your position.",
-    "salvagePotential": 16,
+    "salvagePotential": 19,
     "requirementList": [
         {
             "Scope": "StarSystem",

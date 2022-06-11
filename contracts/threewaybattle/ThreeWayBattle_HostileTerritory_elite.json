@@ -13,7 +13,7 @@
     "goodFaithStatementOverride": "",
     "shortDescription": "We've come across a target of opportunity that we'd like you to take advantage of. There's a {TEAM_TAR.FactionDef.Demonym} lance conducting a long-range patrol, and it's isolated from its supporting forces. If you strike quickly, it should be possible to destroy the lance before {TEAM_TAR.FactionDef.Demonym} command can order reinforcements into the area.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "The implication, of course, is that if we're not quick enough, we'll have multiple {TEAM_TAR.FactionDef.Demonym} units up our exhaust vents.",
-    "salvagePotential": 16,
+    "salvagePotential": 19,
     "requirementList": [
         {
             "Scope": "StarSystem",

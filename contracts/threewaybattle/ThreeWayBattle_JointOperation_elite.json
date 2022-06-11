@@ -13,7 +13,7 @@
     "goodFaithStatementOverride": "",
     "shortDescription": "We're tracking {TEAM_TAR.FactionDef.Demonym} units engaged in a secret military exercise in a remote portion of the planet's surface. This is an ideal time to strike, as they're likely damaged and exhausted from the operation, and we believe they're unaware of our presence. It isn't clear who the other party in the exercises is, but whoever it is, they're a potential witness, so we need you to eliminate them as well.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Opponents whose identities we don't know give me heartburn, Commander.",
-    "salvagePotential": 16,
+    "salvagePotential": 19,
     "requirementList": [
         {
             "Scope": "StarSystem",

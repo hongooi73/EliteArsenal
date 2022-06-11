@@ -13,7 +13,7 @@
     "goodFaithStatementOverride": null,
     "shortDescription": "Our scouts have observed {TEAM_TAR.FactionDef.Demonym} military units covertly surveying military and industrial targets. This increased activity from {TEAM_TAR.FactionDef.Name} near several priority facilities suggests a strike is coming soon. We're tasking you with intercepting the scout lance that's identifying targets, and eliminating it before it can report back.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "We don't have any intelligence about other possible enemy forces on the ground, Commander, so keep your eyes open.",
-    "salvagePotential": 12,
+    "salvagePotential": 15,
     "requirementList": [
         {
             "Scope": "StarSystem",

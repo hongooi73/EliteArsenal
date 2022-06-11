@@ -13,7 +13,7 @@
     "goodFaithStatementOverride": null,
     "shortDescription": "Commander, {TEAM_TAR.FactionDef.Demonym} leadership has been taking an increasingly hard line against {TEAM_EMP.FactionDef.Demonym}-affiliated corporate interests in the Rimward Periphery; {TEAM_TAR.FactionDef.Demonym} leadership has recently authorized the military interdiction of assets and resources from our corporate affiliates. Their behavior is tantamount to theft, and cannot go unpunished. We need you to send a message back to them by destroying one of their munitions factories on {TGT_SYSTEM.name}.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "This sort of tit-for-tat never works out well, but it means steady work for us.",
-    "salvagePotential": 12,
+    "salvagePotential": 15,
     "requirementList": [
         {
             "Scope": "StarSystem",

@@ -2,8 +2,8 @@
     "Name": "Elite Arsenal",
     "Enabled": true,
     "Version": "1.0.1",
-    "Description": "Adds elite mechs and upgraded gear to Expanded Arsenal",
-    "Author": "Hong Ooi / Ix",
+    "Description": "Adds elite mechs, missions and upgraded gear to Expanded Arsenal",
+    "Author": "Hong Ooi",
     "DependsOn": [
         "Expanded Arsenal",
         "Elite Forces -Aces High-"

@@ -6,10 +6,8 @@ Revamped structure to mitigate the difficulty spike in the early game, as well a
 
 - Introduce new "elite" versions of contracts which are denoted by a `(+)` in the mission title. These are the same as regular contracts but feature an opfor heavy with S-tier and X-tier elite mechs. They have a 50% higher C-bill payout and slightly more salvage picks.
 - Elite contracts are now the only place where you can encounter S-tier mechs (X-tier can still be met in regular missions, or bought in shops).
-- Elite Forces custom lances moved into Elite Arsenal. Among other things, this means you can only encounter aces if Elite Arsenal is loaded.
-  - Also modify Elite Forces so that the base lances will always include at least 2 non-elite mechs and pilots.
 
-Elite Forces is now enabled by default: with these changes, the probability of being randomly overwhelmed by multiple elites in the early game should be much less. Elite Arsenal remains an opt-in mod for now.
+Elite Forces is now enabled by default, while Elite Arsenal remains an opt-in mod for now.
 
 
 ## Other changes

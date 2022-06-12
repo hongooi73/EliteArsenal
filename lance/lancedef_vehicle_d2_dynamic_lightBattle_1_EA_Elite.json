@@ -76,7 +76,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d2_elite"
+                    "pilot_npc_d3_elite"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -107,7 +107,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d2_elite"
+                    "pilot_npc_d3_elite"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -138,7 +138,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d2_elite"
+                    "pilot_npc_d3_elite"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

@@ -74,7 +74,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d9_elite"
+                    "pilot_npc_d10_elite"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

@@ -12,6 +12,7 @@ Elite Forces is now enabled by default, while Elite Arsenal remains an opt-in mo
 ## Additions
 
 - Add PPC capaci(ta)tor + and ++, for less heat and more damage. Existing mechs that use the PPC cap have been updated to use the improved variants (Annihilator X and S, Phoenix Hawk S, Warhammer X and S).
+- Add Axman X and S.
 
 ## Other changes
 

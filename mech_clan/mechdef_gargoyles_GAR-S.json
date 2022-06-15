@@ -20,7 +20,7 @@
     "ChassisID": "chassisdef_gargoyles_GAR-S",
     "HeraldryID": null,
     "Description": {
-        "Cost": 12000000,
+        "Cost": 18000000,
         "Rarity": 9,
         "Purchasable": true,
         "Manufacturer": null,
@@ -31,7 +31,7 @@
         "Details": "Also an effective all around 'Mech, the A configuration ups the firepower with two ER PPCs as its primary long-range weapons. These are supported by a Large Pulse Laser for intermediate range engagements and a Medium Pulse Laser, ER Medium Laser, and ER Small Laser for close combat.",
         "Icon": "uixTxrIcon_gargoyle"
     },
-    "simGameMechPartCost": 4500000,
+    "simGameMechPartCost": 6750000,
     "Version": 1,
     "Locations": [
         {

@@ -3317,7 +3317,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -3520,7 +3520,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4148,7 +4148,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4181,7 +4181,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_medium",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -4225,7 +4225,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_light",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -4765,7 +4765,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4798,7 +4798,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_medium",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -4842,7 +4842,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_light",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -5176,7 +5176,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5209,7 +5209,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_light",
-                                "unit_mech",
+                                "unit_mech_s_tier",
                                 "unit_lance_support"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
@@ -5254,7 +5254,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_light",
-                                "unit_mech",
+                                "unit_mech_s_tier",
                                 "unit_lance_assassin"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
@@ -5384,7 +5384,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5416,7 +5416,7 @@
                         "unitDefId": "mechDef_InheritLance",
                         "unitTagSet": {
                             "items": [
-                                "unit_mech",
+                                "unit_mech_s_tier",
                                 "unit_medium"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
@@ -6206,7 +6206,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6238,7 +6238,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_medium",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -6282,7 +6282,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_light",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -6414,7 +6414,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6446,7 +6446,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_medium",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -6490,7 +6490,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_light",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -6645,7 +6645,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6679,7 +6679,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_medium",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -6723,7 +6723,7 @@
                         "unitTagSet": {
                             "items": [
                                 "unit_light",
-                                "unit_vehicle"
+                                "unit_vehicle_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },

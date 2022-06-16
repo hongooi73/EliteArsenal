@@ -1104,7 +1104,7 @@
                 "lanceDefId": "Manual",
                 "lanceTagSet": {
                     "items": [
-
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "Tags/LanceTags"
                 },
@@ -2201,7 +2201,7 @@
                 "lanceDefId": "Manual",
                 "lanceTagSet": {
                     "items": [
-
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "Tags/LanceTags"
                 },

@@ -1,0 +1,111 @@
+{
+    "Description": {
+        "Id": "lancedef_mech_d5_dynamic_EliteForce4",
+        "Name": "Dynamic Dif 5 Elite Force4",
+        "Details": "",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 3,
+        "Purchasable": false
+    },
+    "Difficulty": 5,
+    "LanceTags": {
+        "items": [
+            "lance_bracket_med",
+            "lance_type_dynamic",
+            "lance_type_medium",
+            "lance_type_battle",
+            "lance_type_fire",
+            "lance_type_cavalry",
+            "lance_type_defense",
+            "lance_type_mech",
+            "lance_type_notallvehicles"
+        ],
+        "tagSetSourceFile": "Tags/LanceTags"
+    },
+    "LanceUnits": [
+        {
+            "unitType": "Mech",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_medium",
+                    "elite_arsenal"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "elite_arsenal_s_tier"
+                ]
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_elite_forces"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": null
+        },
+        {
+            "unitType": "Mech",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "mech_medium_Advanced"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedUnitTagSet": null,
+            "pilotTagSet": {
+                "items": [
+                    "pilot_elite_forces"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": null
+        },
+        {
+            "unitType": "Mech",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "mech_light_Advanced"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedUnitTagSet": null,
+            "pilotTagSet": {
+                "items": [
+                    "pilot_elite_forces"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": null
+        },
+        {
+            "unitType": "Mech",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "unit_light",
+                    "unit_mech"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedUnitTagSet": null,
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d5"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": null
+        }
+    ]
+}
+

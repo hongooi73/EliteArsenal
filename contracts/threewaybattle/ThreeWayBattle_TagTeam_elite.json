@@ -3807,7 +3807,7 @@
                             ],
                             "tagSetSourceFile": "tags/SpawnEffectTags"
                         },
-                        "pilotDefId": "pilot_d5_Ace_1",
+                        "pilotDefId": "pilot_Contract_TagTeam_Leader",
                         "pilotTagSet": {
                             "items": [
 

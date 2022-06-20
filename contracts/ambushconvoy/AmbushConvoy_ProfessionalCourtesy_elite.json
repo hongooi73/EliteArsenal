@@ -1285,7 +1285,7 @@
                             ],
                             "tagSetSourceFile": "tags/SpawnEffectTags"
                         },
-                        "pilotDefId": "pilot_contract_TheProfessional_elite",
+                        "pilotDefId": "pilot_contract_TheProfessional",
                         "pilotTagSet": {
                             "items": [
 

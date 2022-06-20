@@ -1,8 +1,8 @@
 {
-    "ID": "CaptureEscort_ProfessionalLifestyle_elite",
-    "contractName": "Professional Lifestyle (+)",
+    "ID": "CaptureEscort_BlownOperation_Alt",
+    "contractName": "Blown Operation",
     "contractDisplayStyle": "BaseCampaignNormal",
-    "difficulty": 8,
+    "difficulty": 5,
     "difficultyUIModifier": 0,
     "weight": 1,
     "scope": "STANDARD",
@@ -11,9 +11,9 @@
     "missionSuccessStatementOverride": null,
     "badFaithStatementOverride": null,
     "goodFaithStatementOverride": null,
-    "shortDescription": "We've become aware of a target of opportunity. There's a convoy of military supplies moving through unpatrolled regions on the planet below, and we'd like to seize it for ourselves. The problem is that we have credible reports that {TEAM_TAR.FactionDef.Demonym} forces are also moving to intercept, and they've hired a skilled mercenary to lead their efforts. We'd like you to capture that convoy instead, and take it to a designated evac zone for pickup.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
-    "longDescription": "The truth is, I hate fighting other mercenaries. It seems like such a waste of perfectly good armor and myomer.",
-    "salvagePotential": 35,
+    "shortDescription": "Less than an hour ago, we lost contact with a covert team tasked with infiltrating a {TEAM_TAR.FactionDef.Demonym} facility. The only reason for them not to respond is if their operation was blown, by discovery or counterintelligence. The research materials they were meant to collect are extremely important, and we can't afford to lose them. We need you to make a rapid and immediate deployment to the the facility, and get our people and their cargo to safety.",
+    "longDescription": "When I hear 'rapid' and 'immediate', it makes me think 'no intel' and 'expect nasty surprises', Commander.",
+    "salvagePotential": 20,
     "requirementList": [
         {
             "Scope": "StarSystem",
@@ -31,35 +31,11 @@
             },
             "RequirementComparisons": [
                 {
-                    "obj": "Employer.IsOwner",
-                    "op": "Equal",
-                    "val": 0,
-                    "valueConstant": null
-                },
-                {
                     "obj": "Target.IsOwner",
                     "op": "Equal",
-                    "val": 0,
+                    "val": 1,
                     "valueConstant": null
                 }
-            ]
-        },
-        {
-            "Scope": "Company",
-            "RequirementTags": {
-                "items": [
-                    "chain_professional_stage1"
-                ],
-                "tagSetSourceFile": ""
-            },
-            "ExclusionTags": {
-                "items": [
-                    "chain_professional_finalConfrontation"
-                ],
-                "tagSetSourceFile": ""
-            },
-            "RequirementComparisons": [
-
             ]
         }
     ],
@@ -86,13 +62,13 @@
         -1
     ],
     "mapMood": null,
-    "startingFogOfWarVisibility": "Surveyed",
+    "startingFogOfWarVisibility": "Unknown",
     "contractObjectiveList": [
         {
             "contractObjective": {
                 "EncounterObjectGuid": "7db60871-d4ae-423d-9c82-fb40ca083372"
             },
-            "title": "Reach Motor Pool, Escort Vehicles, and Extract Safely",
+            "title": "Capture Facility, Protect Covert Team, and Extract Safely",
             "description": "Capture Convoy Rally Point, Escort Convoy to Safety, and Extract Safely",
             "isPrimary": true,
             "forPlayer": "Player1",
@@ -162,43 +138,11 @@
             "objective": {
                 "EncounterObjectGuid": "5f01500a-5087-4a6f-86d8-9e0450bc93eb"
             },
-            "title": "Secure the Motor Pool",
+            "title": "Secure the Facility",
             "description": "Secure the Convoy Rally Point",
             "isPrimary": true,
             "OnSuccessResults": [
-                {
-                    "Scope": "Company",
-                    "Requirements": null,
-                    "AddedTags": {
-                        "items": [
 
-                        ],
-                        "tagSetSourceFile": ""
-                    },
-                    "RemovedTags": {
-                        "items": [
-
-                        ],
-                        "tagSetSourceFile": ""
-                    },
-                    "Stats": [
-                        {
-                            "typeString": "System.Single",
-                            "name": "ContractBonusRewardPct",
-                            "value": "0.50",
-                            "set": false,
-                            "valueConstant": null
-                        }
-                    ],
-                    "Actions": [
-
-                    ],
-                    "ForceEvents": [
-
-                    ],
-                    "TemporaryResult": false,
-                    "ResultDuration": 0
-                }
             ],
             "OnFailureResults": [
 
@@ -258,7 +202,7 @@
             "objective": {
                 "EncounterObjectGuid": "d4d20990-fbeb-4f6e-81b7-7e94bba6a2c5"
             },
-            "title": "Escort Convoy units to their evac zone",
+            "title": "Escort Friendly units to their Destination",
             "description": "Escort Friendly units to their Destination",
             "isPrimary": true,
             "OnSuccessResults": [
@@ -342,33 +286,7 @@
             "description": "The objective to escape with all the player units.",
             "isPrimary": true,
             "OnSuccessResults": [
-                {
-                    "Scope": "Company",
-                    "Requirements": null,
-                    "AddedTags": {
-                        "items": [
-                            "chain_professional_stage2"
-                        ],
-                        "tagSetSourceFile": ""
-                    },
-                    "RemovedTags": {
-                        "items": [
 
-                        ],
-                        "tagSetSourceFile": ""
-                    },
-                    "Stats": [
-
-                    ],
-                    "Actions": [
-
-                    ],
-                    "ForceEvents": [
-
-                    ],
-                    "TemporaryResult": false,
-                    "ResultDuration": 0
-                }
             ],
             "OnFailureResults": [
 
@@ -421,7 +339,7 @@
             "encounterChunk": {
                 "EncounterObjectGuid": "68ac8364-8ea0-408a-949e-3e395ed8655b"
             },
-            "enableChunkFromContract": false,
+            "enableChunkFromContract": true,
             "controlledByContractChunkGroupList": [
 
             ],
@@ -520,7 +438,23 @@
             "overrideDialogueBucketId": "",
             "dialogueContent": [
                 {
-                    "words": "Looks like I got us here first, boss. You're welcome.",
+                    "words": "Mercenary force, you are entering a restricted {TEAM_TAR.FactionDef.Demonym} area. Withdraw or you will be fired on.",
+                    "wordsColor": {
+                        "r": 1,
+                        "g": 1,
+                        "b": 1,
+                        "a": 1
+                    },
+                    "selectedCastDefId": "castDef_TeamLeader_Target",
+                    "emote": "Default",
+                    "audioName": "NONE",
+                    "cameraFocusGuid": "9df10d9c-bf14-43ad-aa64-9202f93d3d49",
+                    "cameraDistance": "Far",
+                    "cameraHeight": "Default",
+                    "revealRadius": -1
+                },
+                {
+                    "words": "Yeah, they weren't surprised at all to see us. That sounds like a blown operation to me.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -536,7 +470,7 @@
                     "revealRadius": -1
                 },
                 {
-                    "words": "Cute, Meyer. Commander, the motor pool where the convoy is refueling is just over here. Move in and occupy it, and we'll convince the driver to allow you to escort him.",
+                    "words": "Agreed. Commander, once you've dealt with the response force, you'll find our employer's people here, at this facility.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -547,6 +481,22 @@
                     "emote": "Default",
                     "audioName": "NONE",
                     "cameraFocusGuid": "8020f476-1f81-4da9-956f-a797df693984",
+                    "cameraDistance": "Far",
+                    "cameraHeight": "Default",
+                    "revealRadius": -1
+                },
+                {
+                    "words": "Try not to get any of them shot or stepped on. Good luck.",
+                    "wordsColor": {
+                        "r": 1,
+                        "g": 1,
+                        "b": 1,
+                        "a": 1
+                    },
+                    "selectedCastDefId": "castDef_DariusDefault",
+                    "emote": "Default",
+                    "audioName": "NONE",
+                    "cameraFocusGuid": "",
                     "cameraDistance": "Far",
                     "cameraHeight": "Default",
                     "revealRadius": -1
@@ -561,7 +511,7 @@
             "overrideDialogueBucketId": "",
             "dialogueContent": [
                 {
-                    "words": "Excellent work, Commander. The vehicles are safely away.",
+                    "words": "The covert team and the research materials are safe. Well done, Commander.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -586,7 +536,7 @@
             "overrideDialogueBucketId": "",
             "dialogueContent": [
                 {
-                    "words": "Pack it in, Commander. Nothing left to do here.",
+                    "words": "Well, I suppose that could have been worse. Let's debrief back on the Argo.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -636,55 +586,7 @@
             "overrideDialogueBucketId": "",
             "dialogueContent": [
                 {
-                    "words": "I'm afraid I can't let you take those vehicles. Nothing personal, you understand. I just need to support my lavish lifestyle.",
-                    "wordsColor": {
-                        "r": 1,
-                        "g": 1,
-                        "b": 1,
-                        "a": 1
-                    },
-                    "selectedCastDefId": "castDef_Contract_TheProfessional",
-                    "emote": "Default",
-                    "audioName": "NONE",
-                    "cameraFocusGuid": "",
-                    "cameraDistance": "Far",
-                    "cameraHeight": "Default",
-                    "revealRadius": -1
-                },
-                {
-                    "words": "Enemy mercenary, be advised that we will not allow you to capture this convoy.",
-                    "wordsColor": {
-                        "r": 1,
-                        "g": 1,
-                        "b": 1,
-                        "a": 1
-                    },
-                    "selectedCastDefId": "castDef_DariusDefault",
-                    "emote": "Default",
-                    "audioName": "NONE",
-                    "cameraFocusGuid": "",
-                    "cameraDistance": "Far",
-                    "cameraHeight": "Default",
-                    "revealRadius": -1
-                },
-                {
-                    "words": "I was actually intending on reducing them to scrap and looting the wreckage. How's that sound?",
-                    "wordsColor": {
-                        "r": 1,
-                        "g": 1,
-                        "b": 1,
-                        "a": 1
-                    },
-                    "selectedCastDefId": "castDef_Contract_TheProfessional",
-                    "emote": "Default",
-                    "audioName": "NONE",
-                    "cameraFocusGuid": "",
-                    "cameraDistance": "Far",
-                    "cameraHeight": "Default",
-                    "revealRadius": -1
-                },
-                {
-                    "words": "Chatty, aren't they? I kind of want to land the Leopard on their head.",
+                    "words": "Hey boss, I'm seeing more contacts. Whatever these guys stole must be important.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -734,7 +636,23 @@
             "overrideDialogueBucketId": "",
             "dialogueContent": [
                 {
-                    "words": "Convoy command, this is <i>Argo<\/i> actual. You will follow us to a new evac point or you will be fired on.",
+                    "words": "Shit, we're glad to see you folks. [gunshots] I was worried we'd have to walk home.",
+                    "wordsColor": {
+                        "r": 1,
+                        "g": 1,
+                        "b": 1,
+                        "a": 1
+                    },
+                    "selectedCastDefId": "castDef_TeamLeader_Employer",
+                    "emote": "Default",
+                    "audioName": "NONE",
+                    "cameraFocusGuid": "",
+                    "cameraDistance": "Far",
+                    "cameraHeight": "Default",
+                    "revealRadius": -1
+                },
+                {
+                    "words": "We have an LZ marked for you. Is your team ready to move?",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -744,20 +662,20 @@
                     "selectedCastDefId": "castDef_DariusDefault",
                     "emote": "Default",
                     "audioName": "NONE",
-                    "cameraFocusGuid": "",
+                    "cameraFocusGuid": "3560382a-c082-4a0b-8cab-8e6327b74cce",
                     "cameraDistance": "Far",
                     "cameraHeight": "Default",
                     "revealRadius": -1
                 },
                 {
-                    "words": "Acknowledged, <i>Argo<\/i>. We aren't equipped for a fight, in any case. We'll follow your lead.",
+                    "words": "Everyone who's left. We're mounting up now. [muffled explosion] <i>Let's move, people!<\/i>",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
                         "b": 1,
                         "a": 1
                     },
-                    "selectedCastDefId": "castDef_TeamLeader_Target",
+                    "selectedCastDefId": "castDef_TeamLeader_Employer",
                     "emote": "Default",
                     "audioName": "NONE",
                     "cameraFocusGuid": "",
@@ -766,14 +684,14 @@
                     "revealRadius": -1
                 },
                 {
-                    "words": "Polite hostages? Huh. I could get used to that.",
+                    "words": "Darius? Commander? I'm seeing a <i>lot<\/i> of new 'Mech signatures out there. It looks like someone kicked a beehive.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
                         "b": 1,
                         "a": 1
                     },
-                    "selectedCastDefId": "castDef_YangDefault",
+                    "selectedCastDefId": "castDef_SumireDefault",
                     "emote": "Default",
                     "audioName": "NONE",
                     "cameraFocusGuid": "",
@@ -1091,13 +1009,13 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_convoy_elite_arsenal"
+                        "lance_type_convoy"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -1304,13 +1222,14 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_battle_elite_arsenal"
+                        "lance_type_dynamic_difficulty",
+                        "lance_type_battle"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -1506,13 +1425,14 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_support_elite_arsenal"
+                        "lance_type_dynamic_difficulty",
+                        "lance_type_battle"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -1522,7 +1442,7 @@
                     ],
                     "tagSetSourceFile": "tags/SpawnEffectTags"
                 },
-                "lanceDifficultyAdjustment": -1,
+                "lanceDifficultyAdjustment": 0,
                 "selectedLanceDefId": null,
                 "selectedLanceDifficulty": 0,
                 "unitSpawnPointOverrideList": [
@@ -1708,13 +1628,14 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_assault_elite_arsenal"
+                        "lance_type_dynamic_difficulty",
+                        "lance_type_support"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -1724,7 +1645,7 @@
                     ],
                     "tagSetSourceFile": "tags/SpawnEffectTags"
                 },
-                "lanceDifficultyAdjustment": 3,
+                "lanceDifficultyAdjustment": 0,
                 "selectedLanceDefId": null,
                 "selectedLanceDifficulty": 0,
                 "unitSpawnPointOverrideList": [
@@ -1754,7 +1675,7 @@
                             ],
                             "tagSetSourceFile": "tags/SpawnEffectTags"
                         },
-                        "pilotDefId": "pilot_contract_TheProfessional",
+                        "pilotDefId": "pilotDef_InheritLance",
                         "pilotTagSet": {
                             "items": [
 
@@ -1821,7 +1742,7 @@
                         "customUnitName": "",
                         "customHeraldryDefId": "",
                         "unitType": "Mech",
-                        "unitDefId": "mechDef_None",
+                        "unitDefId": "mechDef_InheritLance",
                         "unitTagSet": {
                             "items": [
 
@@ -1864,7 +1785,7 @@
                         "customUnitName": "",
                         "customHeraldryDefId": "",
                         "unitType": "Mech",
-                        "unitDefId": "mechDef_None",
+                        "unitDefId": "mechDef_InheritLance",
                         "unitTagSet": {
                             "items": [
 

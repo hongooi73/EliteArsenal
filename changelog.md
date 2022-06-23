@@ -15,6 +15,7 @@ Elite Forces is now enabled by default, while Elite Arsenal remains an opt-in mo
 - Add Short-Range EW Suite as a new item, which gives a defense bonus at short range and melee damage reduction. This is intended to improve survivability for melee and brawler builds. Existing melee mechs have been updated to include this (Valiant X and S, Hatchetman X and S, Hatamoto-Chi S).
 - Add Axman X and S.
 - Add Gargoyle X and S.
+- Add Orion IIC X and S.
 
 ## Other changes
 

@@ -1,0 +1,26 @@
+{
+    "behaviorVariables": [
+        {
+            "k": "Float_PriorityMovePercentage",
+            "v": {
+                "type": "Float",
+                "floatVal": 100
+            }
+        },
+        {
+            "k": "Float_PatrolRouteThrottlePercentage",
+            "v": {
+                "type": "Float",
+                "floatVal": 80
+            }
+        },
+        {
+            "k": "Int_MinimumECMGhostedPipsToFire",
+            "v": {
+                "type": "Int",
+                "IntVal": "2"
+            }
+        }
+    ]
+}
+

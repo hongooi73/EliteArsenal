@@ -1,0 +1,33 @@
+{
+    "behaviorVariables": [
+        {
+            "k": "Float_PreferStayInsideFenceNegativeLogicFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0
+            }
+        },
+        {
+            "k": "Float_SprintPreferStayInsideFenceNegativeLogicFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0
+            }
+        },
+        {
+            "k": "Float_AlonePreferenceWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0
+            }
+        },
+        {
+            "k": "Float_SprintAlonePreferenceWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0
+            }
+        }
+    ]
+}
+

@@ -1,0 +1,152 @@
+{
+    "behaviorVariables": [
+        {
+            "k": "Float_PreferHigherExpectedDamageToHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 2.5
+            }
+        },
+        {
+            "k": "Float_PreferOptimalDistanceToAllyFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.3
+            }
+        },
+        {
+            "k": "Float_PreferOptimalDistanceToHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.3
+            }
+        },
+        {
+            "k": "Float_SureFootingAbilityWalkBoost",
+            "v": {
+                "type": "Float",
+                "floatVal": 0
+            }
+        },
+        {
+            "k": "Float_PreferHigherHeatSinkLocationsFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": -0.2
+            }
+        },
+        {
+            "k": "Float_SprintPreferHigherHeatSinkLocationsFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": -0.2
+            }
+        },
+        {
+            "k": "Float_PreferHigherMovementBonusLocationsFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.2
+            }
+        },
+        {
+            "k": "Float_SprintPreferHigherMovementBonusLocationsFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.15
+            }
+        },
+        {
+            "k": "Float_PreferInsideMeleeRangeFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": -0.5
+            }
+        },
+        {
+            "k": "Float_SprintPreferInsideMeleeRangeFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": -0.45
+            }
+        },
+        {
+            "k": "Bool_RewriteNonAttackMoves",
+            "v": {
+                "type": "Bool",
+                "boolVal": true
+            }
+        },
+        {
+            "k": "Float_PreferStayInsideFenceNegativeLogicFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": -4.5
+            }
+        },
+        {
+            "k": "Float_MinimumSensorLockQuality",
+            "v": {
+                "type": "Float",
+                "floatVal": 40
+            }
+        },
+        {
+            "k": "Float_PreferStationaryWhenHostilesInMeleeRangeFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": -1.5
+            }
+        },
+        {
+            "k": "Float_PreferLOSToFewestHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.1
+            }
+        },
+        {
+            "k": "Float_SprintPreferLOSToFewestHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.05
+            }
+        },
+        {
+            "k": "Float_PreferLOSToMostHostilesFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0
+            }
+        },
+        {
+            "k": "Float_SprintPreferLOSToMostHostilesFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0
+            }
+        },
+        {
+            "k": "Float_PreferPresentingHigherArmorToHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.75
+            }
+        },
+        {
+            "k": "Float_SprintPreferPresentingHigherArmorToHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.65
+            }
+        },
+        {
+            "k": "Bool_AllowTurningRearArmorToEnemy",
+            "v": {
+                "type": "Bool",
+                "boolVal": true
+            }
+        }
+    ]
+}
+

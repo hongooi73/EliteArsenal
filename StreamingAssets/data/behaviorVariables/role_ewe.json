@@ -1,0 +1,341 @@
+{
+    "behaviorVariables": [
+        {
+            "k": "Float_PreferHigherPositionFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0
+            }
+        },
+        {
+            "k": "Float_PreferHigherExpectedDamageToHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 1.75
+            }
+        },
+        {
+            "k": "Float_SprintPreferHigherExpectedDamageToHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.1
+            }
+        },
+        {
+            "k": "Float_PreferLowerExpectedDamageFromHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.5
+            }
+        },
+        {
+            "k": "Float_SprintPreferLowerExpectedDamageFromHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.4
+            }
+        },
+        {
+            "k": "Float_OptimalHostileDistance",
+            "v": {
+                "type": "Float",
+                "floatVal": 250
+            }
+        },
+        {
+            "k": "Float_PreferOptimalDistanceToAllyFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 2
+            }
+        },
+        {
+            "k": "Float_PreferOptimalDistanceToHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 1.5
+            }
+        },
+        {
+            "k": "Float_SprintPreferOptimalDistanceToAllyFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.3
+            }
+        },
+        {
+            "k": "Float_ShootingDamageMultiplier",
+            "v": {
+                "type": "Float",
+                "floatVal": 2
+            }
+        },
+        {
+            "k": "Float_MeleeDamageMultiplier",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.5
+            }
+        },
+        {
+            "k": "Float_DFADamageMultiplier",
+            "v": {
+                "type": "Float",
+                "floatVal": 1.5
+            }
+        },
+        {
+            "k": "Float_PreferLessTargetableLocationFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.4
+            }
+        },
+        {
+            "k": "Float_SprintPreferLessTargetableLocationFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.35
+            }
+        },
+        {
+            "k": "Float_PreferHigherMovementBonusLocationsFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.05
+            }
+        },
+        {
+            "k": "Float_SprintPreferHigherMovementBonusLocationsFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.1
+            }
+        },
+        {
+            "k": "Float_MeleeRevengeBonus",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.1
+            }
+        },
+        {
+            "k": "Float_PreferInsideMeleeRangeFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": -0.6
+            }
+        },
+        {
+            "k": "Float_PreferLocationsThatGrantGuardFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.8
+            }
+        },
+        {
+            "k": "Float_SprintPreferLocationsThatGrantGuardFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.55
+            }
+        },
+        {
+            "k": "Float_AppetitivePreferApproachingRearArcOfHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.15
+            }
+        },
+        {
+            "k": "Float_SprintAppetitivePreferApproachingRearArcOfHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.1
+            }
+        },
+        {
+            "k": "Float_AppetitivePreferIdealWeaponRangeToHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.15
+            }
+        },
+        {
+            "k": "Float_SprintAppetitivePreferIdealWeaponRangeToHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.1
+            }
+        },
+        {
+            "k": "Float_PreferSurroundingHostileUnitsFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.15
+            }
+        },
+        {
+            "k": "Float_SprintPreferSurroundingHostileUnitsFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.1
+            }
+        },
+        {
+            "k": "Float_PreferStayInsideFenceNegativeLogicFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": -4.5
+            }
+        },
+        {
+            "k": "Float_SprintPreferStayInsideFenceNegativeLogicFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": -3
+            }
+        },
+        {
+            "k": "Float_FenceRadius",
+            "v": {
+                "type": "Float",
+                "floatVal": 50
+            }
+        },
+        {
+            "k": "Float_MinimumSensorLockQuality",
+            "v": {
+                "type": "Float",
+                "floatVal": 35
+            }
+        },
+        {
+            "k": "Float_PreferHigherRangedDefenseBonusLocationsFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.25
+            }
+        },
+        {
+            "k": "Float_SprintPreferHigherRangedDefenseBonusLocationsFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.2
+            }
+        },
+        {
+            "k": "Float_DownedMechFenceContributionMultiplier",
+            "v": {
+                "type": "Float",
+                "floatVal": 1.75
+            }
+        },
+        {
+            "k": "Float_AlonePreferenceWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": -1.5
+            }
+        },
+        {
+            "k": "Float_PreferFriendlyECMFields",
+            "v": {
+                "type": "Float",
+                "floatVal": 1
+            }
+        },
+        {
+            "k": "Float_PreferHostileECMFields",
+            "v": {
+                "type": "Float",
+                "floatVal": -1
+            }
+        },
+        {
+            "k": "Float_SprintPreferHostileECMFields",
+            "v": {
+                "type": "Float",
+                "floatVal": -1
+            }
+        },
+        {
+            "k": "Float_PreferActiveProbePositions",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.5
+            }
+        },
+        {
+            "k": "Float_SprintPreferActiveProbePositions",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.1
+            }
+        },
+        {
+            "k": "Int_MinimumActiveProbeCount",
+            "v": {
+                "type": "Int",
+                "IntVal": "2"
+            }
+        },
+        {
+            "k": "Float_SignalInWeapRngWhenEnemyGhostedWithinMoveDistance",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.5
+            }
+        },
+        {
+            "k": "Float_PreferStationaryWhenHostilesInMeleeRangeFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": -1.5
+            }
+        },
+        {
+            "k": "Float_PreferHigherDistanceFromClosestHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.3
+            }
+        },
+        {
+            "k": "Float_SprintPreferHigherDistanceFromClosestHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.2
+            }
+        },
+        {
+            "k": "Float_PreferLOSToFewestHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.2
+            }
+        },
+        {
+            "k": "Float_SprintPreferLOSToFewestHostileFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0.1
+            }
+        },
+        {
+            "k": "Float_PreferLOSToMostHostilesFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0
+            }
+        },
+        {
+            "k": "Float_SprintPreferLOSToMostHostilesFactorWeight",
+            "v": {
+                "type": "Float",
+                "floatVal": 0
+            }
+        }
+    ]
+}
+

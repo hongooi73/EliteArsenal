@@ -513,7 +513,7 @@
                     "revealRadius": -1
                 },
                 {
-                    "words": "It's... shit. Boss, you're about to have company, of the Orion ON1-K variety. Looks like two 'Mechs, but I can't tell if their weapons systems are live.",
+                    "words": "It's... shit. Boss, you're about to have company, of the Orion IIC variety. Looks like two 'Mechs, but I can't tell if their weapons systems are live.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -1349,7 +1349,7 @@
                         "customUnitName": "",
                         "customHeraldryDefId": "",
                         "unitType": "Mech",
-                        "unitDefId": "mechdef_orion_ON1-K",
+                        "unitDefId": "mechdef_orions_ON1-CS",
                         "unitTagSet": {
                             "items": [
 
@@ -1392,7 +1392,7 @@
                         "customUnitName": "",
                         "customHeraldryDefId": "",
                         "unitType": "Mech",
-                        "unitDefId": "mechdef_orion_ON1-K",
+                        "unitDefId": "mechdef_orionx_ON1-CX",
                         "unitTagSet": {
                             "items": [
 
@@ -1411,7 +1411,7 @@
                             ],
                             "tagSetSourceFile": "tags/SpawnEffectTags"
                         },
-                        "pilotDefId": "pilot_d5_Ace_1",
+                        "pilotDefId": "pilot_d5_Elite_1",
                         "pilotTagSet": {
                             "items": [
 

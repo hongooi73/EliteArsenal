@@ -6,7 +6,8 @@
     "Author": "Hong Ooi",
     "DependsOn": [
         "Expanded Arsenal",
-        "Elite Forces -Aces High-"
+        "Elite Forces -Aces High-",
+        "Mission Control"
     ],
     "RequiredContentPacks": [
         "flashpoint",

@@ -1,17 +1,11 @@
 **Elite Arsenal** adds several features to build on the core Expanded Arsenal + Elite Forces gameplay:
+
 - \+ and ++ variants of Expanded Arsenal weapons and gear. If you've outfitted all your mechs with heavy gauss rifles, ER lasers and Streak SRMs, this is the upgrade path you're looking for.
-- 200 new variants of Expanded Arsenal mechs, which are deadlier and tougher than even those from Elite Forces. Some upgraded Clan mechs also have special abilities like the vanilla Marauder, Warhammer, Archer et al, because there's no reason the Inner Sphere should have all the fun.
+- 200 new variants of Expanded Arsenal mechs, which are deadlier and tougher than even those from Elite Forces.
 - 46 new variants of vanilla and Expanded Arsenal vehicles.
-- Elite versions of all the regular missions.
+- Elite versions of all the regular contracts.
 - Randomised drop locations and extra lances, courtesy of the Mission Control mod.
 - Tweaks to the AI that make it more aggressive and unpredictable, taken from the Better AI mod.
-
-Elite Arsenal mechs come in two varieties, X- and S-tier.
-
-- X-tier mechs have more effective builds, + weapons and extra toughness compared to regular EA and vanilla mechs. They can be encountered in any mission.
-- S-tier mechs have ++ weapons, even more toughness, and added heatsinking capacity; in addition, they are always piloted by ace mechwarriors from Elite Forces. They can only be found in elite missions, which feature an opfor heavy with X- and S-tier units.
-
-It's entirely feasible for an S-tier mech to destroy an enemy mech of equivalent tonnage in a single alpha strike. On the flipside though, once you do kill one of these mechs, you get to loot all its goodies.
 
 
 ## Installation and use
@@ -21,9 +15,26 @@ Elite Arsenal is bundled with [Expanded Arsenal](https://github.com/hongooi73/Ex
 It's possible to enable and disable Elite Arsenal dynamically within an existing game. Once disabled, any existing Elite Arsenal mechs you have in your inventory will continue to function, but you won't encounter any more such mechs until you re-enable the mod. If you do disable or re-enable mods, it's highly recommended that you also delete the .modtek\Cache and .modtek\Database folders so that ModTek will rebuild its cache.
 
 
+## Elite contracts
+
+Elite contracts can be recognised by a `(+)` in the name, at the contract selection screen. These feature an opfor heavy with X- and S-tier upgraded mechs (see below), and should be the hardest fights available in the game. To match this, they also provide a 50% higher C-bill payout on completion of the objective, as well as the opportunity to loot the items that those mechs leave on the battlefield.
+
+Elite contracts serve the following purposes:
+
+- They provide an adequate level of challenge in the late game, when you'll likely have a team capable of demolishing a vanilla opfor without breaking a sweat.
+- By cordoning off the top-end opposition into a separate tier, they allow regular contracts to be (slightly) easier, which reduces the difficulty hump in the early game.
+
+
 ## New mechs
 
-Here are the new mechs that are part of Elite Arsenal. Note that while the list is divided into Clan and Inner Sphere, the mod doesn't make any distinction between the two; indeed, the upgraded IS mechs can be just as tough as their Clan counterparts.
+Elite Arsenal mechs come in two varieties, X- and S-tier:
+
+- X-tier mechs have more effective builds, + weapons and extra toughness compared to regular EA and vanilla mechs. They can be encountered in any mission.
+- S-tier mechs have ++ weapons, even more toughness, and added heatsinking capacity; in addition, they are always piloted by ace mechwarriors from Elite Forces. They can only be found in elite missions.
+
+It's entirely feasible for an S-tier mech to destroy an equivalent-tonnage enemy mech in a couple of alpha strikes. On the flipside though, once you do kill one of these mechs, you get to loot all its goodies.
+
+Following are the new mechs that are part of Elite Arsenal. Note that while the list is divided into Clan and Inner Sphere, the mod doesn't make any distinction between the two; indeed, the upgraded IS mechs can be just as dangerous as their Clan counterparts.
 
 ### Inner sphere
 
@@ -109,8 +120,8 @@ Here are the new mechs that are part of Elite Arsenal. Note that while the list 
 - Thanatos X
 - Thunderbolt S
 - Thunderbolt X
-- UrbanMech S
-- UrbanMech X
+- UrbanMech S (Targeting Baffle)
+- UrbanMech X (Targeting Baffle)
 - Uziel S
 - Uziel X
 - Valiant S
@@ -129,6 +140,8 @@ Here are the new mechs that are part of Elite Arsenal. Note that while the list 
 - Zeus X
 
 ### Clan
+
+Some upgraded Clan mechs have special abilities like the vanilla Marauder, Warhammer, Archer et al, because there's no reason the Inner Sphere should have all the fun.
 
 - Adder S
 - Adder X
@@ -230,3 +243,58 @@ Here are the new mechs that are part of Elite Arsenal. Note that while the list 
 - Viper X2
 - Warhawk S
 - Warhawk X
+
+
+## New and upgraded gear
+
+Elite Arsenal includes the following new items, including + variants:
+
+- Passive Defensive Matrix
+- Hybrid Defensive Package
+- Heavy Defensive Suite
+- Short-Range EW Suite
+
+The defensive buffs from the Passive Defensive Matrix, Hybrid Defensive Package and Heavy Defensive Suite do not stack with each other. Note that the + variants of the Passive Defensive Matrix, Hybrid Defensive Package and Heavy Defensive Suite are only found on S-tier mechs, and cannot be bought from stores.
+
+Elite Arsenal includes the following upgrades of existing items from vanilla and Expanded Arsenal:
+
+- PPC Capacitator +, ++
+- Targeting Computer ++, +++
+- Artemis IV +, ++
+- Clan Artemis IV +, ++
+- Clan ER PPC +, ++
+- ER PPC +++
+- Heavy PPC +, ++
+- Light PPC +, ++
+- Clan UAC2/5/10/20 +, ++
+- Clan LBX2/5/10/20 +, ++
+- RAC2/5 +, ++
+- Clan Gauss Rifle +, ++
+- Gauss Rifle +++
+- Heavy Gauss Rifle ++
+- HAG20/30/40 +, ++
+- Clan ER LL +, ++
+- Clan ER ML +, ++
+- Clan ER SL +, ++
+- Clan Improved Heavy LL +, ++
+- Clan Improved Heavy ML +, ++
+- Clan Improved Heavy SL +, ++
+- Clan Pulse LL +, ++
+- Clan Pulse ML +, ++
+- Clan Pulse SL +, ++
+- VS Pulse LL +, ++
+- VS Pulse ML +, ++
+- VS Pulse SL +, ++
+- MRM10/20/30/40 +, ++, +++
+- Clan SRM2/4/6 +, ++, +++
+- Clan LRM5/10/15/20 +, ++
+- Clan ATM3/6/9/12 +, ++
+- IATM 3/6/9/12 +, ++
+- Clan MG +, ++
+- Clan HMG +, ++
+- Clan LMG +, ++
+- Streak SRM2/4/6 +, ++
+- Clan Streak SRM2/4/6 +, ++
+
+
+

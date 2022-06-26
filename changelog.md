@@ -25,3 +25,4 @@
 - Fix stability values for several mechs.
 - Fix internal structure values for several vehicles.
 - Fix number of jumpjets for Hellhound X and S.
+- Buff the opfor for the final Heavy Metal minicampaign flashpoint to account for Elite Arsenal powercreep.

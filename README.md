@@ -30,7 +30,7 @@ Elite contracts serve the following purposes:
 Elite Arsenal mechs come in two varieties, X- and S-tier:
 
 - X-tier mechs have more effective builds, + weapons and extra toughness compared to regular EA and vanilla mechs. They can be encountered in any mission.
-- S-tier mechs have ++ weapons, even more toughness, and added heatsinking capacity; in addition, they are always piloted by ace mechwarriors from Elite Forces. They can only be found in elite missions.
+- S-tier mechs have ++ weapons, even more toughness, and can sink an extra +15 heat per turn; in addition, they are always piloted by ace mechwarriors from Elite Forces. They can only be found in elite missions.
 
 It's entirely feasible for an S-tier mech to destroy an equivalent-tonnage enemy mech in a couple of alpha strikes. On the flipside though, once you do kill one of these mechs, you get to loot all its goodies.
 
@@ -38,8 +38,8 @@ Following are the new mechs that are part of Elite Arsenal. Note that while the 
 
 ### Inner sphere
 
-- Annihilator S
-- Annihilator X
+- Annihilator S (Optimized Capacitors)
+- Annihilator X (Optimized Capacitors)
 - Archer S1
 - Archer S2
 - Archer X1

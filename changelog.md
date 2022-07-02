@@ -1,3 +1,10 @@
+## v2.0.1
+
+## Bug fixes
+
+- Swap the torso locations of the Intercept System and Passive Defensive Matrix in the Vapor Eagle X and S.
+
+
 ## v2.0.0
 
 ### Major changes

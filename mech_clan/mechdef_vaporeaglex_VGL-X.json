@@ -179,7 +179,7 @@
             "hasPrefabName": false
         },
         {
-            "MountedLocation": "LeftTorso",
+            "MountedLocation": "RightTorso",
             "ComponentDefID": "Gear_Passive_Defensive_Matrix",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",

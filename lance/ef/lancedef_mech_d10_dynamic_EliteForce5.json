@@ -30,6 +30,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_assault",
+                    "unit_mech",
                     "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
@@ -54,6 +55,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_assault",
+                    "unit_mech",
                     "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"

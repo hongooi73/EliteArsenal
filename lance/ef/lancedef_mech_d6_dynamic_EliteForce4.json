@@ -30,6 +30,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_heavy",
+                    "unit_mech",
                     "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"

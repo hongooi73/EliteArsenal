@@ -112,8 +112,8 @@ Following are the new mechs that are part of Elite Arsenal. Note that while the 
 - Shadow Hawk S2
 - Shadow Hawk X1
 - Shadow Hawk X2
-- Stinger S
-- Stinger X
+- Stinger S (Vectored Thrust Kit)
+- Stinger X (Vectored Thrust Kit)
 - Talos S
 - Talos X
 - Thanatos S

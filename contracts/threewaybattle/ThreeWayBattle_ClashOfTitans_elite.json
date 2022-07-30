@@ -3806,7 +3806,8 @@
                         "unitDefId": "Tagged",
                         "unitTagSet": {
                             "items": [
-                                "unit_assault"
+                                "unit_assault",
+                                "unit_mech_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },
@@ -5675,7 +5676,8 @@
                         "unitDefId": "Tagged",
                         "unitTagSet": {
                             "items": [
-                                "unit_assault"
+                                "unit_assault",
+                                "unit_mech_s_tier"
                             ],
                             "tagSetSourceFile": "tags/UnitTags"
                         },

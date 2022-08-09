@@ -1,11 +1,15 @@
 ## v2.0.1
 
+## Changes
+
+- Increase damage buff for + and ++ variants of PPC Capaci(ta)tor to 25% and 35% respectively.
+
 ## Bug fixes
 
 - Swap the torso locations of the Intercept System and Passive Defensive Matrix in the Vapor Eagle X and S.
 - Fix some lancedefs that were erroneously spawning Elite Arsenal vehicles instead of mechs.
 - Fix issue with stock contracts requiring a dynamic difficulty fire lance.
-- Fix Oriion IIC S to have ++ATMs.
+- Fix Orion IIC S to have ++ATMs.
 
 
 ## v2.0.0

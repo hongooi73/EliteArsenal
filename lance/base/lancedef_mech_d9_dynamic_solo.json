@@ -43,7 +43,7 @@
             "pilotTagSet": {
                 "items": [
                     "pilot_npc_d9",
-                    "pilot_elite_forces"
+                    "elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

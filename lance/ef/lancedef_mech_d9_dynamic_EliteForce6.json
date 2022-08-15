@@ -54,15 +54,32 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_assault",
-                    "unit_mech",
-                    "elite_arsenal"
+                    "mech_assault_Advanced"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedUnitTagSet": null,
+            "pilotTagSet": {
+                "items": [
+                    "pilot_elite_forces"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": null
+        },
+        {
+            "unitType": "Mech",
+            "unitId": "Tagged",
+            "pilotId": "Tagged",
+            "unitTagSet": {
+                "items": [
+                    "mech_heavy_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "elite_arsenal_s_tier"
+                    "elite_arsenal"
                 ]
             },
             "pilotTagSet": {
@@ -83,26 +100,11 @@
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
-            "excludedUnitTagSet": null,
-            "pilotTagSet": {
+            "excludedUnitTagSet": {
                 "items": [
-                    "pilot_elite_forces"
-                ],
-                "tagSetSourceFile": "Tags/PilotTags"
+                    "elite_arsenal"
+                ]
             },
-            "excludedPilotTagSet": null
-        },
-        {
-            "unitType": "Mech",
-            "unitId": "Tagged",
-            "pilotId": "Tagged",
-            "unitTagSet": {
-                "items": [
-                    "mech_heavy_Advanced"
-                ],
-                "tagSetSourceFile": "Tags/PilotTags"
-            },
-            "excludedUnitTagSet": null,
             "pilotTagSet": {
                 "items": [
                     "pilot_elite_forces"

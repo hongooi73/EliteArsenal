@@ -47,7 +47,7 @@
             "pilotTagSet": {
                 "items": [
                     "pilot_npc_d5",
-                    "pilot_elite_forces"
+                    "elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -64,7 +64,7 @@
                 "items": [
                     "unit_mech",
                     "unit_medium",
-                    "unit_lance_support"
+                    "unit_mech_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -78,7 +78,8 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d5"
+                    "pilot_npc_d5",
+                    "pilot_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -102,7 +103,8 @@
                 "items": [
                     "unit_lance_support",
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -113,7 +115,9 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

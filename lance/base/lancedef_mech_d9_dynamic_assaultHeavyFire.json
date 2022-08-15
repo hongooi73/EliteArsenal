@@ -46,7 +46,7 @@
             "pilotTagSet": {
                 "items": [
                     "pilot_npc_d9",
-                    "pilot_elite_forces"
+                    "elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -69,6 +69,8 @@
             },
             "excludedUnitTagSet": {
                 "items": [
+                    "unit_lance_vanguard",
+                    "unit_lance_support",
                     "unit_noncombatant",
                     "unit_urbie"
                 ],
@@ -100,7 +102,8 @@
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -111,7 +114,9 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -130,7 +135,8 @@
                 "items": [
                     "unit_lance_vanguard",
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -141,7 +147,9 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

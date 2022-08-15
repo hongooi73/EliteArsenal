@@ -31,7 +31,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_mech",
-                    "Steiner"
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -60,7 +60,8 @@
             "dynamicDifficulty": true,
             "unitTagSet": {
                 "items": [
-                    "unit_mech"
+                    "unit_mech",
+                    "unit_mech_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -74,7 +75,7 @@
             },
             "pilotTagSet": {
                 "items": [
-
+                    "pilot_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -98,7 +99,8 @@
                 "items": [
                     "unit_noncombatant",
                     "NotSteiner",
-                    "elite_arsenal_s_tier"
+                    "elite_arsenal_s_tier",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -109,7 +111,9 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         },
@@ -128,7 +132,8 @@
                 "items": [
                     "unit_noncombatant",
                     "NotSteiner",
-                    "elite_arsenal_s_tier"
+                    "elite_arsenal_s_tier",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -139,7 +144,9 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

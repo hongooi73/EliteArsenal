@@ -30,22 +30,24 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "unit_jumpOK",
                     "unit_medium",
-                    "unit_mech"
+                    "unit_mech",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "excludedUnitTagSet": {
                 "items": [
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "elite_arsenal_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d4"
+                    "pilot_npc_d4",
+                    "elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -61,8 +63,8 @@
             "unitTagSet": {
                 "items": [
                     "unit_mech",
-                    "unit_lance_assassin",
-                    "unit_medium"
+                    "unit_medium",
+                    "unit_mech_Advanced"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -77,7 +79,8 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d4"
+                    "pilot_npc_d4",
+                    "pilot_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -103,7 +106,8 @@
                     "unit_lance_vanguard",
                     "unit_lance_support",
                     "unit_noncombatant",
-                    "unit_urbie"
+                    "unit_urbie",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -114,7 +118,9 @@
                 "tagSetSourceFile": "Tags/PilotTags"
             },
             "excludedPilotTagSet": {
-                "items": null,
+                "items": [
+                    "elite_forces"
+                ],
                 "tagSetSourceFile": "Tags/PilotTags"
             }
         }

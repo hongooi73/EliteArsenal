@@ -78,7 +78,11 @@
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
-            "excludedUnitTagSet": null,
+            "excludedUnitTagSet": {
+                "items": [
+                    "elite_arsenal"
+                ]
+            },
             "pilotTagSet": {
                 "items": [
                     "pilot_elite_forces"
@@ -98,7 +102,11 @@
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
-            "excludedUnitTagSet": null,
+            "excludedUnitTagSet": {
+                "items": [
+                    "elite_arsenal"
+                ]
+            },
             "pilotTagSet": {
                 "items": [
                     "pilot_npc_d6"

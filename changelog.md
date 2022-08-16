@@ -3,6 +3,7 @@
 ## Changes
 
 - Increase damage buff for + and ++ variants of PPC Capaci(ta)tor to 25% and 35% respectively.
+- Reduce the number of X-tier units that will be encountered in non-elite missions.
 
 ## Bug fixes
 

@@ -55,11 +55,17 @@
             "pilotId": "Tagged",
             "unitTagSet": {
                 "items": [
-                    "mech_assault_Advanced"
+                    "unit_assault",
+                    "unit_mech",
+                    "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
-            "excludedUnitTagSet": null,
+            "excludedUnitTagSet": {
+                "items": [
+                    "elite_arsenal_s_tier"
+                ]
+            },
             "pilotTagSet": {
                 "items": [
                     "pilot_elite_forces"

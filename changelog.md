@@ -2,8 +2,14 @@
 
 ## Changes
 
+- Elite opfor pilots now get 10% damage reduction, and ace pilots get 20% damage reduction.
 - Increase damage buff for + and ++ variants of PPC Capaci(ta)tor to 25% and 35% respectively.
 - Reduce the number of X-tier units that will be encountered in non-elite missions.
+- Impose a C-bill penalty for taking excessive tonnage into a mission, courtesy of the Drop Tonnage Reward and Limit on Difficulty mod.
+    - The rating of your lance can be up to 1 skull higher than the skull rating of the mission. Going beyond that imposes a cost of 5000 C-bills per excess ton. Be warned that this means you can make a _loss_ if your lance is heavy enough.
+    - In-game, we can assume that the employer normally covers various expenses associated with a mission behind the scenes. Normally these expenses go unmentioned, but if the company tries to drop too much tonnage above what's considered reasonable, the employer will now refuse to pay an excessive amount.
+    - Out-of-game, this is to discourage taking an all-assault lance into a low-skull mission and stomping the opfor.
+    - This is only enabled if Elite Arsenal is turned on, as one of its objectives is to increase the challenge. Otherwise, feel free to drop 400 tons into a 1-skull mission.
 
 ## Bug fixes
 

@@ -75,6 +75,10 @@
             "Path": "contracts"
         },
         {
+            "Type": "AbilityDef",
+            "Path": "abilities"
+        },
+        {
             "Type": "AdvancedJSONMerge",
             "Path": "starsystems"
         },

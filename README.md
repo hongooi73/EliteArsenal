@@ -120,8 +120,8 @@ Following are the new mechs that are part of Elite Arsenal. Note that while the 
 - Thanatos X
 - Thunderbolt S
 - Thunderbolt X
-- UrbanMech S (Targeting Baffle)
-- UrbanMech X (Targeting Baffle)
+- UrbanMech S (Targeting Baffle, Ballistic Siege Compensators, Intercept System)
+- UrbanMech X (Targeting Baffle, Ballistic Siege Compensators, Intercept System)
 - Uziel S
 - Uziel X
 - Valiant S
@@ -235,8 +235,8 @@ Some upgraded Clan mechs have special abilities like the vanilla Marauder, Warha
 - SuperNova X2
 - Turkina S
 - Turkina X
-- Vapor Eagle S (General Intercept System)
-- Vapor Eagle X (General Intercept System)
+- Vapor Eagle S (Intercept System)
+- Vapor Eagle X (Intercept System)
 - Viper S1
 - Viper S2
 - Viper X1
@@ -286,6 +286,7 @@ Elite Arsenal includes the following upgrades of existing items from vanilla and
 - VS Pulse ML +, ++
 - VS Pulse SL +, ++
 - MRM10/20/30/40 +, ++, +++
+- Thunderbolt 5/10/15/20 +, ++
 - Clan SRM2/4/6 +, ++, +++
 - Clan LRM5/10/15/20 +, ++
 - Clan ATM3/6/9/12 +, ++

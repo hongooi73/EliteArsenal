@@ -1,0 +1,92 @@
+{
+    "Version": 1,
+    "Description": {
+        "Id": "vehicledef_Carrier_Thunderbolt-S",
+        "Name": "Thunderbolt Missile Carrier",
+        "Details": "",
+        "Icon": "",
+        "Cost": 993,
+        "Rarity": 4,
+        "Purchasable": false
+    },
+    "ChassisID": "vehiclechassisdef_Carrier_Thunderbolt-S",
+    "VehicleTags": {
+        "items": [
+            "unit_vehicle_s_tier",
+            "unit_assault",
+            "unit_tracks",
+            "unit_vehicle_carrier",
+            "elite_arsenal",
+            "elite_arsenal_s_tier"
+        ],
+        "tagSetSourceFile": ""
+    },
+    "Locations": [
+        {
+            "Location": "Front",
+            "CurrentArmor": 70,
+            "CurrentInternalStructure": 40,
+            "AssignedArmor": 70,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Left",
+            "CurrentArmor": 60,
+            "CurrentInternalStructure": 40,
+            "AssignedArmor": 60,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Right",
+            "CurrentArmor": 60,
+            "CurrentInternalStructure": 40,
+            "AssignedArmor": 60,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Rear",
+            "CurrentArmor": 60,
+            "CurrentInternalStructure": 40,
+            "AssignedArmor": 60,
+            "DamageLevel": "Functional"
+        },
+        {
+            "Location": "Turret",
+            "CurrentArmor": 70,
+            "CurrentInternalStructure": 40,
+            "AssignedArmor": 70,
+            "DamageLevel": "Functional"
+        }
+    ],
+    "inventory": [
+        {
+            "ComponentDefID": "Weapon_Thunderbolt_20_2",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Turret",
+            "HardpointSlot": 0,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Weapon_Thunderbolt_20_2",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Turret",
+            "HardpointSlot": 1,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Weapon_Thunderbolt_20_2",
+            "ComponentDefType": "Weapon",
+            "MountedLocation": "Turret",
+            "HardpointSlot": 2,
+            "DamageLevel": "Functional"
+        },
+        {
+            "ComponentDefID": "Gear_Heavy_Defensive_Suite_1",
+            "ComponentDefType": "Upgrade",
+            "MountedLocation": "Front",
+            "HardpointSlot": -1,
+            "DamageLevel": "Functional"
+        }
+    ]
+}
+

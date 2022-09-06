@@ -1,7 +1,7 @@
 {
     "Name": "Elite Arsenal",
     "Enabled": true,
-    "Version": "2.0.0",
+    "Version": "3.0.0",
     "Description": "Adds elite mechs, missions and upgraded gear to Expanded Arsenal",
     "Author": "Hong Ooi",
     "DependsOn": [

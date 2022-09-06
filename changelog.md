@@ -1,8 +1,8 @@
-## v2.0.1
+## v3.0
 
 ## Changes
 
-- Elite opfor pilots now get 10% damage reduction, and ace pilots get 20% damage reduction.
+- Elite and ace opfor pilots now get 10% and 20% damage reduction respectively when Elite Arsenal is enabled.
 - Increase damage buff for + and ++ variants of PPC Capaci(ta)tor to 25% and 35% respectively.
 - Reduce the number of X-tier units that will be encountered in non-elite missions.
 - Impose a C-bill penalty for taking excessive tonnage into a mission, courtesy of the Drop Tonnage Reward and Limit on Difficulty mod.
@@ -12,6 +12,7 @@
   - This is only enabled if Elite Arsenal is turned on, as one of its objectives is to increase the challenge. Otherwise, feel free to drop 400 tons into a 1-skull mission.
 - Add + and ++ variants for Thunderbolt missiles, doing more damage and (except for the Thunderbolt 5) weighing less.
 - Add the Thunderbolt Missile Carrier, an S-tier vehicle mounting 3 ++Thunderbolt 20s.
+- Add the Griffin X and S, elite variants of the GRF-3M.
 - Some other mechs and vehicles have also been modified to mount Thunderbolts and Guardian ECM pods.
 
 ## Bug fixes

@@ -14,7 +14,7 @@
             "Description": {
                 "Id": "StatusEffect-Elite-DamageReduction",
                 "Name": "Elite Damage Reduction",
-                "Details": "Ace pilots take [AMT] less damage.",
+                "Details": "Elite pilots take [AMT] less damage.",
                 "Icon": "UixSvgIcon_specialAbility_BWCL"
             },
             "effectType": "StatisticEffect",

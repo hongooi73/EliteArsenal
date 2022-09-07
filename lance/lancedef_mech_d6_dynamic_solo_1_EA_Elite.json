@@ -75,7 +75,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d6_elite"
+                    "pilot_npc_d6_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

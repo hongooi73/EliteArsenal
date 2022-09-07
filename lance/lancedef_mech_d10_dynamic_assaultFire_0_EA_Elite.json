@@ -109,7 +109,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d10_elite"
+                    "pilot_npc_d10_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

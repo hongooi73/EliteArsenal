@@ -14,12 +14,13 @@
 - Add the Thunderbolt Missile Carrier, an S-tier vehicle mounting 3 ++Thunderbolt 20s.
 - Add the Griffin X and S, elite variants of the GRF-3M.
 - Some other mechs and vehicles have also been modified to mount Thunderbolts and Guardian ECM pods.
+- Some adjustments to opfor lance composition in regular and elite missions.
 
 ## Bug fixes
 
 - Swap the torso locations of the Intercept System and Passive Defensive Matrix in the Vapor Eagle X and S.
 - Fix some lancedefs that were erroneously spawning Elite Arsenal vehicles instead of mechs.
-- Fix issue with stock contracts requiring a dynamic difficulty fire lance.
+- Fix issue with stock contracts that call for a dynamic difficulty fire lance.
 - Fix Orion IIC S to have ++ATMs.
 
 

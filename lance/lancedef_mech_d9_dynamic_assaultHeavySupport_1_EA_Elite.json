@@ -79,7 +79,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d9_elite"
+                    "pilot_npc_d9_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -111,7 +111,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d9_elite"
+                    "pilot_npc_d9_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },
@@ -142,7 +142,7 @@
             },
             "pilotTagSet": {
                 "items": [
-                    "pilot_npc_d9_elite"
+                    "pilot_npc_d9_elite_forces"
                 ],
                 "tagSetSourceFile": "Tags/PilotTags"
             },

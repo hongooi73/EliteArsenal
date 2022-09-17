@@ -3,7 +3,6 @@
         "items": [
             "unit_release",
             "unit_mech_s_tier",
-            "unit_medium",
             "unit_ready",
             "unit_lance_support",
             "unit_role_sniper",
@@ -14,7 +13,8 @@
             "unit_lance_tank",
             "unit_lance_assassin",
             "elite_arsenal",
-            "elite_arsenal_s_tier"
+            "elite_arsenal_s_tier",
+            "unit_light"
         ],
         "tagSetSourceFile": ""
     },

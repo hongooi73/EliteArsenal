@@ -3,7 +3,6 @@
         "items": [
             "unit_release",
             "unit_mech",
-            "unit_medium",
             "unit_ready",
             "unit_lance_support",
             "unit_role_sniper",
@@ -14,7 +13,8 @@
             "unit_lance_vanguard",
             "unit_lance_tank",
             "unit_lance_assassin",
-            "elite_arsenal"
+            "elite_arsenal",
+            "unit_light"
         ],
         "tagSetSourceFile": ""
     },

@@ -1,6 +1,13 @@
+## v3.1.0
+
+### Bug fixes
+
+- Fix tags for several Clan mechs to match their tonnage. This should result in fewer instances of heavy and assault mechs showing up in low-skull missions.
+
+
 ## v3.0.0
 
-## Changes
+### Changes
 
 - Elite and ace opfor pilots now get 10% and 20% damage reduction respectively when Elite Arsenal is enabled.
 - Increase damage buff for + and ++ variants of PPC Capaci(ta)tor to 25% and 35% respectively.
@@ -16,7 +23,7 @@
 - Some other mechs and vehicles have also been modified to mount Thunderbolts and Guardian ECM pods.
 - Some adjustments to opfor lance composition in regular and elite missions.
 
-## Bug fixes
+### Bug fixes
 
 - Swap the torso locations of the Intercept System and Passive Defensive Matrix in the Vapor Eagle X and S.
 - Fix some lancedefs that were erroneously spawning Elite Arsenal vehicles instead of mechs.

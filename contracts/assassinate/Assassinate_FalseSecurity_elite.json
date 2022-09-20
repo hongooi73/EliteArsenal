@@ -1159,8 +1159,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_cavalry_elite_arsenal",
-                        "lance_type_light_elite_arsenal"
+                        "lance_type_cavalry_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },

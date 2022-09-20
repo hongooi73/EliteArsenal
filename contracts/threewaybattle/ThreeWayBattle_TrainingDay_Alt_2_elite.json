@@ -5054,7 +5054,7 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_assault_elite_arsenal"
+                        "lance_type_battle_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },

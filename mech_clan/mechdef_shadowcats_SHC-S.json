@@ -199,7 +199,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Gear_AP_CLAN",
+            "ComponentDefID": "Gear_AP_CLAN_2",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
             "HardpointSlot": -1,

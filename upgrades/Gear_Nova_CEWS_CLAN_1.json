@@ -14,7 +14,7 @@
         "Details": "The rogue scientists of the Society developed the Nova CEWS after hearing about the C3 Systems used by the Inner Sphere. By combining elements of the Watchdog CEWS with a C3 system, they created a tool that could find enemy forces, hide the unit using it in an ECM bubble, and automatically provide targeting data to other friendly units. In addition, the Nova CEWS didn't require pre-configuration for the C3 capability; It could be programmed on the fly to respond to availability of friendly forces.",
         "Icon": "uixSvgIcon_equipment_TTS"
     },
-    "BonusValueA": "+ 2 Defense, Indirect Fire Immunity",
+    "BonusValueA": "+ 1 Evasion, Indirect Fire Immunity",
     "BonusValueB": "+ 1 Acc., + 25m View Dist.",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
@@ -40,7 +40,7 @@
                 "forcePathRebuild": false,
                 "forceVisRebuild": false,
                 "showInTargetPreview": false,
-                "showInStatusPanel": true
+                "showInStatusPanel": false
             },
             "effectType": "StatisticEffect",
             "Description": {
@@ -76,30 +76,24 @@
                 "range": 0,
                 "forcePathRebuild": false,
                 "forceVisRebuild": false,
-                "showInTargetPreview": false,
+                "showInTargetPreview": true,
                 "showInStatusPanel": true
             },
             "effectType": "StatisticEffect",
             "Description": {
-                "Id": "ECMEffect_Defense",
-                "Name": "HARDER TO HIT",
-                "Details": "Provides a +2 penalty to all attacks against this unit.",
-                "Icon": "uixSvgIcon_status_ECM-ghost"
+                "Id": "CEWSEffect_Evasion",
+                "Name": "NOVA CEWS",
+                "Details": "Enhanced evasion, accuracy, view distance and indirect fire immunity. Being sensor locked allows targeting by indirect fire.",
+                "Icon": "uixSvgIcon_equipment_TTS"
             },
             "nature": "Buff",
             "statisticData": {
                 "appliesEachTick": false,
                 "effectsPersistAfterDestruction": false,
-                "statName": "ToHitThisActor",
-                "operation": "Float_Add",
-                "modValue": "2.0",
-                "modType": "System.Single",
-                "additionalRules": "NotSet",
-                "targetCollection": "NotSet",
-                "targetWeaponCategory": "NotSet",
-                "targetWeaponType": "NotSet",
-                "targetAmmoCategory": "NotSet",
-                "targetWeaponSubType": "NotSet"
+                "statName": "EvasivePipsGainedAdditional",
+                "operation": "Int_Add",
+                "modValue": "1",
+                "modType": "System.Int32"
             },
             "tagData": null,
             "floatieData": null,
@@ -128,7 +122,7 @@
                 "forcePathRebuild": false,
                 "forceVisRebuild": false,
                 "showInTargetPreview": false,
-                "showInStatusPanel": true
+                "showInStatusPanel": false
             },
             "effectType": "StatisticEffect",
             "Description": {
@@ -179,7 +173,7 @@
                 "forcePathRebuild": false,
                 "forceVisRebuild": false,
                 "showInTargetPreview": false,
-                "showInStatusPanel": true
+                "showInStatusPanel": false
             },
             "effectType": "StatisticEffect",
             "Description": {

@@ -64,13 +64,13 @@
                 "forcePathRebuild": false,
                 "forceVisRebuild": false,
                 "showInTargetPreview": false,
-                "showInStatusPanel": true
+                "showInStatusPanel": false
             },
             "effectType": "StatisticEffect",
             "Description": {
                 "Id": "ProbeEffect_Accuracy",
-                "Name": "WEAPON HIT CHANCE IMPROVED",
-                "Details": "Weapon attacks have their hit improved by [AMT].",
+                "Name": "ACTIVE PROBE",
+                "Details": "Enhanced spotting range and weapon accuracy.",
                 "Icon": "uixSvgIcon_equipment_TTS"
             },
             "nature": "Buff",
@@ -115,7 +115,7 @@
                 "forcePathRebuild": false,
                 "forceVisRebuild": false,
                 "showInTargetPreview": false,
-                "showInStatusPanel": true
+                "showInStatusPanel": false
             },
             "effectType": "StatisticEffect",
             "Description": {

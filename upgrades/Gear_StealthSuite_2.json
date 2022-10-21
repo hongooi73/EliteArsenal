@@ -15,7 +15,7 @@
         "Icon": "uixSvgIcon_equipment_TTS"
     },
     "BonusValueA": "Stealth, Indirect Fire Immunity",
-    "BonusValueB": "+ 6 Def., - 15% Weapon Heat",
+    "BonusValueB": "+ 4 Def., - 15% Weapon Heat",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
     "PrefabIdentifier": "",
@@ -26,37 +26,6 @@
     "DisallowedLocations": "All",
     "CriticalComponent": false,
     "statusEffects": [
-        {
-            "durationData": {
-                "duration": -1,
-                "stackLimit": 1
-            },
-            "targetingData": {
-                "effectTriggerType": "Passive",
-                "specialRules": "Aura",
-                "auraEffectType": "ECM_GENERAL",
-                "effectTargetType": "AlliesWithinRange",
-                "range": 0.0,
-                "forcePathRebuild": false,
-                "forceVisRebuild": false,
-                "showInTargetPreview": true,
-                "showInStatusPanel": true
-            },
-            "effectType": "StatisticEffect",
-            "Description": {
-                "Id": "ECMEffect_IndirectImmunity",
-                "Name": "ECM MISSILE DEFENSE",
-                "Details": "This unit gains immunity to Indirect Fire. Being Sensor Locked removes this effect.",
-                "Icon": "uixSvgIcon_status_ECM-missileDef"
-            },
-            "statisticData": {
-                "statName": "IsIndirectImmune",
-                "operation": "Set",
-                "modValue": "true",
-                "modType": "System.Boolean"
-            },
-            "nature": "Buff"
-        },
         {
             "durationData": {
                 "duration": -1,
@@ -82,8 +51,8 @@
             "effectType": "StatisticEffect",
             "Description": {
                 "Id": "ECMEffect_Defense",
-                "Name": "HARDER TO HIT",
-                "Details": "Void Signature System: stealth, increased defense, reduced heat generation",
+                "Name": "VOID SIGNATURE SYSTEM",
+                "Details": "Stealth, enhanced defense, indirect fire immunity and reduced heat generation.",
                 "Icon": "uixSvgIcon_status_ECM-ghost"
             },
             "nature": "Buff",
@@ -92,7 +61,7 @@
                 "effectsPersistAfterDestruction": false,
                 "statName": "ToHitThisActor",
                 "operation": "Float_Add",
-                "modValue": "6.0",
+                "modValue": "3.0",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "NotSet",
@@ -109,6 +78,119 @@
             "poorlyMaintainedEffectData": null
         },
         {
+            "durationData" : {
+                "duration" : -1,
+                "ticksOnActivations" : false,
+                "useActivationsOfTarget" : false,
+                "ticksOnEndOfRound" : false,
+                "ticksOnMovements" : false,
+                "stackLimit" : 1,
+                "clearedWhenAttacked" : false
+            },
+            "targetingData" : {
+                "effectTriggerType" : "Passive",
+                "triggerLimit" : 0,
+                "extendDurationOnTrigger" : 0,
+                "specialRules" : "NotSet",
+                "effectTargetType" : "Creator",
+                "range" : 0,
+                "forcePathRebuild" : false,
+                "forceVisRebuild" : false,
+                "showInTargetPreview" : false,
+                "showInStatusPanel" : false
+            },
+            "effectType" : "StatisticEffect",
+            "Description" : {
+                "Id" : "Stealth_HeatReduction",
+                "Name" : "HEAT GENERATION DECREASED",
+                "Details" : "Heat generation reduced by [AMT].",
+                "Icon" : "uixSvgIcon_equipment_ThermalExchanger"
+            },
+            "nature" : "Buff",
+            "statisticData" : {
+                "appliesEachTick" : false,
+                "effectsPersistAfterDestruction" : false,
+                "statName" : "HeatGenerated",
+                "operation" : "Float_Multiply",
+                "modValue" : "0.95",
+                "modType" : "System.Single",
+                "additionalRules" : "NotSet",
+                "targetCollection" : "Weapon",
+                "targetWeaponCategory" : "NotSet",
+                "targetWeaponType" : "NotSet",
+                "targetAmmoCategory" : "NotSet",
+                "targetWeaponSubType" : "NotSet"
+            },
+            "tagData" : null,
+            "floatieData" : null,
+            "actorBurningData" : null,
+            "vfxData" : null,
+            "instantModData" : null,
+            "poorlyMaintainedEffectData" : null
+        },
+        {
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "specialRules": "Aura",
+                "auraEffectType": "ECM_GENERAL",
+                "effectTargetType": "AlliesWithinRange",
+                "range": 5.0,
+                "forcePathRebuild": false,
+                "forceVisRebuild": false,
+                "showInTargetPreview": false,
+                "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+                "Id": "ECMEffect_IndirectImmunity",
+                "Name": "ECM MISSILE DEFENSE",
+                "Details": "Friendly units within an ECM field gain +[AMT] Difficulty to missile attacks against them and immunity to Indirect Fire. Being Sensor Locked removes this effect.",
+                "Icon": "uixSvgIcon_status_ECM-missileDef"
+            },
+            "statisticData": {
+                "statName": "IsIndirectImmune",
+                "operation": "Set",
+                "modValue": "true",
+                "modType": "System.Boolean"
+            },
+            "nature": "Buff"
+        },
+        {
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "specialRules": "Aura",
+                "auraEffectType": "ECM_GENERAL",
+                "effectTargetType": "AlliesWithinRange",
+                "range": 5.0,
+                "forcePathRebuild": false,
+                "forceVisRebuild": false,
+                "showInTargetPreview": false,
+                "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+                "Id": "ECMEffect_MissileDefense",
+                "Name": "ECM MISSILE DEFENSE",
+                "Details": "Friendly units within an ECM field gain +[AMT] Difficulty to missile attacks against them and immunity to Indirect Fire. Being Sensor Locked removes this effect.",
+                "Icon": "uixSvgIcon_status_ECM-missileDef"
+            },
+            "statisticData": {
+                "statName": "ToHitThisActorMissile",
+                "operation": "Float_Add",
+                "modValue": "2.0",
+                "modType": "System.Single"
+            },
+            "nature": "Buff"
+        },
+        {
             "durationData": {
                 "duration": -1,
                 "stackLimit": 1
@@ -118,9 +200,9 @@
                 "specialRules": "Aura",
                 "auraEffectType": "ECM_GHOST",
                 "effectTargetType": "AlliesWithinRange",
-                "range": 0.0,
+                "range": 5.0,
                 "forcePathRebuild": false,
-                "forceVisRebuild": false,
+                "forceVisRebuild": true,
                 "showInTargetPreview": false,
                 "showInStatusPanel": false
             },
@@ -158,7 +240,7 @@
             "Description": {
                 "Id": "ECMStealth_GhostEffect",
                 "Name": "ECM CARRIER",
-                "Details": "PASSIVE: The ECM carrier projects an ECM field, building Stealth Charges for itself if it starts or ends its turn with no active enemy units within the field.\n\nECM carriers also receive a bonus Stealth Charge.",
+                "Details": "PASSIVE: The ECM carrier projects an ECM field, building Stealth Charges for itself and allies if it starts or ends its turn with no active enemy units within the field.\n\nECM carriers also receive a bonus Stealth Charge.",
                 "Icon": "uixSvgIcon_status_ECM-ghost"
             },
             "statisticData": {
@@ -170,55 +252,36 @@
             "nature": "Buff"
         },
         {
-            "durationData" : {
-                "duration" : -1,
-                "ticksOnActivations" : false,
-                "useActivationsOfTarget" : false,
-                "ticksOnEndOfRound" : false,
-                "ticksOnMovements" : false,
-                "stackLimit" : 1,
-                "clearedWhenAttacked" : false
+            "durationData": {
+                "duration": -1,
+                "stackLimit": -1,
+                "uniqueEffectIdStackLimit": 1
             },
-            "targetingData" : {
-                "effectTriggerType" : "Passive",
-                "triggerLimit" : 0,
-                "extendDurationOnTrigger" : 0,
-                "specialRules" : "NotSet",
-                "effectTargetType" : "Creator",
-                "range" : 0,
-                "forcePathRebuild" : false,
-                "forceVisRebuild" : false,
-                "showInTargetPreview" : false,
-                "showInStatusPanel" : false
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "specialRules": "Aura",
+                "auraEffectType": "ECM_COUNTER",
+                "effectTargetType": "EnemiesWithinRange",
+                "range": 100.0,
+                "forcePathRebuild": false,
+                "forceVisRebuild": true,
+                "showInTargetPreview": false,
+                "showInStatusPanel": false
             },
-            "effectType" : "StatisticEffect",
-            "Description" : {
-                "Id" : "Stealth_HeatReduction",
-                "Name" : "HEAT GENERATION DECREASED",
-                "Details" : "Heat generation reduced by [AMT].",
-                "Icon" : "uixSvgIcon_equipment_ThermalExchanger"
+            "effectType": "StatisticEffect",
+            "Description": {
+                "Id": "ECMCounter_GhostSpotterEffect",
+                "Name": "STEALTH SPOTTER",
+                "Details": "This unit is spotting against an enemy ECM field, reducing Stealth Charges by 1 each round for all visible enemies within the field.",
+                "Icon": "uixSvgIcon_action_sensorlock"
             },
-            "nature" : "Buff",
-            "statisticData" : {
-                "appliesEachTick" : false,
-                "effectsPersistAfterDestruction" : false,
-                "statName" : "HeatGenerated",
-                "operation" : "Float_Multiply",
-                "modValue" : "0.85",
-                "modType" : "System.Single",
-                "additionalRules" : "NotSet",
-                "targetCollection" : "Weapon",
-                "targetWeaponCategory" : "NotSet",
-                "targetWeaponType" : "NotSet",
-                "targetAmmoCategory" : "NotSet",
-                "targetWeaponSubType" : "NotSet"
+            "statisticData": {
+                "statName": "HasGhostSpotter",
+                "operation": "Set",
+                "modValue": "true",
+                "modType": "System.Boolean"
             },
-            "tagData" : null,
-            "floatieData" : null,
-            "actorBurningData" : null,
-            "vfxData" : null,
-            "instantModData" : null,
-            "poorlyMaintainedEffectData" : null
+            "nature": "Debuff"
         }
     ],
     "ComponentTags": {

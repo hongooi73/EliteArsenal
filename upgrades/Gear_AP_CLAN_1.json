@@ -15,7 +15,7 @@
         "Icon": "uixSvgIcon_equipment_Comms"
     },
     "BonusValueA": "+ Area Sensor Lock",
-    "BonusValueB": "+ 1 Acc., + 25m View Dist.",
+    "BonusValueB": "+ 1 Acc., + 20% Sensor Range",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
     "PrefabIdentifier": "",
@@ -70,7 +70,7 @@
             "Description": {
                 "Id": "ProbeEffect_Accuracy",
                 "Name": "ACTIVE PROBE",
-                "Details": "Enhanced spotting range and weapon accuracy.",
+                "Details": "Enhanced sensor range and weapon accuracy.",
                 "Icon": "uixSvgIcon_equipment_TTS"
             },
             "nature": "Buff",
@@ -120,17 +120,17 @@
             "effectType": "StatisticEffect",
             "Description": {
                 "Id": "ProbeEffect_ViewDistance",
-                "Name": "SPOTTING DISTANCE INCREASED",
-                "Details": "Increases spotting distance by [AMT]m.",
+                "Name": "NA",
+                "Details": "NA",
                 "Icon": "uixSvgIcon_equipment_Cockpit"
             },
             "nature": "Buff",
             "statisticData": {
                 "appliesEachTick": false,
                 "effectsPersistAfterDestruction": false,
-                "statName": "SpotterDistanceAbsolute",
-                "operation": "Float_Add",
-                "modValue": "25.0",
+                "statName": "SensorDistanceAbsolute",
+                "operation": "Float_Multiply",
+                "modValue": "1.2",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "NotSet",

@@ -15,7 +15,7 @@
         "Icon": "uixSvgIcon_equipment_TTS"
     },
     "BonusValueA": "+ 1 Evasion, - 10% Dmg.",
-    "BonusValueB": "+ 1 Acc.",
+    "BonusValueB": "+ 240m Weapon Short Range",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
     "PrefabIdentifier": "",
@@ -121,10 +121,6 @@
         {
             "durationData": {
                 "duration": -1,
-                "ticksOnActivations": false,
-                "useActivationsOfTarget": false,
-                "ticksOnEndOfRound": false,
-                "ticksOnMovements": false,
                 "stackLimit": 1,
                 "clearedWhenAttacked": false
             },
@@ -142,18 +138,18 @@
             },
             "effectType": "StatisticEffect",
             "Description": {
-                "Id": "ProbeEffect_Accuracy",
-                "Name": "WEAPON HIT CHANCE IMPROVED",
-                "Details": "Weapon attacks have their hit improved by [AMT].",
-                "Icon": "uixSvgIcon_equipment_TTS"
+                "Id": "CEWSEffect_ShortRangeBuff",
+                "Name": "SHORT RANGE INCREASE",
+                "Details": "NA",
+                "Icon": "UixSvgIcon_specialEquip_System"
             },
             "nature": "Buff",
             "statisticData": {
                 "appliesEachTick": false,
                 "effectsPersistAfterDestruction": false,
-                "statName": "AccuracyModifier",
+                "statName": "ShortRange",
                 "operation": "Float_Add",
-                "modValue": "-1.0",
+                "modValue": "240",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "Weapon",

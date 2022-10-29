@@ -223,20 +223,20 @@
                 "useActivationsOfTarget": false,
                 "ticksOnEndOfRound": false,
                 "ticksOnMovements": false,
-                "stackLimit": 4,
+                "stackLimit": -1,
                 "clearedWhenAttacked": false
             },
             "targetingData": {
                 "effectTriggerType": "Passive",
                 "effectTargetType": "AllLanceMates",
                 "showInTargetPreview": false,
-                "showInStatusPanel": false
+                "showInStatusPanel": true
             },
             "effectType": "StatisticEffect",
             "Description": {
                 "Id": "CEWSEffect_Accuracy",
                 "Name": "NETWORKED ACCURACY",
-                "Details": "Lance weapon attacks have their hit improved by [AMT].",
+                "Details": "Lance weapon attacks have their hit chance improved by [AMT].",
                 "Icon": "uixSvgIcon_equipment_TTS"
             },
             "nature": "Buff",

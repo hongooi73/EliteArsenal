@@ -4,7 +4,7 @@
 
 New in this release are upgrades for non-weapon items: Guardian ECM, active probe, anti-missile system, Nova CEWS, void signature system, and MASC. This goes together with the revisions to the stock items in the base Expanded Arsenal mod.
 
-The Guardian ECM pod confuses enemy targeting and tracking systems, thereby increasing a mech's hit defense and reducing incoming damage. Note that the Guardian ECM pod is a useful upgrade in isolation, rather than simply cancelling out enemy offensive electronics like in the tabletop game.
+The Guardian ECM suite confuses enemy targeting and tracking systems, thereby increasing a mech's hit defense and reducing incoming damage. Note that the ECM suite is a useful upgrade in isolation, rather than simply cancelling out enemy offensive electronics like in the tabletop game.
 - +Guardian ECM: +2 defense, 10% damage reduction
 - ++Guardian ECM: +3 defense, 10% damage reduction
 
@@ -12,17 +12,21 @@ The active probe enhances a mech's ability to detect and track enemies. It incre
 - +active probe: enhanced probe (300m range, 3 turn cooldown), +20% sensor range, +1 accuracy
 - ++active probe: enhanced probe (400m range, 2 turn cooldown), +30% sensor range, +2 accuracy
 
-The anti-missile system is a laser-based point-defense mechanism that targets and disables inbound missiles. Missiles that are not shot down outright are liable to have their fuzing and guidance systems scrambled, reducing their lethality.
+The anti-missile system is a laser-based point-defense mechanism that disables and destroys incoming missiles. Missiles that are not shot down outright are liable to have their fuzing and guidance systems scrambled, reducing their lethality.
 - +AMS: +5 defense and 20% damage reduction vs missiles
 - ++AMS: +6 defense and 25% damage reduction vs missiles
 
-The void signature system combines a self-only form of the stealth capability of the X-1 EW suite with the enhanced defenses of the Guardian ECM pod.
+The void signature system combines a self-only form of the stealth capability of the X-1 EW suite with the enhanced defenses of the Guardian ECM suite. The result is a sophisticated electronic warfare package that greatly enhances a mech's survivability.
 - +VSS: +3 defense, 10% damage reduction
 - ++VSS: +4 defense, 10% damage reduction
 
-The Nova CEWS gives a mech the ability to hook into the sensors of its lancemates. This greatly boosts situational awareness, allowing the pilot to more easily ancticipate enemy movements and attacks. More sophisticated variants can feed the combined data back into the network, improving the weapon accuracy of the entire lance.
+The Nova CEWS gives a mech the ability to hook into the sensors of its lancemates. This improves situational awareness, allowing the pilot to more easily anticipate enemy movements and attacks. More advanced variants can feed the combined data back into the network, boosting the weapon accuracy of the entire lance.
 - +Nova CEWS: +1 evasion, 10% damage reduction, +1 accuracy, +15% weapon optimal range
 - ++Nova CEWS: +1 evasion, 10% damage reduction, +1 accuracy, +30% weapon optimal range, +1 lancewide accuracy (stacking)
+
+MASC is a retrofitted musculature control pack that significantly boosts a mech's movement speed, with the downside of increased heat generation. More advanced variants reduce the waste heat output.
+- +MASC: +5% heat generated
+- ++MASC: +0% heat generated
 
 A number of X- and S-tier mechs have been modified to mount these items.
 

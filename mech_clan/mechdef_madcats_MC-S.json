@@ -289,7 +289,7 @@
         },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Gear_Guardian_ECM_CLAN",
+            "ComponentDefID": "Gear_Guardian_ECM_CLAN_2",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
             "HardpointSlot": -1,

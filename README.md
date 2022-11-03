@@ -261,7 +261,16 @@ Elite Arsenal includes the following upgrades of existing items from vanilla and
 - PPC Capacitator +, ++
 - Targeting Computer ++, +++
 - Artemis IV +, ++
+- Anti-Missile System +, ++
+- Guardian ECM Suite +, ++
 - Clan Artemis IV +, ++
+- Active Probe +, ++
+- MASC +, ++
+- Clan MASC +, ++
+- Clan Anti-Missile System +, ++
+- Clan Guardian ECM Suite +, ++
+- Clan Active Probe +, ++
+- Nova CEWS +, ++
 - Clan ER PPC +, ++
 - ER PPC +++
 - Heavy PPC +, ++

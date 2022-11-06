@@ -34,6 +34,7 @@ A number of X- and S-tier mechs have been modified to mount these items.
 ### Bug fixes
 
 - Fix tags for several Clan mechs to match their tonnage. This should result in fewer instances of heavy and assault mechs showing up in low-skull missions.
+- Add jump capability back to the S-tier Annihilator chassis.
 
 
 ## v3.0.0

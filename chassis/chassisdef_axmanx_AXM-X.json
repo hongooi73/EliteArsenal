@@ -49,7 +49,9 @@
     "Locations": [
         {
             "Location": "Head",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 6,
             "MaxArmor": 45,
@@ -90,7 +92,9 @@
         },
         {
             "Location": "CenterTorso",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 15,
             "MaxArmor": 210,
@@ -143,7 +147,9 @@
         },
         {
             "Location": "LeftLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 6,
             "MaxArmor": 150,
@@ -152,7 +158,9 @@
         },
         {
             "Location": "RightLeg",
-            "Hardpoints": [],
+            "Hardpoints": [
+
+            ],
             "Tonnage": 0,
             "InventorySlots": 6,
             "MaxArmor": 150,
@@ -207,7 +215,8 @@
     "VariantName": "AXM-X",
     "ChassisTags": {
         "items": [
-            "mr-resize-1.5"
+            "mr-resize-1.5",
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },
@@ -249,3 +258,4 @@
         }
     ]
 }
+

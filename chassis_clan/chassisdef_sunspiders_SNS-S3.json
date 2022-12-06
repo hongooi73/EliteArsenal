@@ -222,7 +222,7 @@
     "VariantName": "SNS-S3",
     "ChassisTags": {
         "items": [
-
+            "elite_arsenal_s_tier"
         ],
         "tagSetSourceFile": ""
     },

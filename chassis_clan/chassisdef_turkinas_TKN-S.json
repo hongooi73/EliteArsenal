@@ -193,7 +193,10 @@
 
     ],
     "ChassisTags": {
-        "items": "unit_mechtool",
+        "items": [
+            "unit_mechtool",
+            "elite_arsenal_s_tier"
+        ],
         "tagSetSourceFile": ""
     },
     "LOSSourcePositions": [

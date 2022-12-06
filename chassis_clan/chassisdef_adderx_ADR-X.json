@@ -340,7 +340,7 @@
     "VariantName": "ADR-X",
     "ChassisTags": {
         "items": [
-
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },

@@ -902,7 +902,7 @@
                         },
                         "customUnitName": "",
                         "customHeraldryDefId": "",
-                        "unitType": "Mech",
+                        "unitType": "Vehicle",
                         "unitDefId": "vehicledef_SCHREK",
                         "unitTagSet": {
                             "items": [

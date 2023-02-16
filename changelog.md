@@ -1,3 +1,10 @@
+## v4.0.1
+
+### Significant changes
+
+- Increase the number of hardpoints on some S-tier mechs, to make them more competitive. As a guideline, all S-tier assaults should have at least 10 non-support hardpoints, and 8 for smaller mechs.
+
+
 ## v4.0.0
 
 ### Changes

@@ -12,7 +12,7 @@
     "ammoCategoryID": "NotSet",
     "StartingAmmoCapacity": 0,
     "HeatGenerated": 18,
-    "Damage": 60,
+    "Damage": 55,
     "OverheatedDamageMultiplier": 0,
     "EvasiveDamageMultiplier": 0,
     "EvasivePipsIgnored": 0,
@@ -40,7 +40,7 @@
         "Details": "The Extended Range Medium Pulse Laser is the middleweight ER Pulse Laser created by the scientists of Clan Wolf. Like all pulse lasers, it offers the warrior using it a better chance of hitting a target. Unfortunately, the longer range of the weapon slightly reduces its accuracy when compared to traditional pulse laser weapons. An ER Medium Pulse Laser inflicts the same amount of damage as a typical Medium Pulse Laser, but at a slightly longer range and with a moderate heat increase.",
         "Icon": "uixSvgIcon_weapon_Energy"
     },
-    "BonusValueA": "+ 15 Dmg.",
+    "BonusValueA": "+ 10 Dmg.",
     "BonusValueB": "- 4 Heat",
     "ComponentType": "Weapon",
     "ComponentSubType": "Weapon",

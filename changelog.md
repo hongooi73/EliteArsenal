@@ -1,8 +1,19 @@
 ## v4.0.1
 
-### Significant changes
+### New equipment
+
+Add +/++ versions of the following weapons:
+- ER medium pulse laser (clan)
+- ER large pulse laser (clan)
+- Binary large laser
+- Medium X-pulse laser
+- Large X-pulse laser
+
+
+### Other significant changes
 
 - Increase the number of hardpoints on some S-tier mechs, to make them more competitive. As a guideline, all S-tier assaults should have at least 10 non-support hardpoints, and 8 for smaller mechs.
+- Increase the damage for +/++ clan medium and large pulse lasers.
 
 
 ## v4.0.0

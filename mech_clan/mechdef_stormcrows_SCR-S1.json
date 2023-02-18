@@ -123,7 +123,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserERPulse_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -134,7 +134,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserERPulse_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -167,7 +167,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserERPulse_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -178,7 +178,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserERPulse_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,

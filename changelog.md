@@ -8,6 +8,7 @@ Add +/++ versions of the following weapons:
 - Binary large laser
 - Medium X-pulse laser
 - Large X-pulse laser
+- MML3/5/7/9
 
 
 ### Other significant changes

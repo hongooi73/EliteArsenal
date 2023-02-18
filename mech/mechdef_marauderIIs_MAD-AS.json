@@ -135,7 +135,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_X_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -168,7 +168,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_X_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,

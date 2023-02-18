@@ -79,7 +79,18 @@
         {
             "Location": "LeftTorso",
             "Hardpoints": [
-
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Energy",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                }
             ],
             "Tonnage": 0,
             "InventorySlots": 10,
@@ -123,6 +134,10 @@
         {
             "Location": "RightArm",
             "Hardpoints": [
+                {
+                    "WeaponMount": "Missile",
+                    "Omni": false
+                },
                 {
                     "WeaponMount": "Missile",
                     "Omni": false

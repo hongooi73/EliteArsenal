@@ -20,7 +20,7 @@
     "InitialTonnage": 23.5,
     "weightClass": "ASSAULT",
     "BattleValue": 10581000,
-    "Heatsinks": 15,
+    "Heatsinks": 45,
     "TopSpeed": 60,
     "TurnRadius": 90,
     "MaxJumpjets": 2,

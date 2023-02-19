@@ -10,10 +10,22 @@ Add +/++ versions of the following weapons:
 - Large X-pulse laser
 - MML3/5/7/9
 
+### New mechs
+
+- Banshee X2/S2
+- Cephalus X/S
+- Griffin X2/S2
+- Hunchback X3/S3
+- Longbow X4/S4
+- Zeus YX/YS
+- Hellbringer X2/S2
+- Mad Cat X2/S2
+
 
 ### Other significant changes
 
 - Increase the number of hardpoints on some S-tier mechs, to make them more competitive. As a guideline, all S-tier assaults should have at least 10 non-support hardpoints, and 8 for smaller mechs.
+- All S-tier mechs now have 75 innate heatsinking, equivalent to having engine double heatsinks plus the 15 bonus for S-tier. This affects only IS mechs (all clan mechs have engine double heatsinks by default).
 - Increase the damage for +/++ clan medium and large pulse lasers.
 
 

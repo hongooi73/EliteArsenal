@@ -23,17 +23,16 @@ Add +/++ versions of the following weapons:
 
 ### Mech rebalancing
 
-Several mechs, mostly clan ones, have had their **hardpoint totals reduced**. Some of the original mod developers appear to have interpreted the "omnimech" designation literally, meaning that you should be allowed to put any weapon, anywhere. To enable this, they added multiple hardpoints to every location, so that a mech could have 30, 40 or more hardpoints in all. While this is indeed extremely flexible, it also makes it way too easy to boat large numbers of weapons, which is a winning build strategy in any incarnation of BattleTech.
+Several mechs have had their hardpoint totals changed:
 
-To deal with this, the affected mechs have had hardpoints reduced to a more reasonable number: usually less than 20. Note that this is far more that what most Inner Sphere mechs have, and should still allow good levels of boating (and yes, there are some clan mechs that are all about boating; these still exist).
-
-Conversely, some _other_ mechs (clearly originating from different developers) had anemic hardpoint allocations: as few as 2 or 4 in some cases, the minimum required for their stock loadout. These have had more hardpoints added, to make them more flexible.
+- As part of the hardpoint changes from Expanded Arsenal, many elite clan mechs have had their hardpoint totals reduced. See the [Expanded Arsenal changelog](https://github.com/hongooi73/ExpandedArsenal/blob/main/changelog.md) for more information.
+- Conversely, some S-tier mechs (mostly Inner Sphere ones, but also a few clan mechs) have had their hardpoint totals increased, to make them more competitive. As a guideline, all S-tier assaults should have at least 10 non-support hardpoints, and smaller mechs should have 8.
 
 ### Other significant changes
 
-- Increase the number of hardpoints on some S-tier mechs, to make them more competitive. As a guideline, all S-tier assaults should have at least 10 non-support hardpoints, and 8 for smaller mechs.
 - All S-tier mechs now have 75 innate heatsinking, equivalent to having engine double heatsinks plus the 15 bonus for S-tier. This affects only IS mechs (all clan mechs have engine double heatsinks by default).
 - Increase the damage for +/++ clan medium and large pulse lasers.
+- All upgraded Gauss weapons can now explode on a critical hit. This affects the + and ++heavy Gauss, and all HAGs.
 
 
 ## v4.0.0

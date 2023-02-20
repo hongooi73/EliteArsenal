@@ -10,6 +10,13 @@ Add +/++ versions of the following weapons:
 - Large X-pulse laser
 - MML3/5/7/9
 
+Add +++ versions of the following weapons:
+- PPC
+- ER PPC
+- Heavy PPC
+- Light PPC
+- ER PPC (clan)
+
 ### New mechs
 
 - Banshee X2/S2

@@ -9,6 +9,7 @@ Add +/++ versions of the following weapons:
 - Medium X-pulse laser
 - Large X-pulse laser
 - MML3/5/7/9
+- Silver Bullet rotary Gauss rifle
 
 Add +++ versions of the following weapons:
 - PPC
@@ -24,9 +25,11 @@ Add +++ versions of the following weapons:
 - Griffin X2/S2
 - Hunchback X3/S3
 - Longbow X4/S4
+- Marauder II BX/BS
 - Zeus YX/YS
 - Hellbringer X2/S2
 - Mad Cat X2/S2
+- Mad Dog X2/S2
 
 ### Mech rebalancing
 

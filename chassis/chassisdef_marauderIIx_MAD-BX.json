@@ -1,29 +1,43 @@
 {
     "Description": {
-        "Cost": 14100000,
-        "Rarity": 5,
+        "Cost": 13625000,
+        "Rarity": 3,
         "Purchasable": true,
         "Manufacturer": "",
         "Model": "",
-        "UIName": "Annihilator",
-        "Id": "chassisdef_annihilators_ANH-ES",
-        "Name": "Annihilator",
-        "Details": "Where the original Annihilator 1A carries four powerful autocannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
-        "Icon": "uixTxrIcon_annihilator"
+        "UIName": "Marauder II",
+        "Id": "chassisdef_marauderIIx_MAD-BX",
+        "Name": "Marauder II",
+        "Details": "Retaining only the two Magna Mk II Medium Lasers, the 5A variant of the Marauder II carries as its primary weapons a pair of Magna Firestar ER PPCs in its arms which give it a powerful long range punch compared to the 4A. The ER PPCs are backed up by a right torso mounted Mydron Excel LB-X Autocannon/10 which gives the Marauder II the tactical flexibility of using both solid and cluster rounds.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield.",
+        "Icon": "uixTxrIcon_marauderii"
     },
-    "MovementCapDefID": "movedef_annihilator_ANH-1A",
+    "FixedEquipment": [
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_General_Lance_Command_Module",
+            "SimGameUID": "",
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "IsFixed": true,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        }
+    ],
+    "MovementCapDefID": "movedef_marauderII_MAD-4A",
     "PathingCapDefID": "pathingdef_assault",
-    "HardpointDataDefID": "hardpointdatadef_annihilator",
-    "PrefabIdentifier": "chrPrfMech_annihilatorBase-001",
-    "PrefabBase": "annihilator",
+    "HardpointDataDefID": "hardpointdatadef_marauderii",
+    "PrefabIdentifier": "chrprfmech_marauderiibase-001",
+    "PrefabBase": "marauderii",
     "Tonnage": 100,
-    "InitialTonnage": 23.5,
+    "InitialTonnage": 26,
     "weightClass": "ASSAULT",
-    "BattleValue": 10581000,
-    "Heatsinks": 45,
-    "TopSpeed": 60,
+    "BattleValue": 10206000,
+    "Heatsinks": 0,
+    "TopSpeed": 105,
     "TurnRadius": 90,
-    "MaxJumpjets": 2,
+    "MaxJumpjets": 3,
     "Stability": 200,
     "StabilityDefenses": [
         0,
@@ -39,7 +53,7 @@
     "Signature": 0,
     "Radius": 8,
     "PunchesWithLeftArm": false,
-    "MeleeDamage": 95,
+    "MeleeDamage": 125,
     "MeleeInstability": 100,
     "MeleeToHitModifier": 0,
     "DFADamage": 125,
@@ -91,10 +105,7 @@
         {
             "Location": "LeftTorso",
             "Hardpoints": [
-                {
-                    "WeaponMount": "Energy",
-                    "Omni": false
-                }
+
             ],
             "Tonnage": 0,
             "InventorySlots": 10,
@@ -105,34 +116,31 @@
         {
             "Location": "CenterTorso",
             "Hardpoints": [
-                {
-                    "WeaponMount": "Energy",
-                    "Omni": false
-                },
-                {
-                    "WeaponMount": "Energy",
-                    "Omni": false
-                },
-                {
-                    "WeaponMount": "AntiPersonnel",
-                    "Omni": false
-                },
-                {
-                    "WeaponMount": "AntiPersonnel",
-                    "Omni": false
-                }
+
             ],
             "Tonnage": 0,
             "InventorySlots": 4,
-            "MaxArmor": 320,
-            "MaxRearArmor": 160,
-            "InternalStructure": 160
+            "MaxArmor": 310,
+            "MaxRearArmor": 155,
+            "InternalStructure": 155
         },
         {
             "Location": "RightTorso",
             "Hardpoints": [
                 {
-                    "WeaponMount": "Energy",
+                    "WeaponMount": "Ballistic",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "Ballistic",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
+                    "Omni": false
+                },
+                {
+                    "WeaponMount": "AntiPersonnel",
                     "Omni": false
                 }
             ],
@@ -198,69 +206,55 @@
     "LOSSourcePositions": [
         {
             "x": 0,
-            "y": 19,
+            "y": 18,
+            "z": 1
+        },
+        {
+            "x": 4,
+            "y": 16,
             "z": 0
         },
         {
-            "x": 4.5,
+            "x": -4,
             "y": 16,
-            "z": -0.5
-        },
-        {
-            "x": -4.5,
-            "y": 16,
-            "z": -0.5
+            "z": 0
         }
     ],
     "LOSTargetPositions": [
         {
             "x": 0,
-            "y": 19,
+            "y": 18,
+            "z": 1
+        },
+        {
+            "x": 4,
+            "y": 16,
             "z": 0
         },
         {
-            "x": 4.5,
+            "x": -4,
             "y": 16,
-            "z": -0.5
-        },
-        {
-            "x": -4.5,
-            "y": 16,
-            "z": -0.5
+            "z": 0
         },
         {
             "x": 3,
-            "y": 5.5,
-            "z": 1
+            "y": 6,
+            "z": 0
         },
         {
             "x": -3,
-            "y": 5.5,
-            "z": 1
+            "y": 6,
+            "z": 0
         }
     ],
-    "VariantName": "ANH-ES",
+    "VariantName": "MAD-BX",
     "ChassisTags": {
         "items": [
-            "elite_arsenal_s_tier"
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },
-    "StockRole": "Juggernaut & Siege Mech",
-    "YangsThoughts": "Where the original Annihilator 1A carries four powerful autocannons, the 1E instead opts for an entirely energy weapon configuration. With four PPCs, the ANH-1E has a brutal and incredibly lethal punch while the four Medium Lasers are retained for in-close protection.  Every spare bit of space is packed with Heatsinks and overall armor protection has been increased.<br><br>S-class mechs feature upgrades to their armour, thermal management and defensive systems that substantially improve their survivability on the 31st century battlefield.",
-    "FixedEquipment": [
-        {
-            "MountedLocation": "CenterTorso",
-            "ComponentDefID": "Gear_General_Optimized_Capacitors",
-            "SimGameUID": "",
-            "ComponentDefType": "Upgrade",
-            "HardpointSlot": -1,
-            "IsFixed": true,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        }
-    ]
+    "StockRole": "Sniper & Ranged Assault",
+    "YangsThoughts": "Retaining only the two Magna Mk II Medium Lasers, the 5A variant of the Marauder II carries as its primary weapons a pair of Magna Firestar ER PPCs in its arms which give it a powerful long range punch compared to the 4A. The ER PPCs are backed up by a right torso mounted Mydron Excel LB-X Autocannon/10 which gives the Marauder II the tactical flexibility of using both solid and cluster rounds.<br><br>X-class mechs feature upgrades to their armour and defensive systems that improve their survivability on the 31st century battlefield."
 }
 

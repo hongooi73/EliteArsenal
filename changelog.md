@@ -18,18 +18,29 @@ Add +++ versions of the following weapons:
 - Light PPC
 - ER PPC (clan)
 
-### New mechs
+### New mechs and vehicles
 
+Mechs:
+- Archangel X/S
 - Banshee X2/S2
 - Cephalus X/S
 - Griffin X2/S2
 - Hunchback X3/S3
+- Huron Warrior X/S
 - Longbow X4/S4
 - Marauder II BX/BS
+- Preta X/S
+- Septicemia X/S
 - Zeus YX/YS
 - Hellbringer X2/S2
 - Mad Cat X2/S2
 - Mad Dog X2/S2
+- Marauder IIC X/S
+
+Vehicles:
+- Behemoth S2
+- Heavy MML carrier S
+- Myrmidon X2/S2
 
 ### Mech rebalancing
 

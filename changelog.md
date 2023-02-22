@@ -36,6 +36,7 @@ Mechs:
 - Mad Cat X2/S2
 - Mad Dog X2/S2
 - Marauder IIC X/S
+- Osteon X/S
 
 Vehicles:
 - Behemoth S2

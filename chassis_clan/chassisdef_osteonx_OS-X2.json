@@ -6,9 +6,9 @@
         "Manufacturer": "",
         "Model": "",
         "UIName": "Osteon",
-        "Id": "chassisdef_osteons_OS-S",
+        "Id": "chassisdef_osteonx_OS-X2",
         "Name": "Osteon",
-        "Details": "The Osteon was The Society's assault-class OmniMech. To maximize the 'Mech's battlefield longevity, the designers focused on survivability above other considerations. Eighteen tons of Ferro-Lamellor armor provide excellent protection against weapons fire, but in case the armor is breached the Reinforced Structure will resist most attacks. In addition, the Torso-Mounted Cockpit allows the Osteon's pilot to take advantage of the heavy center torso armor. In the primary configuration, the huge ammunition bays are protected by CASE II systems, further insurance against critical damage. To maximize the Osteon's damage potential, a Nova CEWS allows the unit to share targeting data with friendly units. This equipment is so valuable that it's permanently mounted in the 'Mech's head.",
+        "Details": "The Osteon was The Society's assault-class OmniMech. To maximize the 'Mech's battlefield longevity, the designers focused on survivability above other considerations. Eighteen tons of Ferro-Lamellor armor provide excellent protection against weapons fire, but in case the armor is breached the Reinforced Structure will resist most attacks. The primary configuration uses a quartet of iATM 9 missile launchers as its primary armament. To maximize the Osteon's damage potential, a Nova CEWS allows the unit to share targeting data with friendly units. This equipment is so valuable that it's permanently mounted in the 'Mech's head.",
         "Icon": "uixTxrIcon_osteon"
     },
     "FixedEquipment": [
@@ -23,7 +23,7 @@
     "InitialTonnage": 29.5,
     "weightClass": "ASSAULT",
     "BattleValue": 8821000,
-    "Heatsinks": 45,
+    "Heatsinks": 30,
     "TopSpeed": 105,
     "TurnRadius": 90,
     "MaxJumpjets": 3,
@@ -259,14 +259,14 @@
             "z": 1
         }
     ],
-    "VariantName": "OS-S",
+    "VariantName": "OS-X2",
     "ChassisTags": {
         "items": [
-            "elite_arsenal_s_tier"
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },
-    "StockRole": "Juggernaut & Ranged Assault",
-    "YangsThoughts": "This configuration carries four Large Pulse Lasers. Unlike the Osteon-C this version lacks jump jets and the Targeting Computer. Instead it carries nineteen double heat sinks which allow it to stay in the fight for a long time."
+    "StockRole": "Ranged Assault",
+    "YangsThoughts": "The Osteon was The Society's assault-class OmniMech. To maximize the 'Mech's battlefield longevity, the designers focused on survivability above other considerations. Eighteen tons of Ferro-Lamellor armor provide excellent protection against weapons fire, but in case the armor is breached the Reinforced Structure will resist most attacks."
 }
 

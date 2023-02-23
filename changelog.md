@@ -25,18 +25,18 @@ Mechs:
 - Banshee X2/S2
 - Cephalus X/S
 - Griffin X2/S2
+- Hellbringer X2/S2
 - Hunchback X3/S3
 - Huron Warrior X/S
 - Longbow X4/S4
+- Mad Cat X2/S2
+- Mad Dog X2/S2
 - Marauder II BX/BS
+- Marauder IIC X/S
+- Osteon X1/X2/S1/S2
 - Preta X/S
 - Septicemia X/S
 - Zeus YX/YS
-- Hellbringer X2/S2
-- Mad Cat X2/S2
-- Mad Dog X2/S2
-- Marauder IIC X/S
-- Osteon X/S
 
 Vehicles:
 - Behemoth S2

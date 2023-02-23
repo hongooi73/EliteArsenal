@@ -6,7 +6,7 @@
         "Manufacturer": "",
         "Model": "",
         "UIName": "Osteon",
-        "Id": "chassisdef_osteonx_OS-X",
+        "Id": "chassisdef_osteonx_OS-X1",
         "Name": "Osteon",
         "Details": "The Osteon was The Society's assault-class OmniMech. To maximize the 'Mech's battlefield longevity, the designers focused on survivability above other considerations. Eighteen tons of Ferro-Lamellor armor provide excellent protection against weapons fire, but in case the armor is breached the Reinforced Structure will resist most attacks. In addition, the Torso-Mounted Cockpit allows the Osteon's pilot to take advantage of the heavy center torso armor. In the primary configuration, the huge ammunition bays are protected by CASE II systems, further insurance against critical damage. To maximize the Osteon's damage potential, a Nova CEWS allows the unit to share targeting data with friendly units. This equipment is so valuable that it's permanently mounted in the 'Mech's head.",
         "Icon": "uixTxrIcon_osteon"
@@ -259,7 +259,7 @@
             "z": 1
         }
     ],
-    "VariantName": "OS-X",
+    "VariantName": "OS-X1",
     "ChassisTags": {
         "items": [
             "elite_arsenal"

@@ -55,6 +55,7 @@ Several mechs have had their hardpoint totals changed:
 - All S-tier mechs now have 75 innate heatsinking, equivalent to having engine double heatsinks plus the 15 bonus for S-tier. This affects only IS mechs (all clan mechs have engine double heatsinks by default).
 - Increase the damage for +/++ clan medium and large pulse lasers.
 - All upgraded Gauss weapons can now explode on a critical hit. This affects the + and ++heavy Gauss, and all HAGs.
+- Add elite versions of the Target Acquisition contracts.
 
 
 ## v4.0.0

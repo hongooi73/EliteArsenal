@@ -32,10 +32,11 @@ Mechs:
 - Mad Cat X2/S2
 - Mad Dog X2/S2
 - Marauder II BX/BS
-- Marauder IIC X/S
+- Marauder IIC X/S (Battle Computer + Advanced Command Module)
 - Osteon X1/X2/S1/S2
 - Preta X/S
 - Septicemia X/S
+- Warhammer IIC X/S (Optimized Capacitors)
 - Zeus YX/YS
 
 Vehicles:

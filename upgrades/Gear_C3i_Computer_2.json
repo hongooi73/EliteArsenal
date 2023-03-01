@@ -14,7 +14,7 @@
         "Details": "The C3i was developed by ComStar around 3052 from Draconis Combine technology and entered ComStar (and Word of Blake) production in 3062. While expanding its military strength to ward off the Clan Invasion, the Com Guards found their current C3 master computer incapable of handling the complexities of senary (base-6) units. At first the Com Guards utilized a combination of master and slave units until they were able to miniaturize both into the improved C3 computer. Some of the prototypes were quickly smuggled to the Word of Blake, who reverse engineered the technology for its own needs.",
         "Icon": "uixSvgIcon_equipment_TTS"
     },
-    "BonusValueA": "+ 1 Init., + 2 Acc., + 1 Acc. (Lance)",
+    "BonusValueA": "+ 1 Init. (Lance), + 2 Acc., + 1 Acc. (Lance)",
     "BonusValueB": "+ 30% Weapon Optimal Range",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
@@ -41,7 +41,7 @@
                 "triggerLimit": 0,
                 "extendDurationOnTrigger": 0,
                 "specialRules": "NotSet",
-                "effectTargetType": "Creator",
+                "effectTargetType": "AllLanceMates",
                 "range": 0,
                 "forcePathRebuild": false,
                 "forceVisRebuild": false,

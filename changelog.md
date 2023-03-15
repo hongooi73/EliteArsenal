@@ -23,6 +23,7 @@ Add +++ versions of the following weapons:
 Mechs:
 - Archangel X/S
 - Banshee X2/S2
+- Cicada X/S
 - Cephalus X/S
 - Griffin X2/S2
 - Hellbringer X2/S2

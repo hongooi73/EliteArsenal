@@ -87,6 +87,10 @@
             "Type": "MechDef",
             "Path": "mech_fp",
             "AddToDB": true
+        },
+        {
+            "Type": "AdvancedJSONMerge",
+            "Path": "contractmerge"
         }
     ]
 }

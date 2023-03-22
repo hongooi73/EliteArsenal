@@ -1,0 +1,132 @@
+{
+    "Description": {
+        "Id": "lancedef_mech_d2_dynamic_lightFire_0_EA_EliteSS",
+        "Name": "Dynamic Dif 2 Light Fire EliteSS 0",
+        "Details": "",
+        "Icon": "",
+        "Cost": 0,
+        "Rarity": 0,
+        "Purchasable": false
+    },
+    "Difficulty": 2,
+    "LanceTags": {
+        "items": [
+            "lance_bracket_low",
+            "lance_type_fire_elite_arsenal_ss",
+            "lance_type_light_elite_arsenal_ss",
+            "lance_type_dynamic",
+            "lance_type_mech_elite_arsenal_ss",
+            "lance_type_notallvehicles_elite_arsenal_ss",
+            "lance_type_defense_elite_arsenal_ss",
+            "difficulty_2",
+            "elite",
+            "elite_arsenal_ss"
+        ],
+        "tagSetSourceFile": "Tags/LanceTags"
+    },
+    "LanceUnits": [
+        {
+            "unitType": "Mech",
+            "unitId": "Tagged",
+            "unitSimGameID": null,
+            "pilotId": "Tagged",
+            "pilotSimGameID": null,
+            "unitTagSet": {
+                "items": [
+                    "unit_light",
+                    "unit_mech_s_tier",
+                    "elite_arsenal",
+                    "elite_arsenal_s_tier"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_noncombatant",
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d3_ace"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "locked": false
+        },
+        {
+            "unitType": "Mech",
+            "unitId": "Tagged",
+            "unitSimGameID": null,
+            "pilotId": "Tagged",
+            "pilotSimGameID": null,
+            "unitTagSet": {
+                "items": [
+                    "unit_light",
+                    "unit_mech_s_tier",
+                    "elite_arsenal",
+                    "elite_arsenal_s_tier"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_noncombatant",
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d3_ace"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "locked": false
+        },
+        {
+            "unitType": "Mech",
+            "unitId": "Tagged",
+            "unitSimGameID": null,
+            "pilotId": "Tagged",
+            "pilotSimGameID": null,
+            "unitTagSet": {
+                "items": [
+                    "unit_light",
+                    "unit_mech_s_tier",
+                    "elite_arsenal",
+                    "elite_arsenal_s_tier"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "excludedUnitTagSet": {
+                "items": [
+                    "unit_noncombatant",
+                    "unit_urbie"
+                ],
+                "tagSetSourceFile": "Tags/UnitTags"
+            },
+            "pilotTagSet": {
+                "items": [
+                    "pilot_npc_d3_ace"
+                ],
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "excludedPilotTagSet": {
+                "items": null,
+                "tagSetSourceFile": "Tags/PilotTags"
+            },
+            "locked": false
+        }
+    ]
+}
+

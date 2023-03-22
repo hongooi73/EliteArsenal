@@ -91,6 +91,18 @@
         {
             "Type": "AdvancedJSONMerge",
             "Path": "contractmerge"
+        },
+        {
+            "Type": "FlashpointDef",
+            "Path": "flashpoints"
+        },
+        {
+            "Type": "SimGameConversations",
+            "Path": "simGameConversations"
+        },
+        {
+            "Type": "SimGameMilestoneSet",
+            "Path": "milestoneSets"
         }
     ]
 }

@@ -9,7 +9,7 @@ Add +/++ versions of the following weapons:
 - Medium X-pulse laser
 - Large X-pulse laser
 - MML3/5/7/9
-- Silver Bullet rotary Gauss rifle
+- Silver Bullet Gauss rifle
 
 Add +++ versions of the following weapons:
 - PPC
@@ -25,6 +25,7 @@ Mechs:
 - Banshee X2/S2
 - Cicada X/S
 - Cephalus X/S
+- Crusader X2/S2
 - Griffin X2/S2
 - Hellbringer X2/S2
 - Hunchback X3/S3

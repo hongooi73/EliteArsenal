@@ -28,6 +28,7 @@ Mechs:
 - Crusader X2/S2
 - Deva X1/X2/X3/S1/S2/S3
 - Griffin X2/S2
+- Grigori X1/X2/S1/S2
 - Hellbringer X2/S2
 - Hunchback X3/S3
 - Huron Warrior X/S

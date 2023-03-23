@@ -11,7 +11,13 @@ mechdef_banshees_BNC-S2,MechPart,1,1
 mechdef_blackknights_BL-KNT-S,MechPart,1,1
 mechdef_corsairs_COR-S,MechPart,1,1
 mechdef_crusaders_CRD-S,MechPart,1,1
+mechdef_crusaders_CRD-S2,MechPart,1,1
+mechdef_devas_C-DVA-S1,MechPart,1,1
+mechdef_devas_C-DVA-S2,MechPart,1,1
+mechdef_devas_C-DVA-S3,MechPart,1,1
 mechdef_fafnirs_FNR-S,MechPart,1,1
+mechdef_grigoris_C-GRG-S1,MechPart,1,1
+mechdef_grigoris_C-GRG-S2,MechPart,1,1
 mechdef_hatamotochis_HTM-S,MechPart,1,1
 mechdef_jagermechs_JM6-SS,MechPart,1,1
 mechdef_kingcrabs_KGC-S,MechPart,1,1

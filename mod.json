@@ -9,7 +9,7 @@
         "Elite Forces -Aces High-",
         "Mission Control",
         "IRTweaks",
-        // "DropTonnageRewardAndLimitOnDifficulty"
+        "DropTonnageRewardAndLimitOnDifficulty"
     ],
     "RequiredContentPacks": [
         "flashpoint",

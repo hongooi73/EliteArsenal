@@ -6,13 +6,36 @@
         "Manufacturer": "",
         "Model": "",
         "UIName": "Preta",
-        "Id": "chassisdef_pretas_C-PRT-S",
+        "Id": "chassisdef_pretax_C-PRT-X2",
         "Name": "Preta",
         "Details": "The Preta (which means ghost in Hindi) is the second-lightest in the Word of Blake's new Celestial series of OmniMechs, which are primarily piloted by Manei Domini. As with the other Celestials, the Preta was designed by Doctor Devon Cortland. Like the others, this 'Mech is full of brand new, 3069-era technology, featuring a C3i Computer and a small cockpit. It is built on a lightweight Endo Steel chassis and uses a light fusion engine for power. For protection, the Preta uses nine tons of standard armor.",
         "Icon": "uixTxrIcon_preta"
     },
     "FixedEquipment": [
-
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_JumpJet_Vectored_Thrust_Kit",
+            "SimGameUID": "",
+            "ComponentDefType": "JumpJet",
+            "HardpointSlot": -1,
+            "IsFixed": true,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Gear_JumpJet_Vectored_Thrust_Kit",
+            "SimGameUID": "",
+            "ComponentDefType": "JumpJet",
+            "HardpointSlot": -1,
+            "IsFixed": true,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        }
     ],
     "MovementCapDefID": "movedef_preta",
     "PathingCapDefID": "pathingdef_medium",
@@ -23,7 +46,7 @@
     "InitialTonnage": 22.5,
     "weightClass": "MEDIUM",
     "BattleValue": 7749000,
-    "Heatsinks": 45,
+    "Heatsinks": 30,
     "TopSpeed": 90,
     "TurnRadius": 90,
     "MaxJumpjets": 6,
@@ -215,10 +238,10 @@
             "z": 0.5
         }
     ],
-    "VariantName": "C-PRT-S",
+    "VariantName": "C-PRT-X2",
     "ChassisTags": {
         "items": [
-            "elite_arsenal_s_tier"
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },

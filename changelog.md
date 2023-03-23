@@ -35,6 +35,7 @@ Mechs:
 - Longbow X4/S4
 - Mad Cat X2/S2
 - Mad Dog X2/S2
+- Malak X/S
 - Marauder X3/S3
 - Marauder II BX/BS
 - Marauder IIC X/S (Battle Computer + Advanced Command Module)

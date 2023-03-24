@@ -18,6 +18,7 @@
             "lance_type_dynamic",
             "difficulty_4",
             "elite",
+            "elite_arsenal",
             "elite_arsenal_ss"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

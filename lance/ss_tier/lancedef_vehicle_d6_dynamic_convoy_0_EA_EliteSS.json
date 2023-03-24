@@ -14,6 +14,7 @@
             "lance_type_convoy_elite_arsenal_ss",
             "difficulty_6",
             "elite",
+            "elite_arsenal",
             "elite_arsenal_ss"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

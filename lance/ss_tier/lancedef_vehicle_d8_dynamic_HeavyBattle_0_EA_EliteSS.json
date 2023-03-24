@@ -18,6 +18,7 @@
             "lance_type_vehicle_elite_arsenal_ss",
             "difficulty_8",
             "elite",
+            "elite_arsenal",
             "elite_arsenal_ss"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

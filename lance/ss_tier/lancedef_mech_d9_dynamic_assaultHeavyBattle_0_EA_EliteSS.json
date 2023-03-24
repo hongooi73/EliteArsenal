@@ -20,6 +20,7 @@
             "lance_type_defense_elite_arsenal_ss",
             "difficulty_9",
             "elite",
+            "elite_arsenal",
             "elite_arsenal_ss"
         ],
         "tagSetSourceFile": "Tags/LanceTags"

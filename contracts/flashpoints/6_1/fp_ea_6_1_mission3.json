@@ -568,8 +568,9 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_battle_elite_arsenal_ss",
-                        "lance_type_notallvehicles_elite_arsenal_ss"
+                        "lance_type_battle_elite_arsenal",
+                        "lance_type_notallvehicles_elite_arsenal",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -771,8 +772,9 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_support_elite_arsenal_ss",
-                        "lance_type_notallvehicles_elite_arsenal_ss"
+                        "lance_type_support_elite_arsenal",
+                        "lance_type_notallvehicles_elite_arsenal",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },

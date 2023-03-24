@@ -3763,7 +3763,8 @@
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_convoy",
-                        "lance_type_turret"
+                        "lance_type_turret",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -3967,7 +3968,8 @@
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4181,7 +4183,7 @@
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4385,7 +4387,8 @@
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4588,7 +4591,7 @@
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4792,7 +4795,8 @@
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4996,7 +5000,8 @@
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5211,7 +5216,8 @@
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5415,7 +5421,8 @@
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5619,7 +5626,8 @@
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5823,7 +5831,8 @@
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6049,7 +6058,7 @@
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6254,7 +6263,8 @@
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_convoy",
-                        "lance_type_turret"
+                        "lance_type_turret",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6469,7 +6479,8 @@
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6673,7 +6684,8 @@
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },

@@ -206,7 +206,9 @@
     ],
     "VariantName": "CDA-X",
     "ChassisTags": {
-        "items": [],
+        "items": [
+            "elite_arsenal"
+        ],
         "tagSetSourceFile": ""
     },
     "StockRole": "Scout & Sniper",

@@ -22,7 +22,7 @@
             "elite_arsenal",
             "elite_arsenal_ss"
         ],
-        "tagSetSourceFile": "mc_force_extended_lance"
+        "tagSetSourceFile": "Tags/LanceTags"
     },
     "LanceUnits": [
         {

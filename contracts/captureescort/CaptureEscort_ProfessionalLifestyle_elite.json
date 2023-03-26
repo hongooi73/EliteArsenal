@@ -1093,7 +1093,7 @@
                     "items": [
                         "lance_type_convoy_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
@@ -1306,7 +1306,7 @@
                     "items": [
                         "lance_type_battle_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
@@ -1508,7 +1508,7 @@
                     "items": [
                         "lance_type_support_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
@@ -1710,7 +1710,7 @@
                     "items": [
                         "lance_type_battle_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [

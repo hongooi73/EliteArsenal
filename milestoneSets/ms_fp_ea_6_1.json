@@ -336,7 +336,7 @@
                     "Stats" : null,
                     "Actions" : [
                         {
-                            "Type" : "Flashpoint_AddContract",
+                            "Type" : "Flashpoint_StartContract",
                             "value" : "",
                             "valueConstant" : null,
                             "additionalValues" : [

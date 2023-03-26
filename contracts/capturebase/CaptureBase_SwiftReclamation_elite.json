@@ -974,7 +974,7 @@
                         "lance_type_recon_elite_arsenal",
                         "lance_type_notallvehicles_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
@@ -1177,7 +1177,7 @@
                         "lance_type_battle_elite_arsenal",
                         "lance_type_mech_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
@@ -1379,7 +1379,7 @@
                     "items": [
                         "lance_type_turret"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [

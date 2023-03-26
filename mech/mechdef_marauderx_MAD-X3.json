@@ -243,9 +243,20 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Gear_C3i_Computer_1",
+            "ComponentDefID": "Gear_Nova_CEWS_CLAN_1",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Gear_HeatSink_CorrosiveDouble",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
             "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",

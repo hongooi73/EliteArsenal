@@ -1,6 +1,6 @@
 {
     "ID": "fp_ea_6_1_mission2",
-    "contractName": "Warzone Alpha: Mission 2 (+)",
+    "contractName": "Warzone Alpha: Mission 2 (+ +)",
     "contractDisplayStyle": "BaseFlashpoint",
     "difficulty": 2,
     "difficultyUIModifier": 0,
@@ -13,7 +13,7 @@
     "goodFaithStatementOverride": null,
     "shortDescription": "A convoy of {TEAM_EMP.FactionDef.Demonym} doctors ministering to those recovering from the recent conflicts here in {TGT_SYSTEM.name} have become caught behind enemy lines when the cease fire collapsed. A lance of mechs tasked with the rescue have gone missing, so we are desperate for assistance from anyone.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "Desperation is good for business. I'd guess a broken cease-fire means we're likely to encounter military units on our way to the pickup; stay alert, Commander.",
-    "salvagePotential": 23,
+    "salvagePotential": 19,
     "requirementList": [
 
     ],
@@ -362,7 +362,7 @@
             "encounterChunk": {
                 "EncounterObjectGuid": "66728491-3cff-4ba8-b173-a6a386ce2c73"
             },
-            "enableChunkFromContract": true,
+            "enableChunkFromContract": false,
             "controlledByContractChunkGroupList": [
 
             ],
@@ -971,13 +971,13 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_convoy_elite_arsenal_ss"
+                        "lance_type_convoy_elite_arsenal"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -1184,8 +1184,9 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_battle_elite_arsenal_ss",
-                        "lance_type_notallvehicles_elite_arsenal_ss"
+                        "lance_type_battle_elite_arsenal",
+                        "lance_type_notallvehicles_elite_arsenal",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -1387,8 +1388,9 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_battle_elite_arsenal_ss",
-                        "lance_type_notallvehicles_elite_arsenal_ss"
+                        "lance_type_battle_elite_arsenal",
+                        "lance_type_notallvehicles_elite_arsenal",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -1590,8 +1592,9 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_cavalry_elite_arsenal_ss",
-                        "lance_type_notallvehicles_elite_arsenal_ss"
+                        "lance_type_cavalry_elite_arsenal",
+                        "lance_type_notallvehicles_elite_arsenal",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },

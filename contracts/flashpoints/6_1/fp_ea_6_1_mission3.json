@@ -1,6 +1,6 @@
 {
     "ID": "fp_ea_6_1_mission3",
-    "contractName": "Warzone Alpha: Mission 3 (+)",
+    "contractName": "Warzone Alpha: Mission 3 (+ +)",
     "contractDisplayStyle": "BaseFlashpoint",
     "difficulty": 5,
     "difficultyUIModifier": 0,
@@ -13,7 +13,7 @@
     "goodFaithStatementOverride": null,
     "shortDescription": "Satellite surveillance pictures show that a heavy lance was inserted onto the planet's surface by a {TEAM_TAR.FactionDef.Demonym} DropShip. Currently we believe they're securing their LZ, preparing for whatever operation they have planned. Before they finish securing the area, we'd like you to interrupt them. They're heavily armed so expect strong resistance.\n\n<b>This is a highly dangerous operation that will involve fighting elite enemy units. A 50% bonus payment has been authorized on completion of the primary objective.<\/b>",
     "longDescription": "If they just set down, they may not be battle-ready; we might catch them with their metaphorical pants down.",
-    "salvagePotential": 19,
+    "salvagePotential": 15,
     "requirementList": [
 
     ],

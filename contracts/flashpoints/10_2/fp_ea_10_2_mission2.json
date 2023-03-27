@@ -1036,20 +1036,19 @@
                 "lanceDefId": "Tagged",
                 "lanceTagSet": {
                     "items": [
-                        "lance_type_turret",
-                        "elite_arsenal_ss"
+                        "lance_type_turret"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
                 "spawnEffectTags": {
                     "items": [
-
+                        "spawn_poorly_maintained_50"
                     ],
                     "tagSetSourceFile": "tags/SpawnEffectTags"
                 },

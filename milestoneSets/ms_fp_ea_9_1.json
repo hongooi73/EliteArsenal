@@ -753,7 +753,7 @@
                     "Actions" : null,
                     "ForceEvents" : null,
                     "TemporaryResult" : true,
-                    "ResultDuration" : 60
+                    "ResultDuration" : 365
                 }
             ],
             "Repeatable" : false,

@@ -1,25 +1,28 @@
 {
     "Description" : {
-        "Id" : "fp_ea_6_1",
-        "Name" : "Warzone Alpha",
+        "Id" : "fp_ea_7_1",
+        "Name" : "Warzone Gamma",
         "Details" : "Elite Arsenal flashpoint",
         "Icon" : null
     },
     "Weight" : 100,
-    "InternalName" : "ea_6_1",
+    "InternalName" : "ea_7_1",
     "PublishState" : "PUBLISHED",
-    "Difficulty" : 6,
+    "Difficulty" : 7,
     "Requirements" : [
         {
             "Scope" : "Company",
             "RequirementTags" : {
                 "tagSetSourceFile" : "",
-                "items" : []
+                "items" : [
+                    "flashpoint_ea_6_1_complete",
+                    "flashpoint_ea_6_2_complete"
+                ]
             },
             "ExclusionTags" : {
                 "tagSetSourceFile" : "",
                 "items" : [
-                    "flashpoint_ea_6_1_timeout"
+                    "flashpoint_ea_7_1_timeout"
                 ]
             },
             "RequirementComparisons" : []
@@ -30,7 +33,7 @@
         "RequirementTags" : {
             "tagSetSourceFile" : "Tags/CompanyTags",
             "items" : [
-                "planet_faction_restoration"
+                "planet_faction_taurian"
             ]
         },
         "ExclusionTags" : {
@@ -43,13 +46,13 @@
         "RequirementComparisons" : []
     },
     "PotentialEmployers" : [
-        "AuriganRestoration"
+        "TaurianConcordat"
     ],
     "TargetFaction" : "WordOfBlake",
     "AllowRefitTime" : false,
     "FlashpointLength" : "MEDIUM",
     "Repeatable" : true,
-    "MilestoneSetID" : "ms_fp_ea_6_1",
+    "MilestoneSetID" : "ms_fp_ea_7_1",
     "UseAvailableTimeoutOverride" : true,
     "AvailableTimeout" : 180,
     "UseInProgressTimeoutOverride" : true,
@@ -57,7 +60,7 @@
     "RewardCollectionID" : "itemCollection_fp_6",
     "UnitDropTonnageHint" : "None",
     "LanceDropTonnageHint" : "None",
-    "FlashpointShortDescription" : "Lady Kamea Arano urgently requests our aid to defeat a Word of Blake incursion.",
+    "FlashpointShortDescription" : "The Taurian Concordat is preparing an attack against Word of Blake forces that have occupied a Taurian world.",
     "FlashpointDescriberCastDefId" : "castDef_DariusDefault",
     "Tags" : {
         "tagSetSourceFile" : "tags/FlashpointTags",

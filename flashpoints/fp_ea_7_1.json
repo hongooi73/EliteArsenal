@@ -57,7 +57,7 @@
     "AvailableTimeout" : 180,
     "UseInProgressTimeoutOverride" : true,
     "InProgressTimeout" : 30,
-    "RewardCollectionID" : "itemCollection_fp_6",
+    "RewardCollectionID" : "itemCollection_fp_7",
     "UnitDropTonnageHint" : "None",
     "LanceDropTonnageHint" : "None",
     "FlashpointShortDescription" : "The Taurian Concordat is preparing an attack against Word of Blake forces that have occupied a Taurian world.",

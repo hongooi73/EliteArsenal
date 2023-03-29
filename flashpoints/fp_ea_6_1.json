@@ -22,7 +22,14 @@
                     "flashpoint_ea_6_1_timeout"
                 ]
             },
-            "RequirementComparisons" : []
+            "RequirementComparisons" : [
+                {
+                    "obj" : "Reputation.MercenaryReviewBoard",
+                    "op" : "GreaterThan",
+                    "val" : 500,
+                    "valueConstant" : "500"
+                }
+            ]
         }
     ],
     "LocationRequirements" : {

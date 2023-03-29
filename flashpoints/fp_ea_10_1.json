@@ -1,12 +1,12 @@
 {
     "Description" : {
-        "Id" : "fp_ea_9_1",
-        "Name" : "Warzone Eta",
+        "Id" : "fp_ea_10_1",
+        "Name" : "Warzone Iota",
         "Details" : "Elite Arsenal flashpoint",
         "Icon" : null
     },
     "Weight" : 100,
-    "InternalName" : "ea_9_1",
+    "InternalName" : "ea_10_1",
     "PublishState" : "PUBLISHED",
     "Difficulty" : 9,
     "Requirements" : [
@@ -15,14 +15,14 @@
             "RequirementTags" : {
                 "tagSetSourceFile" : "",
                 "items" : [
-                    "flashpoint_ea_8_1_complete",
-                    "flashpoint_ea_8_2_complete"
+                    "flashpoint_ea_9_1_complete",
+                    "flashpoint_ea_9_2_complete"
                 ]
             },
             "ExclusionTags" : {
                 "tagSetSourceFile" : "",
                 "items" : [
-                    "flashpoint_ea_9_1_timeout"
+                    "flashpoint_ea_10_1_timeout"
                 ]
             },
             "RequirementComparisons" : []
@@ -33,7 +33,7 @@
         "RequirementTags" : {
             "tagSetSourceFile" : "Tags/CompanyTags",
             "items" : [
-                "planet_faction_liao"
+                "planet_faction_marik"
             ]
         },
         "ExclusionTags" : {
@@ -46,21 +46,21 @@
         "RequirementComparisons" : []
     },
     "PotentialEmployers" : [
-        "Liao"
+        "Marik"
     ],
     "TargetFaction" : "WordOfBlake",
     "AllowRefitTime" : false,
     "FlashpointLength" : "LONG",
     "Repeatable" : true,
-    "MilestoneSetID" : "ms_fp_ea_9_1",
+    "MilestoneSetID" : "ms_fp_ea_10_1",
     "UseAvailableTimeoutOverride" : true,
     "AvailableTimeout" : 180,
     "UseInProgressTimeoutOverride" : true,
     "InProgressTimeout" : 30,
-    "RewardCollectionID" : "itemCollection_fp_9",
+    "RewardCollectionID" : "itemCollection_fp_10",
     "UnitDropTonnageHint" : "None",
     "LanceDropTonnageHint" : "None",
-    "FlashpointShortDescription" : "The Capellan Confederation is recruiting mercenaries to liberate a planet captured by the Word of Blake.",
+    "FlashpointShortDescription" : "A Marik world is under attack by the Word of Blake and must be defended.",
     "FlashpointDescriberCastDefId" : "castDef_DariusDefault",
     "Tags" : {
         "tagSetSourceFile" : "tags/FlashpointTags",

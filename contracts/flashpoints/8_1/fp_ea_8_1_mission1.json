@@ -247,7 +247,7 @@
             "encounterChunk": {
                 "EncounterObjectGuid": "a4e9541a-082c-491f-bb80-2f1241b0c349"
             },
-            "enableChunkFromContract": true,
+            "enableChunkFromContract": false,
             "controlledByContractChunkGroupList": [
 
             ],
@@ -316,7 +316,7 @@
             "overrideDialogueBucketId": "",
             "dialogueContent": [
                 {
-                    "words": "Commander, our employer reports that their operative is still alive, so if we rescue them, we get a bonus.",
+                    "words": "Damn. Commander, I just got an update from our employer. The operative's dead.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -348,7 +348,7 @@
                     "revealRadius": -1
                 },
                 {
-                    "words": "Heartbeat monitor. They're under a lot of stress, probably being tortured, so we'll need to move it if we're going to save them.",
+                    "words": "Apparently they had some kind of device that started signaling when their heart stopped. They left the key on an automated broadcast loop, though, so we can still make the pickup.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -364,7 +364,7 @@
                     "revealRadius": -1
                 },
                 {
-                    "words": "The key is transmitting from this location on a continuous loop; just get someone into the area and it will upload to your 'Mech automatically.",
+                    "words": "Order a 'Mech into this region and the key will be uploaded to it automatically.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -380,23 +380,7 @@
                     "revealRadius": -1
                 },
                 {
-                    "words": "The heartbeat monitor is transmitting from this location; if you decide to rescue the operative, move into the area and pick them up.",
-                    "wordsColor": {
-                        "r": 1,
-                        "g": 1,
-                        "b": 1,
-                        "a": 1
-                    },
-                    "selectedCastDefId": "castDef_DariusDefault",
-                    "emote": "Default",
-                    "audioName": "NONE",
-                    "cameraFocusGuid": "ef65cf21-ed27-4d27-89eb-14aa4da61e93",
-                    "cameraDistance": "Far",
-                    "cameraHeight": "Default",
-                    "revealRadius": -1
-                },
-                {
-                    "words": "Keep the 'Mechs intact until you reach the extraction LZ, where Sumire will pick you up. Good luck, Commander.",
+                    "words": "Keep that 'Mech intact until you reach the extraction LZ, where Sumire will pick you up. Good luck, Commander.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -421,7 +405,7 @@
             "overrideDialogueBucketId": "",
             "dialogueContent": [
                 {
-                    "words": "The key is safe. Well done, Commander.",
+                    "words": "We've got the key. Too bad about the operative.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -429,6 +413,22 @@
                         "a": 1
                     },
                     "selectedCastDefId": "castDef_DariusDefault",
+                    "emote": "Default",
+                    "audioName": "NONE",
+                    "cameraFocusGuid": "",
+                    "cameraDistance": "Far",
+                    "cameraHeight": "Default",
+                    "revealRadius": -1
+                },
+                {
+                    "words": "I loathe the priorities given to us by our employers, that allow us to call this a victory.",
+                    "wordsColor": {
+                        "r": 1,
+                        "g": 1,
+                        "b": 1,
+                        "a": 1
+                    },
+                    "selectedCastDefId": "castDef_FarahDefault",
                     "emote": "Default",
                     "audioName": "NONE",
                     "cameraFocusGuid": "",
@@ -487,7 +487,7 @@
             "overrideDialogueBucketId": "",
             "dialogueContent": [
                 {
-                    "words": "That's it, Commander. The key is onboard. Keep that 'Mech alive.",
+                    "words": "That's it, Commander. The 'Mech has the key aboard. Get out of there immediately, and keep that 'Mech alive.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
@@ -628,30 +628,14 @@
             "overrideDialogueBucketId": "",
             "dialogueContent": [
                 {
-                    "words": "Shit! That... that was the unit carrying the operative, wasn't it?",
+                    "words": "That's it, mech recovering our Secondary Target is scraped. S&R will look for what's left. That objective is failed. Focus on the Primary.",
                     "wordsColor": {
                         "r": 1,
                         "g": 1,
                         "b": 1,
                         "a": 1
                     },
-                    "selectedCastDefId": "castDef_SumireDefault",
-                    "emote": "Default",
-                    "audioName": "NONE",
-                    "cameraFocusGuid": "",
-                    "cameraDistance": "Far",
-                    "cameraHeight": "Default",
-                    "revealRadius": -1
-                },
-                {
-                    "words": "We never even found out their name. Sometimes I hate this business.",
-                    "wordsColor": {
-                        "r": 1,
-                        "g": 1,
-                        "b": 1,
-                        "a": 1
-                    },
-                    "selectedCastDefId": "castDef_FarahDefault",
+                    "selectedCastDefId": "castDef_DariusDefault",
                     "emote": "Default",
                     "audioName": "NONE",
                     "cameraFocusGuid": "",
@@ -715,7 +699,6 @@
                 "lanceDifficultyAdjustment": 0,
                 "selectedLanceDefId": null,
                 "selectedLanceDifficulty": 0,
-                "overrideSpawnMethod": null,
                 "unitSpawnPointOverrideList": [
                     {
                         "unitSpawnPoint": {
@@ -951,10 +934,9 @@
                     ],
                     "tagSetSourceFile": "tags/SpawnEffectTags"
                 },
-                "lanceDifficultyAdjustment": 2,
+                "lanceDifficultyAdjustment": 1,
                 "selectedLanceDefId": null,
                 "selectedLanceDifficulty": 0,
-                "overrideSpawnMethod": null,
                 "unitSpawnPointOverrideList": [
                     {
                         "unitSpawnPoint": {
@@ -1158,7 +1140,6 @@
                 "lanceDifficultyAdjustment": 2,
                 "selectedLanceDefId": null,
                 "selectedLanceDifficulty": 0,
-                "overrideSpawnMethod": null,
                 "unitSpawnPointOverrideList": [
                     {
                         "unitSpawnPoint": {

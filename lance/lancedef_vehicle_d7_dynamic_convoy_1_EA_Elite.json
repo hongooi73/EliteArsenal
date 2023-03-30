@@ -35,7 +35,8 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_urbie"
+                    "unit_urbie",
+                    "wordofblake_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

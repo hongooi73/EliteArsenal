@@ -40,7 +40,8 @@
                 "items": [
                     "unit_light",
                     "unit_medium",
-                    "unit_noncombatant"
+                    "unit_noncombatant",
+                    "wordofblake_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

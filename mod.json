@@ -28,6 +28,11 @@
             "AddToDB": true
         },
         {
+            "Type": "MechDef",
+            "Path": "mech_wob",
+            "AddToDB": true
+        },
+        {
             "Type": "ChassisDef",
             "Path": "chassis",
             "AddToDB": true
@@ -35,6 +40,11 @@
         {
             "Type": "ChassisDef",
             "Path": "chassis_clan",
+            "AddToDB": true
+        },
+        {
+            "Type": "ChassisDef",
+            "Path": "chassis_wob",
             "AddToDB": true
         },
         {

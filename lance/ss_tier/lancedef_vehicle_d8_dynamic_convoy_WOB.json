@@ -36,7 +36,8 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_urbie"
+                    "unit_urbie",
+                    "wordofblake_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -68,7 +69,8 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_urbie"
+                    "unit_urbie",
+                    "wordofblake_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },
@@ -145,7 +147,7 @@
             }
         },
         {
-            "unitType": "Mech",
+            "unitType": "Vehicle",
             "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {
@@ -171,7 +173,7 @@
             }
         },
         {
-            "unitType": "Mech",
+            "unitType": "Vehicle",
             "unitId": "Tagged",
             "pilotId": "Tagged",
             "unitTagSet": {

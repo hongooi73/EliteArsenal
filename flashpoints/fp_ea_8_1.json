@@ -8,7 +8,7 @@
     "Weight" : 100,
     "InternalName" : "ea_8_1",
     "PublishState" : "PUBLISHED",
-    "Difficulty" : 7,
+    "Difficulty" : 8,
     "Requirements" : [
         {
             "Scope" : "Company",

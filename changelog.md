@@ -21,7 +21,7 @@ Add +++ versions of the following weapons:
 ### New mechs and vehicles
 
 Mechs:
-- Archangel X/S
+- Archangel X/X2/X3/S/S2/S3
 - Banshee X2/S2
 - Cicada X/S
 - Cephalus X/S

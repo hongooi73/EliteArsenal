@@ -7,7 +7,7 @@
     },
     "Weight" : 100,
     "InternalName" : "ea_6_2",
-    "PublishState" : "PUBLISHED",
+    "PublishState" : "UNPUBLISHED",
     "Difficulty" : 6,
     "Requirements" : [
         {
@@ -26,8 +26,8 @@
                 {
                     "obj" : "Reputation.MercenaryReviewBoard",
                     "op" : "GreaterThan",
-                    "val" : 500,
-                    "valueConstant" : "500"
+                    "val" : 600,
+                    "valueConstant" : "600"
                 }
             ]
         }

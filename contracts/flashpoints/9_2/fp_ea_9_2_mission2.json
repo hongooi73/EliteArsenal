@@ -904,7 +904,7 @@
                         "lance_type_vehicle_elite_arsenal",
                         "elite_arsenal_ss"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
@@ -1312,7 +1312,7 @@
                         "lance_type_notallvehicles_elite_arsenal",
                         "elite_arsenal_ss"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [

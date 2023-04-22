@@ -155,6 +155,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_assault",
+                    "unit_vehicle",
                     "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
@@ -181,6 +182,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_assault",
+                    "unit_vehicle",
                     "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"

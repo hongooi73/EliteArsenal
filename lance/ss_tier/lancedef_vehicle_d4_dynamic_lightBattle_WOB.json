@@ -163,6 +163,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_heavy",
+                    "unit_vehicle",
                     "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
@@ -189,6 +190,7 @@
             "unitTagSet": {
                 "items": [
                     "unit_heavy",
+                    "unit_vehicle",
                     "elite_arsenal"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"

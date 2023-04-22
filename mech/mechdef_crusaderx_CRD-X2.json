@@ -2,14 +2,13 @@
     "MechTags": {
         "items": [
             "unit_generic",
-            "unit_mech_s_tier",
+            "unit_mech",
             "unit_heavy",
             "unit_lance_tank",
             "unit_role_brawler",
             "unit_jumpOK",
             "unit_release",
-            "elite_arsenal",
-            "elite_arsenal_s_tier"
+            "elite_arsenal"
         ],
         "tagSetSourceFile": ""
     },

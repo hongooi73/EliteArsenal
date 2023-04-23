@@ -31,7 +31,7 @@
     "PrefabIdentifier": "chrprfmech_warhammeriicbase-001",
     "PrefabBase": "warhammeriic",
     "Tonnage": 80,
-    "InitialTonnage": 34,
+    "InitialTonnage": 23,
     "weightClass": "ASSAULT",
     "BattleValue": 6577000,
     "Heatsinks": 45,

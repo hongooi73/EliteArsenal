@@ -41,19 +41,19 @@
         {
             "DamageLevel": "Functional",
             "Location": "LeftArm",
-            "CurrentArmor": 110,
+            "CurrentArmor": 125,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 65,
-            "AssignedArmor": 110,
+            "AssignedArmor": 125,
             "AssignedRearArmor": -1
         },
         {
             "DamageLevel": "Functional",
             "Location": "LeftTorso",
-            "CurrentArmor": 110,
+            "CurrentArmor": 135,
             "CurrentRearArmor": 50,
             "CurrentInternalStructure": 85,
-            "AssignedArmor": 110,
+            "AssignedArmor": 135,
             "AssignedRearArmor": 50
         },
         {
@@ -68,19 +68,19 @@
         {
             "DamageLevel": "Functional",
             "Location": "RightTorso",
-            "CurrentArmor": 110,
+            "CurrentArmor": 135,
             "CurrentRearArmor": 50,
             "CurrentInternalStructure": 85,
-            "AssignedArmor": 110,
+            "AssignedArmor": 135,
             "AssignedRearArmor": 50
         },
         {
             "DamageLevel": "Functional",
             "Location": "RightArm",
-            "CurrentArmor": 110,
+            "CurrentArmor": 125,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 65,
-            "AssignedArmor": 110,
+            "AssignedArmor": 125,
             "AssignedRearArmor": -1
         },
         {
@@ -138,7 +138,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -204,9 +204,31 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserER_Clantech_2",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_Clantech_2",
             "SimGameUID": "",
             "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Weapon_LRM_ATM3_CLAN_2",
+            "SimGameUID": "",
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM_Half",
+            "SimGameUID": "",
+            "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": 0,
             "GUID": null,
             "DamageLevel": "Functional",
@@ -269,6 +291,17 @@
             "hasPrefabName": false
         },
         {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_Hybrid_Defensive_Package_1",
+            "SimGameUID": null,
+            "ComponentDefType": "Upgrade",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
             "MountedLocation": "RightTorso",
             "ComponentDefID": "Gear_PPC_Capacitator_2",
             "SimGameUID": null,
@@ -281,17 +314,6 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Gear_Hybrid_Defensive_Package_1",
-            "SimGameUID": null,
-            "ComponentDefType": "Upgrade",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "LeftTorso",
             "ComponentDefID": "Gear_TargetingTrackingSystem_CLAN_3",
             "SimGameUID": null,
             "ComponentDefType": "Upgrade",
@@ -339,6 +361,28 @@
             "ComponentDefID": "Gear_JumpJet_Generic_Heavy",
             "SimGameUID": null,
             "ComponentDefType": "JumpJet",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftLeg",
+            "ComponentDefID": "Gear_HeatSink_Generic_Thermal-Exchanger-II",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightLeg",
+            "ComponentDefID": "Gear_HeatSink_Generic_Thermal-Exchanger-II",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
             "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",

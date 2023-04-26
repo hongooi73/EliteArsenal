@@ -1,6 +1,5 @@
 itemCollection_fp_hvyasltparts,type,qty,weight
 mechdef_annihilators_ANH-ES,MechPart,1,1
-mechdef_archangels_C-ANG-S,MechPart,1,1
 mechdef_archers_ARC-RS,MechPart,1,1
 mechdef_archers_ARC-SS,MechPart,1,1
 mechdef_arguss_AGS-S,MechPart,1,1
@@ -12,12 +11,7 @@ mechdef_blackknights_BL-KNT-S,MechPart,1,1
 mechdef_corsairs_COR-S,MechPart,1,1
 mechdef_crusaders_CRD-S,MechPart,1,1
 mechdef_crusaders_CRD-S2,MechPart,1,1
-mechdef_devas_C-DVA-S1,MechPart,1,1
-mechdef_devas_C-DVA-S2,MechPart,1,1
-mechdef_devas_C-DVA-S3,MechPart,1,1
 mechdef_fafnirs_FNR-S,MechPart,1,1
-mechdef_grigoris_C-GRG-S1,MechPart,1,1
-mechdef_grigoris_C-GRG-S2,MechPart,1,1
 mechdef_hatamotochis_HTM-S,MechPart,1,1
 mechdef_jagermechs_JM6-SS,MechPart,1,1
 mechdef_kingcrabs_KGC-S,MechPart,1,1

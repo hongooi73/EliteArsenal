@@ -1,4 +1,12 @@
-## v4.0.1
+## v5.0.0
+
+### Elite flashpoints
+
+Version 5.0 adds **repeatable elite flashpoints** as a new type of content.
+
+An elite flashpoint is basically a sequence of elite contracts that see you fighting against the Word of Blake's Jihad, who have access to mechs and gear not seen elsewhere. After completing an elite flashpoint, it will become available again after 365 days. The location of the flashpoint is random, as are the biomes for each contract. There are 8 such flashpoints, with skull ratings from 3 to 4.5; completing lower-rated flashpoints will unlock higher-rated ones, as well as flashpoints in the bundled mods for LAMs and superheavies.
+
+The repeatable elite flashpoints are relatively barebones in terms of story, dialogue and customisation; they are really "super-contracts" intended to provide a capstone experience for endgame players. By contrast, the LAM and superheavy flashpoints _do_ tell a story, with branching decision points and extensive dialogue with your shipmates and external NPCs.
 
 ### New equipment
 

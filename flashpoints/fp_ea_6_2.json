@@ -5,7 +5,7 @@
         "Details" : "Elite Arsenal flashpoint",
         "Icon" : null
     },
-    "Weight" : 100,
+    "Weight" : 10,
     "InternalName" : "ea_6_2",
     "PublishState" : "PUBLISHED",
     "Difficulty" : 6,
@@ -14,7 +14,9 @@
             "Scope" : "Company",
             "RequirementTags" : {
                 "tagSetSourceFile" : "",
-                "items" : []
+                "items" : [
+                    "flashpoint_ea_6_1_complete"
+                ]
             },
             "ExclusionTags" : {
                 "tagSetSourceFile" : "",
@@ -22,14 +24,7 @@
                     "flashpoint_ea_6_2_timeout"
                 ]
             },
-            "RequirementComparisons" : [
-                {
-                    "obj" : "Reputation.MercenaryReviewBoard",
-                    "op" : "GreaterThan",
-                    "val" : 600,
-                    "valueConstant" : "600"
-                }
-            ]
+            "RequirementComparisons" : []
         }
     ],
     "LocationRequirements" : {

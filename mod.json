@@ -113,10 +113,6 @@
         {
             "Type": "SimGameMilestoneSet",
             "Path": "milestoneSets"
-        },
-        {
-            "Type": "BaseDescriptionDef",
-            "Path": "lore"
         }
     ]
 }

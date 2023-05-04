@@ -1,0 +1,11 @@
+{
+    "TargetID": "starsystemdef_Lindsay",
+    "Instructions": [
+        {
+            "JSONPath": "SystemShopItems",
+            "Action": "ArrayAdd",
+            "Value": "itemCollection_manufacturing_EliteA"
+        }
+    ]
+}
+

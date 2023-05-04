@@ -1,0 +1,11 @@
+{
+    "TargetID": "starsystemdef_UrCruinne",
+    "Instructions": [
+        {
+            "JSONPath": "SystemShopItems",
+            "Action": "ArrayAdd",
+            "Value": "itemCollection_mining_EliteA"
+        }
+    ]
+}
+

@@ -1,0 +1,16 @@
+{
+    "TargetID": "starsystemdef_EarlyDawn",
+    "Instructions": [
+        {
+            "JSONPath": "SystemShopItems",
+            "Action": "ArrayAdd",
+            "Value": "itemCollection_chemicals_EliteA"
+        },
+        {
+            "JSONPath": "SystemShopItems",
+            "Action": "ArrayAdd",
+            "Value": "itemCollection_electronics_EliteA"
+        }
+    ]
+}
+

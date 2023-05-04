@@ -1,0 +1,11 @@
+{
+    "TargetID": "starsystemdef_Ingonish",
+    "Instructions": [
+        {
+            "JSONPath": "SystemShopItems",
+            "Action": "ArrayAdd",
+            "Value": "itemCollection_research_EliteA"
+        }
+    ]
+}
+

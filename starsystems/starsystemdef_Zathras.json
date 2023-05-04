@@ -1,0 +1,11 @@
+{
+    "TargetID": "starsystemdef_Zathras",
+    "Instructions": [
+        {
+            "JSONPath": "SystemShopItems",
+            "Action": "ArrayAdd",
+            "Value": "itemCollection_electronics_EliteA"
+        }
+    ]
+}
+

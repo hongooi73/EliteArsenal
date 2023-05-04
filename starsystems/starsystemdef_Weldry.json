@@ -1,10 +1,10 @@
 {
-    "TargetID": "starsystemdef_Mechdur_Contested",
+    "TargetID": "starsystemdef_Weldry",
     "Instructions": [
         {
             "JSONPath": "SystemShopItems",
             "Action": "ArrayAdd",
-            "Value": "itemCollection_Master_EliteA"
+            "Value": "itemCollection_manufacturing_EliteA"
         }
     ]
 }

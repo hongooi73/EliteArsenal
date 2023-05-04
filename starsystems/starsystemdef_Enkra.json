@@ -1,0 +1,11 @@
+{
+    "TargetID": "starsystemdef_Enkra",
+    "Instructions": [
+        {
+            "JSONPath": "SystemShopItems",
+            "Action": "ArrayAdd",
+            "Value": "itemCollection_chemicals_EliteA"
+        }
+    ]
+}
+

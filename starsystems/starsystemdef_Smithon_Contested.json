@@ -1,0 +1,11 @@
+{
+    "TargetID": "starsystemdef_Smithon_Contested",
+    "Instructions": [
+        {
+            "JSONPath": "SystemShopItems",
+            "Action": "ArrayAdd",
+            "Value": "itemCollection_mining_EliteA"
+        }
+    ]
+}
+

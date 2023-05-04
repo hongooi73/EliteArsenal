@@ -1,0 +1,11 @@
+{
+    "TargetID": "starsystemdef_NewGanymede",
+    "Instructions": [
+        {
+            "JSONPath": "SystemShopItems",
+            "Action": "ArrayAdd",
+            "Value": "itemCollection_research_EliteA"
+        }
+    ]
+}
+

@@ -4,7 +4,7 @@
         {
             "JSONPath": "SystemShopItems",
             "Action": "ArrayAdd",
-            "Value": "itemCollection_Master_EliteA"
+            "Value": "itemCollection_mining_EliteA"
         }
     ]
 }

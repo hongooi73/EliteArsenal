@@ -4,9 +4,11 @@
 
 Version 5.0 adds **repeatable elite flashpoints** as a new type of content.
 
-An elite flashpoint is basically a sequence of elite contracts that see you fighting against the Word of Blake's Jihad, who have access to mechs and gear not seen elsewhere. After completing an elite flashpoint, it will become available again after 365 days. The location of the flashpoint is random, as are the biomes for each contract. There are 8 such flashpoints, with skull ratings from 3 to 4.5; completing lower-rated flashpoints will unlock higher-rated ones, as well as flashpoints in the bundled mods for LAMs and superheavies.
+An elite flashpoint is basically a sequence of elite contracts that pits you against the Word of Blake's Jihad. After completing an elite flashpoint, it will become available again after 365 days. The location of the flashpoint is random, as are the biomes for each contract.
 
-The repeatable elite flashpoints are relatively barebones in terms of story, dialogue and customisation; they are really "super-contracts" intended to provide a capstone experience for endgame players. By contrast, the LAM and superheavy flashpoints _do_ tell a story, with branching decision points and extensive dialogue with your shipmates and external NPCs.
+Elite flashpoints are meant to be top-tier endgame content, beyond even elite contracts in difficulty: the Word of Blake uses demi-lances that are 50% larger than normal lances, and has access to mechs and gear not seen elsewhere. They provide further progression if you've managed to overcome 5-skull elite contracts. There are 8 such flashpoints, with nominal skull ratings from 3 to 4.5; completing lower-rated flashpoints will unlock higher-rated ones, as well as flashpoints in the bundled mods for LAMs and superheavies.
+
+The flashpoints in Elite Arsenal are relatively barebones in terms of story, dialogue and customisation. By contrast, the LAM and superheavy flashpoints _do_ tell a story, with branching decision points and extensive dialogue with your shipmates and external NPCs.
 
 ### New equipment
 
@@ -65,6 +67,17 @@ Several mechs have had their hardpoint totals changed:
 
 - As part of the hardpoint changes from Expanded Arsenal, many elite clan mechs have had their hardpoint totals reduced. See the [Expanded Arsenal changelog](https://github.com/hongooi73/ExpandedArsenal/blob/main/changelog.md) for more information.
 - Conversely, some S-tier mechs (mostly Inner Sphere ones, but also a few clan mechs) have had their hardpoint totals increased, to make them more competitive. As a guideline, all S-tier assaults should have at least 10 non-support hardpoints, and smaller mechs should have 8.
+
+### Stores
+
+The store system has been reworked to be closer to the vanilla game. Elite Arsenal items are now available on worlds with "Advanced" progression in the following categories:
+
+- Chemicals: missile weapons
+- Electronics: laser weapons, targeting computer, Artemis IV
+- Industrial: machine guns
+- Mining: autocannon
+- Research: PPCs, advanced electronics gear
+- Star League: Gauss weapons
 
 ### Other significant changes
 

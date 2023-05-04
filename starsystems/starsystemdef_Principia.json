@@ -1,0 +1,16 @@
+{
+    "TargetID": "starsystemdef_Principia",
+    "Instructions": [
+        {
+            "JSONPath": "SystemShopItems",
+            "Action": "ArrayAdd",
+            "Value": "itemCollection_electronics_EliteA"
+        },
+        {
+            "JSONPath": "SystemShopItems",
+            "Action": "ArrayAdd",
+            "Value": "itemCollection_mining_EliteA"
+        }
+    ]
+}
+

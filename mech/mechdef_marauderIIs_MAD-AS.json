@@ -124,7 +124,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_2",
+            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_3",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -135,7 +135,7 @@
         },
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_X_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
@@ -157,7 +157,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_2",
+            "ComponentDefID": "Weapon_PPC_PPC_HEAVY_3",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -168,7 +168,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_2-Magna400P",
+            "ComponentDefID": "Weapon_Laser_MediumLaserPulse_X_2",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,

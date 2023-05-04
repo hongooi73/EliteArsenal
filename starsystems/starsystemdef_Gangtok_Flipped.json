@@ -1,0 +1,11 @@
+{
+    "TargetID": "starsystemdef_Gangtok_Flipped",
+    "Instructions": [
+        {
+            "JSONPath": "SystemShopItems",
+            "Action": "ArrayAdd",
+            "Value": "itemCollection_chemicals_EliteA"
+        }
+    ]
+}
+

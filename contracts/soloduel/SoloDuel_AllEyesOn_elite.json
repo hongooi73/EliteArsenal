@@ -48,7 +48,7 @@
     "encounterPlayStyle": "SinglePlayer",
     "maxNumberOfPlayerUnits": 1,
     "lanceMinTonnage": -1,
-    "lanceMaxTonnage": -1,
+    "lanceMaxTonnage": 400,
     "mechMinTonnages": [
         -1,
         -1,
@@ -401,11 +401,11 @@
                         "lance_type_assault_elite_arsenal",
                         "lance_type_mech_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },

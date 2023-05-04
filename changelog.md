@@ -1,8 +1,90 @@
-## v4.0.1
+## v5.0.0
 
-### Significant changes
+### Elite flashpoints
 
-- Increase the number of hardpoints on some S-tier mechs, to make them more competitive. As a guideline, all S-tier assaults should have at least 10 non-support hardpoints, and 8 for smaller mechs.
+Version 5.0 adds **repeatable elite flashpoints** as a new type of content.
+
+An elite flashpoint is basically a sequence of elite contracts that pits you against the Word of Blake's Jihad. After completing an elite flashpoint, it will become available again after 365 days. The location of the flashpoint is random, as are the biomes for each contract.
+
+Elite flashpoints are meant to be top-tier endgame content, beyond even elite contracts in difficulty: the Word of Blake uses demi-lances that are 50% larger than normal lances, and has access to mechs and gear not seen elsewhere. They provide further progression if you've managed to overcome 5-skull elite contracts. There are 8 such flashpoints, with nominal skull ratings from 3 to 4.5; completing lower-rated flashpoints will unlock higher-rated ones, as well as flashpoints in the bundled mods for LAMs and superheavies.
+
+The flashpoints in Elite Arsenal are relatively barebones in terms of story, dialogue and customisation. By contrast, the LAM and superheavy flashpoints _do_ tell a story, with branching decision points and extensive dialogue with your shipmates and external NPCs.
+
+### New equipment
+
+Add +/++ versions of the following weapons:
+- ER medium pulse laser (clan)
+- ER large pulse laser (clan)
+- Binary large laser
+- Medium X-pulse laser
+- Large X-pulse laser
+- MML3/5/7/9
+- Silver Bullet Gauss rifle
+
+Add +++ versions of the following weapons:
+- PPC
+- ER PPC
+- Heavy PPC
+- Light PPC
+- ER PPC (clan)
+
+### New mechs and vehicles
+
+Mechs:
+- Archangel X/X2/X3/S/S2/S3
+- Banshee X2/S2
+- Cicada X/S
+- Cephalus X/S
+- Crusader X2/S2
+- Deva X1/X2/X3/S1/S2/S3
+- Griffin X2/S2
+- Grigori X1/X2/S1/S2
+- Hellbringer X2/S2
+- Hunchback X3/S3
+- Huron Warrior X/S
+- Longbow X4/S4
+- Mad Cat X2/S2
+- Mad Dog X2/S2
+- Malak X/S
+- Marauder X3/S3
+- Marauder II BX/BS
+- Marauder IIC X/S (Battle Computer + Advanced Command Module)
+- Osteon X1/X2/S1/S2
+- Preta X1/X2/S1/S2 (Vectored Thrust Kit)
+- Septicemia X/S
+- Seraph X1/X2/X3/S1/S2/S3
+- Warhammer IIC X/S (Optimized Capacitors)
+- Zeus YX/YS
+
+Vehicles:
+- Behemoth S2
+- Heavy MML carrier S
+- Myrmidon X2/S2
+
+### Mech rebalancing
+
+Several mechs have had their hardpoint totals changed:
+
+- As part of the hardpoint changes from Expanded Arsenal, many elite clan mechs have had their hardpoint totals reduced. See the [Expanded Arsenal changelog](https://github.com/hongooi73/ExpandedArsenal/blob/main/changelog.md) for more information.
+- Conversely, some S-tier mechs (mostly Inner Sphere ones, but also a few clan mechs) have had their hardpoint totals increased, to make them more competitive. As a guideline, all S-tier assaults should have at least 10 non-support hardpoints, and smaller mechs should have 8.
+
+### Stores
+
+The store system has been reworked to be closer to the vanilla game. Elite Arsenal items are now available on worlds with "Advanced" progression in the following categories:
+
+- Chemicals: missile weapons
+- Electronics: laser weapons, targeting computer, Artemis IV
+- Industrial: machine guns
+- Mining: autocannon
+- Research: PPCs, advanced electronics gear
+- Star League: Gauss weapons
+
+### Other significant changes
+
+- All S-tier mechs now have 75 innate heatsinking, equivalent to having engine double heatsinks plus the 15 bonus for S-tier. This affects only IS mechs (all clan mechs have engine double heatsinks by default).
+- Increase the damage for +/++ clan medium and large pulse lasers.
+- All upgraded Gauss weapons can now explode on a critical hit. This affects the + and ++heavy Gauss, and all HAGs.
+- Add elite versions of the Target Acquisition contracts.
 
 
 ## v4.0.0

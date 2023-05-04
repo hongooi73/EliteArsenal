@@ -1,7 +1,7 @@
 {
     "Name": "Elite Arsenal",
     "Enabled": true,
-    "Version": "4.0.0",
+    "Version": "5.0.0",
     "Description": "Adds elite mechs, missions and upgraded gear to Expanded Arsenal",
     "Author": "Hong Ooi",
     "DependsOn": [
@@ -28,6 +28,11 @@
             "AddToDB": true
         },
         {
+            "Type": "MechDef",
+            "Path": "mech_wob",
+            "AddToDB": true
+        },
+        {
             "Type": "ChassisDef",
             "Path": "chassis",
             "AddToDB": true
@@ -35,6 +40,11 @@
         {
             "Type": "ChassisDef",
             "Path": "chassis_clan",
+            "AddToDB": true
+        },
+        {
+            "Type": "ChassisDef",
+            "Path": "chassis_wob",
             "AddToDB": true
         },
         {
@@ -87,6 +97,22 @@
             "Type": "MechDef",
             "Path": "mech_fp",
             "AddToDB": true
+        },
+        {
+            "Type": "AdvancedJSONMerge",
+            "Path": "contractmerge"
+        },
+        {
+            "Type": "FlashpointDef",
+            "Path": "flashpoints"
+        },
+        {
+            "Type": "SimGameConversations",
+            "Path": "simGameConversations"
+        },
+        {
+            "Type": "SimGameMilestoneSet",
+            "Path": "milestoneSets"
         }
     ]
 }

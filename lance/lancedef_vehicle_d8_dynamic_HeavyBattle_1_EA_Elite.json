@@ -38,7 +38,8 @@
             },
             "excludedUnitTagSet": {
                 "items": [
-                    "unit_noncombatant"
+                    "unit_noncombatant",
+                    "wordofblake_s_tier"
                 ],
                 "tagSetSourceFile": "Tags/UnitTags"
             },

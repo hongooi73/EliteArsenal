@@ -48,7 +48,7 @@
     "encounterPlayStyle": "SinglePlayer",
     "maxNumberOfPlayerUnits": 4,
     "lanceMinTonnage": -1,
-    "lanceMaxTonnage": -1,
+    "lanceMaxTonnage": 400,
     "mechMinTonnages": [
         -1,
         -1,
@@ -839,11 +839,12 @@
                         "lance_type_battle",
                         "lance_type_mech"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-                        "elite_arsenal"
+                        "elite_arsenal",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -1042,11 +1043,12 @@
                         "lance_type_cavalry",
                         "lance_type_notallvehicles"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-                        "elite_arsenal"
+                        "elite_arsenal",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -1244,11 +1246,12 @@
                     "items": [
                         "lance_type_solo"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-                        "elite_arsenal"
+                        "elite_arsenal",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },

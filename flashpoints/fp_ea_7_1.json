@@ -1,0 +1,69 @@
+{
+    "Description" : {
+        "Id" : "fp_ea_7_1",
+        "Name" : "Warzone Gamma",
+        "Details" : "Elite Arsenal flashpoint",
+        "Icon" : null
+    },
+    "Weight" : 10,
+    "InternalName" : "ea_7_1",
+    "PublishState" : "PUBLISHED",
+    "Difficulty" : 7,
+    "Requirements" : [
+        {
+            "Scope" : "Company",
+            "RequirementTags" : {
+                "tagSetSourceFile" : "",
+                "items" : [
+                    "flashpoint_ea_6_1_complete",
+                    "flashpoint_ea_6_2_complete"
+                ]
+            },
+            "ExclusionTags" : {
+                "tagSetSourceFile" : "",
+                "items" : [
+                    "flashpoint_ea_7_1_timeout"
+                ]
+            },
+            "RequirementComparisons" : []
+        }
+    ],
+    "LocationRequirements" : {
+        "Scope" : "Company",
+        "RequirementTags" : {
+            "tagSetSourceFile" : "Tags/CompanyTags",
+            "items" : [
+                "planet_faction_taurian"
+            ]
+        },
+        "ExclusionTags" : {
+            "tagSetSourceFile" : "Tags/PlanetTags",
+            "items" : [
+                "planet_climate_lunar",
+                "planet_climate_mars"
+            ]
+        },
+        "RequirementComparisons" : []
+    },
+    "PotentialEmployers" : [
+        "TaurianConcordat"
+    ],
+    "TargetFaction" : "WordOfBlake",
+    "AllowRefitTime" : false,
+    "FlashpointLength" : "MEDIUM",
+    "Repeatable" : true,
+    "MilestoneSetID" : "ms_fp_ea_7_1",
+    "UseAvailableTimeoutOverride" : true,
+    "AvailableTimeout" : 180,
+    "UseInProgressTimeoutOverride" : true,
+    "InProgressTimeout" : 30,
+    "RewardCollectionID" : "itemCollection_fp_7",
+    "UnitDropTonnageHint" : "None",
+    "LanceDropTonnageHint" : "None",
+    "FlashpointShortDescription" : "The Taurian Concordat is preparing an attack against Word of Blake forces that have occupied a Taurian world.",
+    "FlashpointDescriberCastDefId" : "castDef_DariusDefault",
+    "Tags" : {
+        "tagSetSourceFile" : "tags/FlashpointTags",
+        "items" : []
+    }
+}

@@ -60,7 +60,7 @@
     "encounterPlayStyle": "SinglePlayer",
     "maxNumberOfPlayerUnits": 4,
     "lanceMinTonnage": 280,
-    "lanceMaxTonnage": -1,
+    "lanceMaxTonnage": 400,
     "mechMinTonnages": [
         80,
         80,
@@ -3844,11 +3844,11 @@
                     "items": [
                         "lance_type_battle_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4047,11 +4047,11 @@
                     "items": [
                         "lance_type_battle_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4261,11 +4261,11 @@
                     "items": [
                         "lance_type_battle_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4464,11 +4464,11 @@
                     "items": [
                         "lance_type_battle_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4667,11 +4667,11 @@
                     "items": [
                         "lance_type_cavalry_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4870,11 +4870,11 @@
                     "items": [
                         "lance_type_recon_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5073,11 +5073,11 @@
                     "items": [
                         "lance_type_recon_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5287,11 +5287,11 @@
                     "items": [
                         "lance_type_battle_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5490,11 +5490,11 @@
                     "items": [
                         "lance_type_battle_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5693,11 +5693,11 @@
                     "items": [
                         "lance_type_battle_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5896,11 +5896,11 @@
                     "items": [
                         "lance_type_battle_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6122,11 +6122,11 @@
                     "items": [
                         "lance_type_support_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6325,11 +6325,11 @@
                     "items": [
                         "lance_type_support_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6539,11 +6539,11 @@
                     "items": [
                         "lance_type_support_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6742,11 +6742,11 @@
                     "items": [
                         "lance_type_battle_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
-
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },

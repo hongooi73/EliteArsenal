@@ -26,7 +26,7 @@
     "encounterPlayStyle": "SinglePlayer",
     "maxNumberOfPlayerUnits": 4,
     "lanceMinTonnage": -1,
-    "lanceMaxTonnage": -1,
+    "lanceMaxTonnage": 400,
     "mechMinTonnages": [
         -1,
         -1,
@@ -3810,12 +3810,13 @@
                     "items": [
                         "lance_type_mech_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_convoy",
-                        "lance_type_turret"
+                        "lance_type_turret",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4014,12 +4015,13 @@
                     "items": [
                         "lance_type_mech_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4229,12 +4231,13 @@
                     "items": [
                         "lance_type_solo_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4433,12 +4436,13 @@
                     "items": [
                         "lance_type_notallvehicles_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4637,12 +4641,13 @@
                     "items": [
                         "lance_type_notallvehicles_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -4841,12 +4846,13 @@
                     "items": [
                         "lance_type_notallvehicles_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5045,12 +5051,13 @@
                     "items": [
                         "lance_type_notallvehicles_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5260,12 +5267,13 @@
                     "items": [
                         "lance_type_notallvehicles_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5464,12 +5472,13 @@
                     "items": [
                         "lance_type_notallvehicles_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5668,12 +5677,13 @@
                     "items": [
                         "lance_type_notallvehicles_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -5872,12 +5882,13 @@
                     "items": [
                         "lance_type_notallvehicles_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6099,12 +6110,13 @@
                     "items": [
                         "lance_type_fire_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_convoy",
-                        "lance_type_turret"
+                        "lance_type_turret",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6303,12 +6315,13 @@
                     "items": [
                         "lance_type_cavalry_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_convoy",
-                        "lance_type_turret"
+                        "lance_type_turret",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6518,12 +6531,13 @@
                     "items": [
                         "lance_type_vehicle_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },
@@ -6722,12 +6736,13 @@
                     "items": [
                         "lance_type_mech_elite_arsenal"
                     ],
-                    "tagSetSourceFile": "tags/LanceTags"
+                    "tagSetSourceFile": "mc_force_extended_lance"
                 },
                 "lanceExcludedTagSet": {
                     "items": [
                         "lance_type_turret",
-                        "lance_type_convoy"
+                        "lance_type_convoy",
+                        "elite_arsenal_ss"
                     ],
                     "tagSetSourceFile": "tags/LanceTags"
                 },

@@ -99,10 +99,6 @@
             "AddToDB": true
         },
         {
-            "Type": "AdvancedJSONMerge",
-            "Path": "contractmerge"
-        },
-        {
             "Type": "FlashpointDef",
             "Path": "flashpoints"
         },

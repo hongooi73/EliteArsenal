@@ -1,3 +1,8 @@
+## v5.0.1
+
+- Fix various bugs in mech and chassis defs
+
+
 ## v5.0.0
 
 ### Elite flashpoints
